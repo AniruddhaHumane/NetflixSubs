@@ -131,7 +131,16 @@ function proceedWithSubtitles(videoTitleElement, syncTime) {
         subtitleContainer.style.fontWeight = "bold"
         subtitleContainer.style.textShadow = "1px 1px 2px black"
 
-        document.body.appendChild(subtitleContainer)
+        document.body.appendChild(subtitleContainer);
+
+        document.addEventListener("fullscreenchange", function() {
+            if (document.fullscreenElement) {
+                document.fullscreenElement.appendChild(subtitleContainer);
+            } else {
+                document.body.appendChild(subtitleContainer);
+            }
+        });
+        
 
         // Display subtitles
         const video = document.querySelector('video');
