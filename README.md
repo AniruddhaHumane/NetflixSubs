@@ -1,5 +1,6 @@
 # NetflixSubs
 Automatically Searches for Subs in your local directory and adds them to netflix. 
+You can also sync subs by setting delay timer in the extension. And it is blazing fast!
 
 ## Requirements
 Existing downloaded subtitles:
@@ -18,3 +19,10 @@ Python 3
 7. select the directory of this repository
 8. Adjust the delay in subtiles by using extension options
 9. Enjoy the subs!
+
+# Notes
+- You have to keep the server.py running to see subs
+- If for any reason browser storage doesn't work or gives any errors try refreshing the page! (ctrl+r or ctrl+shift+r)
+- create an issue for any error listed in console logs that are not resolved after refreshing!
+
+### <i>Happy Subs!!</i>
