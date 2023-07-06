@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <title>Netflix Subtitle Loader</title>
+    <!-- Import MaterializeCSS -->
+    <link rel="stylesheet" href="./materialize.css">
+
+    <!-- Custom Styles -->
+    <style>
+
+        /* fallback */
+        @font-face {
+        font-family: 'Material Icons';
+        font-style: normal;
+        font-weight: 400;
+        src: url(https://fonts.gstatic.com/s/materialicons/v140/flUhRq6tzZclQEJ-Vdg-IuiaDsNc.woff2) format('woff2');
+        }
+
+        .material-icons {
+        font-family: 'Material Icons';
+        font-weight: normal;
+        font-style: normal;
+        font-size: 24px;
+        line-height: 1;
+        letter-spacing: normal;
+        text-transform: none;
+        display: inline-block;
+        white-space: nowrap;
+        word-wrap: normal;
+        direction: ltr;
+        -webkit-font-feature-settings: 'liga';
+        font-feature-settings: 'liga';
+        -webkit-font-smoothing: antialiased;
+        }
+
+        body{
+            padding-left: 10%;
+            padding-right: 10%;
+            padding-bottom: 10%;
+            width: 200px;
+        }
+
+        .container{
+            max-width: 100%;
+        }
+
+    </style>
+</head>
+
+<body>
+    <div class="container"><h4>AniSubs</h4></div>
+    <div class="container">
+        <div class="input-field">
+            <input type="number" id="syncTime" class="validate" value="15">
+            <label for="syncTime" class="active">Sync Time</label>
+        </div>
+        <div class="range-field">
+            <input type="range" id="syncTimeSlider" min="0" max="30" value="15" />
+        </div>
+        <button id="apply" class="btn waves-effect waves-light" type="submit" name="action">Apply
+            <i class="material-icons right">send</i>
+        </button>
+    </div>
+    <!-- Materialize.js -->
+    <script src="./materialize.js"></script>
+    <!-- Custom Script -->
+    <script src="popup.js"></script>
+</body>
+
+</html>
