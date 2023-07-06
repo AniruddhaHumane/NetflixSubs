@@ -20,13 +20,6 @@ chrome.runtime.onMessage.addListener((message, sender, sendResponse) => {
         console.log('Refreshing subtitles...');
         chrome.storage.local.get(["syncTime"]).then((result) => {
             console.log("Value currently is " + result.syncTime);
-            
-            // delete existing subs
-            const AniSubsDiv = document.querySelector('div.AniSubs');
-            if(AniSubsDiv){
-                console.log("Existing div found, removing it...")
-                AniSubsDiv.remove()
-            }
 
             const checkVideoTitleInterval = setInterval(() => {
                 const videoTitleElement = document.querySelector('[data-uia="video-title"]');
@@ -99,7 +92,7 @@ function binarySearch(subtitles, currentTime) {
 
 
 function proceedWithSubtitles(videoTitleElement, syncTime) {
-    console.log("Proceeding with subtitles...", syncTime);
+    console.log("Proceeding with subtitles...", videoTitleElement, syncTime);
 
     const episodeId = videoTitleElement.children[2].innerText.slice(-3)
     const subtitleUrl = `http://localhost:19191/${episodeId}.ass`;
@@ -130,10 +123,23 @@ function proceedWithSubtitles(videoTitleElement, syncTime) {
         subtitleContainer.style.webkitTextStroke = "1px black"
         subtitleContainer.style.fontWeight = "bold"
         subtitleContainer.style.textShadow = "1px 1px 2px black"
+        
+        // delete existing subs, if any
+        const AniSubsDiv = document.querySelector('div.AniSubs');
+        if(AniSubsDiv){
+            console.log("Existing div found, removing it...")
+            AniSubsDiv.remove()
+        }
 
         document.body.appendChild(subtitleContainer);
 
         document.addEventListener("fullscreenchange", function() {
+            // delete existing subs
+            const AniSubsDiv = document.querySelector('div.AniSubs');
+            if(AniSubsDiv){
+                console.log("Existing div found, removing it...")
+                AniSubsDiv.remove()
+            }
             if (document.fullscreenElement) {
                 document.fullscreenElement.appendChild(subtitleContainer);
             } else {
