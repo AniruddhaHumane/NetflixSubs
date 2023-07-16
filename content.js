@@ -5,9 +5,11 @@ chrome.storage.local.get('syncTime', (data) => {
     const checkVideoTitleInterval = setInterval(() => {
         const videoTitleElement = document.querySelector('[data-uia="video-title"]');
         if (videoTitleElement && videoTitleElement.children[2]) {
+            const episodeId = videoTitleElement.children[2].innerText.slice(-3)
+            console.log("Eposide_id", videoTitleElement.children[2].innerText, videoTitleElement.children[2].innerText.slice(-3).slice(-3))
             clearInterval(checkVideoTitleInterval);
             console.log('Video title element is present', videoTitleElement.children[2]);
-            proceedWithSubtitles(videoTitleElement, syncTime);
+            proceedWithSubtitles(episodeId, syncTime);
         } else {
             console.log('Video title element is not present yet. Retrying...');
         }
@@ -24,9 +26,11 @@ chrome.runtime.onMessage.addListener((message, sender, sendResponse) => {
             const checkVideoTitleInterval = setInterval(() => {
                 const videoTitleElement = document.querySelector('[data-uia="video-title"]');
                 if (videoTitleElement && videoTitleElement.children[2]) {
+                    const episodeId = videoTitleElement.children[2].innerText.slice(-3)
+                    console.log("Eposide_id ref", videoTitleElement.children[2].innerText, videoTitleElement.children[2].innerText.slice(-3).slice(-3))
                     clearInterval(checkVideoTitleInterval);
                     console.log('Video title element is present', videoTitleElement.children[2]);
-                    proceedWithSubtitles(videoTitleElement, result.syncTime);
+                    proceedWithSubtitles(episodeId, result.syncTime);
                 } else {
                     console.log('Video title element is not present yet. Retrying...');
                 }
@@ -91,10 +95,9 @@ function binarySearch(subtitles, currentTime) {
 }
 
 
-function proceedWithSubtitles(videoTitleElement, syncTime) {
-    console.log("Proceeding with subtitles...", videoTitleElement, syncTime);
+function proceedWithSubtitles(episodeId, syncTime) {
+    console.log("Proceeding with subtitles...", episodeId, syncTime);
 
-    const episodeId = videoTitleElement.children[2].innerText.slice(-3)
     const subtitleUrl = `http://localhost:19191/${episodeId}.ass`;
     console.log("subs loaded: ", subtitleUrl);
 
@@ -118,7 +121,7 @@ function proceedWithSubtitles(videoTitleElement, syncTime) {
         subtitleContainer.style.bottom = '15%';
         subtitleContainer.style.color = 'white';
         subtitleContainer.style.textAlign = 'center';
-        subtitleContainer.style.fontSize = '4em';
+        subtitleContainer.style.fontSize = '6em';
         subtitleContainer.style.fontFamily = "Open Sans"
         subtitleContainer.style.webkitTextStroke = "1px black"
         subtitleContainer.style.fontWeight = "bold"
@@ -131,7 +134,8 @@ function proceedWithSubtitles(videoTitleElement, syncTime) {
             AniSubsDiv.remove()
         }
 
-        document.body.appendChild(subtitleContainer);
+        if(document.querySelector('div.AniSubs') == null)
+            document.body.appendChild(subtitleContainer);
 
         document.addEventListener("fullscreenchange", function() {
             // delete existing subs
@@ -158,13 +162,13 @@ function proceedWithSubtitles(videoTitleElement, syncTime) {
     
             if (index !== -1) {
                 subtitleContainer.innerHTML = subtitles[index].text;
-                // const subSpan = subtitleContainer.children[0]
-                // // console.log("subspan ", subSpan)
-                // subSpan.style.padding = "2px";
-                // subSpan.style.paddingLeft = "10px";
-                // subSpan.style.paddingRight = "10px";
-                // subSpan.style.background = "rgba(0,0,0,0.5)";
-                // subSpan.style.borderRadius = "25px";
+                const subSpan = subtitleContainer.children[0]
+                // console.log("subspan ", subSpan)
+                subSpan.style.padding = "2px";
+                subSpan.style.paddingLeft = "10px";
+                subSpan.style.paddingRight = "10px";
+                subSpan.style.background = "rgba(0,0,0,0.5)";
+                subSpan.style.borderRadius = "25px";
                 // console.log("subtitles[index].text: ", subtitles[index].text)
             } else {
                 subtitleContainer.innerHTML = '';
