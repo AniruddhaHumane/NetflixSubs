@@ -10,7 +10,7 @@
     "content_scripts": [
         {
             "matches": ["*://*.netflix.com/*"],
-            "js": ["content.js"],
+            "js": ["ass.min.js","content.js"],
             "run_at": "document_idle"
         }
     ],
