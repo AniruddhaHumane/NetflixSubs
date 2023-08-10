@@ -9,6 +9,8 @@ Existing downloaded subtitles:
 
 Python 3
 
+https://github.com/SubtitleEdit/subtitleedit/releases
+
 ## Installation
 1. Download a zip of subtitles and extract them 
 2. Clone this repository
@@ -19,6 +21,14 @@ Python 3
 7. select the directory of this repository
 8. Adjust the delay in subtiles by using extension options
 9. Enjoy the subs!
+
+## adjust subs
+1. Install SubtitleEdit
+2. Tools -> Batch Convert
+3. Load all subs
+4. Offset time codes
+5. set your offset for subs
+6. convert all subs!
 
 # Notes
 - You have to keep the server.py running to see subs
