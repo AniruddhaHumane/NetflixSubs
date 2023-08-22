@@ -1,11 +1,10 @@
 # NetflixSubs
-Automatically Searches for Subs in your local directory and adds them to netflix. 
-You can also sync subs by setting delay timer in the extension. And it is blazing fast!
+Automatically Searches for Subs in your local directory and adds them to Netflix. 
 
 ## Requirements
 Existing downloaded subtitles:
 
-> Note that the subs should have following format (Episodenumber.ass) e.g. 234.ass
+> Note that the subs should have the following format (Episodenumber.ass) e.g. 234.ass
 
 Python 3
 
@@ -14,15 +13,15 @@ https://github.com/SubtitleEdit/subtitleedit/releases
 ## Installation
 1. Download a zip of subtitles and extract them 
 2. Clone this repository
-3. Copy `setup.py` to folder that has all the subs
+3. Copy `setup.py` to the folder that has all the subs
 4. run setup.py (double click!)
-5. Go to chromes extensions page
+5. Go to Chrome's extensions page
 6. click on load unpacked
 7. select the directory of this repository
-8. Adjust the delay in subtiles by using extension options
+8. Adjust the delay in subtitles by using extension options
 9. Enjoy the subs!
 
-## adjust subs
+## Adjust subs
 1. Install SubtitleEdit
 2. Tools -> Batch Convert
 3. Load all subs
