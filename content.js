@@ -8,11 +8,8 @@ function createAss(episodeId) {
             
             const loadingTimer = setInterval(() => {
                 let loading = document.getElementsByClassName("nf-loading-spinner")[0];
-                console.log("loading", loading);
                 if (loading === undefined){
-                    clearInterval(loadingTimer);
-                    console.log("loading cleared");
-                        
+                    clearInterval(loadingTimer);                        
                     vv = document.getElementsByTagName('video')[0];
                     const ass = new ASS(text, vv);
                     elem = document.getElementsByClassName("ASS-container")[0];
@@ -60,9 +57,13 @@ function loadsubs(episodeID){
                     chrome.storage.local.set({'episodeID': episodeID}, function() {
                         console.log('episodeID is set to ' + episodeID);
                     });
-                    if(document.getElementsByClassName("ASS-container")[0] === undefined){
-                        createAss(episodeID);
+
+                    let ass = document.getElementsByClassName("ASS-container")[0]
+                    if(ass !== undefined){
+                        ass.destroy();
                     }
+                    createAss(episodeID);
+
                     break;
                 } catch (error) {
                     console.log(`Attempt ${attempts + 1} failed:`, error);
