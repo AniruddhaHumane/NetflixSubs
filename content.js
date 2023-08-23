@@ -1,4 +1,5 @@
 
+let ass = null;
 function createAss(episodeId) {
     const subtitleUrl = `http://localhost:19191/${episodeId}.ass`;
     chrome.storage.local.set({ episodeId: episodeId });
@@ -11,7 +12,9 @@ function createAss(episodeId) {
                 if (loading === undefined){
                     clearInterval(loadingTimer);                        
                     vv = document.getElementsByTagName('video')[0];
-                    const ass = new ASS(text, vv);
+                    if(ass && typeof ass.destroy === 'function')
+                        ass.destroy();
+                    ass = new ASS(text, vv);
                     elem = document.getElementsByClassName("ASS-container")[0];
                     elem.style.height = window.innerHeight;
                     elem.style.width = window.innerWidth;
@@ -47,27 +50,33 @@ function loadsubs(episodeID){
         createAss(episodeID);
     }
     const checkVideoTitleInterval = setInterval(() => {
-        const videoTitleElement = document.querySelector('[data-uia="video-title"]');
-        if (videoTitleElement && videoTitleElement.children[2]) {
+        let videoTitleElement = document.querySelector('[data-uia="video-title"]');
+        if (videoTitleElement && videoTitleElement.children.length > 2 && videoTitleElement.children[2].innerText !== "") {
             attempts = 1
             while (true) {
                 try {
-                    const episodeID = videoTitleElement.children[2].innerText.slice(-3)
+                    let videoTitleElement = document.querySelector('[data-uia="video-title"]');
+                    let episodeID = NaN;
+                    for (let i = 0; i < videoTitleElement.children.length; i++) {
+                        episodeID = videoTitleElement.children[i].innerText.slice(-3)
+                        if (!isNaN(episodeID)) {
+                            break;
+                        }
+                    }
                     clearInterval(checkVideoTitleInterval);
                     chrome.storage.local.set({'episodeID': episodeID}, function() {
                         console.log('episodeID is set to ' + episodeID);
                     });
 
-                    let ass = document.getElementsByClassName("ASS-container")[0]
-                    if(ass !== undefined){
-                        ass.destroy();
-                    }
+                    // let ass = document.getElementsByClassName("ASS-container")[0]
                     createAss(episodeID);
 
                     break;
                 } catch (error) {
                     console.log(`Attempt ${attempts + 1} failed:`, error);
                     attempts++;
+                    if(attempts == 1000)
+                        break
                 }
             }
 
