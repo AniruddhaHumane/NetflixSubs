@@ -1,5 +1,4 @@
-
-let ass = null;
+let ass = null
 function createAss(episodeId) {
     const subtitleUrl = `http://localhost:19191/${episodeId}.ass`;
     chrome.storage.local.set({ episodeId: episodeId });
@@ -12,28 +11,22 @@ function createAss(episodeId) {
                 if (loading === undefined){
                     clearInterval(loadingTimer);                        
                     vv = document.getElementsByTagName('video')[0];
-                    if(ass && typeof ass.destroy === 'function')
-                        ass.destroy();
-                    ass = new ASS(text, vv);
+
+                    subContainer = document.getElementsByClassName('ass-ani')
+                    for(let i=0; i< subContainer.length; i++)
+                        subContainer[i].remove();
+
+                    let divElement = document.createElement('div');
+                    divElement.className = "ass-ani"
+                    let videoElement = document.querySelector('video');
+                    videoElement.insertAdjacentElement('afterend', divElement);
+                    
+                    ass = new ASS(text, vv, { container: document.getElementsByClassName('ass-ani')[0]});
+                    
                     elem = document.getElementsByClassName("ASS-container")[0];
-                    elem.style.height = window.innerHeight;
-                    elem.style.width = window.innerWidth;
-                    vv.style.height = window.innerHeight;
-                    vv.style.width = window.innerWidth;
-                    vv.style.marginLeft = "50%";
-                    vv.style.marginTop = "18.7%";
 
                     document.addEventListener("fullscreenchange", function () {
                         ass.resize();
-                        elem.style.height = window.innerHeight;
-                        elem.style.width = window.innerWidth;
-                        vv.style.height = window.innerHeight;
-                        vv.style.width = window.innerWidth;
-                        if (document.fullscreenElement) {
-                            vv.style.marginTop = "21%";
-                        } else {
-                            vv.style.marginTop = "18.7%";
-                        }
                     });
                     
                 }
