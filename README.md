@@ -21,6 +21,14 @@ https://github.com/SubtitleEdit/subtitleedit/releases
 8. Adjust the delay in subtitles by using extension options
 9. Enjoy the subs!
 
+### Instructions
+
+- Allows users to fetch subs from their local directory and show them on Netflix.
+- Set path inside `server.py` and that's it. 
+
+- You can also create a shortcut on the desktop with respective paths to run it quickly.
+- Even better to keep it in windows startup or crontab!
+
 ## Adjust subs
 1. Install SubtitleEdit
 2. Tools -> Batch Convert
