@@ -1,0 +1,395 @@
+﻿[Script Info]
+Title: English (US)
+Original Script: ToeiAnimation  [http://www.crunchyroll.com/user/ToeiAnimation]
+Original Translation: 
+Original Editing: 
+Original Timing: 
+Synch Point: 
+Script Updated By: 
+Update Details: 
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 640
+PlayResY: 360
+Timer: 0.0000
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name,Fontname,Fontsize,PrimaryColour,SecondaryColour,OutlineColour,BackColour,Bold,Italic,Underline,Strikeout,ScaleX,ScaleY,Spacing,Angle,BorderStyle,Outline,Shadow,Alignment,MarginL,MarginR,MarginV,Encoding
+Style: Default,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,2,0020,0020,0022,0
+Style: OS,Arial,18,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,8,0001,0001,0015,0
+Style: Italics,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,-1,0,0,100,100,0,0,1,2,1,2,0020,0020,0022,0
+Style: On Top,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,8,0020,0020,0022,0
+Style: DefaultLow,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,2,0020,0020,0010,0
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:01.80,0:00:01.78,Default,,0000,0000,0000,,{\i1}I've never seen the end of \Nthe world with my own eyes{\i0}
+Dialogue: 0,0:00:01.80,0:00:07.71,On Top,,0000,0000,0000,,{\i1}kono sekai no hate nante \Nkono me de mita wake janai{\i0}
+Dialogue: 0,0:00:07.73,0:00:07.71,Default,,0000,0000,0000,,{\i1}That's why I start a \Njourney with you, we can!{\i0}
+Dialogue: 0,0:00:07.73,0:00:15.73,On Top,,0000,0000,0000,,{\i1}dakara tabidatsun da kimi to, we can!{\i0}
+Dialogue: 0,0:00:24.91,0:00:24.89,Default,,0000,0000,0000,,{\i1}Traveling from sea to sea{\i0}
+Dialogue: 0,0:00:24.91,0:00:30.06,On Top,,0000,0000,0000,,{\i1}umi kara umi wo mata ni kakete{\i0}
+Dialogue: 0,0:00:30.08,0:00:30.06,Default,,0000,0000,0000,,{\i1}In search of the one-piece treasure{\i0}
+Dialogue: 0,0:00:30.08,0:00:35.61,On Top,,0000,0000,0000,,{\i1}hitotsunagi no takara sagashi ni{\i0}
+Dialogue: 0,0:00:35.63,0:00:35.61,Default,,0000,0000,0000,,{\i1}Despite the fact that \Neveryone laughs and says{\i0}
+Dialogue: 0,0:00:35.63,0:00:40.66,On Top,,0000,0000,0000,,{\i1}sonna no yumemonogatari dato{\i0}
+Dialogue: 0,0:00:40.68,0:00:40.66,Default,,0000,0000,0000,,{\i1}that it's just a fantasy{\i0}
+Dialogue: 0,0:00:40.68,0:00:43.70,On Top,,0000,0000,0000,,{\i1}daremo ga waratteiru kedo{\i0}
+Dialogue: 0,0:00:43.72,0:00:43.70,Default,,0000,0000,0000,,{\i1}A rush of excitement is our only compass{\i0}
+Dialogue: 0,0:00:43.72,0:00:51.33,On Top,,0000,0000,0000,,{\i1}mune no takaburi dake ga rashinban{\i0}
+Dialogue: 0,0:00:51.35,0:00:51.33,Default,,0000,0000,0000,,{\i1}Just keep pretending you know everything{\i0}
+Dialogue: 0,0:00:51.35,0:00:55.04,On Top,,0000,0000,0000,,{\i1}shittakaburi shitero yo{\i0}
+Dialogue: 0,0:00:55.06,0:00:55.04,Default,,0000,0000,0000,,{\i1}Textbooks are just guidebooks{\i0}
+Dialogue: 0,0:00:55.06,0:01:02.01,On Top,,0000,0000,0000,,{\i1}kyoukasho nante sa guidebook{\i0}
+Dialogue: 0,0:01:02.03,0:01:02.01,Default,,0000,0000,0000,,{\i1}Both the rain and our \Ntears will eventually stop{\i0}
+Dialogue: 0,0:01:02.03,0:01:04.68,On Top,,0000,0000,0000,,{\i1}ame mo namida mo itsuka wa yamu{\i0}
+Dialogue: 0,0:01:04.70,0:01:04.68,Default,,0000,0000,0000,,{\i1}Hold up your head, pull up anchor{\i0}
+Dialogue: 0,0:01:04.70,0:01:07.68,On Top,,0000,0000,0000,,{\i1}kao wo agero ikari wo agero{\i0}
+Dialogue: 0,0:01:07.70,0:01:07.68,Default,,0000,0000,0000,,{\i1}Once the storm in your heart subsides{\i0}
+Dialogue: 0,0:01:07.70,0:01:10.39,On Top,,0000,0000,0000,,{\i1}kokoro no arashi ga sugita nara{\i0}
+Dialogue: 0,0:01:10.41,0:01:10.39,Default,,0000,0000,0000,,{\i1}Take the helm, now, win a victory{\i0}
+Dialogue: 0,0:01:10.41,0:01:12.94,On Top,,0000,0000,0000,,{\i1}kajitore saa kachitore{\i0}
+Dialogue: 0,0:01:12.96,0:01:12.94,Default,,0000,0000,0000,,{\i1}By the time tomorrow's wind blows{\i0}
+Dialogue: 0,0:01:12.96,0:01:15.65,On Top,,0000,0000,0000,,{\i1}ashita no kaze ga fuku koro niwa{\i0}
+Dialogue: 0,0:01:15.67,0:01:15.65,Default,,0000,0000,0000,,{\i1}Get refreshed, spread sail, chest out{\i0}
+Dialogue: 0,0:01:15.67,0:01:18.40,On Top,,0000,0000,0000,,{\i1}harebare ho wo hare mune wo hare{\i0}
+Dialogue: 0,0:01:18.42,0:01:18.40,Default,,0000,0000,0000,,{\i1}It makes me long to see someone{\i0}
+Dialogue: 0,0:01:18.42,0:01:20.74,On Top,,0000,0000,0000,,{\i1}dareka ni aitakunarun da{\i0}
+Dialogue: 0,0:01:20.76,0:01:20.74,Default,,0000,0000,0000,,{\i1}There are tons of unimaginable truth{\i0}
+Dialogue: 0,0:01:20.76,0:01:28.66,On Top,,0000,0000,0000,,{\i1}souzou tsukanai koto bakari daro{\i0}
+Dialogue: 0,0:01:28.68,0:01:28.66,Default,,0000,0000,0000,,{\i1}Don't turn a blind eye{\i0}
+Dialogue: 0,0:01:28.68,0:01:32.29,On Top,,0000,0000,0000,,{\i1}miteminufuri suruna yo{\i0}
+Dialogue: 0,0:01:32.31,0:01:32.29,Default,,0000,0000,0000,,{\i1}Common sense is just the mind of the masses{\i0}
+Dialogue: 0,0:01:32.31,0:01:40.31,On Top,,0000,0000,0000,,{\i1}joushiki nante sa tasuuketsu{\i0}
+Dialogue: 0,0:01:40.69,0:01:40.67,Default,,0000,0000,0000,,{\i1}I've never seen the end of \Nthe world with my own eyes{\i0}
+Dialogue: 0,0:01:40.69,0:01:46.35,On Top,,0000,0000,0000,,{\i1}kono sekai no hate nante \Nkono me de mita wake janai{\i0}
+Dialogue: 0,0:01:46.37,0:01:46.35,Default,,0000,0000,0000,,{\i1}That's why we've got to go, \NCaptain Live-By-My-Own-Rules{\i0}
+Dialogue: 0,0:01:46.37,0:01:51.27,On Top,,0000,0000,0000,,{\i1}dakara ikou ze amano jack senchou{\i0}
+Dialogue: 0,0:01:51.29,0:01:51.27,Default,,0000,0000,0000,,{\i1}Who says it's impossible? \NNothing has started yet{\i0}
+Dialogue: 0,0:01:51.29,0:01:57.06,On Top,,0000,0000,0000,,{\i1}dekiyashinai koto tte nani? \Nmada nani mo hajimatte nai{\i0}
+Dialogue: 0,0:01:57.08,0:01:57.06,Default,,0000,0000,0000,,{\i1}I want to know everything now, yes, we can!{\i0}
+Dialogue: 0,0:01:57.08,0:02:01.99,On Top,,0000,0000,0000,,{\i1}subete shiritain da ima, yes, we can!{\i0}
+Dialogue: 0,0:02:02.01,0:02:01.99,Default,,0000,0000,0000,,{\i1}Yes, we can! You can!{\i0}
+Dialogue: 0,0:02:02.01,0:02:05.03,On Top,,0000,0000,0000,,{\i1}Yes, we can! You can!{\i0}
+Dialogue: 0,0:02:05.05,0:02:05.03,Default,,0000,0000,0000,,{\i1}This moment{\i0}
+Dialogue: 0,0:02:05.05,0:02:08.08,On Top,,0000,0000,0000,,{\i1}kono shunkan{\i0}
+Dialogue: 0,0:02:08.10,0:02:08.08,Default,,0000,0000,0000,,{\i1}We can! I can!{\i0}
+Dialogue: 0,0:02:08.10,0:02:11.00,On Top,,0000,0000,0000,,{\i1}We can! I can!{\i0}
+Dialogue: 0,0:02:11.02,0:02:11.00,Default,,0000,0000,0000,,{\i1}This great feeling{\i0}
+Dialogue: 0,0:02:11.02,0:02:13.41,On Top,,0000,0000,0000,,{\i1}kono kaikan{\i0}
+Dialogue: 0,0:02:13.43,0:02:13.41,Default,,0000,0000,0000,,{\i1}Now, now, yes, we can!{\i0}
+Dialogue: 0,0:02:13.43,0:02:21.43,On Top,,0000,0000,0000,,{\i1}ima ima, yes, we can!{\i0}
+Dialogue: 0,0:02:26.66,0:02:26.64,Default,,0000,0000,0000,,{\i1}Yes, we can!{\i0}
+Dialogue: 0,0:02:26.66,0:02:32.77,On Top,,0000,0000,0000,,{\i1}Yes, we can!{\i0}
+Dialogue: 0,0:02:32.79,0:02:36.31,Default,,0000,0000,0000,,{\i1}The goal is the last island - Raftel{\i0}
+Dialogue: 0,0:02:36.33,0:02:41.69,Default,,0000,0000,0000,,{\i1}and the Great Treasure of One Piece!{\i0}
+Dialogue: 0,0:02:41.71,0:02:45.15,Default,,0000,0000,0000,,{\i1}However, no one has ever reached\Nthe legendary island...{\i0}
+Dialogue: 0,0:02:45.17,0:02:49.91,Default,,0000,0000,0000,,{\i1}...except for Gold Roger, \NKing of the Pirates.{\i0}
+Dialogue: 0,0:02:49.93,0:02:52.33,Default,,0000,0000,0000,,{\i1}It is the Great Pirate Era.{\i0}
+Dialogue: 0,0:02:52.35,0:02:56.75,Default,,0000,0000,0000,,{\i1}While the monsters of the New World\Nfight each other fiercely,{\i0}
+Dialogue: 0,0:02:56.77,0:03:02.55,Default,,0000,0000,0000,,{\i1}the Straw Hat Pirates are\Nin the center of the storm!{\i0}
+Dialogue: 0,0:03:02.57,0:03:05.68,Default,,0000,0000,0000,,{\i1}Their captain is a rubber man\Nwho ate the Gum-Gum Fruit.{\i0}
+Dialogue: 0,0:03:05.70,0:03:08.43,Default,,0000,0000,0000,,{\i1}Monkey D. Luffy!{\i0}
+Dialogue: 0,0:03:08.45,0:03:09.64,Default,,0000,0000,0000,,{\i1}Zoro!{\i0}
+Dialogue: 0,0:03:09.66,0:03:10.85,Default,,0000,0000,0000,,{\i1}Nami!{\i0}
+Dialogue: 0,0:03:10.87,0:03:12.06,Default,,0000,0000,0000,,{\i1}Usopp!{\i0}
+Dialogue: 0,0:03:12.08,0:03:13.39,Default,,0000,0000,0000,,{\i1}Sanji!{\i0}
+Dialogue: 0,0:03:13.41,0:03:14.64,Default,,0000,0000,0000,,{\i1}Chopper!{\i0}
+Dialogue: 0,0:03:14.66,0:03:15.77,Default,,0000,0000,0000,,{\i1}Robin!{\i0}
+Dialogue: 0,0:03:15.79,0:03:17.06,Default,,0000,0000,0000,,{\i1}Franky!{\i0}
+Dialogue: 0,0:03:17.08,0:03:18.52,Default,,0000,0000,0000,,{\i1}Brook!{\i0}
+Dialogue: 0,0:03:18.54,0:03:21.77,Default,,0000,0000,0000,,{\i1}This tight-knit group of nine pirates...{\i0}
+Dialogue: 0,0:03:21.79,0:03:23.68,Default,,0000,0000,0000,,{\i1}...are making their way through the vast sea
+Dialogue: 0,0:03:23.70,0:03:26.86,Default,,0000,0000,0000,,with their sights set on the One Piece!{\i0}
+Dialogue: 0,0:03:26.88,0:03:34.62,Default,,0000,0000,0000,,I'm gonna become the King of the Pirates!
+Dialogue: 0,0:03:34.64,0:03:40.29,Italics,,0000,0000,0000,,{\i1}Sanji, the cook of the Straw Hats,\Nsuddenly left his friends behind.{\i0}
+Dialogue: 0,0:03:40.31,0:03:47.13,Italics,,0000,0000,0000,,{\i1}He was being pressed into marrying\NEmperor Big Mom's daughter.{\i0}
+Dialogue: 0,0:03:47.15,0:03:49.97,Italics,,0000,0000,0000,,{\i1}Split up temporarily from \NZoro and the others,{\i0}
+Dialogue: 0,0:03:49.99,0:03:51.72,Italics,,0000,0000,0000,,{\i1}Luffy's team is heading for the
+Dialogue: 0,0:03:51.74,0:03:55.81,Italics,,0000,0000,0000,,Whole Cake Island where Big \NMom waits to take back Sanji!{\i0}
+Dialogue: 0,0:03:55.83,0:03:59.06,Default,,0000,0000,0000,,{\i1}They came across Germa 66's ship{\i0}
+Dialogue: 0,0:03:59.08,0:04:07.08,Default,,0000,0000,0000,,{\i1}and met Sanji's siblings, Yonji and Reiju.{\i0}
+Dialogue: 0,0:04:12.05,0:04:16.79,Default,,0000,0000,0000,,The rash on Luffy's body is all gone!
+Dialogue: 0,0:04:16.81,0:04:18.50,Default,,0000,0000,0000,,It was delicious!
+Dialogue: 0,0:04:18.52,0:04:22.21,Default,,0000,0000,0000,,Sanji's sister!
+Dialogue: 0,0:04:22.23,0:04:25.30,Default,,0000,0000,0000,,Thank you for saving my life.
+Dialogue: 0,0:04:25.32,0:04:28.05,Default,,0000,0000,0000,,But...
+Dialogue: 0,0:04:28.07,0:04:36.07,Default,,0000,0000,0000,,I still want Sanji back! He's my friend!
+Dialogue: 0,0:04:40.79,0:04:44.19,Default,,0000,0000,0000,,Look at that!
+Dialogue: 0,0:04:44.21,0:04:46.90,Default,,0000,0000,0000,,Bricks and houses and everything...\NThey're all...
+Dialogue: 0,0:04:46.92,0:04:49.27,Default,,0000,0000,0000,,...made of chocolate!
+Dialogue: 0,0:04:49.29,0:04:55.37,Default,,0000,0000,0000,,A chocolate town!
+Dialogue: 0,0:04:55.39,0:05:03.39,Default,,0000,0000,0000,,{\i1}"Totto Land!\NEmperor Big Mom Appears!"{\i0}
+Dialogue: 0,0:05:13.45,0:05:18.56,Default,,0000,0000,0000,,Wow! There are so many kinds \Nof people and animals!
+Dialogue: 0,0:05:18.58,0:05:22.40,Default,,0000,0000,0000,,What the...! What the...!\NWhat's with this town?!
+Dialogue: 0,0:05:22.42,0:05:26.00,Default,,0000,0000,0000,,There are tons of chocolate and candies!
+Dialogue: 0,0:05:26.02,0:05:30.44,Default,,0000,0000,0000,,What should I try first?!\NWhat should I do?!
+Dialogue: 0,0:05:30.46,0:05:31.86,Default,,0000,0000,0000,,Chopper!
+Dialogue: 0,0:05:31.88,0:05:36.74,Default,,0000,0000,0000,,Look! Chocolate is pouring out!
+Dialogue: 0,0:05:36.76,0:05:40.56,Default,,0000,0000,0000,,Oh, I knew you wanted to start \Nwith the fountain of chocolate!
+Dialogue: 0,0:05:40.58,0:05:48.58,Default,,0000,0000,0000,,The chocolate spout!
+Dialogue: 0,0:05:54.16,0:05:56.60,Default,,0000,0000,0000,,So sweet!
+Dialogue: 0,0:05:56.62,0:06:01.02,Default,,0000,0000,0000,,What's with this chocolate?\NIt's unbelievably good!
+Dialogue: 0,0:06:01.04,0:06:04.94,Default,,0000,0000,0000,,I can't stop!
+Dialogue: 0,0:06:04.96,0:06:05.98,On Top,,0000,0000,0000,,CHOCOLATE BATHHOUSE
+Dialogue: 0,0:06:06.00,0:06:07.90,Default,,0000,0000,0000,,"Chocolate Bathhouse"?!
+Dialogue: 0,0:06:07.92,0:06:09.47,Default,,0000,0000,0000,,A chocolate bath?!
+Dialogue: 0,0:06:09.49,0:06:13.74,Default,,0000,0000,0000,,Can you really get cleaned \Nup? But I wanna try!
+Dialogue: 0,0:06:13.76,0:06:19.63,Default,,0000,0000,0000,,--Chocolate clothes?!\N--Can you eat them?!
+Dialogue: 0,0:06:19.65,0:06:21.99,Default,,0000,0000,0000,,He's eating it!
+Dialogue: 0,0:06:22.01,0:06:24.47,Default,,0000,0000,0000,,Chocolate instruments?!
+Dialogue: 0,0:06:24.49,0:06:27.03,Default,,0000,0000,0000,,Chocolate clocks?!
+Dialogue: 0,0:06:27.05,0:06:29.25,Default,,0000,0000,0000,,Chocolate fireworks?!
+Dialogue: 0,0:06:29.27,0:06:32.92,Default,,0000,0000,0000,,You set off chocolate?!
+Dialogue: 0,0:06:32.94,0:06:38.30,Default,,0000,0000,0000,,--So interesting!\N--It's a paradise!
+Dialogue: 0,0:06:38.32,0:06:39.80,Default,,0000,0000,0000,,What is it, Chopper?
+Dialogue: 0,0:06:39.82,0:06:42.21,Default,,0000,0000,0000,,I smell something really delicious!
+Dialogue: 0,0:06:42.23,0:06:50.15,Default,,0000,0000,0000,,What?! Let's go!
+Dialogue: 0,0:06:50.17,0:06:56.61,Default,,0000,0000,0000,,I managed to cover for us\Nbut we should not stay long. Grr!
+Dialogue: 0,0:06:56.63,0:07:04.29,Default,,0000,0000,0000,,We gotta do what we have to do and just go...
+Dialogue: 0,0:07:04.31,0:07:12.31,Default,,0000,0000,0000,,Are you done?
+Dialogue: 0,0:07:13.61,0:07:16.09,Default,,0000,0000,0000,,Wow! This is cute!
+Dialogue: 0,0:07:16.11,0:07:18.47,Default,,0000,0000,0000,,Oh, Nami, you look great!
+Dialogue: 0,0:07:18.49,0:07:21.39,Default,,0000,0000,0000,,Thanks!
+Dialogue: 0,0:07:21.41,0:07:27.06,Default,,0000,0000,0000,,Hey, look! My costume looks \Nquite nice too, right?
+Dialogue: 0,0:07:27.08,0:07:33.11,Default,,0000,0000,0000,,Yeah, that's really gorgeous!
+Dialogue: 0,0:07:33.13,0:07:38.61,Default,,0000,0000,0000,,How's this?\NDo I look like a pirate, Broo...
+Dialogue: 0,0:07:38.63,0:07:46.33,Default,,0000,0000,0000,,What?
+Dialogue: 0,0:07:46.35,0:07:49.71,Default,,0000,0000,0000,,Do you want more?
+Dialogue: 0,0:07:49.73,0:07:55.09,Default,,0000,0000,0000,,It's gonna take one more day to\Nget to the Whole Cake Island where Sanji is.
+Dialogue: 0,0:07:55.11,0:07:57.26,Default,,0000,0000,0000,,Go food shopping.
+Dialogue: 0,0:07:57.28,0:08:00.71,Default,,0000,0000,0000,,Okay! Yay!
+Dialogue: 0,0:08:00.73,0:08:04.56,Default,,0000,0000,0000,,I can't wait!\NI wonder what kind of place it is!
+Dialogue: 0,0:08:04.58,0:08:08.56,Default,,0000,0000,0000,,Pedro, do you have binoculars?!
+Dialogue: 0,0:08:08.58,0:08:11.69,Default,,0000,0000,0000,,Thanks! Let's see...
+Dialogue: 0,0:08:11.71,0:08:16.94,Default,,0000,0000,0000,,Wow! It's so diverse here, Pekoms!
+Dialogue: 0,0:08:16.96,0:08:20.83,Default,,0000,0000,0000,,I see Minks, too!\NIt's like a wonderland!
+Dialogue: 0,0:08:20.85,0:08:25.17,Default,,0000,0000,0000,,Yes, that's exactly what \NMama's dream is about.
+Dialogue: 0,0:08:25.19,0:08:32.56,Default,,0000,0000,0000,,Humans, Minks, Fish-men,\NLongarms, Longlegs, Dwarves...
+Dialogue: 0,0:08:32.58,0:08:37.01,Default,,0000,0000,0000,,A country where all races in the world\Ncan live together without discrimination.
+Dialogue: 0,0:08:37.03,0:08:41.01,Default,,0000,0000,0000,,No, I mean everything in the world!
+Dialogue: 0,0:08:41.03,0:08:42.98,Default,,0000,0000,0000,,Everything in the world?
+Dialogue: 0,0:08:43.00,0:08:48.98,Default,,0000,0000,0000,,Yes, that's Mama's ideal world, Totto Land!
+Dialogue: 0,0:08:49.00,0:08:50.09,On Top,,0000,0000,0000,,TOTTO LAND
+Dialogue: 0,0:08:50.11,0:08:53.21,Default,,0000,0000,0000,,Realize you're already deep \Ninto a great territory!
+Dialogue: 0,0:08:53.23,0:08:57.32,Default,,0000,0000,0000,,This island is Cacao Island\Nrun by the Minister of Chocolate.
+Dialogue: 0,0:08:57.34,0:09:00.09,Default,,0000,0000,0000,,The name of the town is Chocolat Town!
+Dialogue: 0,0:09:00.11,0:09:03.62,Default,,0000,0000,0000,,Chocolat Town?! What a wonderful name!
+Dialogue: 0,0:09:03.64,0:09:06.17,Default,,0000,0000,0000,,Everything in this town is made of chocolate.
+Dialogue: 0,0:09:06.19,0:09:10.05,Default,,0000,0000,0000,,What?! I love chocolate!\NAm I allowed to eat it?!
+Dialogue: 0,0:09:10.07,0:09:14.65,Default,,0000,0000,0000,,Grr! In this town,\Nyou can eat chocolate all you like!
+Dialogue: 0,0:09:14.67,0:09:15.74,Default,,0000,0000,0000,,Yes!
+Dialogue: 0,0:09:15.76,0:09:17.46,Default,,0000,0000,0000,,But be careful!
+Dialogue: 0,0:09:17.48,0:09:20.02,Default,,0000,0000,0000,,It's against the law to eat \Nthe roof-tile chocolates.
+Dialogue: 0,0:09:20.04,0:09:22.55,Default,,0000,0000,0000,,Because they won't be able \Nto keep off rain or snow.
+Dialogue: 0,0:09:22.57,0:09:24.49,Default,,0000,0000,0000,,Window glass is the Minister \Nof Candy's jurisdiction
+Dialogue: 0,0:09:24.51,0:09:27.44,Default,,0000,0000,0000,,and construction posts are \Nthe Minister of Biscuit's.
+Dialogue: 0,0:09:27.46,0:09:32.98,Default,,0000,0000,0000,,And everything else other than chocolate is\Nprivate or public property.
+Dialogue: 0,0:09:33.00,0:09:34.82,Default,,0000,0000,0000,,Looks delicious...
+Dialogue: 0,0:09:34.84,0:09:36.84,Default,,0000,0000,0000,,Hey! Were you listening?!
+Dialogue: 0,0:09:36.86,0:09:39.80,Default,,0000,0000,0000,,I couldn't understand at all.
+Dialogue: 0,0:09:39.82,0:09:43.39,Default,,0000,0000,0000,,Say, are their panties \Nalso made of chocolate?
+Dialogue: 0,0:09:43.41,0:09:46.16,Default,,0000,0000,0000,,Of course, they are.
+Dialogue: 0,0:09:46.18,0:09:50.50,Default,,0000,0000,0000,,I can't wait to see chocolate panties!
+Dialogue: 0,0:09:50.52,0:09:53.27,Default,,0000,0000,0000,,We're not here to take a break.
+Dialogue: 0,0:09:53.29,0:09:57.25,Default,,0000,0000,0000,,Come back as soon as you \Nfinish food shopping. Grr!
+Dialogue: 0,0:09:57.27,0:09:58.73,Default,,0000,0000,0000,,Okay!
+Dialogue: 0,0:09:58.75,0:10:01.47,Default,,0000,0000,0000,,Brook, you gotta get changed already.
+Dialogue: 0,0:10:01.49,0:10:02.45,Default,,0000,0000,0000,,Okay...
+Dialogue: 0,0:10:02.47,0:10:07.33,Default,,0000,0000,0000,,I'll stay in the ship since they know my face\Nbut I love chocolate.
+Dialogue: 0,0:10:07.35,0:10:08.74,Default,,0000,0000,0000,,Get me some!
+Dialogue: 0,0:10:08.76,0:10:16.19,Default,,0000,0000,0000,,Okay!
+Dialogue: 0,0:10:16.21,0:10:18.01,Default,,0000,0000,0000,,Hey, Straw Hat!
+Dialogue: 0,0:10:18.03,0:10:21.18,Default,,0000,0000,0000,,If you're gonna go,\Nstop wasting your time and put on your disguise...
+Dialogue: 0,0:10:21.20,0:10:23.57,Default,,0000,0000,0000,,Luffy and Chopper have \Nalready gone to the town.
+Dialogue: 0,0:10:23.59,0:10:24.47,Default,,0000,0000,0000,,What?!
+Dialogue: 0,0:10:24.49,0:10:27.51,Default,,0000,0000,0000,,Hey, what do you think will \Nhappen if they find out
+Dialogue: 0,0:10:27.53,0:10:29.30,Default,,0000,0000,0000,,I brought you guys here?!
+Dialogue: 0,0:10:29.32,0:10:30.95,Default,,0000,0000,0000,,Act cautiously!
+Dialogue: 0,0:10:30.97,0:10:37.29,Default,,0000,0000,0000,,Don't worry!\NWe'll know where they are soon.
+Dialogue: 0,0:10:37.31,0:10:39.53,Default,,0000,0000,0000,,Somebody ate a cafe!
+Dialogue: 0,0:10:39.55,0:10:40.34,Default,,0000,0000,0000,,There they are!
+Dialogue: 0,0:10:40.36,0:10:48.36,Default,,0000,0000,0000,,Screw you!
+Dialogue: 0,0:11:00.46,0:11:03.90,Default,,0000,0000,0000,,If it were just the chocolate \Nwalls they could be put back later
+Dialogue: 0,0:11:03.92,0:11:11.92,Default,,0000,0000,0000,,but the whole cafe is gone!
+Dialogue: 0,0:11:13.43,0:11:20.47,Default,,0000,0000,0000,,You guys messed with candies,\Nmarshmallows, almonds and jelly beans!
+Dialogue: 0,0:11:20.49,0:11:24.26,Default,,0000,0000,0000,,That's a crime of Snackalism!\NI need to question you!
+Dialogue: 0,0:11:24.28,0:11:26.68,Default,,0000,0000,0000,,Come to the station with me!
+Dialogue: 0,0:11:26.70,0:11:31.51,Default,,0000,0000,0000,,But, old man,\Nthere is a good reason for this.
+Dialogue: 0,0:11:31.53,0:11:33.49,Default,,0000,0000,0000,,Yeah? Out with it!
+Dialogue: 0,0:11:33.51,0:11:35.12,Default,,0000,0000,0000,,It was too delicious!
+Dialogue: 0,0:11:35.14,0:11:41.27,Default,,0000,0000,0000,,Okay, well said, idiots!\NCome with me!
+Dialogue: 0,0:11:41.29,0:11:43.33,Default,,0000,0000,0000,,Oh, no! They're gonna get arrested!
+Dialogue: 0,0:11:43.35,0:11:46.36,Default,,0000,0000,0000,,Don't make a scene, Pedro-{\i1}san{\i0}!
+Dialogue: 0,0:11:46.38,0:11:54.38,Default,,0000,0000,0000,,Wait, Chocopolice-{\i1}san{\i0}!
+Dialogue: 0,0:11:54.80,0:11:56.37,Default,,0000,0000,0000,,Nami! This way!
+Dialogue: 0,0:11:56.39,0:11:58.08,Default,,0000,0000,0000,,Wait!
+Dialogue: 0,0:11:58.10,0:12:06.10,Default,,0000,0000,0000,,They're in trouble! What should we do?!
+Dialogue: 0,0:12:12.37,0:12:15.16,Default,,0000,0000,0000,,What was that?
+Dialogue: 0,0:12:15.18,0:12:16.62,Default,,0000,0000,0000,,Is that...
+Dialogue: 0,0:12:16.64,0:12:18.23,Default,,0000,0000,0000,,A carpet?
+Dialogue: 0,0:12:18.25,0:12:21.41,Default,,0000,0000,0000,,{\i1}Carpet! Carpet!{\i0}
+Dialogue: 0,0:12:21.43,0:12:23.17,Default,,0000,0000,0000,,The carpet is flying...
+Dialogue: 0,0:12:23.19,0:12:28.71,Default,,0000,0000,0000,,{\i1}Carpet! Carpet!{\i0}
+Dialogue: 0,0:12:28.73,0:12:31.17,Default,,0000,0000,0000,,Oh, you're the... owner!
+Dialogue: 0,0:12:31.19,0:12:36.91,Default,,0000,0000,0000,,Oh, more trouble!\NThe owner of the cafe came!
+Dialogue: 0,0:12:36.93,0:12:40.63,Default,,0000,0000,0000,,Look what they've done to your cafe!
+Dialogue: 0,0:12:40.65,0:12:47.97,Default,,0000,0000,0000,,Oh, no!
+Dialogue: 0,0:12:47.99,0:12:55.99,Default,,0000,0000,0000,,I can't believe this!
+Dialogue: 0,0:13:14.39,0:13:17.87,DefaultLow,,0000,0000,0000,,THE OWNER OF CAFE "CARAMEL"
+Dialogue: 0,0:13:17.89,0:13:20.87,DefaultLow,,0000,0000,0000,,NITRO THE JELLY
+Dialogue: 0,0:13:20.89,0:13:23.88,DefaultLow,,0000,0000,0000,,RABIAN THE CARPET
+Dialogue: 0,0:13:23.90,0:13:30.34,Default,,0000,0000,0000,,How could you leave this much?\NThis isn't what we agreed to! Gee!
+Dialogue: 0,0:13:30.36,0:13:38.36,Default,,0000,0000,0000,,You have to finish it properly!
+Dialogue: 0,0:13:40.08,0:13:41.89,Default,,0000,0000,0000,,Hey, do you know her?
+Dialogue: 0,0:13:41.91,0:13:44.61,Default,,0000,0000,0000,,No, I don't. Who is it?
+Dialogue: 0,0:13:44.63,0:13:47.02,Default,,0000,0000,0000,,And what's that thing on her shoulder?
+Dialogue: 0,0:13:47.04,0:13:52.78,Default,,0000,0000,0000,,I thought the combination of jam and biscuits\Nand chocolate here was delicious!
+Dialogue: 0,0:13:52.80,0:14:00.80,Default,,0000,0000,0000,,Oh, flying carpet! Wait!
+Dialogue: 0,0:14:01.60,0:14:03.61,Default,,0000,0000,0000,,Oh, no. I can't get up.
+Dialogue: 0,0:14:03.63,0:14:11.63,Default,,0000,0000,0000,,What are you doing?
+Dialogue: 0,0:14:12.90,0:14:20.90,Default,,0000,0000,0000,,Here! Try this!
+Dialogue: 0,0:14:22.00,0:14:23.23,Default,,0000,0000,0000,,How is it?
+Dialogue: 0,0:14:23.25,0:14:26.97,Default,,0000,0000,0000,,It's good!
+Dialogue: 0,0:14:26.99,0:14:29.53,Default,,0000,0000,0000,,Chocopolice-{\i1}san{\i0}, I'm sorry.
+Dialogue: 0,0:14:29.55,0:14:32.26,Default,,0000,0000,0000,,The cafe will be expired soon
+Dialogue: 0,0:14:32.28,0:14:35.06,Default,,0000,0000,0000,,so I asked them to eat the whole building!
+Dialogue: 0,0:14:35.08,0:14:39.41,Default,,0000,0000,0000,,Oh, pardon me! I didn't know \Nthey were a demolition crew!
+Dialogue: 0,0:14:39.43,0:14:41.71,Default,,0000,0000,0000,,Come on, guys!
+Dialogue: 0,0:14:41.73,0:14:44.52,Default,,0000,0000,0000,,You should've had a sign out\Nwhen you were working.
+Dialogue: 0,0:14:44.54,0:14:46.35,Default,,0000,0000,0000,,There were still some customers, too.
+Dialogue: 0,0:14:46.37,0:14:49.00,Default,,0000,0000,0000,,Well then, if you'll excuse me.
+Dialogue: 0,0:14:49.02,0:14:54.10,Default,,0000,0000,0000,,Yes, thank you!\NAnd I'm sorry to disturb you, everyone!
+Dialogue: 0,0:14:54.12,0:14:56.48,Default,,0000,0000,0000,,So it was nothing serious.
+Dialogue: 0,0:14:56.50,0:14:58.64,Default,,0000,0000,0000,,Oh, we were so worried.
+Dialogue: 0,0:14:58.66,0:15:01.40,Default,,0000,0000,0000,,Oh, yeah!
+Dialogue: 0,0:15:01.42,0:15:05.23,Default,,0000,0000,0000,,Congratulations on getting married,\NPudding-{\i1}sama{\i0}!
+Dialogue: 0,0:15:05.25,0:15:07.70,Default,,0000,0000,0000,,Your wedding day is approaching\Nand you're checking in on your cafe?
+Dialogue: 0,0:15:07.72,0:15:09.41,Default,,0000,0000,0000,,Don't work too much.
+Dialogue: 0,0:15:09.43,0:15:13.07,Default,,0000,0000,0000,,We all wish for your happiness!
+Dialogue: 0,0:15:13.09,0:15:15.53,Default,,0000,0000,0000,,Thank you!
+Dialogue: 0,0:15:15.55,0:15:18.54,Default,,0000,0000,0000,,She saved Luffy and Chopper.
+Dialogue: 0,0:15:18.56,0:15:21.45,Default,,0000,0000,0000,,She's so kind. I wonder who it is.
+Dialogue: 0,0:15:21.47,0:15:24.11,Default,,0000,0000,0000,,They're so lucky!
+Dialogue: 0,0:15:24.13,0:15:27.59,Default,,0000,0000,0000,,This is how fortune favors \Nthe Pirate King to-be.
+Dialogue: 0,0:15:27.61,0:15:29.19,Default,,0000,0000,0000,,Oh?
+Dialogue: 0,0:15:29.21,0:15:32.42,Default,,0000,0000,0000,,Captain Pedro?!
+Dialogue: 0,0:15:32.44,0:15:36.80,Default,,0000,0000,0000,,You're Captain Pedro, aren't you?!\NI thought so! It's been a while!
+Dialogue: 0,0:15:36.82,0:15:38.91,Default,,0000,0000,0000,,Why are you here?
+Dialogue: 0,0:15:38.93,0:15:41.72,Default,,0000,0000,0000,,I'm here for sightseeing. Don't tell anyone.
+Dialogue: 0,0:15:41.74,0:15:46.10,Default,,0000,0000,0000,,O-Okay. It's a pleasure to see you.
+Dialogue: 0,0:15:46.12,0:15:49.77,Default,,0000,0000,0000,,You know people in this town, Pedro?
+Dialogue: 0,0:15:49.79,0:15:52.69,Default,,0000,0000,0000,,I'll tell you later.
+Dialogue: 0,0:15:52.71,0:16:00.71,Default,,0000,0000,0000,,Pedro?
+Dialogue: 0,0:16:06.06,0:16:08.40,Default,,0000,0000,0000,,The wall chocolate is good!
+Dialogue: 0,0:16:08.42,0:16:14.42,Default,,0000,0000,0000,,I want it! I want it!
+Dialogue: 0,0:16:14.44,0:16:22.44,Default,,0000,0000,0000,,Hey, guys, how much can you eat?
+Dialogue: 0,0:16:23.74,0:16:30.40,Default,,0000,0000,0000,,I'm in a candy house. This is like a dream!
+Dialogue: 0,0:16:30.42,0:16:32.69,Default,,0000,0000,0000,,I'm so happy.
+Dialogue: 0,0:16:32.71,0:16:35.94,Default,,0000,0000,0000,,Where did the food in your stomach\Nfrom earlier go?
+Dialogue: 0,0:16:35.96,0:16:38.90,Default,,0000,0000,0000,,Luffy! This wall is delicious too!
+Dialogue: 0,0:16:38.92,0:16:40.07,Default,,0000,0000,0000,,When did you get there?!
+Dialogue: 0,0:16:40.09,0:16:47.25,Default,,0000,0000,0000,,Okay!
+Dialogue: 0,0:16:47.27,0:16:51.29,Default,,0000,0000,0000,,It's so good!\NEvery part of it is good!
+Dialogue: 0,0:16:51.31,0:16:55.38,Default,,0000,0000,0000,,Brook, you gotta try this too! It's good!
+Dialogue: 0,0:16:55.40,0:16:57.55,Default,,0000,0000,0000,,You too, Nami!
+Dialogue: 0,0:16:57.57,0:17:00.76,Default,,0000,0000,0000,,Is it really okay to eat this much?
+Dialogue: 0,0:17:00.78,0:17:05.89,Default,,0000,0000,0000,,Yes!
+Dialogue: 0,0:17:05.91,0:17:09.27,Default,,0000,0000,0000,,Um... Can I see your panties...
+Dialogue: 0,0:17:09.29,0:17:11.23,Default,,0000,0000,0000,,Don't push your luck!
+Dialogue: 0,0:17:11.25,0:17:15.40,Default,,0000,0000,0000,,Okay, I'll just have this then.
+Dialogue: 0,0:17:15.42,0:17:20.82,Default,,0000,0000,0000,,Jeez.
+Dialogue: 0,0:17:20.84,0:17:23.49,Default,,0000,0000,0000,,It's delicious!
+Dialogue: 0,0:17:23.51,0:17:28.79,Default,,0000,0000,0000,,So your name is Pudding.\NThank you for helping us!
+Dialogue: 0,0:17:28.81,0:17:33.06,Default,,0000,0000,0000,,No, no! I'm the one who \Nshould be thanking you!
+Dialogue: 0,0:17:33.08,0:17:34.59,Default,,0000,0000,0000,,Why?
+Dialogue: 0,0:17:34.61,0:17:37.26,Default,,0000,0000,0000,,Because you said...
+Dialogue: 0,0:17:37.28,0:17:41.01,Default,,0000,0000,0000,,"It was too delicious"!
+Dialogue: 0,0:17:41.03,0:17:45.68,Default,,0000,0000,0000,,That chocolate at the cafe is a \Nnew blend that I came up with!
+Dialogue: 0,0:17:45.70,0:17:47.52,Default,,0000,0000,0000,,Did you like how it melted in your mouth?
+Dialogue: 0,0:17:47.54,0:17:50.90,Default,,0000,0000,0000,,I added milk to cocoa butter \Nand highly-pure beet sugar
+Dialogue: 0,0:17:50.92,0:17:54.98,Default,,0000,0000,0000,,and kneaded it for three days \Nstraight at 29 degrees Celsius!
+Dialogue: 0,0:17:55.00,0:17:58.29,Default,,0000,0000,0000,,I don't know what you're talking about\Nbut it was so good!
+Dialogue: 0,0:17:58.31,0:18:00.44,Default,,0000,0000,0000,,It was!
+Dialogue: 0,0:18:00.46,0:18:04.80,Default,,0000,0000,0000,,You said it was delicious\Nand it really makes me want to cry!
+Dialogue: 0,0:18:04.82,0:18:08.37,Default,,0000,0000,0000,,Thank you! I'm so happy to hear it!
+Dialogue: 0,0:18:08.39,0:18:14.55,Default,,0000,0000,0000,,Wh... What a nice girl!
+Dialogue: 0,0:18:14.57,0:18:16.77,Default,,0000,0000,0000,,Do you like making chocolate?
+Dialogue: 0,0:18:16.79,0:18:19.05,Default,,0000,0000,0000,,I love sweets!
+Dialogue: 0,0:18:19.07,0:18:22.32,Default,,0000,0000,0000,,This town smells like chocolate \Nand it's like heaven!
+Dialogue: 0,0:18:22.34,0:18:24.39,Default,,0000,0000,0000,,Even the table is chocolate!
+Dialogue: 0,0:18:24.41,0:18:25.70,Default,,0000,0000,0000,,It's nice to know that!
+Dialogue: 0,0:18:25.72,0:18:29.24,Default,,0000,0000,0000,,We really want to stay \Nand thank you, Pudding,
+Dialogue: 0,0:18:29.26,0:18:31.54,Default,,0000,0000,0000,,but we need to go...
+Dialogue: 0,0:18:31.56,0:18:33.81,Default,,0000,0000,0000,,Yeah? That's too bad.
+Dialogue: 0,0:18:33.83,0:18:36.95,Default,,0000,0000,0000,,Before you go, would you like a cup of tea?
+Dialogue: 0,0:18:36.97,0:18:39.43,Default,,0000,0000,0000,,I guess you have a sweet taste in your mouth.
+Dialogue: 0,0:18:39.45,0:18:41.46,Default,,0000,0000,0000,,Tea sounds good!
+Dialogue: 0,0:18:41.48,0:18:43.53,Default,,0000,0000,0000,,Okay. I'll be right back.
+Dialogue: 0,0:18:43.55,0:18:49.79,Default,,0000,0000,0000,,Oh, what a nice girl!\NShe's really a nice girl!
+Dialogue: 0,0:18:49.81,0:18:53.18,Default,,0000,0000,0000,,I haven't asked your name, have I?
+Dialogue: 0,0:18:53.20,0:18:54.69,Default,,0000,0000,0000,,I'm Luffy.
+Dialogue: 0,0:18:54.71,0:18:56.16,Default,,0000,0000,0000,,The future Pirate King...
+Dialogue: 0,0:18:56.18,0:18:57.09,Default,,0000,0000,0000,,Hey!
+Dialogue: 0,0:18:57.11,0:19:04.18,Default,,0000,0000,0000,,What?
+Dialogue: 0,0:19:04.20,0:19:09.26,Default,,0000,0000,0000,,Luffy?
+Dialogue: 0,0:19:09.28,0:19:17.28,DefaultLow,,0000,0000,0000,,SOME ISLAND WHERE YOU CAN GET EGGS
+Dialogue: 0,0:19:18.13,0:19:20.38,Default,,0000,0000,0000,,The Emperor is on the move!
+Dialogue: 0,0:19:20.40,0:19:22.22,Default,,0000,0000,0000,,There'll be a tea party!
+Dialogue: 0,0:19:22.24,0:19:24.17,Default,,0000,0000,0000,,A tea party sounds like fun!
+Dialogue: 0,0:19:24.19,0:19:26.99,Default,,0000,0000,0000,,Don't be silly!
+Dialogue: 0,0:19:27.01,0:19:29.70,Default,,0000,0000,0000,,What are they gonna make this time?!
+Dialogue: 0,0:19:29.72,0:19:37.72,Default,,0000,0000,0000,,No idea! But so many people will die again!
+Dialogue: 0,0:19:42.61,0:19:47.39,Default,,0000,0000,0000,,Just one person?
+Dialogue: 0,0:19:47.41,0:19:47.39,On Top,,0000,0000,0000,,Tighten security at the entrance!
+Dialogue: 0,0:19:47.41,0:19:51.06,DefaultLow,,0000,0000,0000,,AN ISLAND WHERE YOU CAN GET FLOUR
+Dialogue: 0,0:19:51.08,0:19:59.08,Default,,0000,0000,0000,,Dammit! Big Mom!
+Dialogue: 0,0:20:01.75,0:20:09.75,DefaultLow,,0000,0000,0000,,AN ISLAND WHERE YOU CAN GET FRUIT
+Dialogue: 0,0:20:17.60,0:20:19.61,Default,,0000,0000,0000,,How dare she do this?!
+Dialogue: 0,0:20:19.63,0:20:24.09,Default,,0000,0000,0000,,How could she do this for a \Nstupid thing like a tea party?!
+Dialogue: 0,0:20:24.11,0:20:32.11,DefaultLow,,0000,0000,0000,,THE WHOLE CAKE ISLAND
+Dialogue: 0,0:20:52.64,0:20:55.87,Default,,0000,0000,0000,,{\i1}How long do we have until the tea party?{\i0}
+Dialogue: 0,0:20:55.89,0:20:58.33,Default,,0000,0000,0000,,{\i1}Three days, Mama{\i0}
+Dialogue: 0,0:20:58.35,0:21:00.10,Default,,0000,0000,0000,,{\i1}Flower! Flower!{\i0}
+Dialogue: 0,0:21:00.12,0:21:01.69,Default,,0000,0000,0000,,{\i1}I see{\i0}
+Dialogue: 0,0:21:01.71,0:21:04.86,Default,,0000,0000,0000,,{\i1}What about Germa's son?{\i0}
+Dialogue: 0,0:21:04.88,0:21:07.32,Default,,0000,0000,0000,,{\i1}He's here, Mama{\i0}
+Dialogue: 0,0:21:07.34,0:21:12.40,Default,,0000,0000,0000,,{\i1}Furniture! Furniture! Furniture! Furniture!{\i0}
+Dialogue: 0,0:21:12.42,0:21:15.87,Default,,0000,0000,0000,,{\i1}There will be a wedding{\i0}
+Dialogue: 0,0:21:15.89,0:21:19.62,Default,,0000,0000,0000,,{\i1}How is the cake?{\i0}
+Dialogue: 0,0:21:19.64,0:21:21.76,Default,,0000,0000,0000,,{\i1}The wedding cake{\i0}
+Dialogue: 0,0:21:21.78,0:21:23.42,Default,,0000,0000,0000,,{\i1}The wedding cake{\i0}
+Dialogue: 0,0:21:23.44,0:21:25.50,Default,,0000,0000,0000,,{\i1}--The design?\N--Okay!{\i0}
+Dialogue: 0,0:21:25.52,0:21:27.24,Default,,0000,0000,0000,,{\i1}--The budget?\N--Don't be stingy!{\i0}
+Dialogue: 0,0:21:27.26,0:21:28.97,Default,,0000,0000,0000,,{\i1}Ingredients must be carefully selected{\i0}
+Dialogue: 0,0:21:28.99,0:21:36.99,Default,,0000,0000,0000,,{\i1}Kill the people and rob them{\i0}
+Dialogue: 0,0:21:39.77,0:21:43.17,Default,,0000,0000,0000,,Eggs!
+Dialogue: 0,0:21:43.19,0:21:45.04,Default,,0000,0000,0000,,I got them.
+Dialogue: 0,0:21:45.06,0:21:48.38,Default,,0000,0000,0000,,Flour!
+Dialogue: 0,0:21:48.40,0:21:50.42,Default,,0000,0000,0000,,I got it!
+Dialogue: 0,0:21:50.44,0:21:53.89,Default,,0000,0000,0000,,Fruit!
+Dialogue: 0,0:21:53.91,0:21:55.68,Default,,0000,0000,0000,,I got it.
+Dialogue: 0,0:21:55.70,0:21:58.52,Default,,0000,0000,0000,,{\i1}We'll make it taste good!{\i0}
+Dialogue: 0,0:21:58.54,0:22:01.90,Default,,0000,0000,0000,,{\i1}Let's eat a delicious cake!{\i0}
+Dialogue: 0,0:22:01.92,0:22:05.73,Default,,0000,0000,0000,,{\i1}Sweet dealings!{\i0}
+Dialogue: 0,0:22:05.75,0:22:11.15,Default,,0000,0000,0000,,{\i1}The tea party from hell!{\i0}
+Dialogue: 0,0:22:11.17,0:22:14.55,Default,,0000,0000,0000,,{\i1}--Is this strawberry jam?\N--Or somebody's blood?{\i0}
+Dialogue: 0,0:22:14.57,0:22:17.97,Default,,0000,0000,0000,,{\i1}I don't care either way{\i0}
+Dialogue: 0,0:22:17.99,0:22:20.47,Default,,0000,0000,0000,,{\i1}If you're invited, be there at any cost!{\i0}
+Dialogue: 0,0:22:20.49,0:22:21.93,Default,,0000,0000,0000,,{\i1}A sweet moment{\i0}
+Dialogue: 0,0:22:21.95,0:22:25.65,Default,,0000,0000,0000,,{\i1}Sacrifices to the Devil{\i0}
+Dialogue: 0,0:22:25.67,0:22:29.19,Default,,0000,0000,0000,,{\i1}This is a dream land for everyone{\i0}
+Dialogue: 0,0:22:29.21,0:22:34.45,Default,,0000,0000,0000,,{\i1}All kinds of races come together{\i0}
+Dialogue: 0,0:22:34.47,0:22:42.47,Default,,0000,0000,0000,,{\i1}Totto Land!{\i0}
+Dialogue: 0,0:22:48.27,0:22:52.36,Default,,0000,0000,0000,,{\i1}Mmm, I can't wait!\NI heard he is here{\i0}
+Dialogue: 0,0:22:52.38,0:22:58.22,Default,,0000,0000,0000,,{\i1}Yes, he is here{\i0}
+Dialogue: 0,0:22:58.24,0:23:06.24,Default,,0000,0000,0000,,{\i1}Straw Hat!{\i0}
+Dialogue: 0,0:23:10.53,0:23:13.44,Italics,,0000,0000,0000,,{\i1}The lovely girl Pudding \Nwho saved Luffy reveals
+Dialogue: 0,0:23:13.46,0:23:16.47,Italics,,0000,0000,0000,,\Nthe surprising truth of the Big Mom Pirates{\i0}
+Dialogue: 0,0:23:16.49,0:23:19.60,Italics,,0000,0000,0000,,{\i1}and her budding love for Sanji.
+Dialogue: 0,0:23:19.62,0:23:22.14,Italics,,0000,0000,0000,,Is she an enemy or an ally?{\i0}
+Dialogue: 0,0:23:22.16,0:23:26.37,Italics,,0000,0000,0000,,{\i1}As the gang takes precautions against her,\Nshe makes an unexpected move!{\i0}
+Dialogue: 0,0:23:26.39,0:23:27.88,Default,,0000,0000,0000,,On the next episode of One Piece!
+Dialogue: 0,0:23:27.90,0:23:31.01,Default,,0000,0000,0000,,"The Emperor's Daughter! \NSanji's fiancée - Pudding!"
+Dialogue: 0,0:23:31.03,0:23:39.03,Default,,0000,0000,0000,,I'm gonna be the King of the Pirates!

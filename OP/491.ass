@@ -1,0 +1,340 @@
+﻿[Script Info]
+Title: English (US)
+Original Script: ToeiAnimation  [http://www.crunchyroll.com/user/ToeiAnimation]
+Original Translation: 
+Original Editing: 
+Original Timing: 
+Synch Point: 
+Script Updated By: 
+Update Details: 
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 640
+PlayResY: 360
+Timer: 0.0000
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name,Fontname,Fontsize,PrimaryColour,SecondaryColour,OutlineColour,BackColour,Bold,Italic,Underline,Strikeout,ScaleX,ScaleY,Spacing,Angle,BorderStyle,Outline,Shadow,Alignment,MarginL,MarginR,MarginV,Encoding
+Style: Default,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,2,0020,0020,0022,0
+Style: B1,Arial,32,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,2,0070,0070,0030,0
+Style: OS,Arial,18,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,8,0001,0001,0015,0
+Style: Italics,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,-1,0,0,100,100,0,0,1,2,1,2,0020,0020,0022,0
+Style: Ep Title,Arial,18,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,3,0170,0070,0020,0
+Style: Copy of Ep Title,Arial,18,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,3,0070,0226,0065,0
+Style: On Top,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,8,0020,0020,0022,0
+Style: Copy of OS,Arial,18,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,9,0020,0020,0020,0
+Style: DefaultLow,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,2,0020,0020,0010,0
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:26.45,0:00:26.43,On Top,,0000,0000,0000,,ame agari no sora wo aogu tabi
+Dialogue: 0,0:00:26.45,0:00:31.50,DefaultLow,,0000,0000,0000,,Every time I look up to \Nthe sky after the rain
+Dialogue: 0,0:00:31.52,0:00:31.50,On Top,,0000,0000,0000,,nakimushi datta koro no boku wo omou
+Dialogue: 0,0:00:31.52,0:00:37.17,DefaultLow,,0000,0000,0000,,I think back to when I was a crybaby
+Dialogue: 0,0:00:37.19,0:00:37.17,On Top,,0000,0000,0000,,dareka no senaka wo gamushara ni oikaketa
+Dialogue: 0,0:00:37.19,0:00:45.01,DefaultLow,,0000,0000,0000,,I was chasing somebody's back blindly
+Dialogue: 0,0:00:45.03,0:00:45.01,On Top,,0000,0000,0000,,"tsuyoku naritai" tte
+Dialogue: 0,0:00:45.03,0:00:47.77,DefaultLow,,0000,0000,0000,,Thinking "I want to be stronger"
+Dialogue: 0,0:00:47.79,0:00:47.77,On Top,,0000,0000,0000,,ima wa kaze ni kieta "arigatou"
+Dialogue: 0,0:00:47.79,0:00:53.27,DefaultLow,,0000,0000,0000,,The word "thank you" has \Nfaded into the wind now
+Dialogue: 0,0:00:53.29,0:00:53.27,On Top,,0000,0000,0000,,boku wa tsuyoku nareteiru no kana?
+Dialogue: 0,0:00:53.29,0:00:58.49,DefaultLow,,0000,0000,0000,,Am I getting stronger?
+Dialogue: 0,0:00:58.51,0:00:58.49,On Top,,0000,0000,0000,,kotae wa mada desou ni nai kara sa
+Dialogue: 0,0:00:58.51,0:01:04.07,DefaultLow,,0000,0000,0000,,I don't know the answer yet
+Dialogue: 0,0:01:04.09,0:01:04.07,On Top,,0000,0000,0000,,yappari mada aruiteiku yo
+Dialogue: 0,0:01:04.09,0:01:09.62,DefaultLow,,0000,0000,0000,,That's why I'll keep walking ahead
+Dialogue: 0,0:01:09.64,0:01:09.62,On Top,,0000,0000,0000,,saa yukou
+Dialogue: 0,0:01:09.64,0:01:11.87,DefaultLow,,0000,0000,0000,,So let's go
+Dialogue: 0,0:01:11.89,0:01:11.87,On Top,,0000,0000,0000,,tachidomaru koto naku
+Dialogue: 0,0:01:11.89,0:01:15.21,DefaultLow,,0000,0000,0000,,Without stopping
+Dialogue: 0,0:01:15.23,0:01:15.21,On Top,,0000,0000,0000,,nagareru toki ni makenai youni
+Dialogue: 0,0:01:15.23,0:01:20.47,DefaultLow,,0000,0000,0000,,Without giving up to the flow of time
+Dialogue: 0,0:01:20.49,0:01:20.47,On Top,,0000,0000,0000,,nando mo tachimukai tsuzukeyou
+Dialogue: 0,0:01:20.49,0:01:26.03,DefaultLow,,0000,0000,0000,,I'll keep getting back up
+Dialogue: 0,0:01:26.05,0:01:26.03,On Top,,0000,0000,0000,,taisetsu na mono ushinaitakunai kara
+Dialogue: 0,0:01:26.05,0:01:31.52,DefaultLow,,0000,0000,0000,,Because I don't want to \Nlose something precious
+Dialogue: 0,0:01:31.54,0:01:31.52,On Top,,0000,0000,0000,,boku no naka ni nagareru koe wa
+Dialogue: 0,0:01:31.54,0:01:36.86,DefaultLow,,0000,0000,0000,,The voice inside of me
+Dialogue: 0,0:01:36.88,0:01:36.86,On Top,,0000,0000,0000,,zutto zutto boku wo sasaeteru
+Dialogue: 0,0:01:36.88,0:01:42.15,DefaultLow,,0000,0000,0000,,keeps sustaining me
+Dialogue: 0,0:01:42.17,0:01:42.15,On Top,,0000,0000,0000,,itazura na ame ga jama suru kedo
+Dialogue: 0,0:01:42.17,0:01:47.37,DefaultLow,,0000,0000,0000,,Wicked rain will get in my way
+Dialogue: 0,0:01:47.39,0:01:47.37,On Top,,0000,0000,0000,,nigedasanai kara
+Dialogue: 0,0:01:47.39,0:01:55.39,DefaultLow,,0000,0000,0000,,But I won't walk away
+Dialogue: 0,0:01:55.52,0:01:55.50,On Top,,0000,0000,0000,,saa yukou
+Dialogue: 0,0:01:55.52,0:01:57.79,DefaultLow,,0000,0000,0000,,So let's go
+Dialogue: 0,0:01:57.81,0:01:57.79,On Top,,0000,0000,0000,,Tachidomaru koto naku
+Dialogue: 0,0:01:57.81,0:02:01.09,DefaultLow,,0000,0000,0000,,Without stopping
+Dialogue: 0,0:02:01.11,0:02:01.09,On Top,,0000,0000,0000,,nagareru toki ni makenai youni
+Dialogue: 0,0:02:01.11,0:02:06.26,DefaultLow,,0000,0000,0000,,Without giving up to the flow of time
+Dialogue: 0,0:02:06.28,0:02:06.26,On Top,,0000,0000,0000,,nando mo tachimukai tsuzukeyou
+Dialogue: 0,0:02:06.28,0:02:11.98,DefaultLow,,0000,0000,0000,,I'll keep getting back up
+Dialogue: 0,0:02:12.00,0:02:11.98,On Top,,0000,0000,0000,,taisetsu na mono ushinaitakunai kara
+Dialogue: 0,0:02:12.00,0:02:17.44,DefaultLow,,0000,0000,0000,,Because I don't want to \Nlose something precious
+Dialogue: 0,0:02:17.46,0:02:17.44,On Top,,0000,0000,0000,,shinjita sono saki e to...
+Dialogue: 0,0:02:17.46,0:02:25.46,DefaultLow,,0000,0000,0000,,To the future I believe in...
+Dialogue: 0,0:02:33.85,0:02:36.92,Default,,0000,0000,0000,,The time is the Great Pirate Era.
+Dialogue: 0,0:02:36.94,0:02:42.11,Default,,0000,0000,0000,,Countless pirates fight \Ndesperately for the One Piece,
+Dialogue: 0,0:02:42.13,0:02:45.86,Default,,0000,0000,0000,,the great treasure left behind by \NGold Roger, King of the Pirates.
+Dialogue: 0,0:02:45.88,0:02:50.66,Default,,0000,0000,0000,,Monkey D. Luffy, a boy whose body turned \Nto rubber after he ate the Gum-Gum Fruit,
+Dialogue: 0,0:02:50.68,0:02:53.45,Default,,0000,0000,0000,,also takes to the sea to become \Nthe next King of the Pirates.
+Dialogue: 0,0:02:53.47,0:02:57.48,Default,,0000,0000,0000,,As Luffy and his friends \Novercome numerous adventures,
+Dialogue: 0,0:02:57.50,0:03:03.44,Default,,0000,0000,0000,,the World Government is less and \Nless able to ignore their existence.
+Dialogue: 0,0:03:03.46,0:03:05.86,Default,,0000,0000,0000,,This is exciting!
+Dialogue: 0,0:03:05.88,0:03:09.16,Default,,0000,0000,0000,,What kind of adventure \Nis waiting for us next?!
+Dialogue: 0,0:03:09.18,0:03:12.29,Default,,0000,0000,0000,,The crew, on its way to the New World,
+Dialogue: 0,0:03:12.31,0:03:20.01,Default,,0000,0000,0000,,will speed along the Grand Line again today!
+Dialogue: 0,0:03:20.03,0:03:22.54,Default,,0000,0000,0000,,Separated from the rest of the Straw Hats,
+Dialogue: 0,0:03:22.56,0:03:27.71,Default,,0000,0000,0000,,Luffy made a raid on the Navy HQ to rescue \Nhis brother, Ace who was to be executed!
+Dialogue: 0,0:03:27.73,0:03:30.74,Default,,0000,0000,0000,,But his struggle ended in vain
+Dialogue: 0,0:03:30.76,0:03:38.76,Default,,0000,0000,0000,,and the historic War of the \NBest in Marineford has ended.
+Dialogue: 0,0:03:49.63,0:03:55.29,Default,,0000,0000,0000,,"Landing at the Maiden Island! The \NHarsh Reality Falls upon Luffy!"
+Dialogue: 0,0:03:55.31,0:04:03.31,OS,,0000,0000,0000,,WEST BLUE
+Dialogue: 0,0:04:24.13,0:04:26.35,Default,,0000,0000,0000,,A pirate ship is approaching \NLascamp, West Blue!
+Dialogue: 0,0:04:26.37,0:04:29.94,Default,,0000,0000,0000,,But bases in that area have no ships!
+Dialogue: 0,0:04:29.96,0:04:32.14,Default,,0000,0000,0000,,The nearest bases outside of that area are...
+Dialogue: 0,0:04:32.16,0:04:37.34,Default,,0000,0000,0000,,The 80th division will send back-up!
+Dialogue: 0,0:04:37.36,0:04:40.16,Default,,0000,0000,0000,,This is South Blue checking \Nthe location of the site!
+Dialogue: 0,0:04:40.18,0:04:41.17,Default,,0000,0000,0000,,Dammit!
+Dialogue: 0,0:04:41.19,0:04:43.48,Default,,0000,0000,0000,,I thought pirates would be
+Dialogue: 0,0:04:43.50,0:04:48.17,Default,,0000,0000,0000,,afraid of us after killing \NWhitebeard and gaining victory!
+Dialogue: 0,0:04:48.19,0:04:52.11,Default,,0000,0000,0000,,Instead of laying low, they \Nare going wild everywhere!
+Dialogue: 0,0:04:52.13,0:04:54.28,Default,,0000,0000,0000,,What's gotten into them?
+Dialogue: 0,0:04:54.30,0:04:56.89,Default,,0000,0000,0000,,Pirates have made a raid on Lascamp!
+Dialogue: 0,0:04:56.91,0:04:59.67,Default,,0000,0000,0000,,We lost touch with the site! Send back-up!
+Dialogue: 0,0:04:59.69,0:05:04.11,Default,,0000,0000,0000,,\NI repeat, send back-up to Lascamp!
+Dialogue: 0,0:05:04.13,0:05:12.13,Default,,0000,0000,0000,,Load supplies! Let's head for the Grand Line!
+Dialogue: 0,0:05:14.10,0:05:17.11,DefaultLow,,0000,0000,0000,,Two weeks after the War of the Best,
+Dialogue: 0,0:05:17.13,0:05:25.13,DefaultLow,,0000,0000,0000,,people start to seeing \Neffects around the world.
+Dialogue: 0,0:05:25.46,0:05:32.99,Default,,0000,0000,0000,,Y-You can't come any further! \NDon't come into our town!
+Dialogue: 0,0:05:33.01,0:05:39.84,Default,,0000,0000,0000,,You heard the news, didn't you?
+Dialogue: 0,0:05:39.86,0:05:44.86,Default,,0000,0000,0000,,Then you know that this island is \Nno longer Whitebeard's territory.
+Dialogue: 0,0:05:44.88,0:05:47.94,Default,,0000,0000,0000,,This symbol is meaningless now!
+Dialogue: 0,0:05:47.96,0:05:55.96,Default,,0000,0000,0000,,That's right! Whitebeard is dead!
+Dialogue: 0,0:06:09.00,0:06:13.14,Default,,0000,0000,0000,,Listen, and engrave this in your mind!
+Dialogue: 0,0:06:13.16,0:06:16.99,Default,,0000,0000,0000,,The man who takes control of \Nthis island from today is me -
+Dialogue: 0,0:06:17.01,0:06:22.77,Default,,0000,0000,0000,,the pirate Brownbeard!
+Dialogue: 0,0:06:22.79,0:06:27.27,Default,,0000,0000,0000,,The war ended with the death of \NWhitebeard and the victory of the Navy.
+Dialogue: 0,0:06:27.29,0:06:30.00,Default,,0000,0000,0000,,But contrary to what the Navy thought,
+Dialogue: 0,0:06:30.02,0:06:36.45,Default,,0000,0000,0000,,the situation has grown \Ntense all over the world.
+Dialogue: 0,0:06:36.47,0:06:38.37,Default,,0000,0000,0000,,Meanwhile, a short time ago,
+Dialogue: 0,0:06:38.39,0:06:41.13,Default,,0000,0000,0000,,Hancock, Jimbei and others decided
+Dialogue: 0,0:06:41.15,0:06:44.25,Default,,0000,0000,0000,,to head to the Maiden Island \Nto harbor the unconscious Luffy
+Dialogue: 0,0:06:44.27,0:06:47.96,Default,,0000,0000,0000,,and joined up with the Kuja's ship.
+Dialogue: 0,0:06:47.98,0:06:50.67,Default,,0000,0000,0000,,--Big Sis!\N--Big Sis!
+Dialogue: 0,0:06:50.69,0:06:52.92,Default,,0000,0000,0000,,Snake Princess-sama!
+Dialogue: 0,0:06:52.94,0:06:59.26,Default,,0000,0000,0000,,Sorry that I made you worry, \NSandersonia, Marigold, and everyone!
+Dialogue: 0,0:06:59.28,0:07:02.26,Default,,0000,0000,0000,,Thank you for your warm greeting!
+Dialogue: 0,0:07:02.28,0:07:09.81,Default,,0000,0000,0000,,We are all so grateful for \Nyour great work as a Warlord!
+Dialogue: 0,0:07:09.83,0:07:15.61,Default,,0000,0000,0000,,Alright then, this is it for my \Nrole in supporting Straw boy.
+Dialogue: 0,0:07:15.63,0:07:17.61,Default,,0000,0000,0000,,Heehaw!
+Dialogue: 0,0:07:17.63,0:07:20.91,Default,,0000,0000,0000,,Do you mind if I leave the \Nrest up to you, Jimbei?
+Dialogue: 0,0:07:20.93,0:07:24.20,Default,,0000,0000,0000,,Yes. I can't swim as I want yet.
+Dialogue: 0,0:07:24.22,0:07:28.75,Default,,0000,0000,0000,,The least I can do is stay \Nhere until he gets well.
+Dialogue: 0,0:07:28.77,0:07:33.38,Default,,0000,0000,0000,,I don't know how I can help him, though.
+Dialogue: 0,0:07:33.40,0:07:36.30,Default,,0000,0000,0000,,It was a curious turn of fate to meet you.
+Dialogue: 0,0:07:36.32,0:07:37.83,Default,,0000,0000,0000,,I agree.
+Dialogue: 0,0:07:37.85,0:07:40.00,Default,,0000,0000,0000,,Although we were both locked up in
+Dialogue: 0,0:07:40.02,0:07:42.96,Default,,0000,0000,0000,,\Nthe greatest prison in the world - Impel Down,
+Dialogue: 0,0:07:42.98,0:07:45.64,Default,,0000,0000,0000,,if it weren't for Luffy-kun,
+Dialogue: 0,0:07:45.66,0:07:50.69,Default,,0000,0000,0000,,we would have never met each \Nother at all I suppose.
+Dialogue: 0,0:07:50.71,0:07:57.49,Default,,0000,0000,0000,,We both tried really hard to keep up \Nwith Straw boy at Marineford, didn't we?
+Dialogue: 0,0:07:57.51,0:07:59.70,Default,,0000,0000,0000,,It's hard to say goodbye to you
+Dialogue: 0,0:07:59.72,0:08:04.95,Default,,0000,0000,0000,,but I have sweet candies waiting \Nfor me to come back to the kingdom.
+Dialogue: 0,0:08:04.97,0:08:12.88,Default,,0000,0000,0000,,Please take good care of Straw boy!
+Dialogue: 0,0:08:12.90,0:08:16.42,Default,,0000,0000,0000,,Bye, Straw Hat! Thank you for letting us out!
+Dialogue: 0,0:08:16.44,0:08:20.26,Default,,0000,0000,0000,,My dream can come true because of you!
+Dialogue: 0,0:08:20.28,0:08:22.93,Default,,0000,0000,0000,,Say "hi" to him when he wakes up!
+Dialogue: 0,0:08:22.95,0:08:27.10,Default,,0000,0000,0000,,--See you again if we have a chance!\N--Hang in there!
+Dialogue: 0,0:08:27.12,0:08:30.06,Default,,0000,0000,0000,,You can't die, Straw Hat!
+Dialogue: 0,0:08:30.08,0:08:32.86,Default,,0000,0000,0000,,Okay, let's go!
+Dialogue: 0,0:08:32.88,0:08:37.36,Default,,0000,0000,0000,,To the New Kamas' home and our mecca!
+Dialogue: 0,0:08:37.38,0:08:41.36,Default,,0000,0000,0000,,To the Kamabakka Kingdom! Heehaw...
+Dialogue: 0,0:08:41.38,0:08:46.41,Default,,0000,0000,0000,,We have to head for the Maiden Island, too.
+Dialogue: 0,0:08:46.43,0:08:51.04,Default,,0000,0000,0000,,And the pirate ship that Luffy is on arrived \Nat the Maiden Island - Amazon Lily,
+Dialogue: 0,0:08:51.06,0:08:53.57,Default,,0000,0000,0000,,the female-only empire \Nwhere men are prohibited
+Dialogue: 0,0:08:53.59,0:08:58.76,Default,,0000,0000,0000,,and Kuja, the tribe of \Nfemale fighters, lives.
+Dialogue: 0,0:08:58.78,0:09:06.78,Default,,0000,0000,0000,,--Snake Princess-sama!\N--Welcome back!
+Dialogue: 0,0:09:07.74,0:09:10.89,Default,,0000,0000,0000,,I'm so glad that the princess is safe!
+Dialogue: 0,0:09:10.91,0:09:13.85,Default,,0000,0000,0000,,There are men on the \Nstrange ship in the back!
+Dialogue: 0,0:09:13.87,0:09:18.73,Default,,0000,0000,0000,,--Look! There are only women!\N--It's true that it's a female-only island!
+Dialogue: 0,0:09:18.75,0:09:23.76,Default,,0000,0000,0000,,--They snuck into the ship! Unforgivable!\N--W-Wait!
+Dialogue: 0,0:09:23.78,0:09:27.58,Default,,0000,0000,0000,,--Smells nice!\N--I feel lightheaded!
+Dialogue: 0,0:09:27.60,0:09:29.50,Default,,0000,0000,0000,,This must be heaven!
+Dialogue: 0,0:09:29.52,0:09:31.54,Default,,0000,0000,0000,,Hey, you guys.
+Dialogue: 0,0:09:31.56,0:09:39.56,Default,,0000,0000,0000,,You gotta go back in, otherwise you'll die.
+Dialogue: 0,0:09:42.28,0:09:45.64,Default,,0000,0000,0000,,People, stop! They're not our enemy!
+Dialogue: 0,0:09:45.66,0:09:46.64,Default,,0000,0000,0000,,Snake Princess-sama!
+Dialogue: 0,0:09:46.66,0:09:50.16,Default,,0000,0000,0000,,Luffy is in that ship!
+Dialogue: 0,0:09:50.18,0:09:53.48,Default,,0000,0000,0000,,He suffered greatly, mentally and \Nphysically, during the battle at Marineford
+Dialogue: 0,0:09:53.50,0:09:56.81,Default,,0000,0000,0000,,and he is hanging between life and death now.
+Dialogue: 0,0:09:56.83,0:09:58.52,Default,,0000,0000,0000,,Luffy's here?!
+Dialogue: 0,0:09:58.54,0:10:03.57,Default,,0000,0000,0000,,Ladies, carry Luffy to the Kuja \NCastle as soon as possible!
+Dialogue: 0,0:10:03.59,0:10:10.08,Default,,0000,0000,0000,,--I'm gonna look after Luffy...\N--Wait a minute, Snake Princess!
+Dialogue: 0,0:10:10.10,0:10:11.45,Default,,0000,0000,0000,,Granny Nyon!
+Dialogue: 0,0:10:11.47,0:10:13.54,Default,,0000,0000,0000,,It's fine if it's just Luffy.
+Dialogue: 0,0:10:13.56,0:10:16.21,Default,,0000,0000,0000,,But we can't allow those \Nmen on that strange ship
+Dialogue: 0,0:10:16.23,0:10:18.50,Default,,0000,0000,0000,,to step foot onto the Maiden Island.
+Dialogue: 0,0:10:18.52,0:10:21.88,Default,,0000,0000,0000,,It's against our country's policy!
+Dialogue: 0,0:10:21.90,0:10:25.93,Default,,0000,0000,0000,,Then, let's just allow the \Ndoctor to come with him so...
+Dialogue: 0,0:10:25.95,0:10:27.17,Default,,0000,0000,0000,,No!
+Dialogue: 0,0:10:27.19,0:10:32.22,Default,,0000,0000,0000,,We can't allow any men to come onto \Nthe island, even if he is a doctor!
+Dialogue: 0,0:10:32.24,0:10:36.49,Default,,0000,0000,0000,,We have so many good doctors on this island!
+Dialogue: 0,0:10:36.51,0:10:39.60,Default,,0000,0000,0000,,Well, I don't care either way but...
+Dialogue: 0,0:10:39.62,0:10:47.11,Default,,0000,0000,0000,,...do you have the same medical \Nequipment and technology as my ship?
+Dialogue: 0,0:10:47.13,0:10:50.78,Default,,0000,0000,0000,,If his wound opens up, he's going to die.
+Dialogue: 0,0:10:50.80,0:10:53.79,Default,,0000,0000,0000,,Take Straw Hat-ya if you don't care about it.
+Dialogue: 0,0:10:53.81,0:10:55.77,Default,,0000,0000,0000,,Luffy's gonna die?!
+Dialogue: 0,0:10:55.79,0:11:00.34,Default,,0000,0000,0000,,If that happens by any chance... \NOh, I'm gonna... I'm gonna...
+Dialogue: 0,0:11:00.36,0:11:05.47,Default,,0000,0000,0000,,It's obvious that we can't save \NLuffy-kun without this man.
+Dialogue: 0,0:11:05.49,0:11:08.56,Default,,0000,0000,0000,,If he can't come in, we have no choice.
+Dialogue: 0,0:11:08.58,0:11:10.32,Default,,0000,0000,0000,,We must go somewhere else.
+Dialogue: 0,0:11:10.34,0:11:13.81,Default,,0000,0000,0000,,Impossible! We'd be \Nattacked by the Sea Kings!
+Dialogue: 0,0:11:13.83,0:11:18.70,Default,,0000,0000,0000,,Even if we get away from them, the \NNavy could find us at anytime!
+Dialogue: 0,0:11:18.72,0:11:21.36,Default,,0000,0000,0000,,What should we do?!
+Dialogue: 0,0:11:21.38,0:11:26.70,Default,,0000,0000,0000,,Oh, well... We only do \Nit as an exception but...
+Dialogue: 0,0:11:26.72,0:11:29.41,Default,,0000,0000,0000,,...you can stay in the area of the bay.
+Dialogue: 0,0:11:29.43,0:11:33.86,Default,,0000,0000,0000,,The Sea Kings won't attack you there.
+Dialogue: 0,0:11:33.88,0:11:37.08,Default,,0000,0000,0000,,Then, I'll stay with them \Nto look after Luffy...
+Dialogue: 0,0:11:37.10,0:11:39.02,Default,,0000,0000,0000,,No!
+Dialogue: 0,0:11:39.04,0:11:43.30,Default,,0000,0000,0000,,Damn Granny Nyon! You just \Nkeep saying "no" to me!
+Dialogue: 0,0:11:43.32,0:11:47.11,Default,,0000,0000,0000,,Luffy! I hope you'll get better soon!
+Dialogue: 0,0:11:47.13,0:11:49.52,Default,,0000,0000,0000,,Looking at Snake Princess-sama,
+Dialogue: 0,0:11:49.54,0:11:53.76,Default,,0000,0000,0000,,I can tell that Luffy is \Nin critical condition.
+Dialogue: 0,0:11:53.78,0:11:56.39,Default,,0000,0000,0000,,Luffy...
+Dialogue: 0,0:11:56.41,0:11:58.31,Default,,0000,0000,0000,,Two weeks have passed.
+Dialogue: 0,0:11:58.33,0:12:01.27,Default,,0000,0000,0000,,Law and others are staying in the bay...
+Dialogue: 0,0:12:01.29,0:12:06.15,Default,,0000,0000,0000,,...to provide Luffy with treatment.
+Dialogue: 0,0:12:06.17,0:12:09.57,Default,,0000,0000,0000,,How much longer do we have to \Nstay in such a small space...
+Dialogue: 0,0:12:09.59,0:12:13.03,Default,,0000,0000,0000,,Yeah, the only thing to look forward to is...
+Dialogue: 0,0:12:13.05,0:12:16.41,Default,,0000,0000,0000,,--Guys, sorry to keep you waiting!\N--It's a meal time.
+Dialogue: 0,0:12:16.43,0:12:18.12,Default,,0000,0000,0000,,Finally!
+Dialogue: 0,0:12:18.14,0:12:19.33,Default,,0000,0000,0000,,Here it is.
+Dialogue: 0,0:12:19.35,0:12:23.21,Default,,0000,0000,0000,,--The only consolation is that the food is good!\N--I agree!
+Dialogue: 0,0:12:23.23,0:12:25.76,Default,,0000,0000,0000,,--Here you go!\N--Thank you...
+Dialogue: 0,0:12:25.78,0:12:30.18,Default,,0000,0000,0000,,Please don't push and wait for your turn.
+Dialogue: 0,0:12:30.20,0:12:32.53,Default,,0000,0000,0000,,Aphelandra!
+Dialogue: 0,0:12:32.55,0:12:34.73,Default,,0000,0000,0000,,Don't talk to men!
+Dialogue: 0,0:12:34.75,0:12:38.35,Default,,0000,0000,0000,,Luffy is the exception because \Nof the princess' orders.
+Dialogue: 0,0:12:38.37,0:12:39.98,Default,,0000,0000,0000,,Don't forget!
+Dialogue: 0,0:12:40.00,0:12:41.40,Default,,0000,0000,0000,,Okay!
+Dialogue: 0,0:12:41.42,0:12:49.42,Default,,0000,0000,0000,,Come on, it's no big deal! \NRight, Aphelandra-chan?
+Dialogue: 0,0:12:50.37,0:12:52.62,Default,,0000,0000,0000,,I'm not gonna say it again!
+Dialogue: 0,0:12:52.64,0:12:58.07,Default,,0000,0000,0000,,We're sorry!
+Dialogue: 0,0:12:58.09,0:13:00.47,Default,,0000,0000,0000,,Excuse me.
+Dialogue: 0,0:13:00.49,0:13:04.67,Default,,0000,0000,0000,,Is Luffy awake?
+Dialogue: 0,0:13:04.69,0:13:05.92,Default,,0000,0000,0000,,I see.
+Dialogue: 0,0:13:05.94,0:13:09.29,Default,,0000,0000,0000,,It's up to Straw Hat-ya's spirit.
+Dialogue: 0,0:13:09.31,0:13:13.30,Default,,0000,0000,0000,,Whether he's willing to live or not.
+Dialogue: 0,0:13:13.32,0:13:16.56,Default,,0000,0000,0000,,--Margaret, let's go already!\N--I'm coming!
+Dialogue: 0,0:13:16.58,0:13:20.14,Default,,0000,0000,0000,,I'm sorry! Take good care of Luffy!
+Dialogue: 0,0:13:20.16,0:13:24.81,Default,,0000,0000,0000,,Margaret, how many times do I have \Nto tell you not to talk to them?!
+Dialogue: 0,0:13:24.83,0:13:32.83,Default,,0000,0000,0000,,I'm sorry!
+Dialogue: 0,0:13:40.14,0:13:47.59,Default,,0000,0000,0000,,Big Sis...
+Dialogue: 0,0:13:47.61,0:13:54.94,Default,,0000,0000,0000,,Luffy...
+Dialogue: 0,0:13:54.96,0:13:59.39,Default,,0000,0000,0000,,You've always been like this, Luffy!
+Dialogue: 0,0:13:59.41,0:14:02.38,Default,,0000,0000,0000,,You've never even listened to me...
+Dialogue: 0,0:14:02.40,0:14:10.40,Default,,0000,0000,0000,,...and always done such crazy things!
+Dialogue: 0,0:14:12.63,0:14:14.14,Default,,0000,0000,0000,,Don't do it...
+Dialogue: 0,0:14:14.16,0:14:21.58,Default,,0000,0000,0000,,Don't do it!
+Dialogue: 0,0:14:21.60,0:14:29.60,Default,,0000,0000,0000,,--Stop it, Straw Hat!\N--You wanna destroy the ship?!
+Dialogue: 0,0:14:32.15,0:14:40.15,Default,,0000,0000,0000,,Ace...
+Dialogue: 0,0:14:45.83,0:14:53.69,Default,,0000,0000,0000,,Luffy-kun!
+Dialogue: 0,0:14:53.71,0:14:56.38,Default,,0000,0000,0000,,Ace...
+Dialogue: 0,0:14:56.40,0:15:00.41,Default,,0000,0000,0000,,Ace...
+Dialogue: 0,0:15:00.43,0:15:08.43,Default,,0000,0000,0000,,Where's Ace?!
+Dialogue: 0,0:15:32.67,0:15:36.14,Default,,0000,0000,0000,,This is dangerous! Calm down, Straw Hat!
+Dialogue: 0,0:15:36.16,0:15:39.18,Default,,0000,0000,0000,,What is going to happen \Nif we leave him like that?
+Dialogue: 0,0:15:39.20,0:15:44.24,Default,,0000,0000,0000,,Well, it's simple. Like \NI said when we got here,
+Dialogue: 0,0:15:44.26,0:15:50.71,Default,,0000,0000,0000,,if his wound opens up, he will die.
+Dialogue: 0,0:15:50.73,0:15:53.42,Default,,0000,0000,0000,,Yes, now is the chance!
+Dialogue: 0,0:15:53.44,0:15:57.01,Default,,0000,0000,0000,,--Let me go, dammit!\N--Stay still, Straw Hat!
+Dialogue: 0,0:15:57.03,0:16:01.47,Default,,0000,0000,0000,,--Shut up! I'm looking for Ace!\N--I told you that "Fire Fist" is...
+Dialogue: 0,0:16:01.49,0:16:05.43,Default,,0000,0000,0000,,I said "let me go"!
+Dialogue: 0,0:16:05.45,0:16:08.05,Default,,0000,0000,0000,,Where's Ace?!
+Dialogue: 0,0:16:08.07,0:16:12.44,Default,,0000,0000,0000,,--Ace!!\N--Damn! He's out of control!
+Dialogue: 0,0:16:12.46,0:16:16.48,Default,,0000,0000,0000,,--It's Luffy!\N--We got to tell Snake Princess-sama!
+Dialogue: 0,0:16:16.50,0:16:21.10,Default,,0000,0000,0000,,Snake Princess-sama! Snake Princess-sama!
+Dialogue: 0,0:16:21.12,0:16:23.12,Default,,0000,0000,0000,,Luffy woke up!
+Dialogue: 0,0:16:23.14,0:16:25.83,Default,,0000,0000,0000,,--Luffy-sama?!\N--Really?!
+Dialogue: 0,0:16:25.85,0:16:28.71,Default,,0000,0000,0000,,I'm glad. I wanna see him right away!
+Dialogue: 0,0:16:28.73,0:16:30.54,Default,,0000,0000,0000,,You can't, Snake Princess!
+Dialogue: 0,0:16:30.56,0:16:33.50,Default,,0000,0000,0000,,Everybody wants to see him.
+Dialogue: 0,0:16:33.52,0:16:38.40,Default,,0000,0000,0000,,You can't discipline your people if \Nyou allow yourself to go and see him.
+Dialogue: 0,0:16:38.42,0:16:41.09,Default,,0000,0000,0000,,Men are prohibited on this island.
+Dialogue: 0,0:16:41.11,0:16:45.70,Default,,0000,0000,0000,,We let strange men stay at the bay area
+Dialogue: 0,0:16:45.72,0:16:49.23,Default,,0000,0000,0000,,\Nand that's enough of an exception for us!
+Dialogue: 0,0:16:49.25,0:16:51.20,Default,,0000,0000,0000,,I know, but...
+Dialogue: 0,0:16:51.22,0:16:53.87,Default,,0000,0000,0000,,Before that, Big Sis, you \Nneed to eat something.
+Dialogue: 0,0:16:53.89,0:16:58.86,Default,,0000,0000,0000,,That's right, Big Sis! You've \Nbarely eaten since you got back!
+Dialogue: 0,0:16:58.88,0:17:02.36,Default,,0000,0000,0000,,That's right! Luffy must be very hungry, too!
+Dialogue: 0,0:17:02.38,0:17:05.62,Default,,0000,0000,0000,,Fix a lot of great dishes \Nthat will give him energy!
+Dialogue: 0,0:17:05.64,0:17:07.37,Default,,0000,0000,0000,,Yes, we'd be happy to!
+Dialogue: 0,0:17:07.39,0:17:11.79,Default,,0000,0000,0000,,I'm gonna help you! Ladies, let's do it now!
+Dialogue: 0,0:17:11.81,0:17:13.88,Default,,0000,0000,0000,,Yes, Snake Princess-sama!
+Dialogue: 0,0:17:13.90,0:17:18.71,Default,,0000,0000,0000,,I should just let her do that. She \Njust wants to fix some food...
+Dialogue: 0,0:17:18.73,0:17:21.84,Default,,0000,0000,0000,,Then I'm gonna take them to him!
+Dialogue: 0,0:17:21.86,0:17:23.39,Default,,0000,0000,0000,,So you're going?!
+Dialogue: 0,0:17:23.41,0:17:29.31,Default,,0000,0000,0000,,We promised that when he gets \Nwell, we would invite Luffy alone.
+Dialogue: 0,0:17:29.33,0:17:31.06,Default,,0000,0000,0000,,Wait for that moment!
+Dialogue: 0,0:17:31.08,0:17:34.69,Default,,0000,0000,0000,,I can't! I am an empress! \NDon't tell me what to do!
+Dialogue: 0,0:17:34.71,0:17:35.85,Default,,0000,0000,0000,,I said no!
+Dialogue: 0,0:17:35.87,0:17:39.89,Default,,0000,0000,0000,,The most important thing is \Nthe hereditary policy of this country!
+Dialogue: 0,0:17:39.91,0:17:44.41,Default,,0000,0000,0000,,Honestly! You're infected \Nby such a strong virus!
+Dialogue: 0,0:17:44.43,0:17:49.50,Default,,0000,0000,0000,,I can't believe that the fearful \Npirate empress has become love sick!
+Dialogue: 0,0:17:49.52,0:17:53.54,Default,,0000,0000,0000,,However, he must have been like a small ant
+Dialogue: 0,0:17:53.56,0:17:57.13,Default,,0000,0000,0000,,diving into a tempest at \NImpel Down and the Navy HQ.
+Dialogue: 0,0:17:57.15,0:18:01.97,Default,,0000,0000,0000,,It must have been an act of God to let \Nhim live and be brought back here.
+Dialogue: 0,0:18:01.99,0:18:08.47,Default,,0000,0000,0000,,I wonder what God expects from him.
+Dialogue: 0,0:18:08.49,0:18:11.80,Default,,0000,0000,0000,,--Hey, pass me the wrench.\N--Okay, here you go.
+Dialogue: 0,0:18:11.82,0:18:14.94,Default,,0000,0000,0000,,Hey, do you think you can fix the ship?
+Dialogue: 0,0:18:14.96,0:18:19.19,Default,,0000,0000,0000,,Yeah, I'll manage.  That aside, \Nwhere did Straw Hat go?
+Dialogue: 0,0:18:19.21,0:18:21.13,Default,,0000,0000,0000,,Jimbei is gone, too.
+Dialogue: 0,0:18:21.15,0:18:24.46,Default,,0000,0000,0000,,I don't know.
+Dialogue: 0,0:18:24.48,0:18:27.65,Default,,0000,0000,0000,,Well, I heard that if a man enters the
+Dialogue: 0,0:18:27.67,0:18:30.07,Default,,0000,0000,0000,,Maiden Island, he's gonna be turned to stone
+Dialogue: 0,0:18:30.09,0:18:32.20,Default,,0000,0000,0000,,but maybe it's worth dying for.
+Dialogue: 0,0:18:32.22,0:18:37.50,Default,,0000,0000,0000,,According to Aphelandra-chan, not \Nall women were there at the port.
+Dialogue: 0,0:18:37.52,0:18:42.51,Default,,0000,0000,0000,,The female-only island that I dreamed \Nof! I wish I could take a look inside!
+Dialogue: 0,0:18:42.53,0:18:44.63,Default,,0000,0000,0000,,You're gonna die, you idiot.
+Dialogue: 0,0:18:44.65,0:18:46.72,Default,,0000,0000,0000,,I wonder if there are female bears...
+Dialogue: 0,0:18:46.74,0:18:48.52,Default,,0000,0000,0000,,It's Maiden Island!
+Dialogue: 0,0:18:48.54,0:18:49.78,Default,,0000,0000,0000,,I'm sorry.
+Dialogue: 0,0:18:49.80,0:18:52.59,Default,,0000,0000,0000,,Only humans! There are only humans!
+Dialogue: 0,0:18:52.61,0:19:00.61,Default,,0000,0000,0000,,I'm really sorry!
+Dialogue: 0,0:19:38.60,0:19:42.72,Default,,0000,0000,0000,,Where am I?
+Dialogue: 0,0:19:42.74,0:19:50.74,Default,,0000,0000,0000,,Maybe it was all a dream...
+Dialogue: 0,0:20:01.26,0:20:08.64,Default,,0000,0000,0000,,I'm sorry, Luffy...
+Dialogue: 0,0:20:08.66,0:20:16.66,Default,,0000,0000,0000,,I couldn't make it all the way.
+Dialogue: 0,0:20:22.22,0:20:25.23,Default,,0000,0000,0000,,Go away! Go away!
+Dialogue: 0,0:20:25.25,0:20:27.86,Default,,0000,0000,0000,,Luffy!
+Dialogue: 0,0:20:27.88,0:20:35.88,Default,,0000,0000,0000,,No!
+Dialogue: 0,0:20:37.02,0:20:45.02,Default,,0000,0000,0000,,Go away! Go away!
+Dialogue: 0,0:21:19.71,0:21:23.56,Default,,0000,0000,0000,,If I don't escape death...
+Dialogue: 0,0:21:23.58,0:21:30.60,Default,,0000,0000,0000,,I'm sorry but could you \Nlook after my brother?
+Dialogue: 0,0:21:30.62,0:21:33.29,Default,,0000,0000,0000,,The war is over!
+Dialogue: 0,0:21:33.31,0:21:35.11,Default,,0000,0000,0000,,Ace-san is...
+Dialogue: 0,0:21:35.13,0:21:39.51,Default,,0000,0000,0000,,Don't say it! Don't say anything!
+Dialogue: 0,0:21:39.53,0:21:47.01,Default,,0000,0000,0000,,I already pinched myself \Nhard enough to rip my skin!
+Dialogue: 0,0:21:47.03,0:21:51.64,Default,,0000,0000,0000,,If it were a dream, I should've woken by now!
+Dialogue: 0,0:21:51.66,0:21:59.66,Default,,0000,0000,0000,,It's not a dream, is it?
+Dialogue: 0,0:22:02.89,0:22:10.89,Default,,0000,0000,0000,,Ace is really dead, isn't he?!
+Dialogue: 0,0:22:13.84,0:22:21.84,Default,,0000,0000,0000,,Yes, he is dead!
+Dialogue: 0,0:22:24.78,0:22:28.00,Default,,0000,0000,0000,,Hey grandpa, who is Ace?
+Dialogue: 0,0:22:28.02,0:22:31.19,Default,,0000,0000,0000,,Oh, he is...
+Dialogue: 0,0:22:31.21,0:22:36.32,Default,,0000,0000,0000,,...the guy who will become your brother!
+Dialogue: 0,0:22:36.34,0:22:41.66,Default,,0000,0000,0000,,Luffy! I'll see you at the \Ntop of the pirates' world!
+Dialogue: 0,0:22:41.68,0:22:49.68,Default,,0000,0000,0000,,Come to the top!
+Dialogue: 0,0:22:59.74,0:23:07.74,Default,,0000,0000,0000,,Ace!!
+Dialogue: 0,0:23:11.32,0:23:13.82,Default,,0000,0000,0000,,Next week is a special \Ncollaboration with Toriko!
+Dialogue: 0,0:23:13.84,0:23:15.57,Default,,0000,0000,0000,,Those Barbecue Pigs are scary!
+Dialogue: 0,0:23:15.59,0:23:17.50,Default,,0000,0000,0000,,Whew, I'm stuffed! That was tasty!
+Dialogue: 0,0:23:17.52,0:23:19.80,Default,,0000,0000,0000,,Apparently there are lots \Nmore of these things!
+Dialogue: 0,0:23:19.82,0:23:20.66,Default,,0000,0000,0000,,Really?!
+Dialogue: 0,0:23:20.68,0:23:23.15,Default,,0000,0000,0000,,That's what Toriko said! I wanna go home!
+Dialogue: 0,0:23:23.17,0:23:25.08,Default,,0000,0000,0000,,Okay! We're going with Toriko!
+Dialogue: 0,0:23:25.10,0:23:26.29,Default,,0000,0000,0000,,What?!
+Dialogue: 0,0:23:26.31,0:23:28.83,Default,,0000,0000,0000,,Next week, the special Toriko x \NOne Piece collaboration episode!
+Dialogue: 0,0:23:28.85,0:23:31.73,Default,,0000,0000,0000,,"The Strongest Tag-Team! Luffy \Nand Toriko's Hard Struggle!"
+Dialogue: 0,0:23:31.75,0:23:39.75,Default,,0000,0000,0000,,Don't miss it!

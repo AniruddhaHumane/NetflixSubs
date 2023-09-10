@@ -1,0 +1,280 @@
+﻿[Script Info]
+Title: English (US)
+Original Script: ToeiAnimation  [http://www.crunchyroll.com/user/ToeiAnimation]
+Original Translation: 
+Original Editing: 
+Original Timing: 
+Synch Point: 
+Script Updated By: 
+Update Details: 
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 640
+PlayResY: 360
+Timer: 0.0000
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name,Fontname,Fontsize,PrimaryColour,SecondaryColour,OutlineColour,BackColour,Bold,Italic,Underline,Strikeout,ScaleX,ScaleY,Spacing,Angle,BorderStyle,Outline,Shadow,Alignment,MarginL,MarginR,MarginV,Encoding
+Style: Default,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,2,0020,0020,0022,0
+Style: B1,Arial,32,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,2,0070,0070,0030,0
+Style: OS,Arial,18,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,8,0001,0001,0015,0
+Style: Italics,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,-1,0,0,100,100,0,0,1,2,1,2,0020,0020,0022,0
+Style: Ep Title,Arial,18,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,3,0170,0070,0020,0
+Style: Copy of Ep Title,Arial,18,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,3,0070,0226,0065,0
+Style: On Top,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,8,0020,0020,0022,0
+Style: Copy of OS,Arial,18,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,9,0020,0020,0020,0
+Style: DefaultLow,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,2,0020,0020,0010,0
+Style: onscreensigns,Arial,18,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,3,0400,0040,0020,0
+Style: onscreensign2,Arial,18,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,1,0030,0040,0040,0
+Style: name right,Arial,18,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,9,0030,0040,0040,0
+Style: name left,Arial,18,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,7,0030,0040,0040,0
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:01.80,0:00:01.78,Default,,0000,0000,0000,,{\i1}I've never seen the end of the world with my own eyes{\i}
+Dialogue: 0,0:00:01.80,0:00:07.71,On Top,,0000,0000,0000,,{\i1}kono sekai no hate nante kono me de mita wake janai{\i}
+Dialogue: 0,0:00:07.73,0:00:07.71,Default,,0000,0000,0000,,{\i1}That's why I start a journey with you, we can!{\i}
+Dialogue: 0,0:00:07.73,0:00:15.73,On Top,,0000,0000,0000,,{\i1}dakara tabidatsun da kimi to, we can!{\i}
+Dialogue: 0,0:00:24.91,0:00:24.89,Default,,0000,0000,0000,,{\i1}Traveling from sea to sea{\i}
+Dialogue: 0,0:00:24.91,0:00:30.06,On Top,,0000,0000,0000,,{\i1}umi kara umi wo mata ni kakete{\i}
+Dialogue: 0,0:00:30.08,0:00:30.06,Default,,0000,0000,0000,,{\i1}In search of the one-piece treasure{\i}
+Dialogue: 0,0:00:30.08,0:00:35.61,On Top,,0000,0000,0000,,{\i1}hitotsunagi no takara sagashi ni{\i}
+Dialogue: 0,0:00:35.63,0:00:35.61,Default,,0000,0000,0000,,{\i1}Despite the fact that everyone laughs and says{\i}
+Dialogue: 0,0:00:35.63,0:00:40.66,On Top,,0000,0000,0000,,{\i1}sonna no yumemonogatari dato{\i}
+Dialogue: 0,0:00:40.68,0:00:40.66,Default,,0000,0000,0000,,{\i1}that it's just a fantasy{\i}
+Dialogue: 0,0:00:40.68,0:00:43.70,On Top,,0000,0000,0000,,{\i1}daremo ga waratteiru kedo{\i}
+Dialogue: 0,0:00:43.72,0:00:43.70,Default,,0000,0000,0000,,{\i1}A rush of excitement is our only compass{\i}
+Dialogue: 0,0:00:43.72,0:00:51.33,On Top,,0000,0000,0000,,{\i1}mune no takaburi dake ga rashinban{\i}
+Dialogue: 0,0:00:51.35,0:00:51.33,Default,,0000,0000,0000,,{\i1}Just keep pretending you know everything{\i}
+Dialogue: 0,0:00:51.35,0:00:55.04,On Top,,0000,0000,0000,,{\i1}shittakaburi shitero yo{\i}
+Dialogue: 0,0:00:55.06,0:00:55.04,Default,,0000,0000,0000,,{\i1}Textbooks are just guidebooks{\i}
+Dialogue: 0,0:00:55.06,0:01:02.01,On Top,,0000,0000,0000,,{\i1}kyoukasho nante sa guidebook{\i}
+Dialogue: 0,0:01:02.03,0:01:02.01,Default,,0000,0000,0000,,{\i1}Both the rain and our tears will eventually stop{\i}
+Dialogue: 0,0:01:02.03,0:01:04.68,On Top,,0000,0000,0000,,{\i1}ame mo namida mo itsuka wa yamu{\i}
+Dialogue: 0,0:01:04.70,0:01:04.68,Default,,0000,0000,0000,,{\i1}Hold up your head, pull up anchor{\i}
+Dialogue: 0,0:01:04.70,0:01:07.68,On Top,,0000,0000,0000,,{\i1}kao wo agero ikari wo agero{\i}
+Dialogue: 0,0:01:07.70,0:01:07.68,Default,,0000,0000,0000,,{\i1}Once the storm in your heart subsides{\i}
+Dialogue: 0,0:01:07.70,0:01:10.39,On Top,,0000,0000,0000,,{\i1}kokoro no arashi ga sugita nara{\i}
+Dialogue: 0,0:01:10.41,0:01:10.39,Default,,0000,0000,0000,,{\i1}Take the helm, now, win a victory{\i}
+Dialogue: 0,0:01:10.41,0:01:12.94,On Top,,0000,0000,0000,,{\i1}kajitore saa kachitore{\i}
+Dialogue: 0,0:01:12.96,0:01:12.94,Default,,0000,0000,0000,,{\i1}By the time tomorrow's wind blows{\i}
+Dialogue: 0,0:01:12.96,0:01:15.65,On Top,,0000,0000,0000,,{\i1}ashita no kaze ga fuku koro niwa{\i}
+Dialogue: 0,0:01:15.67,0:01:15.65,Default,,0000,0000,0000,,{\i1}Get refreshed, spread sail, chest out{\i}
+Dialogue: 0,0:01:15.67,0:01:18.40,On Top,,0000,0000,0000,,{\i1}harebare ho wo hare mune wo hare{\i}
+Dialogue: 0,0:01:18.42,0:01:18.40,Default,,0000,0000,0000,,{\i1}It makes me long to see someone{\i}
+Dialogue: 0,0:01:18.42,0:01:20.74,On Top,,0000,0000,0000,,{\i1}dareka ni aitakunarun da{\i}
+Dialogue: 0,0:01:20.76,0:01:20.74,Default,,0000,0000,0000,,{\i1}There are tons of unimaginable truth{\i}
+Dialogue: 0,0:01:20.76,0:01:28.58,On Top,,0000,0000,0000,,{\i1}souzou tsukanai koto bakari daro{\i}
+Dialogue: 0,0:01:28.60,0:01:28.58,Default,,0000,0000,0000,,{\i1}Don't turn a blind eye{\i}
+Dialogue: 0,0:01:28.60,0:01:32.29,On Top,,0000,0000,0000,,{\i1}miteminufuri suruna yo{\i}
+Dialogue: 0,0:01:32.31,0:01:32.29,Default,,0000,0000,0000,,{\i1}Common sense is just the mind of the masses{\i}
+Dialogue: 0,0:01:32.31,0:01:40.31,On Top,,0000,0000,0000,,{\i1}joushiki nante sa tasuuketsu{\i}
+Dialogue: 0,0:01:40.69,0:01:40.67,Default,,0000,0000,0000,,{\i1}I've never seen the end of the world with my own eyes{\i}
+Dialogue: 0,0:01:40.69,0:01:46.35,On Top,,0000,0000,0000,,{\i1}kono sekai no hate nante kono me de mita wake janai{\i}
+Dialogue: 0,0:01:46.37,0:01:46.35,Default,,0000,0000,0000,,{\i1}That's why we've got to go, Captain Live-By-My-Own-Rules{\i}
+Dialogue: 0,0:01:46.37,0:01:51.27,On Top,,0000,0000,0000,,{\i1}dakara ikou ze amano jack senchou{\i}
+Dialogue: 0,0:01:51.29,0:01:51.27,Default,,0000,0000,0000,,{\i1}Who says it's impossible? Nothing has started yet{\i}
+Dialogue: 0,0:01:51.29,0:01:57.06,On Top,,0000,0000,0000,,{\i1}dekiyashinai koto tte nani? mada nani mo hajimatte nai{\i}
+Dialogue: 0,0:01:57.08,0:01:57.06,Default,,0000,0000,0000,,{\i1}I want to know everything now, yes, we can!{\i}
+Dialogue: 0,0:01:57.08,0:02:01.99,On Top,,0000,0000,0000,,{\i1}subete shiritain da ima, yes, we can!{\i}
+Dialogue: 0,0:02:02.01,0:02:01.99,Default,,0000,0000,0000,,{\i1}Yes, we can! You can!{\i}
+Dialogue: 0,0:02:02.01,0:02:05.03,On Top,,0000,0000,0000,,{\i1}Yes, we can! You can!{\i}
+Dialogue: 0,0:02:05.05,0:02:05.03,Default,,0000,0000,0000,,{\i1}This moment{\i}
+Dialogue: 0,0:02:05.05,0:02:08.08,On Top,,0000,0000,0000,,{\i1}kono shunkan{\i}
+Dialogue: 0,0:02:08.10,0:02:08.08,Default,,0000,0000,0000,,{\i1}We can! I can!{\i}
+Dialogue: 0,0:02:08.10,0:02:10.70,On Top,,0000,0000,0000,,{\i1}We can! I can!{\i}
+Dialogue: 0,0:02:10.72,0:02:10.70,Default,,0000,0000,0000,,{\i1}This great feeling{\i}
+Dialogue: 0,0:02:10.72,0:02:13.41,On Top,,0000,0000,0000,,{\i1}kono kaikan{\i}
+Dialogue: 0,0:02:13.43,0:02:13.41,Default,,0000,0000,0000,,{\i1}Now, now, yes, we can!{\i}
+Dialogue: 0,0:02:13.43,0:02:21.43,On Top,,0000,0000,0000,,{\i1}ima ima, yes, we can!{\i}
+Dialogue: 0,0:02:26.66,0:02:26.64,Default,,0000,0000,0000,,{\i1}Yes, we can!{\i}
+Dialogue: 0,0:02:26.66,0:02:32.77,On Top,,0000,0000,0000,,{\i1}Yes, we can!{\i}
+Dialogue: 0,0:02:32.79,0:02:36.31,Default,,0000,0000,0000,,{\i1}The goal is the last island - Raftel{\i}
+Dialogue: 0,0:02:36.33,0:02:41.69,Default,,0000,0000,0000,,{\i1}and the Great Treasure of One Piece!{\i}
+Dialogue: 0,0:02:41.71,0:02:45.15,Default,,0000,0000,0000,,{\i1}However, no one has ever reached\Nthe legendary island...{\i}
+Dialogue: 0,0:02:45.17,0:02:49.91,Default,,0000,0000,0000,,{\i1}...except for Gold Roger, King of the Pirates.{\i}
+Dialogue: 0,0:02:49.93,0:02:52.33,Default,,0000,0000,0000,,{\i1}It is the Great Pirate Era.{\i}
+Dialogue: 0,0:02:52.35,0:02:56.75,Default,,0000,0000,0000,,{\i1}While the monsters of the New World\Nfight each other fiercely,{\i}
+Dialogue: 0,0:02:56.77,0:03:02.55,Default,,0000,0000,0000,,{\i1}the Straw Hat Pirates are\Nin the center of the storm!{\i}
+Dialogue: 0,0:03:02.57,0:03:05.68,Default,,0000,0000,0000,,{\i1}Their captain is a rubber man\Nwho ate the Gum-Gum Fruit.{\i}
+Dialogue: 0,0:03:05.70,0:03:08.43,Default,,0000,0000,0000,,{\i1}Monkey D. Luffy!{\i}
+Dialogue: 0,0:03:08.45,0:03:09.64,Default,,0000,0000,0000,,{\i1}Zoro!{\i}
+Dialogue: 0,0:03:09.66,0:03:10.85,Default,,0000,0000,0000,,{\i1}Nami!{\i}
+Dialogue: 0,0:03:10.87,0:03:12.06,Default,,0000,0000,0000,,{\i1}Usopp!{\i}
+Dialogue: 0,0:03:12.08,0:03:13.39,Default,,0000,0000,0000,,{\i1}Sanji!{\i}
+Dialogue: 0,0:03:13.41,0:03:14.64,Default,,0000,0000,0000,,{\i1}Chopper!{\i}
+Dialogue: 0,0:03:14.66,0:03:15.77,Default,,0000,0000,0000,,{\i1}Robin!{\i}
+Dialogue: 0,0:03:15.79,0:03:17.06,Default,,0000,0000,0000,,{\i1}Franky!{\i}
+Dialogue: 0,0:03:17.08,0:03:18.52,Default,,0000,0000,0000,,{\i1}Brook!{\i}
+Dialogue: 0,0:03:18.54,0:03:21.77,Default,,0000,0000,0000,,{\i1}This tight-knit group of nine pirates...{\i}
+Dialogue: 0,0:03:21.79,0:03:26.86,Default,,0000,0000,0000,,{\i1}...are making their way through the vast sea\Nwith their sights set on the One Piece!{\i}
+Dialogue: 0,0:03:26.88,0:03:34.50,Default,,0000,0000,0000,,I'm gonna become the King of the Pirates!
+Dialogue: 0,0:03:34.52,0:03:39.75,Default,,0000,0000,0000,,{\i1}To take back Sanji who was being pressed into a marriage\Nand left his friends behind,{\i}
+Dialogue: 0,0:03:39.77,0:03:44.88,Default,,0000,0000,0000,,{\i1}Luffy and the others infiltrated the Whole Cake Island\Nwhere Emperor Big Mom is.{\i}
+Dialogue: 0,0:03:44.90,0:03:48.84,Default,,0000,0000,0000,,{\i1}The Seducing Woods is the forest with no escape.{\i}
+Dialogue: 0,0:03:48.86,0:03:53.22,Default,,0000,0000,0000,,{\i1}As Luffy and Nami discovered that\NPound was Big Mom's husband,{\i}
+Dialogue: 0,0:03:53.24,0:03:56.85,Default,,0000,0000,0000,,{\i1}Cracker, one of the Sweet 3 Generals,\Nshowed up.{\i}
+Dialogue: 0,0:03:56.87,0:04:03.27,Default,,0000,0000,0000,,Cracker-{\i1}kun{\i}, let go of me!\NI just want to see Lola and Chiffon...
+Dialogue: 0,0:04:03.29,0:04:08.24,Default,,0000,0000,0000,,I just want to see my daughters!
+Dialogue: 0,0:04:08.26,0:04:11.70,Default,,0000,0000,0000,,Wh-What are you gonna do to me?!
+Dialogue: 0,0:04:11.72,0:04:15.16,Default,,0000,0000,0000,,Mama told me\Nwhat she wants me to do with you.
+Dialogue: 0,0:04:15.18,0:04:17.91,Default,,0000,0000,0000,,What? Did she?
+Dialogue: 0,0:04:17.93,0:04:19.58,Default,,0000,0000,0000,,She said I can kill you.
+Dialogue: 0,0:04:19.60,0:04:26.17,Default,,0000,0000,0000,,What?!
+Dialogue: 0,0:04:26.19,0:04:28.47,Default,,0000,0000,0000,,Th-Think about it!
+Dialogue: 0,0:04:28.49,0:04:33.68,Default,,0000,0000,0000,,I'm your stepfather, Cracker-{\i1}kun{\i}!
+Dialogue: 0,0:04:33.70,0:04:37.10,Default,,0000,0000,0000,,You used to be! Not now!
+Dialogue: 0,0:04:37.12,0:04:45.12,Default,,0000,0000,0000,,Mama considers her 43 ex-husbands as\Nstrangers unrelated to us by blood.
+Dialogue: 0,0:04:45.63,0:04:51.16,Default,,0000,0000,0000,,How dare you!\NBut I'm definitely related to my daughters by blood!
+Dialogue: 0,0:04:51.18,0:04:52.16,Default,,0000,0000,0000,,Enough!
+Dialogue: 0,0:04:52.18,0:04:57.50,Default,,0000,0000,0000,,I just want to give my blessing to my daughters!
+Dialogue: 0,0:04:57.52,0:05:05.52,Default,,0000,0000,0000,,{\i1}Cracker was about to give Pound a death blow\Nsince he revealed Big Mom's secret to Luffy and Nami.{\i}
+Dialogue: 0,0:05:28.71,0:05:31.45,Default,,0000,0000,0000,,Was that out of sympathy?
+Dialogue: 0,0:05:31.47,0:05:39.33,Default,,0000,0000,0000,,I've run in to him dozens of times!\NOf course I became attached to him!
+Dialogue: 0,0:05:39.35,0:05:47.35,Default,,0000,0000,0000,,{\i1}"An Enemy Worth 800 million!\NLuffy vs. Thousand Armed Cracker!"{\i}
+Dialogue: 0,0:05:47.48,0:05:55.48,Default,,0000,0000,0000,,Evacuate! We'll get hurt too!
+Dialogue: 0,0:06:00.33,0:06:08.33,Default,,0000,0000,0000,,Run!
+Dialogue: 0,0:06:36.41,0:06:42.89,Default,,0000,0000,0000,,Gear Two!
+Dialogue: 0,0:06:42.91,0:06:45.73,Default,,0000,0000,0000,,Gum-Gum...
+Dialogue: 0,0:06:45.75,0:06:53.75,Default,,0000,0000,0000,,...Red Hawk!
+Dialogue: 0,0:07:01.97,0:07:04.04,Default,,0000,0000,0000,,I'm not done!
+Dialogue: 0,0:07:04.06,0:07:08.33,Default,,0000,0000,0000,,Straw Hat!
+Dialogue: 0,0:07:08.35,0:07:16.35,Default,,0000,0000,0000,,What?! What the...
+Dialogue: 0,0:07:18.24,0:07:21.60,Default,,0000,0000,0000,,What?! He's got another arm!
+Dialogue: 0,0:07:21.62,0:07:23.85,Default,,0000,0000,0000,,How is that possible?!
+Dialogue: 0,0:07:23.87,0:07:31.87,Default,,0000,0000,0000,,Here I go!
+Dialogue: 0,0:07:32.34,0:07:40.34,Default,,0000,0000,0000,,What?! He's got another one!
+Dialogue: 0,0:07:42.56,0:07:50.56,Default,,0000,0000,0000,,Stop this useless resistance, Straw Hat!
+Dialogue: 0,0:08:07.71,0:08:15.71,Default,,0000,0000,0000,,Is this really Big Mom's Vivre Card?!
+Dialogue: 0,0:08:28.98,0:08:30.63,Default,,0000,0000,0000,,Luffy! No!
+Dialogue: 0,0:08:30.65,0:08:38.65,Default,,0000,0000,0000,,You okay?!
+Dialogue: 0,0:08:40.66,0:08:45.68,Default,,0000,0000,0000,,C-Cracker-{\i1}kun{\i}!
+Dialogue: 0,0:08:45.70,0:08:47.56,Default,,0000,0000,0000,,He has extra arms!
+Dialogue: 0,0:08:47.58,0:08:50.02,Default,,0000,0000,0000,,Damn!
+Dialogue: 0,0:08:50.04,0:08:51.77,Default,,0000,0000,0000,,That bastard!
+Dialogue: 0,0:08:51.79,0:08:59.45,Default,,0000,0000,0000,,I'm the Biscuit Knight - Cracker,\None of the Sweet 3 Generals.
+Dialogue: 0,0:08:59.47,0:09:02.32,Default,,0000,0000,0000,,Also known as...
+Dialogue: 0,0:09:02.34,0:09:05.16,Default,,0000,0000,0000,,...Thousand Armed Cracker.
+Dialogue: 0,0:09:05.18,0:09:09.66,Default,,0000,0000,0000,,If I tap once, it becomes two.
+Dialogue: 0,0:09:09.68,0:09:13.96,Default,,0000,0000,0000,,If I tap it again,
+Dialogue: 0,0:09:13.98,0:09:16.05,Default,,0000,0000,0000,,it becomes three.
+Dialogue: 0,0:09:16.07,0:09:17.05,Default,,0000,0000,0000,,What?!
+Dialogue: 0,0:09:17.07,0:09:25.07,Default,,0000,0000,0000,,They'll keep multiplying.
+Dialogue: 0,0:09:25.70,0:09:29.60,Default,,0000,0000,0000,,His legs have multiplied too.
+Dialogue: 0,0:09:29.62,0:09:30.60,Default,,0000,0000,0000,,Don't even dream of beating me.
+Dialogue: 0,0:09:30.62,0:09:32.60,On Top,,0000,0000,0000,,THOUSAND ARMED CRACKER - ONE OF THE SWEET 3 GENERALS\NEMPEROR BIG MOM PIRATES\NBOUNTY: 860 MILLION BERRIES
+Dialogue: 0,0:09:32.62,0:09:36.15,Default,,0000,0000,0000,,I won't let you screw up Mama's tea party!
+Dialogue: 0,0:09:36.17,0:09:43.16,Default,,0000,0000,0000,,You've got extra limbs. So what?!\NGear Two!
+Dialogue: 0,0:09:43.18,0:09:45.91,Default,,0000,0000,0000,,Gum-Gum...
+Dialogue: 0,0:09:45.93,0:09:47.49,Default,,0000,0000,0000,,...Jet...
+Dialogue: 0,0:09:47.51,0:09:51.29,Default,,0000,0000,0000,,...Bullet!
+Dialogue: 0,0:09:51.31,0:09:53.29,Default,,0000,0000,0000,,Gum-Gum...
+Dialogue: 0,0:09:53.31,0:10:01.31,Default,,0000,0000,0000,,...Hawk Whip!
+Dialogue: 0,0:10:03.86,0:10:08.81,Default,,0000,0000,0000,,Luffy! No! Don't get into an all-out fight!\NThat's not our objective!
+Dialogue: 0,0:10:08.83,0:10:14.40,Default,,0000,0000,0000,,We gotta get out of here\Nand get Sanji-{\i1}kun{\i} back!
+Dialogue: 0,0:10:14.42,0:10:17.11,Default,,0000,0000,0000,,I only know how to fight...
+Dialogue: 0,0:10:17.13,0:10:25.13,Default,,0000,0000,0000,,...all-out!
+Dialogue: 0,0:10:26.72,0:10:29.49,Default,,0000,0000,0000,,Humph! What an insolent brat!
+Dialogue: 0,0:10:29.51,0:10:33.75,Default,,0000,0000,0000,,Look at this sword! Isn't it something?
+Dialogue: 0,0:10:33.77,0:10:38.96,Default,,0000,0000,0000,,It's called Pretzel!\NIt's a one and only sword in the world!
+Dialogue: 0,0:10:38.98,0:10:43.93,Default,,0000,0000,0000,,I'll teach you a lesson\Nabout the roughness of the New World!
+Dialogue: 0,0:10:43.95,0:10:49.56,Default,,0000,0000,0000,,What?! A one and only sword?!\NBut you've got six!
+Dialogue: 0,0:10:49.58,0:10:55.77,Default,,0000,0000,0000,,H-Hey!
+Dialogue: 0,0:10:55.79,0:10:57.65,Default,,0000,0000,0000,,Let's run for now, Luffy!
+Dialogue: 0,0:10:57.67,0:10:59.82,Default,,0000,0000,0000,,No way!
+Dialogue: 0,0:10:59.84,0:11:04.61,Default,,0000,0000,0000,,Gear Three!
+Dialogue: 0,0:11:04.63,0:11:08.41,Default,,0000,0000,0000,,Gum-Gum...
+Dialogue: 0,0:11:08.43,0:11:16.43,Default,,0000,0000,0000,,...Elephant Gun!
+Dialogue: 0,0:11:26.57,0:11:34.57,Default,,0000,0000,0000,,You fools have got nowhere to run!
+Dialogue: 0,0:11:35.00,0:11:43.00,Default,,0000,0000,0000,,Damn!
+Dialogue: 0,0:11:52.35,0:12:00.35,Default,,0000,0000,0000,,Pretzel Roll!
+Dialogue: 0,0:12:36.22,0:12:37.87,Default,,0000,0000,0000,,That's my brother!
+Dialogue: 0,0:12:37.89,0:12:45.89,Default,,0000,0000,0000,,Luffy...
+Dialogue: 0,0:12:59.08,0:13:00.60,Default,,0000,0000,0000,,Oh, no!
+Dialogue: 0,0:13:00.62,0:13:05.73,Default,,0000,0000,0000,,They are members of the Emperor's clan!\NWe should've been more careful!
+Dialogue: 0,0:13:05.75,0:13:13.75,Default,,0000,0000,0000,,Even Luffy's having a hard time\Nwith her subordinate!
+Dialogue: 0,0:13:17.77,0:13:22.38,Default,,0000,0000,0000,,Luffy! Run!
+Dialogue: 0,0:13:22.40,0:13:26.38,Default,,0000,0000,0000,,Wh-What the...
+Dialogue: 0,0:13:26.40,0:13:30.63,Default,,0000,0000,0000,,Stop there! I'll fight you two!
+Dialogue: 0,0:13:30.65,0:13:38.65,Default,,0000,0000,0000,,Me too-{\i1}ju{\i}!
+Dialogue: 0,0:14:03.06,0:14:08.80,Default,,0000,0000,0000,,I know how you feel.\NYou got scared suddenly, right?
+Dialogue: 0,0:14:08.82,0:14:12.84,Default,,0000,0000,0000,,The Worst Generation?\NWhat's so "worst" about it?!
+Dialogue: 0,0:14:12.86,0:14:16.80,Default,,0000,0000,0000,,After being puffed up\Nin the first half of the Grand Line,
+Dialogue: 0,0:14:16.82,0:14:24.23,Default,,0000,0000,0000,,lots of underlings came here saying "Our captain\Nwill become the Pirate King" - only to be disappointed.
+Dialogue: 0,0:14:24.25,0:14:27.15,Default,,0000,0000,0000,,I've seen tons of those cases!
+Dialogue: 0,0:14:27.17,0:14:34.03,Default,,0000,0000,0000,,Even in the last two years, a number of those pirates\Ncame wandering in Mama's territory.
+Dialogue: 0,0:14:34.05,0:14:36.03,Default,,0000,0000,0000,,"Captain" Kid.
+Dialogue: 0,0:14:36.05,0:14:38.12,Default,,0000,0000,0000,,"Roar of the Sea" Apoo.
+Dialogue: 0,0:14:38.14,0:14:40.08,Default,,0000,0000,0000,,"Gang" Bege.
+Dialogue: 0,0:14:40.10,0:14:42.66,Default,,0000,0000,0000,,"Mad Monk" Urouge.
+Dialogue: 0,0:14:42.68,0:14:48.71,Default,,0000,0000,0000,,Except for Bege who found his bearings instantly\Nand became our ally,
+Dialogue: 0,0:14:48.73,0:14:56.73,Default,,0000,0000,0000,,everyone got driven away\Nwithout even seeing Mama or hearing her voice!
+Dialogue: 0,0:14:57.20,0:15:00.26,Default,,0000,0000,0000,,The only one who held on was...
+Dialogue: 0,0:15:00.28,0:15:03.94,Default,,0000,0000,0000,,..."Mad Monk" Urouge!
+Dialogue: 0,0:15:03.96,0:15:08.56,Default,,0000,0000,0000,,He was impudent enough to defeat\None of the Sweet Generals!
+Dialogue: 0,0:15:08.58,0:15:16.58,Default,,0000,0000,0000,,They were the Sweet 4 Generals\Nuntil not so long ago.
+Dialogue: 0,0:15:27.81,0:15:30.63,Default,,0000,0000,0000,,That's it!
+Dialogue: 0,0:15:30.65,0:15:38.65,Default,,0000,0000,0000,,I guess I can't see an Emperor's face that easily.
+Dialogue: 0,0:16:03.81,0:16:09.29,Default,,0000,0000,0000,,You've roughed me up so much.
+Dialogue: 0,0:16:09.31,0:16:17.31,Default,,0000,0000,0000,,Retribution!
+Dialogue: 0,0:16:25.16,0:16:27.02,Default,,0000,0000,0000,,What?!
+Dialogue: 0,0:16:27.04,0:16:32.32,Default,,0000,0000,0000,,Is that all you've got, "Mad Monk" Urouge?
+Dialogue: 0,0:16:32.34,0:16:40.34,Default,,0000,0000,0000,,Pretzel Roll!
+Dialogue: 0,0:16:46.89,0:16:49.04,Default,,0000,0000,0000,,But that was it.
+Dialogue: 0,0:16:49.06,0:16:55.00,Default,,0000,0000,0000,,He made Mama mad\Nand got beaten badly by Brother Cracker!
+Dialogue: 0,0:16:55.02,0:16:57.84,Default,,0000,0000,0000,,He has nowhere to run!
+Dialogue: 0,0:16:57.86,0:17:05.86,Default,,0000,0000,0000,,I bet he's dead in a ditch somewhere by now!
+Dialogue: 0,0:17:08.37,0:17:16.37,Default,,0000,0000,0000,,She disappeared!
+Dialogue: 0,0:17:20.42,0:17:22.28,Default,,0000,0000,0000,,Listen!
+Dialogue: 0,0:17:22.30,0:17:30.30,Default,,0000,0000,0000,,You've reached a dead end in the New World!
+Dialogue: 0,0:17:32.56,0:17:36.84,Default,,0000,0000,0000,,Fighting an Emperor?\NThat's just a dream!
+Dialogue: 0,0:17:36.86,0:17:39.59,Default,,0000,0000,0000,,You can't even see Mama!
+Dialogue: 0,0:17:39.61,0:17:44.05,Default,,0000,0000,0000,,Sneaking into the tea party?\NMessing up the wedding?!
+Dialogue: 0,0:17:44.07,0:17:49.52,Default,,0000,0000,0000,,And taking your friend back?!\NThat's not gonna happen!
+Dialogue: 0,0:17:49.54,0:17:57.54,Default,,0000,0000,0000,,You guys will die in this forest\Nwithout even seeing Mama!
+Dialogue: 0,0:17:58.55,0:18:03.11,Default,,0000,0000,0000,,M-My baton...
+Dialogue: 0,0:18:03.13,0:18:08.74,Default,,0000,0000,0000,,Now, come to the Mirro-world!
+Dialogue: 0,0:18:08.76,0:18:12.75,Default,,0000,0000,0000,,Let go of me!
+Dialogue: 0,0:18:12.77,0:18:16.38,Default,,0000,0000,0000,,Come on! Come on! Come to me!
+Dialogue: 0,0:18:16.40,0:18:22.68,Default,,0000,0000,0000,,I'll cut up your face and body slowly\Nin the other dimension!
+Dialogue: 0,0:18:22.70,0:18:26.18,Default,,0000,0000,0000,,No!
+Dialogue: 0,0:18:26.20,0:18:33.73,Default,,0000,0000,0000,,Let go of me!
+Dialogue: 0,0:18:33.75,0:18:41.75,Default,,0000,0000,0000,,Let go of me!\NGet your hands off of me!
+Dialogue: 0,0:18:44.05,0:18:52.05,Default,,0000,0000,0000,,Don't!
+Dialogue: 0,0:19:01.15,0:19:06.68,Default,,0000,0000,0000,,Pound-{\i1}chan{\i}!
+Dialogue: 0,0:19:06.70,0:19:08.64,Default,,0000,0000,0000,,Just give up!
+Dialogue: 0,0:19:08.66,0:19:16.66,Default,,0000,0000,0000,,Let go of her, Brulee!
+Dialogue: 0,0:19:23.34,0:19:25.03,Default,,0000,0000,0000,,Thank you!
+Dialogue: 0,0:19:25.05,0:19:26.99,Default,,0000,0000,0000,,Stepfather Pound!
+Dialogue: 0,0:19:27.01,0:19:31.49,Default,,0000,0000,0000,,I mean, Pound!\NWhat you just did was treason against Mama!
+Dialogue: 0,0:19:31.51,0:19:33.16,Default,,0000,0000,0000,,Treason?!
+Dialogue: 0,0:19:33.18,0:19:41.18,Default,,0000,0000,0000,,You're a dead man! No one will save you!
+Dialogue: 0,0:19:46.74,0:19:48.89,Default,,0000,0000,0000,,Thunderbolt...
+Dialogue: 0,0:19:48.91,0:19:56.91,Default,,0000,0000,0000,,...Tempo!
+Dialogue: 0,0:20:39.29,0:20:43.69,Default,,0000,0000,0000,,It's so powerful! My Climate Baton!
+Dialogue: 0,0:20:43.71,0:20:46.86,Default,,0000,0000,0000,,Brulee will come back.
+Dialogue: 0,0:20:46.88,0:20:53.33,Default,,0000,0000,0000,,She can show up any place that has a mirror.
+Dialogue: 0,0:20:53.35,0:20:56.50,Default,,0000,0000,0000,,I'm sorry. You did it to help me!
+Dialogue: 0,0:20:56.52,0:21:02.42,Default,,0000,0000,0000,,I was targeted to be killed anyway.
+Dialogue: 0,0:21:02.44,0:21:08.76,Default,,0000,0000,0000,,By my ex-wife.
+Dialogue: 0,0:21:08.78,0:21:13.22,Default,,0000,0000,0000,,By the way, are you Lola's friend?
+Dialogue: 0,0:21:13.24,0:21:21.24,Default,,0000,0000,0000,,Uh-huh.
+Dialogue: 0,0:21:25.63,0:21:28.32,Default,,0000,0000,0000,,I see. It's no mistake!
+Dialogue: 0,0:21:28.34,0:21:32.87,Default,,0000,0000,0000,,Lola's mother is Big Mom.
+Dialogue: 0,0:21:32.89,0:21:38.66,Default,,0000,0000,0000,,The fact that those trees in the forest\Nare afraid of this Vivre Card is the proof.
+Dialogue: 0,0:21:38.68,0:21:46.68,Default,,0000,0000,0000,,I'll make the most of it, Lola!
+Dialogue: 0,0:22:08.05,0:22:16.05,Default,,0000,0000,0000,,Pretzel Roll!
+Dialogue: 0,0:22:16.14,0:22:18.66,Default,,0000,0000,0000,,Gum-Gum...
+Dialogue: 0,0:22:18.68,0:22:26.68,Default,,0000,0000,0000,,...Jet Stamp Gatling!
+Dialogue: 0,0:22:31.19,0:22:38.06,Default,,0000,0000,0000,,It's no use, Straw Hat!\NYour techniques won't work against me!
+Dialogue: 0,0:22:38.08,0:22:42.44,Default,,0000,0000,0000,,Damn!
+Dialogue: 0,0:22:42.46,0:22:44.23,Default,,0000,0000,0000,,Get away!
+Dialogue: 0,0:22:44.25,0:22:52.25,Default,,0000,0000,0000,,Don't get involved in their fight!
+Dialogue: 0,0:22:53.42,0:22:56.28,Default,,0000,0000,0000,,Give up, Straw Hat!
+Dialogue: 0,0:22:56.30,0:23:04.30,Default,,0000,0000,0000,,Shut up! I'm gonna go see Sanji!
+Dialogue: 0,0:23:10.40,0:23:14.93,Default,,0000,0000,0000,,{\i1}Cracker's extraordinary strength leaves\NLuffy completely helpless!{\i}
+Dialogue: 0,0:23:14.95,0:23:20.31,Default,,0000,0000,0000,,{\i1}He gets blown about and crushed but when he hears\Nhis enemy making fun of Sanji, he finally erupts in rage!{\i}
+Dialogue: 0,0:23:20.33,0:23:26.02,Default,,0000,0000,0000,,{\i1}Luffy's deadly blow using Gear Four\Nand Cracker's hidden power clash!{\i}
+Dialogue: 0,0:23:26.04,0:23:30.94,Default,,0000,0000,0000,,On the next episode of One Piece!\N"An All-out Duel! Gear Four vs. the Bis-Bis Ability!"
+Dialogue: 0,0:23:30.96,0:23:38.96,Default,,0000,0000,0000,,I'm gonna be the King of the Pirates!

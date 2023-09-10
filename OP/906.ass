@@ -1,0 +1,276 @@
+﻿[Script Info]
+Title: English (US)
+Original Script: ToeiAnimation  [http://www.crunchyroll.com/user/ToeiAnimation]
+Original Translation: 
+Original Editing: 
+Original Timing: 
+Synch Point: 
+Script Updated By: 
+Update Details: 
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 640
+PlayResY: 360
+Timer: 0.0000
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name,Fontname,Fontsize,PrimaryColour,SecondaryColour,OutlineColour,BackColour,Bold,Italic,Underline,Strikeout,ScaleX,ScaleY,Spacing,Angle,BorderStyle,Outline,Shadow,Alignment,MarginL,MarginR,MarginV,Encoding
+Style: Default,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,2,0020,0020,0022,0
+Style: OS,Arial,18,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,8,0001,0001,0015,0
+Style: On Top,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,8,0020,0020,0022,0
+Style: Italics,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,-1,0,0,100,100,0,0,1,2,1,2,0020,0020,0022,0
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:-02.-58,0:00:-02.-60,On Top,,0000,0000,0000,,{\i1}One Dream One Wish{\i0}
+Dialogue: 0,0:00:-02.-58,0:00:01.57,Default,,0000,0000,0000,,{\i1}One Dream One Wish{\i0}
+Dialogue: 0,0:00:01.59,0:00:01.57,On Top,,0000,0000,0000,,{\i1}kanaetai nara Over The Top{\i0}
+Dialogue: 0,0:00:01.59,0:00:09.59,Default,,0000,0000,0000,,{\i1}If you want to make it \Ncome true, Over The Top{\i0}
+Dialogue: 0,0:00:11.60,0:00:19.60,On Top,,0000,0000,0000,,ONE PIECE - LAND OF WANO ARC
+Dialogue: 0,0:00:22.41,0:00:22.39,On Top,,0000,0000,0000,,{\i1}mitakoto mo nai sekai mezashi{\i0}
+Dialogue: 0,0:00:22.41,0:00:27.10,Default,,0000,0000,0000,,{\i1}Setting out into the unknown world{\i0}
+Dialogue: 0,0:00:27.12,0:00:27.10,On Top,,0000,0000,0000,,{\i1}araburu namikaze koete{\i0}
+Dialogue: 0,0:00:27.12,0:00:31.23,Default,,0000,0000,0000,,{\i1}Weathering rough wind and waves{\i0}
+Dialogue: 0,0:00:31.25,0:00:31.23,On Top,,0000,0000,0000,,{\i1}tsukisusumanakya dame sa \Nichibannori shitain da{\i0}
+Dialogue: 0,0:00:31.25,0:00:35.94,Default,,0000,0000,0000,,{\i1}I have to keep going because \NI want to get there first{\i0}
+Dialogue: 0,0:00:35.96,0:00:35.94,On Top,,0000,0000,0000,,{\i1}shinpai toka atomawashi \Ndouse shoubu ichika bachika{\i0}
+Dialogue: 0,0:00:35.96,0:00:43.96,Default,,0000,0000,0000,,{\i1}Worry later since it's \Nall sink or swim anyway{\i0}
+Dialogue: 0,0:00:44.30,0:00:44.28,On Top,,0000,0000,0000,,{\i1}aite ga dekaku mietara{\i0}
+Dialogue: 0,0:00:44.30,0:00:48.75,Default,,0000,0000,0000,,{\i1}When your opponent looks daunting{\i0}
+Dialogue: 0,0:00:48.77,0:00:48.75,On Top,,0000,0000,0000,,{\i1}kokoro ga chijinderu shouko{\i0}
+Dialogue: 0,0:00:48.77,0:00:54.25,Default,,0000,0000,0000,,{\i1}It's a sign that your heart is shrinking{\i0}
+Dialogue: 0,0:00:54.27,0:00:54.25,On Top,,0000,0000,0000,,{\i1}nigeru nante choisu wa nai{\i0}
+Dialogue: 0,0:00:54.27,0:00:56.38,Default,,0000,0000,0000,,{\i1}Running away is not a choice{\i0}
+Dialogue: 0,0:00:56.40,0:00:56.38,On Top,,0000,0000,0000,,{\i1}ippo soba e chikadukun da{\i0}
+Dialogue: 0,0:00:56.40,0:00:58.51,Default,,0000,0000,0000,,{\i1}Take one step closer{\i0}
+Dialogue: 0,0:00:58.53,0:00:58.51,On Top,,0000,0000,0000,,{\i1}namaiki tte homekotoba?{\i0}
+Dialogue: 0,0:00:58.53,0:01:00.97,Default,,0000,0000,0000,,{\i1}Being called insolent's a compliment, right?{\i0}
+Dialogue: 0,0:01:00.99,0:01:00.97,On Top,,0000,0000,0000,,{\i1}kitsui toki hodo warattoke{\i0}
+Dialogue: 0,0:01:00.99,0:01:06.85,Default,,0000,0000,0000,,{\i1}When things become tough, \Nthat's when you should laugh{\i0}
+Dialogue: 0,0:01:06.87,0:01:06.85,On Top,,0000,0000,0000,,{\i1}atarashii ashita sagashi ni ikitai no nara{\i0}
+Dialogue: 0,0:01:06.87,0:01:11.44,Default,,0000,0000,0000,,{\i1}If you want to look for a new tomorrow{\i0}
+Dialogue: 0,0:01:11.46,0:01:11.44,On Top,,0000,0000,0000,,{\i1}tobikkiri no jishin wo migaite{\i0}
+Dialogue: 0,0:01:11.46,0:01:16.57,Default,,0000,0000,0000,,{\i1}Polish your unique confidence{\i0}
+Dialogue: 0,0:01:16.59,0:01:16.57,On Top,,0000,0000,0000,,{\i1}tabi wo shita ashiato ga{\i0}
+Dialogue: 0,0:01:16.59,0:01:21.11,Default,,0000,0000,0000,,{\i1}Until your footsteps{\i0}
+Dialogue: 0,0:01:21.13,0:01:21.11,On Top,,0000,0000,0000,,{\i1}sou! chizu ni kawaru made{\i0}
+Dialogue: 0,0:01:21.13,0:01:24.78,Default,,0000,0000,0000,,{\i1}Yes! Become a map{\i0}
+Dialogue: 0,0:01:24.80,0:01:24.78,On Top,,0000,0000,0000,,{\i1}atarashii Horizon hora susunde kita bun{\i0}
+Dialogue: 0,0:01:24.80,0:01:29.33,Default,,0000,0000,0000,,{\i1}A new horizon, look, how far you've come{\i0}
+Dialogue: 0,0:01:29.35,0:01:29.33,On Top,,0000,0000,0000,,{\i1}mabushisa to nanido ga joushou{\i0}
+Dialogue: 0,0:01:29.35,0:01:34.71,Default,,0000,0000,0000,,{\i1}It's brighter and the \Nlevel of difficulty rises{\i0}
+Dialogue: 0,0:01:34.73,0:01:34.71,On Top,,0000,0000,0000,,{\i1}yumeutsutsu de okose Hurricane{\i0}
+Dialogue: 0,0:01:34.73,0:01:39.09,Default,,0000,0000,0000,,{\i1}Live in your dream and raise a hurricane{\i0}
+Dialogue: 0,0:01:39.11,0:01:39.09,On Top,,0000,0000,0000,,{\i1}saa! chaato kakimidase{\i0}
+Dialogue: 0,0:01:39.11,0:01:43.93,Default,,0000,0000,0000,,{\i1}Now! Stir up the rankings{\i0}
+Dialogue: 0,0:01:43.95,0:01:43.93,On Top,,0000,0000,0000,,{\i1}One Dream One Wish{\i0}
+Dialogue: 0,0:01:43.95,0:01:48.22,Default,,0000,0000,0000,,{\i1}One Dream One Wish{\i0}
+Dialogue: 0,0:01:48.24,0:01:48.22,On Top,,0000,0000,0000,,{\i1}yume wa nigenai... zenbu Knock out{\i0}
+Dialogue: 0,0:01:48.24,0:01:53.06,Default,,0000,0000,0000,,{\i1}Dreams don't run away... Knock everything out{\i0}
+Dialogue: 0,0:01:53.08,0:01:53.06,On Top,,0000,0000,0000,,{\i1}Over The Top{\i0}
+Dialogue: 0,0:01:53.08,0:01:58.88,Default,,0000,0000,0000,,{\i1}Over The Top{\i0}
+Dialogue: 0,0:01:58.90,0:02:01.13,Default,,0000,0000,0000,,Big Bro!
+Dialogue: 0,0:02:01.15,0:02:06.89,Default,,0000,0000,0000,,{\i1}Luffy was furious at Holdem, a Headliner,\Nwho was holding Otama hostage, but...{\i0}
+Dialogue: 0,0:02:06.91,0:02:10.97,Default,,0000,0000,0000,,If you make Holdem mad now
+Dialogue: 0,0:02:10.99,0:02:15.27,Default,,0000,0000,0000,,and Jack who is known as a Disaster\Ncomes to retaliate,
+Dialogue: 0,0:02:15.29,0:02:18.44,Default,,0000,0000,0000,,this town will be in ruins.
+Dialogue: 0,0:02:18.46,0:02:20.44,Default,,0000,0000,0000,,That's not fair!
+Dialogue: 0,0:02:20.46,0:02:23.95,Default,,0000,0000,0000,,It's like they're holding\Nthe whole town hostage!
+Dialogue: 0,0:02:23.97,0:02:24.61,On Top,,0000,0000,0000,,TREASURE
+Dialogue: 0,0:02:24.63,0:02:29.20,Default,,0000,0000,0000,,{\i1}While Luffy and the others were at it,\Nanother Headliner, Speed,{\i0}
+Dialogue: 0,0:02:29.22,0:02:33.58,Default,,0000,0000,0000,,{\i1}showed up leading a treasure ship\Nfilled with provisions.{\i0}
+Dialogue: 0,0:02:33.60,0:02:38.25,Default,,0000,0000,0000,,What's going on, Holdem?!
+Dialogue: 0,0:02:38.27,0:02:45.17,Default,,0000,0000,0000,,It's Speed-{\i1}sama{\i0}'s food treasure ship!\NIt's our grub for today!
+Dialogue: 0,0:02:45.19,0:02:47.68,Default,,0000,0000,0000,,That's a lot of food!
+Dialogue: 0,0:02:47.70,0:02:50.68,Default,,0000,0000,0000,,That's food from the Paradise Farm...
+Dialogue: 0,0:02:50.70,0:02:54.81,Default,,0000,0000,0000,,{\i1}After seeing the excess amount of food,\NLuffy asked...{\i0}
+Dialogue: 0,0:02:54.83,0:02:57.77,Default,,0000,0000,0000,,Zoro! Could you handle that?!
+Dialogue: 0,0:02:57.79,0:02:59.19,Default,,0000,0000,0000,,Okay...
+Dialogue: 0,0:02:59.21,0:03:01.98,Default,,0000,0000,0000,,--I'll save Tama!\N--What?
+Dialogue: 0,0:03:02.00,0:03:06.95,Default,,0000,0000,0000,,Kiku! I'm sorry but\Nwe've decided to steal it and run.
+Dialogue: 0,0:03:06.97,0:03:13.49,Default,,0000,0000,0000,,What? When did you...?
+Dialogue: 0,0:03:13.51,0:03:15.71,Default,,0000,0000,0000,,Look what you've done!
+Dialogue: 0,0:03:15.73,0:03:21.42,Default,,0000,0000,0000,,Oh, I see now!\NYou don't need the brat back, right?!
+Dialogue: 0,0:03:21.44,0:03:29.44,Default,,0000,0000,0000,,Go ahead, Kamijiro!
+Dialogue: 0,0:03:35.62,0:03:43.62,Default,,0000,0000,0000,,Kamijiro! What the hell are you doing?!
+Dialogue: 0,0:03:52.64,0:03:58.54,Default,,0000,0000,0000,,Get us out of town!
+Dialogue: 0,0:03:58.56,0:04:00.96,Default,,0000,0000,0000,,What happened to your cheek?
+Dialogue: 0,0:04:00.98,0:04:03.63,Default,,0000,0000,0000,,It's nothing.
+Dialogue: 0,0:04:03.65,0:04:06.97,Default,,0000,0000,0000,,It was just pulled by some pincers.
+Dialogue: 0,0:04:06.99,0:04:09.38,Default,,0000,0000,0000,,Kibi Dango...
+Dialogue: 0,0:04:09.40,0:04:13.05,Default,,0000,0000,0000,,You won't be able to pull it out like that...
+Dialogue: 0,0:04:13.07,0:04:16.02,Default,,0000,0000,0000,,Pincers?!
+Dialogue: 0,0:04:16.04,0:04:20.56,Default,,0000,0000,0000,,Give me a minute!
+Dialogue: 0,0:04:20.58,0:04:28.58,Default,,0000,0000,0000,,Red Hawk!
+Dialogue: 0,0:04:54.49,0:05:02.49,Default,,0000,0000,0000,,{\i1}"Duel!\NThe Magician and the Surgeon of Death!"{\i0}
+Dialogue: 0,0:05:21.73,0:05:25.42,Default,,0000,0000,0000,,Big Bro!
+Dialogue: 0,0:05:25.44,0:05:27.67,Default,,0000,0000,0000,,Holdem-{\i1}sama{\i0}!
+Dialogue: 0,0:05:27.69,0:05:35.69,Default,,0000,0000,0000,,Holdem-{\i1}sama{\i0}!
+Dialogue: 0,0:05:52.63,0:05:57.37,Default,,0000,0000,0000,,Tama!
+Dialogue: 0,0:05:57.39,0:06:00.37,Default,,0000,0000,0000,,Big Bro!
+Dialogue: 0,0:06:00.39,0:06:02.58,Default,,0000,0000,0000,,Hold on tight!
+Dialogue: 0,0:06:02.60,0:06:09.09,Default,,0000,0000,0000,,Okay!
+Dialogue: 0,0:06:09.11,0:06:17.11,Default,,0000,0000,0000,,Alright! Let's run!
+Dialogue: 0,0:06:28.67,0:06:30.69,Default,,0000,0000,0000,,Holdem-{\i1}sama{\i0}!
+Dialogue: 0,0:06:30.71,0:06:35.24,Default,,0000,0000,0000,,Holdem-{\i1}sama{\i0}!
+Dialogue: 0,0:06:35.26,0:06:40.20,Default,,0000,0000,0000,,You're a Headliner\Nbut you got knocked out by a single blow?!
+Dialogue: 0,0:06:40.22,0:06:48.22,Default,,0000,0000,0000,,Who did it?!
+Dialogue: 0,0:06:53.61,0:06:56.84,Default,,0000,0000,0000,,Luffy, that fool!\NHe shouldn't have done that...
+Dialogue: 0,0:06:56.86,0:06:58.43,Default,,0000,0000,0000,,Luffytaro-{\i1}san{\i0}!
+Dialogue: 0,0:06:58.45,0:06:59.97,Default,,0000,0000,0000,,Otama-{\i1}chan{\i0}!
+Dialogue: 0,0:06:59.99,0:07:04.10,Default,,0000,0000,0000,,Don't worry!\NLeave the brat to Luffytaro!
+Dialogue: 0,0:07:04.12,0:07:12.12,Default,,0000,0000,0000,,Don't stop!\NKeep making for the entrance of the town!
+Dialogue: 0,0:07:12.96,0:07:20.96,Default,,0000,0000,0000,,Win back the treasure ship!\NOr we'll lose our food!
+Dialogue: 0,0:07:24.85,0:07:26.83,Default,,0000,0000,0000,,Hold on tight!
+Dialogue: 0,0:07:26.85,0:07:33.63,Default,,0000,0000,0000,,Yes, Big Bro!\NI'm not gonna let go of you!
+Dialogue: 0,0:07:33.65,0:07:41.65,Default,,0000,0000,0000,,You can't go any farther!
+Dialogue: 0,0:08:01.97,0:08:07.21,Default,,0000,0000,0000,,How could you do that to Holdem-{\i1}sama{\i0}?!
+Dialogue: 0,0:08:07.23,0:08:09.37,Default,,0000,0000,0000,,You bastard...
+Dialogue: 0,0:08:09.39,0:08:16.92,Default,,0000,0000,0000,,Don't think you can get away!
+Dialogue: 0,0:08:16.94,0:08:19.09,Default,,0000,0000,0000,,B-Big Bro...
+Dialogue: 0,0:08:19.11,0:08:27.11,Default,,0000,0000,0000,,Chop him up!
+Dialogue: 0,0:08:46.18,0:08:47.75,Default,,0000,0000,0000,,Big Bro!
+Dialogue: 0,0:08:47.77,0:08:49.37,Default,,0000,0000,0000,,Big Bro!
+Dialogue: 0,0:08:49.39,0:08:57.39,Default,,0000,0000,0000,,Big Bro!!
+Dialogue: 0,0:09:09.91,0:09:17.91,Default,,0000,0000,0000,,Get out of my way!
+Dialogue: 0,0:09:26.10,0:09:34.10,Default,,0000,0000,0000,,I've got to catch up to Zoro and the others\Nor they'll eat all the delicious stuff!
+Dialogue: 0,0:09:34.31,0:09:40.67,Default,,0000,0000,0000,,--Great! Let's hitch a ride! I'm gonna jump!\N--What?
+Dialogue: 0,0:09:40.69,0:09:42.38,Default,,0000,0000,0000,,Who is it?!
+Dialogue: 0,0:09:42.40,0:09:45.47,Default,,0000,0000,0000,,Who's holding me in his arms?!
+Dialogue: 0,0:09:45.49,0:09:47.56,Default,,0000,0000,0000,,Giddy up, horse!
+Dialogue: 0,0:09:47.58,0:09:48.72,Default,,0000,0000,0000,,Okay!
+Dialogue: 0,0:09:48.74,0:09:50.52,Default,,0000,0000,0000,,Wait, what're you doing?!
+Dialogue: 0,0:09:50.54,0:09:53.31,Default,,0000,0000,0000,,What?! She's a human?!
+Dialogue: 0,0:09:53.33,0:09:55.27,Default,,0000,0000,0000,,Neigh-neigh!
+Dialogue: 0,0:09:55.29,0:09:56.61,Default,,0000,0000,0000,,No, she's a horse!
+Dialogue: 0,0:09:56.63,0:10:00.49,Default,,0000,0000,0000,,--How dare you get on Speed-{\i1}sama{\i0} like that?!\N--Yank them down!
+Dialogue: 0,0:10:00.51,0:10:06.07,Default,,0000,0000,0000,,Get off of me, you rude bastards!
+Dialogue: 0,0:10:06.09,0:10:08.24,Default,,0000,0000,0000,,Hey, Tama, bring out the {\i1}dango{\i0}!
+Dialogue: 0,0:10:08.26,0:10:10.95,Default,,0000,0000,0000,,--What?!\N--Just do it!
+Dialogue: 0,0:10:10.97,0:10:13.71,Default,,0000,0000,0000,,Kibi Dango!
+Dialogue: 0,0:10:13.73,0:10:15.38,Default,,0000,0000,0000,,Now, tame the horse!
+Dialogue: 0,0:10:15.40,0:10:18.76,Default,,0000,0000,0000,,What? That's impossible!\NIt won't work on humans!
+Dialogue: 0,0:10:18.78,0:10:21.13,Default,,0000,0000,0000,,You don't know until you try!
+Dialogue: 0,0:10:21.15,0:10:25.26,Default,,0000,0000,0000,,Get off, you little...
+Dialogue: 0,0:10:25.28,0:10:28.85,Default,,0000,0000,0000,,This is Kibi Dango. It's delicious.
+Dialogue: 0,0:10:28.87,0:10:30.10,Default,,0000,0000,0000,,Screw that!
+Dialogue: 0,0:10:30.12,0:10:34.52,Default,,0000,0000,0000,,I'm not gonna eat a \Nsuspicious {\i1}dango{\i0} like that!
+Dialogue: 0,0:10:34.54,0:10:37.06,Default,,0000,0000,0000,,I'm not gonna...
+Dialogue: 0,0:10:37.08,0:10:39.77,Default,,0000,0000,0000,,I'm not gonna...
+Dialogue: 0,0:10:39.79,0:10:42.28,Default,,0000,0000,0000,,I'm... not...
+Dialogue: 0,0:10:42.30,0:10:50.30,Default,,0000,0000,0000,,Neigh-neigh! It looks delicious!
+Dialogue: 0,0:10:58.27,0:11:01.88,Default,,0000,0000,0000,,S-Speed-{\i1}sama{\i0}?
+Dialogue: 0,0:11:01.90,0:11:07.97,Default,,0000,0000,0000,,As I thought, it won't work on humans...
+Dialogue: 0,0:11:07.99,0:11:13.77,Default,,0000,0000,0000,,Neigh-neigh! Where should I take you,\NMaster-{\i1}sama{\i0}?!
+Dialogue: 0,0:11:13.79,0:11:15.39,Default,,0000,0000,0000,,Yay!
+Dialogue: 0,0:11:15.41,0:11:17.98,Default,,0000,0000,0000,,It worked!
+Dialogue: 0,0:11:18.00,0:11:19.73,Default,,0000,0000,0000,,But why?
+Dialogue: 0,0:11:19.75,0:11:24.74,Default,,0000,0000,0000,,I guess it's because she's half horse.
+Dialogue: 0,0:11:24.76,0:11:27.03,Default,,0000,0000,0000,,S-Speed-{\i1}sama{\i0}...
+Dialogue: 0,0:11:27.05,0:11:31.83,Default,,0000,0000,0000,,Let's go after her!
+Dialogue: 0,0:11:31.85,0:11:33.83,Default,,0000,0000,0000,,She's too fast!
+Dialogue: 0,0:11:33.85,0:11:37.04,Default,,0000,0000,0000,,Alright, Horselina! Chase the treasure ship!
+Dialogue: 0,0:11:37.06,0:11:39.42,Default,,0000,0000,0000,,I'm not your servant!
+Dialogue: 0,0:11:39.44,0:11:44.09,Default,,0000,0000,0000,,My name is Speed!\NDon't call me Horselina as if I'm your friend!
+Dialogue: 0,0:11:44.11,0:11:49.93,Default,,0000,0000,0000,,I want you to do as he says,\NHorselina-{\i1}chan{\i0}.
+Dialogue: 0,0:11:49.95,0:11:54.10,Default,,0000,0000,0000,,Certainly, Master-{\i1}sama{\i0}!
+Dialogue: 0,0:11:54.12,0:11:58.44,Default,,0000,0000,0000,,I can't believe the Headliner Speed-{\i1}sama{\i0}\Nbecame obedient like that!
+Dialogue: 0,0:11:58.46,0:12:06.46,Default,,0000,0000,0000,,Do they have something on her?
+Dialogue: 0,0:12:26.86,0:12:29.47,Default,,0000,0000,0000,,{\i1}Big Bro...{\i0}
+Dialogue: 0,0:12:29.49,0:12:34.10,Default,,0000,0000,0000,,Red Hawk!
+Dialogue: 0,0:12:34.12,0:12:42.12,Default,,0000,0000,0000,,Fire Fist!
+Dialogue: 0,0:12:57.85,0:13:03.79,Default,,0000,0000,0000,,Big Bro, you were like...
+Dialogue: 0,0:13:03.81,0:13:11.80,Default,,0000,0000,0000,,...Ace earlier...
+Dialogue: 0,0:13:11.82,0:13:13.76,Default,,0000,0000,0000,,Hm? What?
+Dialogue: 0,0:13:13.78,0:13:19.81,Default,,0000,0000,0000,,Did you say something?
+Dialogue: 0,0:13:19.83,0:13:21.69,Default,,0000,0000,0000,,No!
+Dialogue: 0,0:13:21.71,0:13:29.71,Default,,0000,0000,0000,,Never mind.
+Dialogue: 0,0:13:37.35,0:13:45.35,On Top,,0000,0000,0000,,AT THE ENTRANCE OF BAKURA TOWN
+Dialogue: 0,0:14:14.84,0:14:22.84,Default,,0000,0000,0000,,Who are you?
+Dialogue: 0,0:14:34.70,0:14:42.70,Default,,0000,0000,0000,,I'm gonna take your life.
+Dialogue: 0,0:15:06.60,0:15:08.58,Default,,0000,0000,0000,,I'm gonna take your life.
+Dialogue: 0,0:15:08.60,0:15:10.21,Default,,0000,0000,0000,,What did you say?!
+Dialogue: 0,0:15:10.23,0:15:15.72,Default,,0000,0000,0000,,Damn you!\NDon't mess around with us!
+Dialogue: 0,0:15:15.74,0:15:22.18,Default,,0000,0000,0000,,--Let's take him out!\N--Yeah!
+Dialogue: 0,0:15:22.20,0:15:26.60,Default,,0000,0000,0000,,Room!
+Dialogue: 0,0:15:26.62,0:15:29.11,Default,,0000,0000,0000,,That ability...
+Dialogue: 0,0:15:29.13,0:15:31.40,Default,,0000,0000,0000,,That tattoo...
+Dialogue: 0,0:15:31.42,0:15:37.86,Default,,0000,0000,0000,,Is he...?!
+Dialogue: 0,0:15:37.88,0:15:40.07,Default,,0000,0000,0000,,That's possible!
+Dialogue: 0,0:15:40.09,0:15:47.33,Default,,0000,0000,0000,,They formed an alliance!
+Dialogue: 0,0:15:47.35,0:15:52.55,Default,,0000,0000,0000,,{\i1}Roronoa-{\i0}ya{\i1} is with them\Nand he knows our plan.{\i0}
+Dialogue: 0,0:15:52.57,0:15:59.22,Default,,0000,0000,0000,,{\i1}Even as reckless as they are,\Nthey wouldn't do a foolish thing like taking down Holdem.{\i0}
+Dialogue: 0,0:15:59.24,0:16:02.51,Default,,0000,0000,0000,,Holdem-{\i1}sama{\i0}!
+Dialogue: 0,0:16:02.53,0:16:05.98,Default,,0000,0000,0000,,Oh no!\NWe've got to report this to Jack-{\i1}sama{\i0} now!
+Dialogue: 0,0:16:06.00,0:16:08.27,Default,,0000,0000,0000,,{\i1}If they do something to him,{\i0}
+Dialogue: 0,0:16:08.29,0:16:11.11,Default,,0000,0000,0000,,{\i1}our plan will...{\i0}
+Dialogue: 0,0:16:11.13,0:16:15.49,Default,,0000,0000,0000,,{\i1}...no longer...{\i0}
+Dialogue: 0,0:16:15.51,0:16:21.20,Default,,0000,0000,0000,,Go away, Hawkins!
+Dialogue: 0,0:16:21.22,0:16:29.22,Default,,0000,0000,0000,,Chambres!
+Dialogue: 0,0:16:42.62,0:16:44.85,Default,,0000,0000,0000,,Help me!
+Dialogue: 0,0:16:44.87,0:16:48.89,Default,,0000,0000,0000,,What?! I'm alive?!
+Dialogue: 0,0:16:48.91,0:16:56.91,Default,,0000,0000,0000,,What the hell?!\NHis lower body's moving by itself!
+Dialogue: 0,0:16:57.21,0:16:59.15,Default,,0000,0000,0000,,Injection!
+Dialogue: 0,0:16:59.17,0:17:07.17,Default,,0000,0000,0000,,Shot!
+Dialogue: 0,0:17:12.98,0:17:17.42,Default,,0000,0000,0000,,It's no use...
+Dialogue: 0,0:17:17.44,0:17:25.44,Default,,0000,0000,0000,,{\i1}Now... What kind of ability was that?{\i0}
+Dialogue: 0,0:17:28.08,0:17:31.27,Default,,0000,0000,0000,,Straw Sword!
+Dialogue: 0,0:17:31.29,0:17:33.10,Default,,0000,0000,0000,,Take off your mask!
+Dialogue: 0,0:17:33.12,0:17:41.12,Default,,0000,0000,0000,,Trafalgar Law!
+Dialogue: 0,0:18:09.54,0:18:12.31,Default,,0000,0000,0000,,There it is! The treasure ship!
+Dialogue: 0,0:18:12.33,0:18:14.19,Default,,0000,0000,0000,,Hey!
+Dialogue: 0,0:18:14.21,0:18:16.61,Default,,0000,0000,0000,,Zoro!
+Dialogue: 0,0:18:16.63,0:18:18.44,Default,,0000,0000,0000,,Luffy!
+Dialogue: 0,0:18:18.46,0:18:20.03,Default,,0000,0000,0000,,Horselina, jump!
+Dialogue: 0,0:18:20.05,0:18:22.20,Default,,0000,0000,0000,,I'm not your servant!
+Dialogue: 0,0:18:22.22,0:18:30.04,Default,,0000,0000,0000,,Please! Horselina-{\i1}chan{\i0}!
+Dialogue: 0,0:18:30.06,0:18:34.96,Default,,0000,0000,0000,,Whoa! It looks delicious!
+Dialogue: 0,0:18:34.98,0:18:41.97,Default,,0000,0000,0000,,There is so much food!\NI've never seen this much at once before!
+Dialogue: 0,0:18:41.99,0:18:49.99,Default,,0000,0000,0000,,It's unbelievable!
+Dialogue: 0,0:18:56.21,0:19:04.21,Default,,0000,0000,0000,,Big Bro, are you okay?!
+Dialogue: 0,0:19:06.38,0:19:09.28,Default,,0000,0000,0000,,Oh, yeah! The most important \Nthing isn't here!
+Dialogue: 0,0:19:09.30,0:19:15.83,Default,,0000,0000,0000,,--What?\N--I'll be back!
+Dialogue: 0,0:19:15.85,0:19:17.63,Default,,0000,0000,0000,,Big Bro, where are you going?!
+Dialogue: 0,0:19:17.65,0:19:21.05,Default,,0000,0000,0000,,Gum-Gum...
+Dialogue: 0,0:19:21.07,0:19:26.13,Default,,0000,0000,0000,,...Rocket!
+Dialogue: 0,0:19:26.15,0:19:34.15,Default,,0000,0000,0000,,What is the most important thing?
+Dialogue: 0,0:19:41.71,0:19:47.11,Default,,0000,0000,0000,,I knew it wasn't gonna be that easy,\NBasil Hawkins!
+Dialogue: 0,0:19:47.13,0:19:50.37,Default,,0000,0000,0000,,But...
+Dialogue: 0,0:19:50.39,0:19:54.29,Default,,0000,0000,0000,,Stop talking!\NI'm gonna shut you up!
+Dialogue: 0,0:19:54.31,0:19:56.00,Default,,0000,0000,0000,,Attack!
+Dialogue: 0,0:19:56.02,0:20:03.55,Default,,0000,0000,0000,,Wait!
+Dialogue: 0,0:20:03.57,0:20:11.51,Default,,0000,0000,0000,,Amputation!
+Dialogue: 0,0:20:11.53,0:20:19.53,Default,,0000,0000,0000,,Takt!
+Dialogue: 0,0:20:21.92,0:20:29.92,Default,,0000,0000,0000,,Chambres!
+Dialogue: 0,0:20:51.91,0:20:54.51,Default,,0000,0000,0000,,You cut up all my proxies...
+Dialogue: 0,0:20:54.53,0:20:56.77,Default,,0000,0000,0000,,You catch on to things quickly.
+Dialogue: 0,0:20:56.79,0:20:59.06,Default,,0000,0000,0000,,It's just a threat though.
+Dialogue: 0,0:20:59.08,0:21:03.94,Default,,0000,0000,0000,,I'd rather not kill anyone\Nseeing as how I'm a doctor.
+Dialogue: 0,0:21:03.96,0:21:08.74,Default,,0000,0000,0000,,Welcome to the Land of Wano.\NIt's been a while since the fateful Sabaody.
+Dialogue: 0,0:21:08.76,0:21:14.95,Default,,0000,0000,0000,,I assume you're not here for vacation\Nsince your allies are also here...
+Dialogue: 0,0:21:14.97,0:21:17.37,Default,,0000,0000,0000,,You didn't expect that I knew?
+Dialogue: 0,0:21:17.39,0:21:21.50,Default,,0000,0000,0000,,I ran across Straw Hat \Nand the others earlier.
+Dialogue: 0,0:21:21.52,0:21:24.88,Default,,0000,0000,0000,,I bet you wanted to silence me\Nbefore it's too late...
+Dialogue: 0,0:21:24.90,0:21:26.63,Default,,0000,0000,0000,,Ring, ring, ring...
+Dialogue: 0,0:21:26.65,0:21:29.63,Default,,0000,0000,0000,,Ring, ring, ring... Ring, ring, ring...
+Dialogue: 0,0:21:29.65,0:21:31.18,Default,,0000,0000,0000,,Clank.
+Dialogue: 0,0:21:31.20,0:21:35.51,Default,,0000,0000,0000,,{\i1}Holdem-{\i0}sama{\i1} was taken down by thieves\Nand they're on the run now!{\i0}
+Dialogue: 0,0:21:35.53,0:21:37.97,Default,,0000,0000,0000,,{\i1}We've already reported to Jack-{\i0}sama{\i1}!{\i0}
+Dialogue: 0,0:21:37.99,0:21:42.23,Default,,0000,0000,0000,,{\i1}They crushed Holdem\Nand now Jack has been notified?!{\i0}
+Dialogue: 0,0:21:42.25,0:21:48.19,Default,,0000,0000,0000,,As you just heard,\Nall your effort was for nothing.
+Dialogue: 0,0:21:48.21,0:21:56.21,Default,,0000,0000,0000,,And of course, Kaido-{\i1}san{\i0} will know\Nwhat you and Straw Hat's group are doing.
+Dialogue: 0,0:21:56.93,0:22:04.93,Default,,0000,0000,0000,,{\i1}Those fools...\NBecause of them, we have the worst possible outcome!{\i0}
+Dialogue: 0,0:22:06.56,0:22:10.38,Default,,0000,0000,0000,,Hey, you guys! Clear the way!
+Dialogue: 0,0:22:10.40,0:22:11.92,Default,,0000,0000,0000,,Roronoa-{\i1}ya{\i0}?!
+Dialogue: 0,0:22:11.94,0:22:19.94,Default,,0000,0000,0000,,Excuse us! Let us pass through!\NWe're in a hurry!
+Dialogue: 0,0:22:25.46,0:22:33.46,Default,,0000,0000,0000,,Chase! They stole our food!
+Dialogue: 0,0:22:35.84,0:22:37.49,Default,,0000,0000,0000,,Roronoa-{\i1}ya{\i0}!
+Dialogue: 0,0:22:37.51,0:22:40.29,Default,,0000,0000,0000,,Hey, Tra-guy!
+Dialogue: 0,0:22:40.31,0:22:48.31,Default,,0000,0000,0000,,You idiot!
+Dialogue: 0,0:23:07.08,0:23:10.65,Italics,,0000,0000,0000,,{\i1}This is the origin of One Piece, \Nwritten by Eiichiro Oda!
+Dialogue: 0,0:23:10.67,0:23:13.99,Italics,,0000,0000,0000,,A grand romantic adventure! A \Nmighty dream across the sea!{\i0}
+Dialogue: 0,0:23:14.01,0:23:16.53,Italics,,0000,0000,0000,,{\i1}The freest man in the sea world!
+Dialogue: 0,0:23:16.55,0:23:22.20,Italics,,0000,0000,0000,,He is the King of the Pirates!\NThe beginning of another Luffy's epic journey!{\i0}
+Dialogue: 0,0:23:22.22,0:23:27.05,Default,,0000,0000,0000,,One Piece 20th anniversary special program!\N"Romance Dawn"
+Dialogue: 0,0:23:27.07,0:23:35.07,Default,,0000,0000,0000,,I'm gonna become the King of the Pirates!

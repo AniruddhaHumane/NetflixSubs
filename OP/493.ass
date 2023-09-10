@@ -1,0 +1,357 @@
+﻿[Script Info]
+Title: English (US)
+Original Script: ToeiAnimation  [http://www.crunchyroll.com/user/ToeiAnimation]
+Original Translation: 
+Original Editing: 
+Original Timing: 
+Synch Point: 
+Script Updated By: 
+Update Details: 
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 640
+PlayResY: 360
+Timer: 0.0000
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name,Fontname,Fontsize,PrimaryColour,SecondaryColour,OutlineColour,BackColour,Bold,Italic,Underline,Strikeout,ScaleX,ScaleY,Spacing,Angle,BorderStyle,Outline,Shadow,Alignment,MarginL,MarginR,MarginV,Encoding
+Style: Default,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,2,0020,0020,0022,0
+Style: B1,Arial,32,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,2,0070,0070,0030,0
+Style: OS,Arial,18,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,8,0001,0001,0015,0
+Style: Italics,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,-1,0,0,100,100,0,0,1,2,1,2,0020,0020,0022,0
+Style: Ep Title,Arial,18,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,3,0170,0070,0020,0
+Style: Copy of Ep Title,Arial,18,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,3,0070,0226,0065,0
+Style: On Top,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,8,0020,0020,0022,0
+Style: Copy of OS,Arial,18,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,9,0020,0020,0020,0
+Style: DefaultLow,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,2,0020,0020,0010,0
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:26.45,0:00:26.43,On Top,,0000,0000,0000,,ame agari no sora wo aogu tabi
+Dialogue: 0,0:00:26.45,0:00:31.50,DefaultLow,,0000,0000,0000,,Every time I look up to \Nthe sky after the rain
+Dialogue: 0,0:00:31.52,0:00:31.50,On Top,,0000,0000,0000,,nakimushi datta koro no boku wo omou
+Dialogue: 0,0:00:31.52,0:00:37.17,DefaultLow,,0000,0000,0000,,I think back to when I was a crybaby
+Dialogue: 0,0:00:37.19,0:00:37.17,On Top,,0000,0000,0000,,dareka no senaka wo gamushara ni oikaketa
+Dialogue: 0,0:00:37.19,0:00:45.01,DefaultLow,,0000,0000,0000,,I was chasing somebody's back blindly
+Dialogue: 0,0:00:45.03,0:00:45.01,On Top,,0000,0000,0000,,"tsuyoku naritai" tte
+Dialogue: 0,0:00:45.03,0:00:47.77,DefaultLow,,0000,0000,0000,,Thinking "I want to be stronger"
+Dialogue: 0,0:00:47.79,0:00:47.77,On Top,,0000,0000,0000,,ima wa kaze ni kieta "arigatou"
+Dialogue: 0,0:00:47.79,0:00:53.27,DefaultLow,,0000,0000,0000,,The word "thank you" has \Nfaded into the wind now
+Dialogue: 0,0:00:53.29,0:00:53.27,On Top,,0000,0000,0000,,boku wa tsuyoku nareteiru no kana?
+Dialogue: 0,0:00:53.29,0:00:58.49,DefaultLow,,0000,0000,0000,,Am I getting stronger?
+Dialogue: 0,0:00:58.51,0:00:58.49,On Top,,0000,0000,0000,,kotae wa mada desou ni nai kara sa
+Dialogue: 0,0:00:58.51,0:01:04.07,DefaultLow,,0000,0000,0000,,I don't know the answer yet
+Dialogue: 0,0:01:04.09,0:01:04.07,On Top,,0000,0000,0000,,yappari mada aruiteiku yo
+Dialogue: 0,0:01:04.09,0:01:09.62,DefaultLow,,0000,0000,0000,,That's why I'll keep walking ahead
+Dialogue: 0,0:01:09.64,0:01:09.62,On Top,,0000,0000,0000,,saa yukou
+Dialogue: 0,0:01:09.64,0:01:11.87,DefaultLow,,0000,0000,0000,,So let's go
+Dialogue: 0,0:01:11.89,0:01:11.87,On Top,,0000,0000,0000,,tachidomaru koto naku
+Dialogue: 0,0:01:11.89,0:01:15.21,DefaultLow,,0000,0000,0000,,Without stopping
+Dialogue: 0,0:01:15.23,0:01:15.21,On Top,,0000,0000,0000,,nagareru toki ni makenai youni
+Dialogue: 0,0:01:15.23,0:01:20.47,DefaultLow,,0000,0000,0000,,Without giving up to the flow of time
+Dialogue: 0,0:01:20.49,0:01:20.47,On Top,,0000,0000,0000,,nando mo tachimukai tsuzukeyou
+Dialogue: 0,0:01:20.49,0:01:26.03,DefaultLow,,0000,0000,0000,,I'll keep getting back up
+Dialogue: 0,0:01:26.05,0:01:26.03,On Top,,0000,0000,0000,,taisetsu na mono ushinaitakunai kara
+Dialogue: 0,0:01:26.05,0:01:31.52,DefaultLow,,0000,0000,0000,,Because I don't want to \Nlose something precious
+Dialogue: 0,0:01:31.54,0:01:31.52,On Top,,0000,0000,0000,,boku no naka ni nagareru koe wa
+Dialogue: 0,0:01:31.54,0:01:36.86,DefaultLow,,0000,0000,0000,,The voice inside of me
+Dialogue: 0,0:01:36.88,0:01:36.86,On Top,,0000,0000,0000,,zutto zutto boku wo sasaeteru
+Dialogue: 0,0:01:36.88,0:01:42.15,DefaultLow,,0000,0000,0000,,keeps sustaining me
+Dialogue: 0,0:01:42.17,0:01:42.15,On Top,,0000,0000,0000,,itazura na ame ga jama suru kedo
+Dialogue: 0,0:01:42.17,0:01:47.37,DefaultLow,,0000,0000,0000,,Wicked rain will get in my way
+Dialogue: 0,0:01:47.39,0:01:47.37,On Top,,0000,0000,0000,,nigedasanai kara
+Dialogue: 0,0:01:47.39,0:01:55.39,DefaultLow,,0000,0000,0000,,But I won't walk away
+Dialogue: 0,0:01:55.52,0:01:55.50,On Top,,0000,0000,0000,,saa yukou
+Dialogue: 0,0:01:55.52,0:01:57.79,DefaultLow,,0000,0000,0000,,So let's go
+Dialogue: 0,0:01:57.81,0:01:57.79,On Top,,0000,0000,0000,,Tachidomaru koto naku
+Dialogue: 0,0:01:57.81,0:02:01.09,DefaultLow,,0000,0000,0000,,Without stopping
+Dialogue: 0,0:02:01.11,0:02:01.09,On Top,,0000,0000,0000,,nagareru toki ni makenai youni
+Dialogue: 0,0:02:01.11,0:02:06.26,DefaultLow,,0000,0000,0000,,Without giving up to the flow of time
+Dialogue: 0,0:02:06.28,0:02:06.26,On Top,,0000,0000,0000,,nando mo tachimukai tsuzukeyou
+Dialogue: 0,0:02:06.28,0:02:11.98,DefaultLow,,0000,0000,0000,,I'll keep getting back up
+Dialogue: 0,0:02:12.00,0:02:11.98,On Top,,0000,0000,0000,,taisetsu na mono ushinaitakunai kara
+Dialogue: 0,0:02:12.00,0:02:17.44,DefaultLow,,0000,0000,0000,,Because I don't want to \Nlose something precious
+Dialogue: 0,0:02:17.46,0:02:17.44,On Top,,0000,0000,0000,,shinjita sono saki e to...
+Dialogue: 0,0:02:17.46,0:02:25.46,DefaultLow,,0000,0000,0000,,To the future I believe in...
+Dialogue: 0,0:02:33.85,0:02:36.92,Default,,0000,0000,0000,,The time is the Great Pirate Era.
+Dialogue: 0,0:02:36.94,0:02:42.11,Default,,0000,0000,0000,,Countless pirates fight \Ndesperately for the One Piece,
+Dialogue: 0,0:02:42.13,0:02:45.86,Default,,0000,0000,0000,,the great treasure left behind by \NGold Roger, King of the Pirates.
+Dialogue: 0,0:02:45.88,0:02:50.66,Default,,0000,0000,0000,,Monkey D. Luffy, a boy whose body turned \Nto rubber after he ate the Gum-Gum Fruit,
+Dialogue: 0,0:02:50.68,0:02:53.45,Default,,0000,0000,0000,,also takes to the sea to become \Nthe next King of the Pirates.
+Dialogue: 0,0:02:53.47,0:02:57.48,Default,,0000,0000,0000,,As Luffy and his friends \Novercome numerous adventures,
+Dialogue: 0,0:02:57.50,0:03:03.44,Default,,0000,0000,0000,,the World Government is less and \Nless able to ignore their existence.
+Dialogue: 0,0:03:03.46,0:03:05.86,Default,,0000,0000,0000,,This is exciting!
+Dialogue: 0,0:03:05.88,0:03:09.16,Default,,0000,0000,0000,,What kind of adventure \Nis waiting for us next?!
+Dialogue: 0,0:03:09.18,0:03:12.29,Default,,0000,0000,0000,,The crew, on its way to the New World,
+Dialogue: 0,0:03:12.31,0:03:20.31,Default,,0000,0000,0000,,will speed along the Grand Line again today!
+Dialogue: 0,0:03:21.00,0:03:23.68,Default,,0000,0000,0000,,Separated from the rest of the Straw Hats,
+Dialogue: 0,0:03:23.70,0:03:29.08,Default,,0000,0000,0000,,Luffy made a raid on the Navy HQ to rescue \Nhis brother, Ace who was to be executed!
+Dialogue: 0,0:03:29.10,0:03:37.10,Default,,0000,0000,0000,,But his struggle ended in vain \Nas the war came to a close.
+Dialogue: 0,0:03:40.80,0:03:44.40,Default,,0000,0000,0000,,Ace is really dead, isn't he?!
+Dialogue: 0,0:03:44.42,0:03:52.42,Default,,0000,0000,0000,,Yes, he is dead!
+Dialogue: 0,0:04:02.03,0:04:09.98,Default,,0000,0000,0000,,Ace!!
+Dialogue: 0,0:04:10.00,0:04:18.00,Default,,0000,0000,0000,,"Luffy and Ace! The Story \Nof How the Brothers Met!"
+Dialogue: 0,0:04:19.83,0:04:26.41,Default,,0000,0000,0000,,The War of the Best in Marineford \Nleft a scar in many people's mind.
+Dialogue: 0,0:04:26.43,0:04:31.78,Default,,0000,0000,0000,,10 years ago, in the East Blue,
+Dialogue: 0,0:04:31.80,0:04:38.28,Default,,0000,0000,0000,,there was a small village called Windmill \NVillage where people lived peacefully
+Dialogue: 0,0:04:38.30,0:04:42.54,Default,,0000,0000,0000,,but not far from it was Mt. Corvo \Nwhere people seldom stepped foot.
+Dialogue: 0,0:04:42.56,0:04:50.56,Default,,0000,0000,0000,,Only the strong could survive there and \Nthe weak who entered were doomed to die.
+Dialogue: 0,0:04:51.39,0:04:55.01,Default,,0000,0000,0000,,What I'm saying is, grandpa...
+Dialogue: 0,0:04:55.03,0:04:57.31,Default,,0000,0000,0000,,I'll become the King of the Pirates...
+Dialogue: 0,0:04:57.33,0:04:59.56,Default,,0000,0000,0000,,Cut the crap!
+Dialogue: 0,0:04:59.58,0:05:01.73,Default,,0000,0000,0000,,Let me... Let me go!
+Dialogue: 0,0:05:01.75,0:05:05.61,Default,,0000,0000,0000,,On top of eating the Devil \NFruit, you're talking nonsense!
+Dialogue: 0,0:05:05.63,0:05:05.61,DefaultLow,,0000,0000,0000,,Luffy! Both you and Ace have to become
+Dialogue: 0,0:05:05.63,0:05:08.18,OS,,0000,0000,0000,,MONKEY D. GARP [10 YEARS AGO]
+Dialogue: 0,0:05:08.20,0:05:10.86,DefaultLow,,0000,0000,0000,,the strongest Navy soldiers!
+Dialogue: 0,0:05:10.88,0:05:10.99,DefaultLow,,0000,0000,0000,,Ow, ow, ow, dammit!
+Dialogue: 0,0:05:11.01,0:05:13.04,OS,,0000,0000,0000,,MONKEY D. LUFFY [10 YEARS AGO]
+Dialogue: 0,0:05:13.06,0:05:15.41,DefaultLow,,0000,0000,0000,,My body is rubber but why is it painful?!
+Dialogue: 0,0:05:15.43,0:05:17.77,Default,,0000,0000,0000,,Let me go, grandpa!
+Dialogue: 0,0:05:17.79,0:05:21.06,Default,,0000,0000,0000,,It was a mistake to leave \Nyou in the Windmill Village!
+Dialogue: 0,0:05:21.08,0:05:25.14,Default,,0000,0000,0000,,Of all things, you like \Npirates?! What a fool!
+Dialogue: 0,0:05:25.16,0:05:29.58,Default,,0000,0000,0000,,You can't make friends \Nwith "Red-Haired" Shanks!
+Dialogue: 0,0:05:29.60,0:05:31.29,Default,,0000,0000,0000,,I wanna become...
+Dialogue: 0,0:05:31.31,0:05:32.48,Default,,0000,0000,0000,,Ouch!
+Dialogue: 0,0:05:32.50,0:05:34.18,Default,,0000,0000,0000,,...a strong man like Shanks!
+Dialogue: 0,0:05:34.20,0:05:42.20,Default,,0000,0000,0000,,Hey!
+Dialogue: 0,0:05:43.61,0:05:46.86,Default,,0000,0000,0000,,What's this place?
+Dialogue: 0,0:05:46.88,0:05:51.69,Default,,0000,0000,0000,,Stop it!! Whoever you are, \Ndo you wanna get killed?!
+Dialogue: 0,0:05:51.71,0:05:56.01,Default,,0000,0000,0000,,It's me.
+Dialogue: 0,0:05:56.03,0:06:00.50,Default,,0000,0000,0000,,G-Garp-san!
+Dialogue: 0,0:06:00.52,0:06:04.04,OS,,0000,0000,0000,,CURLY DADAN
+Dialogue: 0,0:06:04.06,0:06:07.46,OS,,0000,0000,0000,,A MOUNTAIN BANDIT: DOGRA
+Dialogue: 0,0:06:07.48,0:06:10.88,OS,,0000,0000,0000,,A MOUNTAIN BANDIT: MAGRA
+Dialogue: 0,0:06:10.90,0:06:12.51,Default,,0000,0000,0000,,You're looking good.
+Dialogue: 0,0:06:12.53,0:06:17.39,Default,,0000,0000,0000,,Give me a break! Please, \Nyou gotta have mercy on me!
+Dialogue: 0,0:06:17.41,0:06:19.93,Default,,0000,0000,0000,,Ace is 10 years old now!
+Dialogue: 0,0:06:19.95,0:06:23.56,Default,,0000,0000,0000,,Oh yeah, already? How is he?
+Dialogue: 0,0:06:23.58,0:06:25.71,Default,,0000,0000,0000,,It's not funny!
+Dialogue: 0,0:06:25.73,0:06:29.52,Default,,0000,0000,0000,,We can't handle him anymore! \NYou have to take him!
+Dialogue: 0,0:06:29.54,0:06:32.49,Default,,0000,0000,0000,,--Putting that aside...\N--Don't put it aside!
+Dialogue: 0,0:06:32.51,0:06:34.95,Default,,0000,0000,0000,,You're annoying, kid!
+Dialogue: 0,0:06:34.97,0:06:38.07,Default,,0000,0000,0000,,Look after him, too.
+Dialogue: 0,0:06:38.09,0:06:40.28,Default,,0000,0000,0000,,Hey, Luffy, say "hi" to them.
+Dialogue: 0,0:06:40.30,0:06:41.18,Default,,0000,0000,0000,,Yo!
+Dialogue: 0,0:06:41.20,0:06:43.70,Default,,0000,0000,0000,,Who is that kid?
+Dialogue: 0,0:06:43.72,0:06:46.33,Default,,0000,0000,0000,,He is my grandson.
+Dialogue: 0,0:06:46.35,0:06:47.33,Default,,0000,0000,0000,,What?
+Dialogue: 0,0:06:47.35,0:06:49.38,Default,,0000,0000,0000,,What?!
+Dialogue: 0,0:06:49.40,0:06:51.05,Default,,0000,0000,0000,,One more?!
+Dialogue: 0,0:06:51.07,0:06:55.52,Default,,0000,0000,0000,,He's Garp's... I mean, Garp-san's grandson?!
+Dialogue: 0,0:06:55.54,0:06:56.72,Default,,0000,0000,0000,,We can't!
+Dialogue: 0,0:06:56.74,0:06:59.10,Default,,0000,0000,0000,,Alright then, Here's your choice.
+Dialogue: 0,0:06:59.12,0:07:02.68,Default,,0000,0000,0000,,Do you wanna spend all your \Nlife in prison or raise him?
+Dialogue: 0,0:07:02.70,0:07:07.82,Default,,0000,0000,0000,,There are many crimes you \Ncommitted that I've overlooked.
+Dialogue: 0,0:07:07.84,0:07:09.52,Default,,0000,0000,0000,,Come on!
+Dialogue: 0,0:07:09.54,0:07:12.61,Default,,0000,0000,0000,,Well, I don't wanna get arrested but...
+Dialogue: 0,0:07:12.63,0:07:18.28,Default,,0000,0000,0000,,Sometimes I think that maybe it's better \Nto be in prison than take care of Ace...
+Dialogue: 0,0:07:18.30,0:07:23.37,Default,,0000,0000,0000,,But you want us to look after your \Ngrandson, too? I bet he's also a monster.
+Dialogue: 0,0:07:23.39,0:07:25.00,Default,,0000,0000,0000,,Crappy shack!
+Dialogue: 0,0:07:25.02,0:07:27.17,Default,,0000,0000,0000,,You wanna fight?!
+Dialogue: 0,0:07:27.19,0:07:28.46,Default,,0000,0000,0000,,Not listening!
+Dialogue: 0,0:07:28.48,0:07:30.54,Default,,0000,0000,0000,,Boss! Are you alright?!
+Dialogue: 0,0:07:30.56,0:07:34.51,Default,,0000,0000,0000,,What is it?! Ugh, spit! Gross!
+Dialogue: 0,0:07:34.53,0:07:37.12,Default,,0000,0000,0000,,Who did it?!
+Dialogue: 0,0:07:37.14,0:07:38.89,Default,,0000,0000,0000,,Hey, you!
+Dialogue: 0,0:07:38.91,0:07:41.72,Default,,0000,0000,0000,,Say "sorry"! It's gross!
+Dialogue: 0,0:07:41.74,0:07:43.14,Default,,0000,0000,0000,,Ace!
+Dialogue: 0,0:07:43.16,0:07:46.77,Default,,0000,0000,0000,,Are you back, Ace?
+Dialogue: 0,0:07:46.79,0:07:50.98,OS,,0000,0000,0000,,PORTGAS D. ACE [10 YEARS AGO]
+Dialogue: 0,0:07:51.00,0:07:54.70,Default,,0000,0000,0000,,Hey, say "sorry"!
+Dialogue: 0,0:07:54.72,0:07:59.41,Default,,0000,0000,0000,,Luffy, this is Ace. He's \N3 years older than you.
+Dialogue: 0,0:07:59.43,0:08:02.74,Default,,0000,0000,0000,,You're gonna live here with them from today.
+Dialogue: 0,0:08:02.76,0:08:10.34,Default,,0000,0000,0000,,What?! You can't just do that!
+Dialogue: 0,0:08:10.36,0:08:11.38,Default,,0000,0000,0000,,Be nice!
+Dialogue: 0,0:08:11.40,0:08:13.34,Default,,0000,0000,0000,,Is it decided?!
+Dialogue: 0,0:08:13.36,0:08:17.09,Default,,0000,0000,0000,,Any problem with that?
+Dialogue: 0,0:08:17.11,0:08:18.67,Default,,0000,0000,0000,,We'll take him!
+Dialogue: 0,0:08:18.69,0:08:22.47,Default,,0000,0000,0000,,That's all from me. I'll \Nstop by when I have time.
+Dialogue: 0,0:08:22.49,0:08:26.27,Default,,0000,0000,0000,,--Um... What about some child support?\N--Put it on my bill.
+Dialogue: 0,0:08:26.29,0:08:28.23,Default,,0000,0000,0000,,--This is not a bar...\N--Huh?
+Dialogue: 0,0:08:28.25,0:08:32.56,Default,,0000,0000,0000,,--You're always welcome!\N--Boss, we can't take care of one more kid!
+Dialogue: 0,0:08:32.58,0:08:36.60,Default,,0000,0000,0000,,--Shut up! Let's just eat first! Fix it!\N--Okay!
+Dialogue: 0,0:08:36.62,0:08:38.07,Default,,0000,0000,0000,,Say "sorry"!
+Dialogue: 0,0:08:38.09,0:08:41.13,Default,,0000,0000,0000,,Wait!
+Dialogue: 0,0:08:41.15,0:08:49.15,Default,,0000,0000,0000,,I'll leave this hat with you.
+Dialogue: 0,0:08:56.32,0:08:59.55,Default,,0000,0000,0000,,Where did he go?
+Dialogue: 0,0:08:59.57,0:09:00.66,Default,,0000,0000,0000,,Who are you?
+Dialogue: 0,0:09:00.68,0:09:01.84,Default,,0000,0000,0000,,Let me go!
+Dialogue: 0,0:09:01.86,0:09:03.90,Default,,0000,0000,0000,,Give me your money or I'll kill you!
+Dialogue: 0,0:09:03.92,0:09:05.61,Default,,0000,0000,0000,,I don't have any!
+Dialogue: 0,0:09:05.63,0:09:08.66,Default,,0000,0000,0000,,Then tell your parents \Nto bring some money here!
+Dialogue: 0,0:09:08.68,0:09:12.75,Default,,0000,0000,0000,,--Grandpa is my only...\N--That's fine. What's his name?
+Dialogue: 0,0:09:12.77,0:09:14.99,Default,,0000,0000,0000,,Garp-san.
+Dialogue: 0,0:09:15.01,0:09:16.39,Default,,0000,0000,0000,,Is this kid...?!
+Dialogue: 0,0:09:16.41,0:09:18.82,Default,,0000,0000,0000,,He's gonna live here with us.
+Dialogue: 0,0:09:18.84,0:09:22.99,Default,,0000,0000,0000,,--Why did you accept?!\N--This is not a day-care!
+Dialogue: 0,0:09:23.01,0:09:25.41,Default,,0000,0000,0000,,Our boss has no guts!
+Dialogue: 0,0:09:25.43,0:09:27.95,Default,,0000,0000,0000,,Shut up you all!
+Dialogue: 0,0:09:27.97,0:09:31.83,Default,,0000,0000,0000,,It's time to eat!
+Dialogue: 0,0:09:31.85,0:09:34.96,Default,,0000,0000,0000,,--Give it to me, fool!\N--It's my meat!
+Dialogue: 0,0:09:34.98,0:09:38.67,Default,,0000,0000,0000,,I want some meat!
+Dialogue: 0,0:09:38.69,0:09:41.38,Default,,0000,0000,0000,,--You already ate!\N--I want more!
+Dialogue: 0,0:09:41.40,0:09:43.38,Default,,0000,0000,0000,,I'm not gonna give in to young people!
+Dialogue: 0,0:09:43.40,0:09:48.97,Default,,0000,0000,0000,,--You got to share!\N--It's a dog-eat-dog world.
+Dialogue: 0,0:09:48.99,0:09:53.44,Default,,0000,0000,0000,,His arm stretches!
+Dialogue: 0,0:09:53.46,0:09:56.77,Default,,0000,0000,0000,,Dog?
+Dialogue: 0,0:09:56.79,0:09:59.18,Default,,0000,0000,0000,,It's your turn to wash dishes!
+Dialogue: 0,0:09:59.20,0:10:01.61,Default,,0000,0000,0000,,Can I have some more, pops!
+Dialogue: 0,0:10:01.63,0:10:03.65,Default,,0000,0000,0000,,I'm a woman!
+Dialogue: 0,0:10:03.67,0:10:06.93,Default,,0000,0000,0000,,Do you even know where you are now?!
+Dialogue: 0,0:10:06.95,0:10:07.67,Default,,0000,0000,0000,,No.
+Dialogue: 0,0:10:07.69,0:10:09.04,Default,,0000,0000,0000,,Then I'll tell you.
+Dialogue: 0,0:10:09.06,0:10:12.79,Default,,0000,0000,0000,,This is a den of the Dadan family, \Nmountain bandits that rule Mt. Corvo!
+Dialogue: 0,0:10:12.81,0:10:18.17,Default,,0000,0000,0000,,Mountain bandits? I hate mountain bandits!
+Dialogue: 0,0:10:18.19,0:10:23.13,Default,,0000,0000,0000,,Shut up, you little shit! We're \Nannoyed by having a kid like you!
+Dialogue: 0,0:10:23.15,0:10:25.38,Default,,0000,0000,0000,,If you don't wanna stay here, that's fine!
+Dialogue: 0,0:10:25.40,0:10:27.93,Default,,0000,0000,0000,,Go away and die like a dog somewhere!
+Dialogue: 0,0:10:27.95,0:10:29.56,Default,,0000,0000,0000,,Easy, easy, boss.
+Dialogue: 0,0:10:29.58,0:10:33.06,Default,,0000,0000,0000,,I wanna eat more...
+Dialogue: 0,0:10:33.08,0:10:41.08,Default,,0000,0000,0000,,I wanna have that meat, too.
+Dialogue: 0,0:10:42.80,0:10:46.82,Default,,0000,0000,0000,,These are all from a bison that Ace brought.
+Dialogue: 0,0:10:46.84,0:10:50.20,Default,,0000,0000,0000,,He gave us a cut of the \Ntake so everybody can eat.
+Dialogue: 0,0:10:50.22,0:10:52.20,Default,,0000,0000,0000,,The mountain bandits' world is rough sailing.
+Dialogue: 0,0:10:52.22,0:10:55.20,Default,,0000,0000,0000,,You're gonna have to work \Npretty hard from tomorrow!
+Dialogue: 0,0:10:55.22,0:10:59.50,Default,,0000,0000,0000,,Cleaning, laundry, polishing \Nshoes and weapons,
+Dialogue: 0,0:10:59.52,0:11:02.71,Default,,0000,0000,0000,,burglary, robbery, fraud, and murder!
+Dialogue: 0,0:11:02.73,0:11:07.72,Default,,0000,0000,0000,,Remember, you can't tell \NGarp what we make you do!
+Dialogue: 0,0:11:07.74,0:11:12.43,Default,,0000,0000,0000,,One bowl of rice and one \Nglass of water for a day!
+Dialogue: 0,0:11:12.45,0:11:14.60,Default,,0000,0000,0000,,That's all I can guarantee you.
+Dialogue: 0,0:11:14.62,0:11:18.94,Default,,0000,0000,0000,,You gotta get everything else by \Nyourself and grow up on your own.
+Dialogue: 0,0:11:18.96,0:11:19.98,Default,,0000,0000,0000,,Okay!
+Dialogue: 0,0:11:20.00,0:11:23.19,Default,,0000,0000,0000,,"Okay"?! Why don't you cry or something?
+Dialogue: 0,0:11:23.21,0:11:27.11,Default,,0000,0000,0000,,I'm fine because grandpa \Nthrew me into a jungle once
+Dialogue: 0,0:11:27.13,0:11:32.45,Default,,0000,0000,0000,,and there was water to drink and frogs, \Nsnakes, and mushrooms to eat in the forest!
+Dialogue: 0,0:11:32.47,0:11:35.91,Default,,0000,0000,0000,,Plus, I'll become a pirate someday so...
+Dialogue: 0,0:11:35.93,0:11:38.58,Default,,0000,0000,0000,,...I must be strong like that!
+Dialogue: 0,0:11:38.60,0:11:40.29,Default,,0000,0000,0000,,--Boss!\N--Are you alright?!
+Dialogue: 0,0:11:40.31,0:11:41.59,Default,,0000,0000,0000,,What're you doing?!
+Dialogue: 0,0:11:41.61,0:11:45.13,Default,,0000,0000,0000,,Here we go!
+Dialogue: 0,0:11:45.15,0:11:47.09,Default,,0000,0000,0000,,Where is he going?!
+Dialogue: 0,0:11:47.11,0:11:49.97,Default,,0000,0000,0000,,Here we go!
+Dialogue: 0,0:11:49.99,0:11:51.75,Default,,0000,0000,0000,,Where are you going?!
+Dialogue: 0,0:11:51.77,0:11:53.60,Default,,0000,0000,0000,,Did you just say "pirate"?
+Dialogue: 0,0:11:53.62,0:11:55.43,Default,,0000,0000,0000,,He's not listening!
+Dialogue: 0,0:11:55.45,0:12:00.81,Default,,0000,0000,0000,,Hey!
+Dialogue: 0,0:12:00.83,0:12:03.44,Default,,0000,0000,0000,,See? He's too tough!
+Dialogue: 0,0:12:03.46,0:12:06.07,Default,,0000,0000,0000,,That's why I didn't wanna \Ntake care of Garp's grandson!
+Dialogue: 0,0:12:06.09,0:12:08.37,Default,,0000,0000,0000,,Easy, easy, boss.
+Dialogue: 0,0:12:08.39,0:12:10.49,Default,,0000,0000,0000,,Hey!
+Dialogue: 0,0:12:10.51,0:12:13.20,Default,,0000,0000,0000,,Wait for me!
+Dialogue: 0,0:12:13.22,0:12:17.92,Default,,0000,0000,0000,,Hey!
+Dialogue: 0,0:12:17.94,0:12:25.94,Default,,0000,0000,0000,,My name is Luffy! I'm not mad \Nabout you spitting on me anymore!
+Dialogue: 0,0:12:27.69,0:12:30.33,Default,,0000,0000,0000,,Why are you laughing?!
+Dialogue: 0,0:12:30.35,0:12:34.35,Default,,0000,0000,0000,,He only spilled some booze on me. \NIt's nothing worth getting mad over.
+Dialogue: 0,0:12:34.37,0:12:38.43,Default,,0000,0000,0000,,It's nothing worth getting mad \Nover. Let's become friends!
+Dialogue: 0,0:12:38.45,0:12:46.45,Default,,0000,0000,0000,,Are you going somewhere?!
+Dialogue: 0,0:12:52.43,0:13:00.43,Default,,0000,0000,0000,,It's a dead end!
+Dialogue: 0,0:14:08.95,0:14:12.15,Default,,0000,0000,0000,,Hey! Ace is back!
+Dialogue: 0,0:14:12.17,0:14:15.75,Default,,0000,0000,0000,,Food!
+Dialogue: 0,0:14:15.77,0:14:18.24,Default,,0000,0000,0000,,Ace, did you come back alone?
+Dialogue: 0,0:14:18.26,0:14:22.18,Default,,0000,0000,0000,,Where is Luffy? I thought \Nthat you were with him.
+Dialogue: 0,0:14:22.20,0:14:26.33,Default,,0000,0000,0000,,I don't know.
+Dialogue: 0,0:14:26.35,0:14:30.21,Default,,0000,0000,0000,,That fool, where is he and what is he doing?
+Dialogue: 0,0:14:30.23,0:14:33.47,Default,,0000,0000,0000,,Maybe he's dead already.
+Dialogue: 0,0:14:33.49,0:14:36.01,Default,,0000,0000,0000,,We are dead if Garp finds out about this.
+Dialogue: 0,0:14:36.03,0:14:40.39,Default,,0000,0000,0000,,Boss must be pretty worried I bet!
+Dialogue: 0,0:14:40.41,0:14:44.18,Default,,0000,0000,0000,,--Get hold of yourself, boss!\N--What did you say?!
+Dialogue: 0,0:14:44.20,0:14:47.90,Default,,0000,0000,0000,,I said it's not good that we \Nlost him on the first day!
+Dialogue: 0,0:14:47.92,0:14:51.23,Default,,0000,0000,0000,,Who cares! if he dies, he dies!
+Dialogue: 0,0:14:51.25,0:14:54.74,Default,,0000,0000,0000,,Garp is gonna kill us.
+Dialogue: 0,0:14:54.76,0:14:59.41,Default,,0000,0000,0000,,First of all, why should we \Nlook after Garp's grandson?!
+Dialogue: 0,0:14:59.43,0:15:05.71,Default,,0000,0000,0000,,We're not nannies! He has to \Ntake care of his own grandson!
+Dialogue: 0,0:15:05.73,0:15:13.73,Default,,0000,0000,0000,,--Why don't you say it to him?\N--You have a problem?!
+Dialogue: 0,0:15:22.66,0:15:26.62,Default,,0000,0000,0000,,What if Gold Roger had a child?
+Dialogue: 0,0:15:26.64,0:15:31.02,Default,,0000,0000,0000,,Of course I know what'd happen to him! \NHe'd get his head cut off for sure!
+Dialogue: 0,0:15:31.04,0:15:34.90,Default,,0000,0000,0000,,I want to hear from him as he dies:
+Dialogue: 0,0:15:34.92,0:15:42.92,Default,,0000,0000,0000,,"I'm sorry I was born! I'm \Njust a piece of trash!"
+Dialogue: 0,0:15:47.98,0:15:53.46,Default,,0000,0000,0000,,I'm already giving up on Ace, too!
+Dialogue: 0,0:15:53.48,0:15:58.91,Default,,0000,0000,0000,,I don't care if he dies or not. I'll \Njust tell Garp it was an accident.
+Dialogue: 0,0:15:58.93,0:16:02.97,Default,,0000,0000,0000,,It's true that "the devil's \Nchildren have the devil's luck"!
+Dialogue: 0,0:16:02.99,0:16:05.89,Default,,0000,0000,0000,,He's the devil's son!
+Dialogue: 0,0:16:05.91,0:16:12.15,Default,,0000,0000,0000,,If the Government finds out about this, \Nwhat do you think they'd do to us?!
+Dialogue: 0,0:16:12.17,0:16:14.11,Default,,0000,0000,0000,,Easy, easy, boss.
+Dialogue: 0,0:16:14.13,0:16:18.95,Default,,0000,0000,0000,,You're drinking too much!
+Dialogue: 0,0:16:18.97,0:16:20.30,OS,,0000,0000,0000,,ONE WEEK LATER
+Dialogue: 0,0:16:20.32,0:16:28.32,Default,,0000,0000,0000,,One week later...
+Dialogue: 0,0:16:28.61,0:16:32.29,Default,,0000,0000,0000,,How annoying!
+Dialogue: 0,0:16:32.31,0:16:36.78,Default,,0000,0000,0000,,Why don't you shut up?
+Dialogue: 0,0:16:36.80,0:16:38.88,Default,,0000,0000,0000,,Boss! Boss Dadan!
+Dialogue: 0,0:16:38.90,0:16:40.56,Default,,0000,0000,0000,,Who is it?
+Dialogue: 0,0:16:40.58,0:16:41.72,Default,,0000,0000,0000,,Who is it?
+Dialogue: 0,0:16:41.74,0:16:49.74,Default,,0000,0000,0000,,--You!\N--Luffy came back!
+Dialogue: 0,0:16:51.52,0:16:56.48,Default,,0000,0000,0000,,You fool! You're alive! You...!
+Dialogue: 0,0:16:56.50,0:16:58.24,Default,,0000,0000,0000,,Easy, easy, boss.
+Dialogue: 0,0:16:58.26,0:17:00.78,Default,,0000,0000,0000,,Where were you?!
+Dialogue: 0,0:17:00.80,0:17:04.38,Default,,0000,0000,0000,,Easy, easy. Where were you \Nand what were you doing?
+Dialogue: 0,0:17:04.40,0:17:07.66,Default,,0000,0000,0000,,I've been chased by wolves \Nat the bottom of the valley.
+Dialogue: 0,0:17:07.68,0:17:13.21,Default,,0000,0000,0000,,What were you doing at \Nthe bottom of the valley?
+Dialogue: 0,0:17:13.23,0:17:17.67,Default,,0000,0000,0000,,--Anyway, it's nice that you're okay.\N--Yeah.
+Dialogue: 0,0:17:17.69,0:17:22.72,Default,,0000,0000,0000,,It's not okay! The pest came back!
+Dialogue: 0,0:17:22.74,0:17:27.51,Default,,0000,0000,0000,,Why don't you go to bed tonight? \NYou gotta work from tomorrow!
+Dialogue: 0,0:17:27.53,0:17:35.53,Default,,0000,0000,0000,,Already?
+Dialogue: 0,0:17:37.62,0:17:39.03,Default,,0000,0000,0000,,What's up?
+Dialogue: 0,0:17:39.05,0:17:41.40,Default,,0000,0000,0000,,Are you gonna go somewhere today, Ace?
+Dialogue: 0,0:17:41.42,0:17:45.95,Default,,0000,0000,0000,,Take me with you! Let's become friends!
+Dialogue: 0,0:17:45.97,0:17:47.24,Default,,0000,0000,0000,,Wait for me!
+Dialogue: 0,0:17:47.26,0:17:50.50,Default,,0000,0000,0000,,Boss! He's going after Ace again!
+Dialogue: 0,0:17:50.52,0:17:55.54,Default,,0000,0000,0000,,Hey! You gotta do chores around the house!
+Dialogue: 0,0:17:55.56,0:17:58.67,Default,,0000,0000,0000,,No thank you!
+Dialogue: 0,0:17:58.69,0:18:01.32,Default,,0000,0000,0000,,You little shit! You're out of control!
+Dialogue: 0,0:18:01.34,0:18:02.67,Default,,0000,0000,0000,,Easy, easy, boss.
+Dialogue: 0,0:18:02.69,0:18:05.54,Default,,0000,0000,0000,,--Bring him back right now!\N--Yes, ma'am.
+Dialogue: 0,0:18:05.56,0:18:13.56,Default,,0000,0000,0000,,Hey!
+Dialogue: 0,0:18:30.22,0:18:37.79,Default,,0000,0000,0000,,Ace!
+Dialogue: 0,0:18:37.81,0:18:45.81,Default,,0000,0000,0000,,Ace! Let's become friends!
+Dialogue: 0,0:18:49.49,0:18:51.93,Default,,0000,0000,0000,,The 8th day...
+Dialogue: 0,0:18:51.95,0:18:53.24,Default,,0000,0000,0000,,Ace!
+Dialogue: 0,0:18:53.26,0:18:54.94,Default,,0000,0000,0000,,Wait for me!
+Dialogue: 0,0:18:54.96,0:18:55.85,Default,,0000,0000,0000,,Boss!
+Dialogue: 0,0:18:55.87,0:18:57.90,Default,,0000,0000,0000,,Work, you little shit!
+Dialogue: 0,0:18:57.92,0:18:59.06,Default,,0000,0000,0000,,It's no use...
+Dialogue: 0,0:18:59.08,0:19:00.82,Default,,0000,0000,0000,,--Bring him back!\N--Yes, ma'am.
+Dialogue: 0,0:19:00.84,0:19:04.65,Default,,0000,0000,0000,,I'm not gonna lose you today!
+Dialogue: 0,0:19:04.67,0:19:09.87,Default,,0000,0000,0000,,I can do that!
+Dialogue: 0,0:19:09.89,0:19:15.58,Default,,0000,0000,0000,,Let's become friends!
+Dialogue: 0,0:19:15.60,0:19:17.54,Default,,0000,0000,0000,,10 days have passed...
+Dialogue: 0,0:19:17.56,0:19:20.42,Default,,0000,0000,0000,,--Luffy!\N--He's gone already...
+Dialogue: 0,0:19:20.44,0:19:26.34,Default,,0000,0000,0000,,Look for him!
+Dialogue: 0,0:19:26.36,0:19:32.26,Default,,0000,0000,0000,,He kept going after Ace and losing him.
+Dialogue: 0,0:19:32.28,0:19:34.82,Default,,0000,0000,0000,,But it went on everyday.
+Dialogue: 0,0:19:34.84,0:19:42.84,Default,,0000,0000,0000,,Ace!
+Dialogue: 0,0:19:44.45,0:19:47.40,Default,,0000,0000,0000,,1 month...
+Dialogue: 0,0:19:47.42,0:19:49.02,Default,,0000,0000,0000,,2 months...
+Dialogue: 0,0:19:49.04,0:19:50.65,Default,,0000,0000,0000,,Ace!
+Dialogue: 0,0:19:50.67,0:19:56.46,Default,,0000,0000,0000,,No matter if it rained and was windy...
+Dialogue: 0,0:19:56.48,0:19:58.54,Default,,0000,0000,0000,,Ace!
+Dialogue: 0,0:19:58.56,0:20:04.94,Default,,0000,0000,0000,,Luffy kept going after Ace desperately.
+Dialogue: 0,0:20:04.96,0:20:07.93,Default,,0000,0000,0000,,Luffy is chasing Ace again?!
+Dialogue: 0,0:20:07.95,0:20:12.20,Default,,0000,0000,0000,,How does he never learn after \Ngetting hurt so many times?
+Dialogue: 0,0:20:12.22,0:20:14.97,Default,,0000,0000,0000,,Damn! He has to stop making me worry!
+Dialogue: 0,0:20:14.99,0:20:16.94,Default,,0000,0000,0000,,So you're worrying.
+Dialogue: 0,0:20:16.96,0:20:22.23,Default,,0000,0000,0000,,N-No way! Stop talking nonsense!
+Dialogue: 0,0:20:22.25,0:20:25.95,Default,,0000,0000,0000,,A bee-hive fell on me.
+Dialogue: 0,0:20:25.97,0:20:30.67,Default,,0000,0000,0000,,Who are you?
+Dialogue: 0,0:20:30.69,0:20:38.69,Default,,0000,0000,0000,,Ace!
+Dialogue: 0,0:20:40.73,0:20:44.42,Default,,0000,0000,0000,,Ace! Hey!
+Dialogue: 0,0:20:44.44,0:20:50.09,Default,,0000,0000,0000,,I can't believe he's coming \Nthis far. He's so persistent.
+Dialogue: 0,0:20:50.11,0:20:52.22,Default,,0000,0000,0000,,Oh crap!
+Dialogue: 0,0:20:52.24,0:20:58.19,Default,,0000,0000,0000,,Damn! I lost him again! Ace runs so fast!
+Dialogue: 0,0:20:58.21,0:21:06.21,Default,,0000,0000,0000,,Is it Ace?!
+Dialogue: 0,0:21:07.50,0:21:14.91,Default,,0000,0000,0000,,That's the beast of Mt. \NCorvo! No one can beat it!
+Dialogue: 0,0:21:14.93,0:21:17.49,Default,,0000,0000,0000,,Why is he not running?! It's gonna eat him!
+Dialogue: 0,0:21:17.51,0:21:21.62,Default,,0000,0000,0000,,I-I feel weak at the knees!
+Dialogue: 0,0:21:21.64,0:21:29.64,Default,,0000,0000,0000,,That fool!
+Dialogue: 0,0:22:30.45,0:22:38.45,Default,,0000,0000,0000,,Now, Luffy had been chasing Ace for 3 \Nmonths with cuts and bruises all over...
+Dialogue: 0,0:22:42.31,0:22:50.31,Default,,0000,0000,0000,,It's the end of the forest.
+Dialogue: 0,0:23:00.52,0:23:08.52,Default,,0000,0000,0000,,What is this place?
+Dialogue: 0,0:23:11.47,0:23:14.61,Default,,0000,0000,0000,,Discarded junk lies around everywhere, \Nand smoke fills the air.
+Dialogue: 0,0:23:14.63,0:23:18.03,Default,,0000,0000,0000,,This is Gray Terminal, a town of outlaws.
+Dialogue: 0,0:23:18.05,0:23:20.70,Default,,0000,0000,0000,,Ace once took charge of the thugs here,
+Dialogue: 0,0:23:20.72,0:23:24.00,Default,,0000,0000,0000,,amassing funds in order to \Nbecome a pirate someday.
+Dialogue: 0,0:23:24.02,0:23:27.08,Default,,0000,0000,0000,,Along with one other friend...
+Dialogue: 0,0:23:27.10,0:23:28.46,Default,,0000,0000,0000,,On the next episode of One Piece!
+Dialogue: 0,0:23:28.48,0:23:31.25,Default,,0000,0000,0000,,"Here Comes Sabo! The Boy \Nat the Gray Terminal!"
+Dialogue: 0,0:23:31.27,0:23:39.27,Default,,0000,0000,0000,,I'm gonna be King of the Pirates!!

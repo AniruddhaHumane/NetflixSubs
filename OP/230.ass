@@ -1,0 +1,333 @@
+﻿[Script Info]
+Title: English (US)
+Original Script: ToeiAnimation  [http://www.crunchyroll.com/user/ToeiAnimation]
+Original Translation: 
+Original Editing: 
+Original Timing: 
+Synch Point: 
+Script Updated By: 
+Update Details: 
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 640
+PlayResY: 360
+Timer: 0.0000
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name,Fontname,Fontsize,PrimaryColour,SecondaryColour,OutlineColour,BackColour,Bold,Italic,Underline,Strikeout,ScaleX,ScaleY,Spacing,Angle,BorderStyle,Outline,Shadow,Alignment,MarginL,MarginR,MarginV,Encoding
+Style: Default,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,2,0020,0020,0022,0
+Style: B1,Arial,28,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,2,0070,0070,0030,0
+Style: OS,Arial,18,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,8,0001,0001,0015,0
+Style: Italics,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,-1,0,0,100,100,0,0,1,2,1,2,0020,0020,0022,0
+Style: Ep Title,Arial,18,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,3,0170,0070,0020,0
+Style: Copy of Ep Title,Arial,18,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,3,0070,0226,0065,0
+Style: On Top,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,8,0020,0020,0022,0
+Style: Copy of OS,Arial,18,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,9,0020,0020,0020,0
+Style: DefaultLow,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,2,0020,0020,0010,0
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:04.91,0:00:09.23,Italics,,0000,0000,0000,,It's all right! Now let's move forward
+Dialogue: 0,0:00:09.25,0:00:12.86,Italics,,0000,0000,0000,,with the sun always in our hearts
+Dialogue: 0,0:00:12.88,0:00:16.03,Italics,,0000,0000,0000,,As power passes through our clasped hands
+Dialogue: 0,0:00:16.05,0:00:24.05,Italics,,0000,0000,0000,,let's grab hold of our wishes
+Dialogue: 0,0:00:27.22,0:00:34.71,Italics,,0000,0000,0000,,Working together, let's ride the giant waves
+Dialogue: 0,0:00:34.73,0:00:41.93,Italics,,0000,0000,0000,,Let's hurry toward the excitement--\Nthere's the starting signal
+Dialogue: 0,0:00:41.95,0:00:48.89,Italics,,0000,0000,0000,,Now's the time to set sail-- let's raise anchor
+Dialogue: 0,0:00:48.91,0:00:56.02,Italics,,0000,0000,0000,,Cut through the rainbow-colored wind\Nand head for a sea of adventure
+Dialogue: 0,0:00:56.04,0:00:59.49,Italics,,0000,0000,0000,,It'll be a journey fraught with injury
+Dialogue: 0,0:00:59.51,0:01:03.36,Italics,,0000,0000,0000,,but what you cherish most will be right there
+Dialogue: 0,0:01:03.38,0:01:07.37,Italics,,0000,0000,0000,,And if you get into a jam
+Dialogue: 0,0:01:07.39,0:01:10.41,Italics,,0000,0000,0000,,I'll always be there to protect you
+Dialogue: 0,0:01:10.43,0:01:14.58,Italics,,0000,0000,0000,,It's all right! Now let's move forward
+Dialogue: 0,0:01:14.60,0:01:18.13,Italics,,0000,0000,0000,,with the sun always in our hearts
+Dialogue: 0,0:01:18.15,0:01:21.13,Italics,,0000,0000,0000,,If a storm hits, let's put\Nour arms around each other
+Dialogue: 0,0:01:21.15,0:01:25.64,Italics,,0000,0000,0000,,and gaze at the light beyond
+Dialogue: 0,0:01:25.66,0:01:29.35,Italics,,0000,0000,0000,,If we gather up the pieces of our dreams
+Dialogue: 0,0:01:29.37,0:01:32.64,Italics,,0000,0000,0000,,they'll make a map leading to tomorrow
+Dialogue: 0,0:01:32.66,0:01:35.61,Italics,,0000,0000,0000,,So let's grab hold of our wishes
+Dialogue: 0,0:01:35.63,0:01:41.40,Italics,,0000,0000,0000,,under the same flag-- together, we're one
+Dialogue: 0,0:01:41.42,0:01:49.42,Italics,,0000,0000,0000,,One Piece
+Dialogue: 0,0:01:57.77,0:02:02.26,Default,,0000,0000,0000,,So where do you guys wanna go?
+Dialogue: 0,0:02:02.28,0:02:05.22,Default,,0000,0000,0000,,Since we've got our own ship,\Nwe won't take the train.
+Dialogue: 0,0:02:05.24,0:02:06.30,Default,,0000,0000,0000,,We'll just follow the log.
+Dialogue: 0,0:02:06.32,0:02:09.85,Default,,0000,0000,0000,,I see. Then it must be Water Seven.
+Dialogue: 0,0:02:09.87,0:02:11.47,Default,,0000,0000,0000,,Water Seven?
+Dialogue: 0,0:02:11.49,0:02:15.65,Default,,0000,0000,0000,,Above all, it's a city that made\Na name for itself with its shipyard.
+Dialogue: 0,0:02:15.67,0:02:18.27,Default,,0000,0000,0000,,Their technology is No. 1 in the world!
+Dialogue: 0,0:02:18.29,0:02:19.94,Default,,0000,0000,0000,,All right! I've decided!
+Dialogue: 0,0:02:19.96,0:02:26.95,Default,,0000,0000,0000,,We're gonna go there and get a\Nshipwright to join our crew for sure!
+Dialogue: 0,0:02:26.97,0:02:30.49,Default,,0000,0000,0000,,What the hell is this?!
+Dialogue: 0,0:02:30.51,0:02:34.71,Default,,0000,0000,0000,,This area should be okay, don't you think?
+Dialogue: 0,0:02:34.73,0:02:39.34,Default,,0000,0000,0000,,Holy crap! The Going Merry\Nhas gotten this rickety?
+Dialogue: 0,0:02:39.36,0:02:40.96,Default,,0000,0000,0000,,Take this with you.
+Dialogue: 0,0:02:40.98,0:02:42.92,Default,,0000,0000,0000,,A map?
+Dialogue: 0,0:02:42.94,0:02:44.97,Default,,0000,0000,0000,,This'll be helpful! Thanks!
+Dialogue: 0,0:02:44.99,0:02:48.89,Default,,0000,0000,0000,,That's perfect. Once we get the money,\Nwe can go to the shipyard right away.
+Dialogue: 0,0:02:48.91,0:02:52.72,Default,,0000,0000,0000,,Yeah. We can finally have\Nthe Going Merry repaired!
+Dialogue: 0,0:02:52.74,0:02:57.65,Default,,0000,0000,0000,,All right! Go! Yagara!
+Dialogue: 0,0:02:57.67,0:03:00.86,Default,,0000,0000,0000,,Thanks for your business! Be careful!
+Dialogue: 0,0:03:00.88,0:03:04.32,Default,,0000,0000,0000,,Dash to the shipyard!
+Dialogue: 0,0:03:04.34,0:03:10.74,Default,,0000,0000,0000,,Yahoo!
+Dialogue: 0,0:03:10.76,0:03:18.76,B1,,0000,0000,0000,,{\fad(2000,2000)}"Adventure in the City on the Water!\NHead to the Mammoth Shipbuilding Plant"
+Dialogue: 0,0:03:23.36,0:03:26.63,Default,,0000,0000,0000,,This is great!
+Dialogue: 0,0:03:26.65,0:03:30.43,Default,,0000,0000,0000,,Hey! I'm counting on you!
+Dialogue: 0,0:03:30.45,0:03:33.97,Default,,0000,0000,0000,,It's amazing that such a convenient\Ncreature exists in this world.
+Dialogue: 0,0:03:33.99,0:03:36.98,Default,,0000,0000,0000,,It doesn't rock much. It's comfortable!
+Dialogue: 0,0:03:37.00,0:03:38.60,Default,,0000,0000,0000,,To the right! Right!
+Dialogue: 0,0:03:38.62,0:03:41.77,Default,,0000,0000,0000,,--The ball is headed your way!\N--Here we go!
+Dialogue: 0,0:03:41.79,0:03:49.79,Default,,0000,0000,0000,,Ah! Stop the ball!
+Dialogue: 0,0:03:50.39,0:03:57.29,Default,,0000,0000,0000,,--Pass the ball! Pass the ball!\N--This is neato!
+Dialogue: 0,0:03:57.31,0:04:02.04,Default,,0000,0000,0000,,This area seems to be a residential area.
+Dialogue: 0,0:04:02.06,0:04:07.17,Default,,0000,0000,0000,,This town really is built around canals.
+Dialogue: 0,0:04:07.19,0:04:08.55,Default,,0000,0000,0000,,Hey, mister!
+Dialogue: 0,0:04:08.57,0:04:10.22,Default,,0000,0000,0000,,Hey, pops!
+Dialogue: 0,0:04:10.24,0:04:12.68,Default,,0000,0000,0000,,Where are you going? Sightseeing?
+Dialogue: 0,0:04:12.70,0:04:16.77,Default,,0000,0000,0000,,To the shipyard! We're gonna\Nhave our ship repaired!
+Dialogue: 0,0:04:16.79,0:04:20.31,Default,,0000,0000,0000,,Then go to the backstreet\Nshopping district first!
+Dialogue: 0,0:04:20.33,0:04:21.81,Default,,0000,0000,0000,,Checkmate.
+Dialogue: 0,0:04:21.83,0:04:23.02,Default,,0000,0000,0000,,Thanks!
+Dialogue: 0,0:04:23.04,0:04:24.19,Default,,0000,0000,0000,,S-Sure...
+Dialogue: 0,0:04:24.21,0:04:27.28,Default,,0000,0000,0000,,Backstreet shopping district...
+Dialogue: 0,0:04:27.30,0:04:30.24,Default,,0000,0000,0000,,We'll turn right ahead of here.
+Dialogue: 0,0:04:30.26,0:04:34.87,Default,,0000,0000,0000,,Oh, my beautiful mademoiselle!\NHow about dinner with me tonight?
+Dialogue: 0,0:04:34.89,0:04:37.08,Default,,0000,0000,0000,,Huh?
+Dialogue: 0,0:04:37.10,0:04:40.50,Default,,0000,0000,0000,,Ow! Ow, ow, ow!
+Dialogue: 0,0:04:40.52,0:04:45.75,Default,,0000,0000,0000,,Don't worry about him. The guys\Naround here say that like it's a greeting.
+Dialogue: 0,0:04:45.77,0:04:49.72,Default,,0000,0000,0000,,O-Okay.
+Dialogue: 0,0:04:49.74,0:04:53.05,Default,,0000,0000,0000,,Hey! Hurry up and go to work already!
+Dialogue: 0,0:04:53.07,0:04:57.22,Default,,0000,0000,0000,,I know, I know. Stop nagging.
+Dialogue: 0,0:04:57.24,0:05:00.10,Default,,0000,0000,0000,,At any rate, people in this\Ntown are generous to outsiders--
+Dialogue: 0,0:05:00.12,0:05:01.85,Default,,0000,0000,0000,,or should I say they're overly friendly?
+Dialogue: 0,0:05:01.87,0:05:04.19,Default,,0000,0000,0000,,Hey! You with the long nose!
+Dialogue: 0,0:05:04.21,0:05:07.65,Default,,0000,0000,0000,,--Huh?\N--Nothing. I was just saying hey, that's all.
+Dialogue: 0,0:05:07.67,0:05:15.62,Default,,0000,0000,0000,,Want a fist in your face, pops?!
+Dialogue: 0,0:05:15.64,0:05:18.29,Default,,0000,0000,0000,,Hm?
+Dialogue: 0,0:05:18.31,0:05:22.00,Default,,0000,0000,0000,,Ah, a hill is coming up. We're gonna\Ngo against the flow. Is that okay?
+Dialogue: 0,0:05:22.02,0:05:29.26,Default,,0000,0000,0000,,Can we go up?
+Dialogue: 0,0:05:29.28,0:05:32.43,Default,,0000,0000,0000,,Wait! Wrong way! Go right! Right!
+Dialogue: 0,0:05:32.45,0:05:35.64,Default,,0000,0000,0000,,So it doesn't matter even if the\Nwater is running downhill, huh?
+Dialogue: 0,0:05:35.66,0:05:41.18,Default,,0000,0000,0000,,Not bad, you guys!
+Dialogue: 0,0:05:41.20,0:05:43.10,Default,,0000,0000,0000,,The canals even go above the rooftops!
+Dialogue: 0,0:05:43.12,0:05:47.98,Default,,0000,0000,0000,,But we're going the wrong way!\NWe have to go to the shopping district first!
+Dialogue: 0,0:05:48.00,0:05:50.53,Default,,0000,0000,0000,,Oh, don't be so hasty.
+Dialogue: 0,0:05:50.55,0:05:53.61,Default,,0000,0000,0000,,This is a rare opportunity.\NLet's stroll through the canals.
+Dialogue: 0,0:05:53.63,0:05:56.07,Default,,0000,0000,0000,,--Hm?\N--Hm?
+Dialogue: 0,0:05:56.09,0:05:59.45,Default,,0000,0000,0000,,H-Hey! L-Look! Look ahead!
+Dialogue: 0,0:05:59.47,0:06:02.91,Default,,0000,0000,0000,,Oh, that's right! We're at the top of the hill!
+Dialogue: 0,0:06:02.93,0:06:10.93,Default,,0000,0000,0000,,Which means...
+Dialogue: 0,0:06:15.03,0:06:16.97,Default,,0000,0000,0000,,This is fun!
+Dialogue: 0,0:06:16.99,0:06:18.30,Default,,0000,0000,0000,,This is fun but scary!
+Dialogue: 0,0:06:18.32,0:06:26.32,Default,,0000,0000,0000,,Nooo!
+Dialogue: 0,0:06:32.38,0:06:40.38,Default,,0000,0000,0000,,Sorry!
+Dialogue: 0,0:06:41.26,0:06:42.91,Default,,0000,0000,0000,,Arrrrgh! We went flying!
+Dialogue: 0,0:06:42.93,0:06:44.41,Default,,0000,0000,0000,,We're falling. We're falling.\NWe're falling. We're falling.
+Dialogue: 0,0:06:44.43,0:06:45.83,Default,,0000,0000,0000,,We're falling. We're falling. We're falling...
+Dialogue: 0,0:06:45.85,0:06:53.85,Default,,0000,0000,0000,,We're falling!
+Dialogue: 0,0:06:59.07,0:07:05.77,Default,,0000,0000,0000,,Don't get full of yourself!
+Dialogue: 0,0:07:05.79,0:07:07.35,Default,,0000,0000,0000,,Hm?
+Dialogue: 0,0:07:07.37,0:07:09.65,Default,,0000,0000,0000,,Miss! Our stuff is cheap!
+Dialogue: 0,0:07:09.67,0:07:16.53,Default,,0000,0000,0000,,How about taking a look at our products?
+Dialogue: 0,0:07:16.55,0:07:20.03,Default,,0000,0000,0000,,We've got lots of superb\Nitems that are hard to find!
+Dialogue: 0,0:07:20.05,0:07:28.05,Default,,0000,0000,0000,,We're now starting our 50%-off sale!
+Dialogue: 0,0:07:28.19,0:07:31.04,Default,,0000,0000,0000,,Wow! Things have gotten lively!
+Dialogue: 0,0:07:31.06,0:07:35.42,Default,,0000,0000,0000,,Oh? We ended up in the shopping district!
+Dialogue: 0,0:07:35.44,0:07:39.59,Default,,0000,0000,0000,,Could it be that you took a shortcut?
+Dialogue: 0,0:07:39.61,0:07:44.27,Default,,0000,0000,0000,,I'm sorry. You guys are actually smart, huh?
+Dialogue: 0,0:07:44.29,0:07:47.23,Default,,0000,0000,0000,,I've never been to such an\Nenergetic shopping district!
+Dialogue: 0,0:07:47.25,0:07:50.44,Default,,0000,0000,0000,,Hey, look at that! That's a huge bull!
+Dialogue: 0,0:07:50.46,0:07:58.46,Default,,0000,0000,0000,,Whoa! Hey, it's coming this way!
+Dialogue: 0,0:08:00.97,0:08:02.70,Default,,0000,0000,0000,,This guy is scary!
+Dialogue: 0,0:08:02.72,0:08:03.74,Default,,0000,0000,0000,,It's like he's about to eat us!
+Dialogue: 0,0:08:03.76,0:08:06.95,Default,,0000,0000,0000,,Considering its size, I wonder if this is a King.
+Dialogue: 0,0:08:06.97,0:08:10.08,Default,,0000,0000,0000,,Hm? What the heck is that?
+Dialogue: 0,0:08:10.10,0:08:12.88,Default,,0000,0000,0000,,Masks...
+Dialogue: 0,0:08:12.90,0:08:15.71,Default,,0000,0000,0000,,Wow, they're pretty. They're gorgeous.
+Dialogue: 0,0:08:15.73,0:08:19.68,Default,,0000,0000,0000,,I wonder if there's a party or something.
+Dialogue: 0,0:08:19.70,0:08:22.30,Default,,0000,0000,0000,,What? What's going on?
+Dialogue: 0,0:08:22.32,0:08:26.93,Default,,0000,0000,0000,,Here! These are freshly made\Nwater-water octopus dumplings!
+Dialogue: 0,0:08:26.95,0:08:28.77,Default,,0000,0000,0000,,Two water-water croquettes?
+Dialogue: 0,0:08:28.79,0:08:33.90,Default,,0000,0000,0000,,Both look yummy! Yagara, go over there.
+Dialogue: 0,0:08:33.92,0:08:35.94,Default,,0000,0000,0000,,Hey, where're you going?!
+Dialogue: 0,0:08:35.96,0:08:37.90,Default,,0000,0000,0000,,Hey, Luffy! Where're you going?!
+Dialogue: 0,0:08:37.92,0:08:45.92,Default,,0000,0000,0000,,Ask the Yagara!
+Dialogue: 0,0:08:46.51,0:08:49.58,Default,,0000,0000,0000,,Welcome! What would you like?
+Dialogue: 0,0:08:49.60,0:08:52.42,Default,,0000,0000,0000,,Oh, so you were hungry.
+Dialogue: 0,0:08:52.44,0:08:56.96,Default,,0000,0000,0000,,Water-water meat is the Yagara's\Nfavorite food, although it's human food.
+Dialogue: 0,0:08:56.98,0:09:00.26,Default,,0000,0000,0000,,Water-water? Then give me ten of them.
+Dialogue: 0,0:09:00.28,0:09:03.80,Default,,0000,0000,0000,,They're so good that the cooks from the gourmet\Ntown would secretly come to purchase them.
+Dialogue: 0,0:09:03.82,0:09:09.18,Default,,0000,0000,0000,,It captivates your body and soul, doesn't it?
+Dialogue: 0,0:09:09.20,0:09:14.02,Default,,0000,0000,0000,,They... are... so... soft...!
+Dialogue: 0,0:09:14.04,0:09:16.11,Default,,0000,0000,0000,,--Yummy!\N--What?! Is it that good?
+Dialogue: 0,0:09:16.13,0:09:17.94,Default,,0000,0000,0000,,Hey, Luffy! Give me one!
+Dialogue: 0,0:09:17.96,0:09:20.65,Default,,0000,0000,0000,,No! Buy it yourself!
+Dialogue: 0,0:09:20.67,0:09:21.95,Default,,0000,0000,0000,,Hm?
+Dialogue: 0,0:09:21.97,0:09:25.53,Default,,0000,0000,0000,,Hey, Nami! Pull the boat over to that shop!
+Dialogue: 0,0:09:25.55,0:09:29.04,Default,,0000,0000,0000,,More masks... Now that I look closer,\Nthey seem to be everywhere in town.
+Dialogue: 0,0:09:29.06,0:09:31.54,Default,,0000,0000,0000,,Nami!
+Dialogue: 0,0:09:31.56,0:09:35.29,Default,,0000,0000,0000,,Those people with masks...
+Dialogue: 0,0:09:35.31,0:09:40.55,Default,,0000,0000,0000,,Hey, Nami!
+Dialogue: 0,0:09:40.57,0:09:43.47,Default,,0000,0000,0000,,Hey! Some pirates started\Ncausing a ruckus at Dock #1!
+Dialogue: 0,0:09:43.49,0:09:45.01,Default,,0000,0000,0000,,What?! Is that true?!
+Dialogue: 0,0:09:45.03,0:09:48.68,Default,,0000,0000,0000,,We'd better get there right away!
+Dialogue: 0,0:09:48.70,0:09:51.27,Default,,0000,0000,0000,,I don't understand what you're saying.
+Dialogue: 0,0:09:51.29,0:09:56.65,Default,,0000,0000,0000,,Well, actually...
+Dialogue: 0,0:09:56.67,0:09:59.44,Default,,0000,0000,0000,,I thought about it carefully.
+Dialogue: 0,0:09:59.46,0:10:02.70,Default,,0000,0000,0000,,I thought about it really carefully.
+Dialogue: 0,0:10:02.72,0:10:05.66,Default,,0000,0000,0000,,Well, it's true that you guys repaired our ship,
+Dialogue: 0,0:10:05.68,0:10:11.12,Default,,0000,0000,0000,,but no matter how I looked at it,\NI thought the fee was too high.
+Dialogue: 0,0:10:11.14,0:10:13.50,Default,,0000,0000,0000,,You're interrupting our work.
+Dialogue: 0,0:10:13.52,0:10:20.17,Default,,0000,0000,0000,,So... I decided not to pay--\Nnot even a single Berry.
+Dialogue: 0,0:10:20.19,0:10:24.59,Default,,0000,0000,0000,,Thanks for the perfect repairs!
+Dialogue: 0,0:10:24.61,0:10:32.61,Default,,0000,0000,0000,,On top of that, it was free!
+Dialogue: 0,0:10:37.88,0:10:40.94,Default,,0000,0000,0000,,Well... Kalifa, what's going on over there?
+Dialogue: 0,0:10:40.96,0:10:43.82,Default,,0000,0000,0000,,Yes, Iceberg-san.\NThey're the customers for Dock #1.
+Dialogue: 0,0:10:43.84,0:10:47.28,Default,,0000,0000,0000,,Now that the work has been completed,\Nthey're saying they won't pay.
+Dialogue: 0,0:10:47.30,0:10:49.74,Default,,0000,0000,0000,,That's sexual harassment.
+Dialogue: 0,0:10:49.76,0:10:57.76,Default,,0000,0000,0000,,Well... That is sexual harassment.
+Dialogue: 0,0:11:08.20,0:11:16.20,Default,,0000,0000,0000,,Sir, it'd be wise not to tease craftsmen like that.
+Dialogue: 0,0:11:23.34,0:11:25.07,Default,,0000,0000,0000,,B-Boss!
+Dialogue: 0,0:11:25.09,0:11:27.82,Default,,0000,0000,0000,,Boss!
+Dialogue: 0,0:11:27.84,0:11:29.49,Default,,0000,0000,0000,,Oh, pardon me.
+Dialogue: 0,0:11:29.51,0:11:36.04,Default,,0000,0000,0000,,You son of a bitch!\NWatch carefully where you're going!
+Dialogue: 0,0:11:36.06,0:11:38.00,Default,,0000,0000,0000,,Oh, pardon me.
+Dialogue: 0,0:11:38.02,0:11:46.02,Default,,0000,0000,0000,,Y-You bastards! Are you picking a fight?!\NWho do you think we are?!
+Dialogue: 0,0:11:52.99,0:11:56.39,Default,,0000,0000,0000,,Hey, have you test fired the cannon?
+Dialogue: 0,0:11:56.41,0:12:01.06,Default,,0000,0000,0000,,Oh, not yet, sir.
+Dialogue: 0,0:12:01.08,0:12:05.69,Default,,0000,0000,0000,,Dammit! Who the hell are you guys?!
+Dialogue: 0,0:12:05.71,0:12:13.71,Default,,0000,0000,0000,,We'll remember this!
+Dialogue: 0,0:12:21.35,0:12:29.35,Default,,0000,0000,0000,,The pirate way of doing things doesn't\Nwork on craftsmen's turf, now, does it?
+Dialogue: 0,0:12:47.63,0:12:51.07,Default,,0000,0000,0000,,Now... We're finally going to\Ngo to the shipbuilding island
+Dialogue: 0,0:12:51.09,0:12:55.24,Default,,0000,0000,0000,,by using a water gate elevator.
+Dialogue: 0,0:12:55.26,0:12:57.41,Default,,0000,0000,0000,,A water gate elevator?
+Dialogue: 0,0:12:57.43,0:13:05.43,Default,,0000,0000,0000,,That tower-like thing is the one.
+Dialogue: 0,0:13:06.19,0:13:08.84,Default,,0000,0000,0000,,Please come in!
+Dialogue: 0,0:13:08.86,0:13:13.34,Default,,0000,0000,0000,,The elevator will go to the shipbuilding island,
+Dialogue: 0,0:13:13.36,0:13:21.36,Default,,0000,0000,0000,,shipbuilding plant, and downtown Water Seven!
+Dialogue: 0,0:13:21.62,0:13:24.48,Default,,0000,0000,0000,,Please hurry inside the gate!
+Dialogue: 0,0:13:24.50,0:13:29.32,Default,,0000,0000,0000,,One minute until the gate gets closed!
+Dialogue: 0,0:13:29.34,0:13:37.34,Default,,0000,0000,0000,,What'll happen inside?
+Dialogue: 0,0:13:37.68,0:13:41.46,Default,,0000,0000,0000,,Whoa! The water gate is now closed!
+Dialogue: 0,0:13:41.48,0:13:47.63,Default,,0000,0000,0000,,We're going up!\NWe're going up! We're going up!
+Dialogue: 0,0:13:47.65,0:13:51.51,Default,,0000,0000,0000,,I see. That happens. Then, this happens.
+Dialogue: 0,0:13:51.53,0:13:54.59,Default,,0000,0000,0000,,And then, they do this and that.\NSo that's why it's a water gate elevator.
+Dialogue: 0,0:13:54.61,0:14:00.10,Default,,0000,0000,0000,,Whoa! Water Seven is interesting!
+Dialogue: 0,0:14:00.12,0:14:08.12,Default,,0000,0000,0000,,So they use water for all sorts of things!
+Dialogue: 0,0:14:09.34,0:14:12.03,Default,,0000,0000,0000,,Hey!
+Dialogue: 0,0:14:12.05,0:14:15.57,Default,,0000,0000,0000,,Who're you calling Moss Head?
+Dialogue: 0,0:14:15.59,0:14:18.08,Default,,0000,0000,0000,,Hey, Zoro.
+Dialogue: 0,0:14:18.10,0:14:21.70,Default,,0000,0000,0000,,--Huh?\N--Where's Robin-chan? She isn't on the ship.
+Dialogue: 0,0:14:21.72,0:14:23.62,Default,,0000,0000,0000,,Hm?
+Dialogue: 0,0:14:23.64,0:14:28.50,Default,,0000,0000,0000,,Right, she isn't. She went\Nout with Chopper earlier.
+Dialogue: 0,0:14:28.52,0:14:31.71,Default,,0000,0000,0000,,--What?!\N--She said she was going shopping.
+Dialogue: 0,0:14:31.73,0:14:35.80,Default,,0000,0000,0000,,What the hell?! Then are you\Nthe only one on the ship?
+Dialogue: 0,0:14:35.82,0:14:38.68,Default,,0000,0000,0000,,What a boring environment!
+Dialogue: 0,0:14:38.70,0:14:41.93,Default,,0000,0000,0000,,You got that right.
+Dialogue: 0,0:14:41.95,0:14:45.77,Default,,0000,0000,0000,,All right, then. I'll go grocery shopping, too.
+Dialogue: 0,0:14:45.79,0:14:51.15,Default,,0000,0000,0000,,So make sure you watch the ship good.
+Dialogue: 0,0:14:51.17,0:14:53.65,Default,,0000,0000,0000,,Geez, he's already asleep.
+Dialogue: 0,0:14:53.67,0:15:01.67,Default,,0000,0000,0000,,Well, fine. I'll leave the ship to you.
+Dialogue: 0,0:15:24.75,0:15:31.23,Default,,0000,0000,0000,,We're here!
+Dialogue: 0,0:15:31.25,0:15:39.25,Default,,0000,0000,0000,,So this is the world's No. 1 shipyard!\NDowntown Water Seven!
+Dialogue: 0,0:15:42.68,0:15:50.13,Default,,0000,0000,0000,,As expected, I see more ground around here.
+Dialogue: 0,0:15:50.15,0:15:54.67,Default,,0000,0000,0000,,Things are huge all over!
+Dialogue: 0,0:15:54.69,0:15:57.59,Default,,0000,0000,0000,,I've never seen a huge town like this!
+Dialogue: 0,0:15:57.61,0:16:05.61,Default,,0000,0000,0000,,Seeing that fountain up close\Nmakes it look especially big!
+Dialogue: 0,0:16:09.62,0:16:10.94,Default,,0000,0000,0000,,Hm?
+Dialogue: 0,0:16:10.96,0:16:13.32,Default,,0000,0000,0000,,What's with that crowd?
+Dialogue: 0,0:16:13.34,0:16:15.19,Default,,0000,0000,0000,,Aren't they watching the shipyard?
+Dialogue: 0,0:16:15.21,0:16:23.21,Default,,0000,0000,0000,,Let's go see it! Go, Yagara!
+Dialogue: 0,0:16:25.64,0:16:30.46,Default,,0000,0000,0000,,Hey, look over there!\NIt's Lucci-san! He's so handsome!
+Dialogue: 0,0:16:30.48,0:16:32.04,Default,,0000,0000,0000,,Isn't Paulie here?
+Dialogue: 0,0:16:32.06,0:16:37.55,Default,,0000,0000,0000,,Lulu's here! How refined he is!\NHe's truly a man's man.
+Dialogue: 0,0:16:37.57,0:16:42.43,Default,,0000,0000,0000,,Who's manlier than Tilestone?
+Dialogue: 0,0:16:42.45,0:16:44.01,Default,,0000,0000,0000,,--Hey, pops.\N--Hm?
+Dialogue: 0,0:16:44.03,0:16:46.14,Default,,0000,0000,0000,,Did something happen?
+Dialogue: 0,0:16:46.16,0:16:51.40,Default,,0000,0000,0000,,Yeah. It seems that some pirates\Ncaused a ruckus at this here Dock #1.
+Dialogue: 0,0:16:51.42,0:16:55.57,Default,,0000,0000,0000,,But, well, it ended when the\Ncraftsmen knocked them down.
+Dialogue: 0,0:16:55.59,0:16:58.15,Default,,0000,0000,0000,,There's no end to those fools.
+Dialogue: 0,0:16:58.17,0:17:01.41,Default,,0000,0000,0000,,Shipwrights beat pirates up?
+Dialogue: 0,0:17:01.43,0:17:03.66,Default,,0000,0000,0000,,Oh, you must be a voyager.
+Dialogue: 0,0:17:03.68,0:17:07.91,Default,,0000,0000,0000,,That crowd is... well, in short, busybodies.
+Dialogue: 0,0:17:07.93,0:17:13.17,Default,,0000,0000,0000,,Those shipwrights at the Galley-La\NCompany are admired by all the residents.
+Dialogue: 0,0:17:13.19,0:17:15.29,Default,,0000,0000,0000,,They're strong...
+Dialogue: 0,0:17:15.31,0:17:17.34,Default,,0000,0000,0000,,...and skilled.
+Dialogue: 0,0:17:17.36,0:17:25.36,Default,,0000,0000,0000,,They're the pride of Water Seven.
+Dialogue: 0,0:17:28.29,0:17:30.77,Default,,0000,0000,0000,,Wow, I'm looking forward to meeting them!
+Dialogue: 0,0:17:30.79,0:17:32.35,Default,,0000,0000,0000,,Ahh...!
+Dialogue: 0,0:17:32.37,0:17:33.40,Default,,0000,0000,0000,,Hey, Luffy!
+Dialogue: 0,0:17:33.42,0:17:35.48,Default,,0000,0000,0000,,Hm?
+Dialogue: 0,0:17:35.50,0:17:37.61,Default,,0000,0000,0000,,Let's hurry up and go to\Nthe money-changing shop.
+Dialogue: 0,0:17:37.63,0:17:40.40,Default,,0000,0000,0000,,We can come back here later.
+Dialogue: 0,0:17:40.42,0:17:48.42,Default,,0000,0000,0000,,Okay!
+Dialogue: 0,0:17:53.73,0:17:56.13,Default,,0000,0000,0000,,It says that we're in the\Nbackstreet shopping district.
+Dialogue: 0,0:17:56.15,0:18:01.01,Default,,0000,0000,0000,,They call a place this lively the backstreet?
+Dialogue: 0,0:18:01.03,0:18:03.55,Default,,0000,0000,0000,,So they have places that\Nwe can walk around, huh?
+Dialogue: 0,0:18:03.57,0:18:06.05,Default,,0000,0000,0000,,The water is clear and the town is beautiful.
+Dialogue: 0,0:18:06.07,0:18:09.85,Default,,0000,0000,0000,,Yeah.
+Dialogue: 0,0:18:09.87,0:18:12.39,Default,,0000,0000,0000,,Scary!
+Dialogue: 0,0:18:12.41,0:18:13.77,Default,,0000,0000,0000,,Wow!
+Dialogue: 0,0:18:13.79,0:18:15.40,Default,,0000,0000,0000,,What a beautiful lady!
+Dialogue: 0,0:18:15.42,0:18:19.11,Default,,0000,0000,0000,,Such beauty hasn't been\Nseen for the last 100 years!
+Dialogue: 0,0:18:19.13,0:18:20.53,Default,,0000,0000,0000,,Err...
+Dialogue: 0,0:18:20.55,0:18:27.49,Default,,0000,0000,0000,,This place is full of Sanjis...
+Dialogue: 0,0:18:27.51,0:18:29.95,Default,,0000,0000,0000,,Whoa! What's that?!
+Dialogue: 0,0:18:29.97,0:18:33.75,Default,,0000,0000,0000,,That's a mask shop.
+Dialogue: 0,0:18:33.77,0:18:37.88,Default,,0000,0000,0000,,I've noticed people are walking\Naround in town wearing those masks.
+Dialogue: 0,0:18:37.90,0:18:44.63,Default,,0000,0000,0000,,Oh, so they're wearing them, huh?\NI thought those were weird faces.
+Dialogue: 0,0:18:44.65,0:18:48.05,Default,,0000,0000,0000,,It sounds like they're holding a\Ncostume carnival every day right now
+Dialogue: 0,0:18:48.07,0:18:50.60,Default,,0000,0000,0000,,on San Faldo, an island you\Ntake the sea train to get to.
+Dialogue: 0,0:18:50.62,0:18:53.77,Default,,0000,0000,0000,,What? How come you know that?
+Dialogue: 0,0:18:53.79,0:18:57.27,Default,,0000,0000,0000,,People walking by are talking about it.
+Dialogue: 0,0:18:57.29,0:18:59.61,Default,,0000,0000,0000,,I'm surprised that you can hear them.
+Dialogue: 0,0:18:59.63,0:19:02.44,Default,,0000,0000,0000,,It's a habit...
+Dialogue: 0,0:19:02.46,0:19:09.28,Default,,0000,0000,0000,,Since my childhood, I've lived by trying to judge\Npeople's feelings and listening in on them.
+Dialogue: 0,0:19:09.30,0:19:17.30,Default,,0000,0000,0000,,You're amazing, Robin.
+Dialogue: 0,0:19:18.27,0:19:20.75,Default,,0000,0000,0000,,--Doctor...\N--Hm?
+Dialogue: 0,0:19:20.77,0:19:23.05,Default,,0000,0000,0000,,Over there! There's a bookstore.
+Dialogue: 0,0:19:23.07,0:19:24.51,Default,,0000,0000,0000,,Really?!
+Dialogue: 0,0:19:24.53,0:19:27.59,Default,,0000,0000,0000,,Can we stop by here?!
+Dialogue: 0,0:19:27.61,0:19:30.22,Default,,0000,0000,0000,,Of course! Let's go inside.
+Dialogue: 0,0:19:30.24,0:19:38.24,Default,,0000,0000,0000,,All right!
+Dialogue: 0,0:19:43.92,0:19:51.92,Default,,0000,0000,0000,,CP9...
+Dialogue: 0,0:20:01.77,0:20:09.77,Default,,0000,0000,0000,,Robin! I'm gonna go on ahead and go in, okay?
+Dialogue: 0,0:20:32.68,0:20:36.50,Default,,0000,0000,0000,,If I'm in my human form... it may be okay.
+Dialogue: 0,0:20:36.52,0:20:37.96,Default,,0000,0000,0000,,Oh?
+Dialogue: 0,0:20:37.98,0:20:42.92,Default,,0000,0000,0000,,Wow, what a cool mask!\NWhat're you dressed up as?
+Dialogue: 0,0:20:42.94,0:20:48.76,Default,,0000,0000,0000,,Y-Yeah... A human reindeer.
+Dialogue: 0,0:20:48.78,0:20:53.05,Default,,0000,0000,0000,,If you're having fun, that's what's important.
+Dialogue: 0,0:20:53.07,0:21:00.23,Default,,0000,0000,0000,,Oh?
+Dialogue: 0,0:21:00.25,0:21:02.77,Default,,0000,0000,0000,,Robin?
+Dialogue: 0,0:21:02.79,0:21:05.65,Default,,0000,0000,0000,,Hello?!
+Dialogue: 0,0:21:05.67,0:21:13.67,Default,,0000,0000,0000,,Robin?!
+Dialogue: 0,0:21:43.04,0:21:50.11,Default,,0000,0000,0000,,I thought we were attacking you in your sleep...
+Dialogue: 0,0:21:50.13,0:21:52.99,Default,,0000,0000,0000,,Who are you bastards?!
+Dialogue: 0,0:21:53.01,0:22:01.01,Default,,0000,0000,0000,,Identify yourselves!
+Dialogue: 0,0:22:06.94,0:22:09.05,Italics,,0000,0000,0000,,A piece of a dream that we started grasping
+Dialogue: 0,0:22:09.07,0:22:12.59,Italics,,0000,0000,0000,,Chasing after something constant
+Dialogue: 0,0:22:12.61,0:22:18.18,Italics,,0000,0000,0000,,We send our aspirations sailing into the sky
+Dialogue: 0,0:22:18.20,0:22:20.47,Italics,,0000,0000,0000,,Even when we're exhausted
+Dialogue: 0,0:22:20.49,0:22:23.64,Italics,,0000,0000,0000,,We have a compass that can\Nsearch for something constant
+Dialogue: 0,0:22:23.66,0:22:29.07,Italics,,0000,0000,0000,,Say, do you think we can keep it forever?
+Dialogue: 0,0:22:29.09,0:22:31.99,Italics,,0000,0000,0000,,At the end of the dream\Nthat we will reach someday
+Dialogue: 0,0:22:32.01,0:22:35.03,Italics,,0000,0000,0000,,We want to be adults as we\Nare now as much as possible
+Dialogue: 0,0:22:35.05,0:22:37.74,Italics,,0000,0000,0000,,We pray to this endless sky that we look up at
+Dialogue: 0,0:22:37.76,0:22:40.83,Italics,,0000,0000,0000,,Eternally... Eternally...
+Dialogue: 0,0:22:40.85,0:22:43.62,Italics,,0000,0000,0000,,Wild fantasies from our childhood
+Dialogue: 0,0:22:43.64,0:22:46.46,Italics,,0000,0000,0000,,We trace unforgettable memories
+Dialogue: 0,0:22:46.48,0:22:52.13,Italics,,0000,0000,0000,,And try to keep the embers\Nburning that still consume us
+Dialogue: 0,0:22:52.15,0:22:55.05,Italics,,0000,0000,0000,,To this familiar sunny sky
+Dialogue: 0,0:22:55.07,0:22:57.76,Italics,,0000,0000,0000,,Together we entrust our feelings
+Dialogue: 0,0:22:57.78,0:23:00.35,Italics,,0000,0000,0000,,We go beyond the changing time
+Dialogue: 0,0:23:00.37,0:23:08.37,Italics,,0000,0000,0000,,Eternally... Eternally...
+Dialogue: 0,0:23:11.29,0:23:12.90,Default,,0000,0000,0000,,Incredible! Usopp flew in the sky!
+Dialogue: 0,0:23:12.92,0:23:15.36,Default,,0000,0000,0000,,Yeah! Hm? Hey, I'm right here.
+Dialogue: 0,0:23:15.38,0:23:17.82,Default,,0000,0000,0000,,Come to think of it, that Usopp\Nhas a square-ish nose.
+Dialogue: 0,0:23:17.84,0:23:20.83,Default,,0000,0000,0000,,--When it comes to guys,\Nnothing beats a round nose!\N--Well, welcome, Straw Hat.
+Dialogue: 0,0:23:20.85,0:23:22.37,Default,,0000,0000,0000,,I'm Iceberg, the boss of this city.
+Dialogue: 0,0:23:22.39,0:23:24.83,Default,,0000,0000,0000,,Are you a big shot, pops?\NThen please repair our ship!
+Dialogue: 0,0:23:24.85,0:23:27.00,Default,,0000,0000,0000,,--Sure.\N--Whoa, that sounded frivolous!\NIs it okay to be that frivolous?
+Dialogue: 0,0:23:27.02,0:23:28.63,Default,,0000,0000,0000,,On the next episode of One Piece!
+Dialogue: 0,0:23:28.65,0:23:30.63,Default,,0000,0000,0000,,"The Franky Family and Iceberg-san"
+Dialogue: 0,0:23:30.65,0:23:38.65,Default,,0000,0000,0000,,I'm gonna be King of the Pirates!!

@@ -1,0 +1,368 @@
+﻿[Script Info]
+Title: English (US)
+Original Script: ToeiAnimation  [http://www.crunchyroll.com/user/ToeiAnimation]
+Original Translation: 
+Original Editing: 
+Original Timing: 
+Synch Point: 
+Script Updated By: 
+Update Details: 
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 640
+PlayResY: 360
+Timer: 0.0000
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name,Fontname,Fontsize,PrimaryColour,SecondaryColour,OutlineColour,BackColour,Bold,Italic,Underline,Strikeout,ScaleX,ScaleY,Spacing,Angle,BorderStyle,Outline,Shadow,Alignment,MarginL,MarginR,MarginV,Encoding
+Style: Default,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,2,0020,0020,0022,0
+Style: OS,Arial,18,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,8,0001,0001,0015,0
+Style: On Top,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,8,0020,0020,0022,0
+Style: DefaultLow,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,2,0020,0020,0010,0
+Style: B1,Arial,32,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,2,0070,0070,0030,0
+Style: Italics,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,-1,0,0,100,100,0,0,1,2,1,2,0020,0020,0022,0
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:04.00,0:00:06.43,Default,,0000,0000,0000,,Gold Roger, the King of the Pirates,
+Dialogue: 0,0:00:06.45,0:00:09.38,Default,,0000,0000,0000,,once attained everything \Nthis world has to offer.
+Dialogue: 0,0:00:09.40,0:00:11.55,Default,,0000,0000,0000,,The words he uttered just before his death
+Dialogue: 0,0:00:11.57,0:00:14.18,Default,,0000,0000,0000,,drove people around the world to the seas.
+Dialogue: 0,0:00:14.20,0:00:17.31,Default,,0000,0000,0000,,My treasure? If you want it, you can have it!
+Dialogue: 0,0:00:17.33,0:00:18.40,Default,,0000,0000,0000,,Find it!
+Dialogue: 0,0:00:18.42,0:00:21.31,Default,,0000,0000,0000,,I left everything this \Nworld has to offer there!
+Dialogue: 0,0:00:21.33,0:00:23.84,Default,,0000,0000,0000,,Now everyone is in search of romanticism!
+Dialogue: 0,0:00:23.86,0:00:26.54,Default,,0000,0000,0000,,The world has truly entered \Na Great Pirate Era!
+Dialogue: 0,0:00:26.56,0:00:26.54,DefaultLow,,0000,0000,0000,,I can’t stand still, I can’t stop
+Dialogue: 0,0:00:26.56,0:00:30.54,On Top,,0000,0000,0000,,jitto dekinai tomarenai
+Dialogue: 0,0:00:30.56,0:00:30.54,DefaultLow,,0000,0000,0000,,Daybreak hasn’t come yet and I can’t wait
+Dialogue: 0,0:00:30.56,0:00:34.84,On Top,,0000,0000,0000,,yoake ga osokute jirettai
+Dialogue: 0,0:00:34.86,0:00:34.84,DefaultLow,,0000,0000,0000,,One, two, Sunshine four...WE GO!
+Dialogue: 0,0:00:34.86,0:00:40.05,On Top,,0000,0000,0000,,ichi, ni, Sunshine yon...we go!
+Dialogue: 0,0:00:40.07,0:00:40.05,DefaultLow,,0000,0000,0000,,Fly the flag, Break of Romance Dawn
+Dialogue: 0,0:00:40.07,0:00:45.56,On Top,,0000,0000,0000,,hata wo ageyou Break of Romance Dawn
+Dialogue: 0,0:00:45.58,0:00:45.56,DefaultLow,,0000,0000,0000,,Make waves, jump from your sleep
+Dialogue: 0,0:00:45.58,0:00:50.85,On Top,,0000,0000,0000,,namikaze tateyou suriipu kara no janpusutaato
+Dialogue: 0,0:00:50.87,0:00:50.85,DefaultLow,,0000,0000,0000,,If you want to go to the unbelievable world
+Dialogue: 0,0:00:50.87,0:00:55.44,On Top,,0000,0000,0000,,arienai sekai wo iku nara
+Dialogue: 0,0:00:55.46,0:00:55.44,DefaultLow,,0000,0000,0000,,your toughness, that’s what it takes
+Dialogue: 0,0:00:55.46,0:01:00.07,On Top,,0000,0000,0000,,kimi no tafunesu sore ga hitsuyou
+Dialogue: 0,0:01:00.09,0:01:00.07,DefaultLow,,0000,0000,0000,,Being brazen, is it a crime?
+Dialogue: 0,0:01:00.09,0:01:02.86,On Top,,0000,0000,0000,,medachisugi sorette tsumi?
+Dialogue: 0,0:01:02.88,0:01:02.86,DefaultLow,,0000,0000,0000,,Wanted->means Winner:D
+Dialogue: 0,0:01:02.88,0:01:05.87,On Top,,0000,0000,0000,,shimeitehai->tsumari Winner
+Dialogue: 0,0:01:05.89,0:01:05.87,DefaultLow,,0000,0000,0000,,Freedom is our only rule
+Dialogue: 0,0:01:05.89,0:01:11.54,On Top,,0000,0000,0000,,jiyuu dakega ore tachi no ruuru
+Dialogue: 0,0:01:11.56,0:01:11.54,DefaultLow,,0000,0000,0000,,It's not our way to worry
+Dialogue: 0,0:01:11.56,0:01:16.88,On Top,,0000,0000,0000,,shinpai nante dokofuku kaze--
+Dialogue: 0,0:01:16.90,0:01:16.88,DefaultLow,,0000,0000,0000,,At any cost, One Piece, I’ll be the first
+Dialogue: 0,0:01:16.90,0:01:19.42,On Top,,0000,0000,0000,,ttai one piece ichibannori
+Dialogue: 0,0:01:19.44,0:01:19.42,DefaultLow,,0000,0000,0000,,My dreaming heart is huge
+Dialogue: 0,0:01:19.44,0:01:23.51,On Top,,0000,0000,0000,,yume miru kokoro wa choo dekai
+Dialogue: 0,0:01:23.53,0:01:23.51,DefaultLow,,0000,0000,0000,,It’s important not to wake up
+Dialogue: 0,0:01:23.53,0:01:27.81,On Top,,0000,0000,0000,,samenai koto ga daiji--
+Dialogue: 0,0:01:27.83,0:01:27.81,DefaultLow,,0000,0000,0000,,I can’t stand still, I can’t stop
+Dialogue: 0,0:01:27.83,0:01:30.52,On Top,,0000,0000,0000,,tto dekinai tomarenai
+Dialogue: 0,0:01:30.54,0:01:30.52,DefaultLow,,0000,0000,0000,,Daybreak hasn’t come yet and I can’t wait
+Dialogue: 0,0:01:30.54,0:01:34.73,On Top,,0000,0000,0000,,yoake ga osokute jirettai
+Dialogue: 0,0:01:34.75,0:01:34.73,DefaultLow,,0000,0000,0000,,One, two, Sunshine four...WE GO!
+Dialogue: 0,0:01:34.75,0:01:39.86,On Top,,0000,0000,0000,,ichi, ni, Sunshine yon...we go!
+Dialogue: 0,0:01:39.88,0:01:39.86,DefaultLow,,0000,0000,0000,,We...made it this far
+Dialogue: 0,0:01:39.88,0:01:45.87,On Top,,0000,0000,0000,,ore tachi wa...koko made kitaze
+Dialogue: 0,0:01:45.89,0:01:45.87,DefaultLow,,0000,0000,0000,,We go...to where the dream is
+Dialogue: 0,0:01:45.89,0:01:48.74,On Top,,0000,0000,0000,,ore tachi wa iku...yume no arika e
+Dialogue: 0,0:01:48.76,0:01:48.74,DefaultLow,,0000,0000,0000,,We won’t left anyone behind
+Dialogue: 0,0:01:48.76,0:01:53.83,On Top,,0000,0000,0000,,dare mo oitekanaize--
+Dialogue: 0,0:01:53.85,0:01:53.83,DefaultLow,,0000,0000,0000,,Keep going forward, that’s our pledge
+Dialogue: 0,0:01:53.85,0:01:56.50,On Top,,0000,0000,0000,,nshin aru nomi sore ga chikai
+Dialogue: 0,0:01:56.52,0:01:56.50,DefaultLow,,0000,0000,0000,,Since the day that the dream began
+Dialogue: 0,0:01:56.52,0:02:00.55,On Top,,0000,0000,0000,,yume ga hajimatta ano hi kara
+Dialogue: 0,0:02:00.57,0:02:00.55,DefaultLow,,0000,0000,0000,,the future that I’m \Naiming at hasn’t changed
+Dialogue: 0,0:02:00.57,0:02:04.63,On Top,,0000,0000,0000,,mezasu mirai wa onaji--
+Dialogue: 0,0:02:04.65,0:02:04.63,DefaultLow,,0000,0000,0000,,I can’t stand still, I can’t stop
+Dialogue: 0,0:02:04.65,0:02:07.30,On Top,,0000,0000,0000,,tto dekinai tomarenai
+Dialogue: 0,0:02:07.32,0:02:07.30,DefaultLow,,0000,0000,0000,,The sun of my heart will never set
+Dialogue: 0,0:02:07.32,0:02:11.52,On Top,,0000,0000,0000,,kokoro no taiyou shizumanai
+Dialogue: 0,0:02:11.54,0:02:11.52,DefaultLow,,0000,0000,0000,,One, two, Sunshine
+Dialogue: 0,0:02:11.54,0:02:15.69,On Top,,0000,0000,0000,,ichi, ni, Sunshine
+Dialogue: 0,0:02:15.71,0:02:15.69,DefaultLow,,0000,0000,0000,,One, two, Sunshine
+Dialogue: 0,0:02:15.71,0:02:19.73,On Top,,0000,0000,0000,,ichi, ni, Sunshine
+Dialogue: 0,0:02:19.75,0:02:19.73,DefaultLow,,0000,0000,0000,,One, two, Sunshine four...WE GO!
+Dialogue: 0,0:02:19.75,0:02:27.75,On Top,,0000,0000,0000,,ichi, ni, Sunshine yon...we go!
+Dialogue: 0,0:02:28.30,0:02:35.34,DefaultLow,,0000,0000,0000,,WE GO!
+Dialogue: 0,0:02:35.36,0:02:38.71,Default,,0000,0000,0000,,All the pirates who are \Nafter the One Piece...
+Dialogue: 0,0:02:38.73,0:02:46.02,Default,,0000,0000,0000,,...head for the New World, the \Nsecond half of the Grand Line.
+Dialogue: 0,0:02:46.04,0:02:53.37,Default,,0000,0000,0000,,However, no one has ever fully explored it \Nexcept for Gold Roger, King of the Pirates.
+Dialogue: 0,0:02:53.39,0:03:00.28,Default,,0000,0000,0000,,The New World has ruined many \Npirates' dreams and ambitions.
+Dialogue: 0,0:03:00.30,0:03:06.36,Default,,0000,0000,0000,,Now, Monkey D. Luffy, a boy whose body \Nturned to rubber after he ate the Gum-Gum Fruit,
+Dialogue: 0,0:03:06.38,0:03:08.85,Default,,0000,0000,0000,,and his friends venture into that sea.
+Dialogue: 0,0:03:08.87,0:03:15.82,Default,,0000,0000,0000,,I'm gonna become the King of the Pirates!
+Dialogue: 0,0:03:15.84,0:03:18.29,Default,,0000,0000,0000,,On their way to the New World,
+Dialogue: 0,0:03:18.31,0:03:23.34,Default,,0000,0000,0000,,Luffy and his crew reached the Fish-Man \NIsland located 10,000 meters below sea level,
+Dialogue: 0,0:03:23.36,0:03:28.64,Default,,0000,0000,0000,,where they instigated an all-out war \Nagainst the New Fish-Man Pirates,
+Dialogue: 0,0:03:28.66,0:03:33.25,Default,,0000,0000,0000,,who were holding a grudge against humans \Nand looking to destroy the Ryugu Kingdom.
+Dialogue: 0,0:03:33.27,0:03:39.67,Default,,0000,0000,0000,,Luffy finally defeated Hordy, the captain of \Nthe New Fish-Man Pirates, in a fierce fight
+Dialogue: 0,0:03:39.69,0:03:44.19,Default,,0000,0000,0000,,and thwarted his plot.
+Dialogue: 0,0:03:44.21,0:03:49.50,Default,,0000,0000,0000,,Listen. You all need to know \Nthe two biggest changes...
+Dialogue: 0,0:03:49.52,0:03:54.37,Default,,0000,0000,0000,,...which have occurred in the New World.
+Dialogue: 0,0:03:54.39,0:03:58.22,Default,,0000,0000,0000,,First, the Navy Headquarters \Nled by Sakazuki...
+Dialogue: 0,0:03:58.24,0:04:02.74,Default,,0000,0000,0000,,...has become an even more  \Npowerful force for justice.
+Dialogue: 0,0:04:02.76,0:04:04.92,Default,,0000,0000,0000,,And second,
+Dialogue: 0,0:04:04.94,0:04:12.94,Default,,0000,0000,0000,,the Blackbeard Pirates have advanced.
+Dialogue: 0,0:04:15.39,0:04:18.24,Default,,0000,0000,0000,,You fools! Why did you kick him out?!
+Dialogue: 0,0:04:18.26,0:04:21.35,Default,,0000,0000,0000,,Why didn't you just punch \Nhim and tie him up here!
+Dialogue: 0,0:04:21.37,0:04:24.19,Default,,0000,0000,0000,,I love it even when you...
+Dialogue: 0,0:04:24.21,0:04:29.95,Default,,0000,0000,0000,,Go find him now!
+Dialogue: 0,0:04:29.97,0:04:34.53,Default,,0000,0000,0000,,They were sent by Big Mam. \NThis is not a good time!
+Dialogue: 0,0:04:34.55,0:04:37.39,Default,,0000,0000,0000,,We don't have any sweets \Nto pay them for this month.
+Dialogue: 0,0:04:37.41,0:04:40.38,Default,,0000,0000,0000,,Hordy and the others destroyed the factory
+Dialogue: 0,0:04:40.40,0:04:42.01,Default,,0000,0000,0000,,and the undamaged sweets have
+Dialogue: 0,0:04:42.03,0:04:44.92,Default,,0000,0000,0000,,been sent to the banquet \Nsince everybody wanted the
+Dialogue: 0,0:04:44.94,0:04:50.75,Default,,0000,0000,0000,,Straw Hats to have them!
+Dialogue: 0,0:04:50.77,0:04:52.96,Default,,0000,0000,0000,,I wonder if we can explain the situation.
+Dialogue: 0,0:04:52.98,0:04:57.40,Default,,0000,0000,0000,,She is like a monster who would \Ndestroy a whole country for sweets!
+Dialogue: 0,0:04:57.42,0:04:59.92,Default,,0000,0000,0000,,One of the Four Emperors...
+Dialogue: 0,0:04:59.94,0:05:02.73,Default,,0000,0000,0000,,Big Mam!
+Dialogue: 0,0:05:02.75,0:05:10.75,B1,,0000,0000,0000,,{\fad(2000,2000)}"She Loves Sweets! Big Mam \Nof the Four Emperors!"
+Dialogue: 0,0:05:13.05,0:05:17.55,Default,,0000,0000,0000,,After the banquet reaches its \Nclimax, it comes to an end.
+Dialogue: 0,0:05:17.57,0:05:21.12,Default,,0000,0000,0000,,What?! They'll give us their treasure?!
+Dialogue: 0,0:05:21.14,0:05:22.78,Default,,0000,0000,0000,,Wow!
+Dialogue: 0,0:05:22.80,0:05:24.89,Default,,0000,0000,0000,,That's really nice!
+Dialogue: 0,0:05:24.91,0:05:28.77,Default,,0000,0000,0000,,I wonder if Luffy-sama and the others \Nare doing okay, Nami-chin-sama.
+Dialogue: 0,0:05:28.79,0:05:30.13,Default,,0000,0000,0000,,They're fine!
+Dialogue: 0,0:05:30.15,0:05:33.86,Default,,0000,0000,0000,,We're finally gonna become \Na rich pirate group!
+Dialogue: 0,0:05:33.88,0:05:37.90,Default,,0000,0000,0000,,Things in life usually aren't that easy...
+Dialogue: 0,0:05:37.92,0:05:41.28,Default,,0000,0000,0000,,Hey Usopp, do you wanna go look for him too?
+Dialogue: 0,0:05:41.30,0:05:44.28,Default,,0000,0000,0000,,No, we better not. I did some research
+Dialogue: 0,0:05:44.30,0:05:45.48,DefaultLow,,0000,0000,0000,,and found out that his
+Dialogue: 0,0:05:45.50,0:05:45.99,OS,,0000,0000,0000,,THE FISH-MAN ISLAND - THE OUTSKIRTS \NOF CORAL HILL NEAR THE CANDY FACTORY
+Dialogue: 0,0:05:46.01,0:05:47.52,DefaultLow,,0000,0000,0000,,bounty is over 200 million.
+Dialogue: 0,0:05:47.54,0:05:50.19,Default,,0000,0000,0000,,What?! Mine's only 50 berries...
+Dialogue: 0,0:05:50.21,0:05:54.86,Default,,0000,0000,0000,,Hey look, Zoro, Sanji! \NThere he is! That was easy!
+Dialogue: 0,0:05:54.88,0:06:00.02,Default,,0000,0000,0000,,He got knocked out cold already \Nby your punch. How pathetic!
+Dialogue: 0,0:06:00.04,0:06:03.36,Default,,0000,0000,0000,,There is so much treasure \Nscattered around here.
+Dialogue: 0,0:06:03.38,0:06:07.75,Default,,0000,0000,0000,,Is that furry king really \Ngoing to give us all of this?
+Dialogue: 0,0:06:07.77,0:06:11.15,Default,,0000,0000,0000,,Cool! We can buy lots of meat!
+Dialogue: 0,0:06:11.17,0:06:19.17,Default,,0000,0000,0000,,I can't believe he was storing \Nall of this in his gloopy body!
+Dialogue: 0,0:06:21.85,0:06:26.68,Default,,0000,0000,0000,,1, 2, 3!
+Dialogue: 0,0:06:26.70,0:06:29.24,Default,,0000,0000,0000,,--Alright! Let's go back to the palace!\N--How?
+Dialogue: 0,0:06:29.26,0:06:31.11,Default,,0000,0000,0000,,We need a flying fish.
+Dialogue: 0,0:06:31.13,0:06:34.31,Default,,0000,0000,0000,,--Which way is the town, Zoro?\N--That way.
+Dialogue: 0,0:06:34.33,0:06:42.33,Default,,0000,0000,0000,,--Okay, let's head in the opposite direction.\N--Hey!
+Dialogue: 0,0:06:43.56,0:06:45.69,Default,,0000,0000,0000,,All right, Minister of the Left?
+Dialogue: 0,0:06:45.71,0:06:48.60,Default,,0000,0000,0000,,Please show us mercy!
+Dialogue: 0,0:06:48.62,0:06:52.41,Default,,0000,0000,0000,,It was all unexpected! Hordy and the \Nothers destroyed the factory and...
+Dialogue: 0,0:06:52.43,0:06:56.94,Default,,0000,0000,0000,,That's none of our concern! Grr!
+Dialogue: 0,0:06:56.96,0:07:01.09,Default,,0000,0000,0000,,I was planning on snatching some  \Nfor myself so I'm very hungry!
+Dialogue: 0,0:07:01.11,0:07:04.22,Default,,0000,0000,0000,,You pay us with sweets once a month.
+Dialogue: 0,0:07:04.24,0:07:05.68,Default,,0000,0000,0000,,And we allow you to use Mama's name.
+Dialogue: 0,0:07:05.70,0:07:07.31,OS,,0000,0000,0000,,PEKOMS-- A MEMBER OF THE BIG MAM PIRATES
+Dialogue: 0,0:07:07.33,0:07:11.90,Default,,0000,0000,0000,,That was the agreement, wasn't it? Grr!
+Dialogue: 0,0:07:11.92,0:07:16.28,Default,,0000,0000,0000,,Now, I don't want to say this to you \Nseeing as how we're business partners
+Dialogue: 0,0:07:16.30,0:07:22.16,Default,,0000,0000,0000,,but you know how scary Mama can be! \NIf you make her mad, she will...
+Dialogue: 0,0:07:22.18,0:07:24.16,Default,,0000,0000,0000,,...destroy you all!
+Dialogue: 0,0:07:24.18,0:07:26.68,Default,,0000,0000,0000,,He's cute when he does that!
+Dialogue: 0,0:07:26.70,0:07:29.67,Default,,0000,0000,0000,,Now, what are you gonna do?! Grr!
+Dialogue: 0,0:07:29.69,0:07:34.34,Default,,0000,0000,0000,,Look - a crowd.
+Dialogue: 0,0:07:34.36,0:07:37.94,Default,,0000,0000,0000,,Oh, this is the Candy Factory! \NPappagu told me about it!
+Dialogue: 0,0:07:37.96,0:07:39.14,Default,,0000,0000,0000,,Yeah?
+Dialogue: 0,0:07:39.16,0:07:41.53,Default,,0000,0000,0000,,I hope we can find a flying fish here.
+Dialogue: 0,0:07:41.55,0:07:44.92,Default,,0000,0000,0000,,I guess they're making \Nthose yummy sweets here!
+Dialogue: 0,0:07:44.94,0:07:48.87,Default,,0000,0000,0000,,Hey, Candy Factory!
+Dialogue: 0,0:07:48.89,0:07:50.90,Default,,0000,0000,0000,,Straw Hat Luffy!
+Dialogue: 0,0:07:50.92,0:07:54.70,Default,,0000,0000,0000,,Luffy-san, is the banquet over already?!
+Dialogue: 0,0:07:54.72,0:07:57.11,Default,,0000,0000,0000,,Luffy-kun, why are you here?!
+Dialogue: 0,0:07:57.13,0:08:00.23,Default,,0000,0000,0000,,Yeah, I ate a lot!
+Dialogue: 0,0:08:00.25,0:08:02.19,Default,,0000,0000,0000,,The meat was good but those sweets
+Dialogue: 0,0:08:02.21,0:08:08.12,Default,,0000,0000,0000,,from the Fish-Man Island were unbelievable!
+Dialogue: 0,0:08:08.14,0:08:10.94,Default,,0000,0000,0000,,What?!
+Dialogue: 0,0:08:10.96,0:08:13.36,Default,,0000,0000,0000,,No, Straw Hat-san!
+Dialogue: 0,0:08:13.38,0:08:14.71,Default,,0000,0000,0000,,Don't talk about them!
+Dialogue: 0,0:08:14.73,0:08:18.56,Default,,0000,0000,0000,,Oh, old Mr. Catfish, it's you!
+Dialogue: 0,0:08:18.58,0:08:25.97,Default,,0000,0000,0000,,Did he say "sweets"?! Who are they?!
+Dialogue: 0,0:08:25.99,0:08:29.60,Default,,0000,0000,0000,,Oh yeah, he's Straw Hat Luffy! Definitely!
+Dialogue: 0,0:08:29.62,0:08:33.16,Default,,0000,0000,0000,,What is that notorious pirate doing here?
+Dialogue: 0,0:08:33.18,0:08:34.76,Default,,0000,0000,0000,,Well, um...
+Dialogue: 0,0:08:34.78,0:08:38.77,Default,,0000,0000,0000,,Hey brat! Which sweets \Nare you talking about?!
+Dialogue: 0,0:08:38.79,0:08:40.86,Default,,0000,0000,0000,,Well, Mr. Pekoms, let me explain...
+Dialogue: 0,0:08:40.88,0:08:42.61,Default,,0000,0000,0000,,Who are you?!
+Dialogue: 0,0:08:42.63,0:08:44.07,Default,,0000,0000,0000,,You're not a Fish-Man, are you?
+Dialogue: 0,0:08:44.09,0:08:45.76,Default,,0000,0000,0000,,You came to buy sweets?
+Dialogue: 0,0:08:45.78,0:08:49.04,Default,,0000,0000,0000,,I just finished stuffing myself full of them!
+Dialogue: 0,0:08:49.06,0:08:50.81,Default,,0000,0000,0000,,What?!
+Dialogue: 0,0:08:50.83,0:08:56.13,Default,,0000,0000,0000,,What's going on here?! \NHe just said he ate them!
+Dialogue: 0,0:08:56.15,0:08:59.59,Default,,0000,0000,0000,,W-Well... There is an explanation...
+Dialogue: 0,0:08:59.61,0:09:02.48,Default,,0000,0000,0000,,Oh?! A talking lion!
+Dialogue: 0,0:09:02.50,0:09:05.64,Default,,0000,0000,0000,,But I guess that's not such a big \Ndeal. We've got something similar.
+Dialogue: 0,0:09:05.66,0:09:07.02,Default,,0000,0000,0000,,Atchoo!
+Dialogue: 0,0:09:07.04,0:09:09.66,Default,,0000,0000,0000,,Whoa, what's wrong? Did you catch a cold?
+Dialogue: 0,0:09:09.68,0:09:11.76,Default,,0000,0000,0000,,Maybe somebody's talking about me.
+Dialogue: 0,0:09:11.78,0:09:17.23,Default,,0000,0000,0000,,You're popular.
+Dialogue: 0,0:09:17.25,0:09:20.31,Default,,0000,0000,0000,,This lion's got an unique face!
+Dialogue: 0,0:09:20.33,0:09:27.72,Default,,0000,0000,0000,,What?! Are you messing with me?!
+Dialogue: 0,0:09:27.74,0:09:29.91,Default,,0000,0000,0000,,Yuck! You fool!
+Dialogue: 0,0:09:29.93,0:09:33.44,Default,,0000,0000,0000,,Pekoms.
+Dialogue: 0,0:09:33.46,0:09:41.46,Default,,0000,0000,0000,,Making such threatening faces doesn't \Nhelp us in collecting the sweets.
+Dialogue: 0,0:09:43.33,0:09:48.59,Default,,0000,0000,0000,,Let's settle this peacefully-soir. \NThe tea party is 4 days from now-bon.
+Dialogue: 0,0:09:48.61,0:09:52.77,Default,,0000,0000,0000,,We can make it on time if we \Nleave here tomorrow morning-jour.
+Dialogue: 0,0:09:52.79,0:09:58.43,Default,,0000,0000,0000,,There's another odd one! Who are you?
+Dialogue: 0,0:09:58.45,0:10:02.36,Default,,0000,0000,0000,,Bon to meet you, you half-boiled pirates.
+Dialogue: 0,0:10:02.38,0:10:02.95,DefaultLow,,0000,0000,0000,,My name is Baron Tamago-soir!
+Dialogue: 0,0:10:02.97,0:10:06.87,OS,,0000,0000,0000,,BARON TAMAGO-- A MEMBER OF THE \NBIG MAM PIRATES (LONGFEET TRIBE)
+Dialogue: 0,0:10:06.89,0:10:11.56,Default,,0000,0000,0000,,Tamago (egg)?!
+Dialogue: 0,0:10:11.58,0:10:19.55,Default,,0000,0000,0000,,Remember my name at least-s'il vous plait!
+Dialogue: 0,0:10:19.57,0:10:23.98,Default,,0000,0000,0000,,Now, you gentlemen...
+Dialogue: 0,0:10:24.00,0:10:29.81,Default,,0000,0000,0000,,Did you just say you ate the sweets \Nfrom this factory-c'est si bon?
+Dialogue: 0,0:10:29.83,0:10:30.90,Default,,0000,0000,0000,,He looks like a compass.
+Dialogue: 0,0:10:30.92,0:10:35.17,Default,,0000,0000,0000,,Yes, I did! I wanna have \Nsome more if they have any!
+Dialogue: 0,0:10:35.19,0:10:41.56,Default,,0000,0000,0000,,They don't. That's why we \Ndon't know what to do-bon!
+Dialogue: 0,0:10:41.58,0:10:45.04,Default,,0000,0000,0000,,That big mark on the factory is...
+Dialogue: 0,0:10:45.06,0:10:49.66,Default,,0000,0000,0000,,...the Jolly Roger of the great pirate \Nand our boss- Charlotte Lingling-soir.
+Dialogue: 0,0:10:49.68,0:10:55.33,Default,,0000,0000,0000,,It claims this island as Big Mam's territory \N- she is one of the Four Emperors.
+Dialogue: 0,0:10:55.35,0:11:01.71,Default,,0000,0000,0000,,Which means, the Fish-Man Island is \Nprotected under Big Mam's name-bon!
+Dialogue: 0,0:11:01.73,0:11:07.68,Default,,0000,0000,0000,,Sounds like a nice person! I wanna \Nmeet your boss! Big Mam, huh?
+Dialogue: 0,0:11:07.70,0:11:12.51,Default,,0000,0000,0000,,Don't mistake our arrangement. \NWe have a business arrangement.
+Dialogue: 0,0:11:12.53,0:11:15.79,Default,,0000,0000,0000,,In exchange for 10 tons of sweets a month,
+Dialogue: 0,0:11:15.81,0:11:20.09,Default,,0000,0000,0000,,we allow them to use the mark-bon.
+Dialogue: 0,0:11:20.11,0:11:22.64,Default,,0000,0000,0000,,--10 tons?\N--That's right.
+Dialogue: 0,0:11:22.66,0:11:27.78,Default,,0000,0000,0000,,Mama loves sweet candies \Nmore than anything-soir.
+Dialogue: 0,0:11:27.80,0:11:32.83,Default,,0000,0000,0000,,Sweets from the Fish-Man \NIsland are her favorite.
+Dialogue: 0,0:11:32.85,0:11:35.96,Default,,0000,0000,0000,,So we'll wait until tomorrow morning.
+Dialogue: 0,0:11:35.98,0:11:38.92,Default,,0000,0000,0000,,No, Baron, I already told you.
+Dialogue: 0,0:11:38.94,0:11:41.77,Default,,0000,0000,0000,,The factory's giant cooking \Nmachines are broken
+Dialogue: 0,0:11:41.79,0:11:46.41,Default,,0000,0000,0000,,and we need at least 2 weeks to repair them!
+Dialogue: 0,0:11:46.43,0:11:48.63,Default,,0000,0000,0000,,That's not acceptable-soir.
+Dialogue: 0,0:11:48.65,0:11:52.43,Default,,0000,0000,0000,,Hey Tamago! Why can't you wait?!
+Dialogue: 0,0:11:52.45,0:11:57.56,Default,,0000,0000,0000,,Is your boss's mind as small as his balls? \NHe's one of the Four Emperors, isn't he?
+Dialogue: 0,0:11:57.58,0:12:03.10,Default,,0000,0000,0000,,It's not "he." Mama is a great \Nwoman pirate-vous plait.
+Dialogue: 0,0:12:03.12,0:12:05.98,Default,,0000,0000,0000,,I don't think she has balls-jour.
+Dialogue: 0,0:12:06.00,0:12:09.67,Default,,0000,0000,0000,,Oh, she's a madam.
+Dialogue: 0,0:12:09.69,0:12:12.93,Default,,0000,0000,0000,,I love sweets!
+Dialogue: 0,0:12:12.95,0:12:18.25,Default,,0000,0000,0000,,And I love you too since you can make them!
+Dialogue: 0,0:12:18.27,0:12:22.27,Default,,0000,0000,0000,,What's gonna happen if you \Ncan't have them on time?
+Dialogue: 0,0:12:22.29,0:12:26.79,Default,,0000,0000,0000,,In that case...
+Dialogue: 0,0:12:26.81,0:12:29.47,Default,,0000,0000,0000,,The deal is off!
+Dialogue: 0,0:12:29.49,0:12:33.57,Default,,0000,0000,0000,,Vicious members of the \NBig Mam Pirates will...
+Dialogue: 0,0:12:33.59,0:12:37.93,Default,,0000,0000,0000,,...descend on the island and \Ndestroy it  in no time-vous plait!
+Dialogue: 0,0:12:37.95,0:12:41.10,Default,,0000,0000,0000,,Destroy the island?!
+Dialogue: 0,0:12:41.12,0:12:45.17,Default,,0000,0000,0000,,Are you guys nuts? You can't \Ndestroy a country over candies!
+Dialogue: 0,0:12:45.19,0:12:53.19,Default,,0000,0000,0000,,This island has just been saved!
+Dialogue: 0,0:13:10.53,0:13:12.75,OS,,0000,0000,0000,,WHOLE CAKE ISLAND SOMEWHERE IN THE NEW WORLD
+Dialogue: 0,0:13:12.77,0:13:16.56,DefaultLow,,0000,0000,0000,,You look happy, Mama.
+Dialogue: 0,0:13:16.58,0:13:16.80,OS,,0000,0000,0000,,ONE OF THE FOUR EMPERORS-- - THE GREAT \NPIRATE "BIG MAM" CHARLOTTE LINGLING
+Dialogue: 0,0:13:16.82,0:13:19.52,DefaultLow,,0000,0000,0000,,I can't wait for the tea party
+Dialogue: 0,0:13:19.54,0:13:27.35,DefaultLow,,0000,0000,0000,,four days from now because...
+Dialogue: 0,0:13:27.37,0:13:32.55,Default,,0000,0000,0000,,...I'll get my hands on those delicious \Nsweets from the Fish-Man Island!
+Dialogue: 0,0:13:32.57,0:13:37.36,Default,,0000,0000,0000,,I can't wait and my stomach is \Nalready producing so much acid!
+Dialogue: 0,0:13:37.38,0:13:40.68,Default,,0000,0000,0000,,Can't wait! Can't wait! The \Nsweets from the Fish-Man Island!
+Dialogue: 0,0:13:40.70,0:13:43.32,Default,,0000,0000,0000,,You guys can't wait either?
+Dialogue: 0,0:13:43.34,0:13:46.88,Default,,0000,0000,0000,,Of course, we can't! They are so good!
+Dialogue: 0,0:13:46.90,0:13:54.90,Default,,0000,0000,0000,,Then why don't you wait for \Nthem inside of my stomach?!
+Dialogue: 0,0:14:21.10,0:14:23.43,Default,,0000,0000,0000,,Mama!
+Dialogue: 0,0:14:23.45,0:14:26.17,Default,,0000,0000,0000,,I'm home! Boyoyon!
+Dialogue: 0,0:14:26.19,0:14:30.02,Default,,0000,0000,0000,,Oh! How did it go, Bobbin?
+Dialogue: 0,0:14:30.04,0:14:32.04,Default,,0000,0000,0000,,I beat them up and burned the place!
+Dialogue: 0,0:14:32.06,0:14:34.09,Default,,0000,0000,0000,,How lovely!
+Dialogue: 0,0:14:34.11,0:14:38.67,Default,,0000,0000,0000,,That country had the best baked goods!
+Dialogue: 0,0:14:38.69,0:14:43.11,Default,,0000,0000,0000,,It must have smelled so good \Nas it burned to the ground!
+Dialogue: 0,0:14:43.13,0:14:45.39,Default,,0000,0000,0000,,It's a shame but we had no choice.
+Dialogue: 0,0:14:45.41,0:14:50.30,Default,,0000,0000,0000,,Because they couldn't reach \Ntheir quotas on time.
+Dialogue: 0,0:14:50.32,0:14:52.07,Default,,0000,0000,0000,,Can I have some snacks?
+Dialogue: 0,0:14:52.09,0:14:56.39,Default,,0000,0000,0000,,We have to kill them if \Nthey don't give us sweets!
+Dialogue: 0,0:14:56.41,0:15:00.40,Default,,0000,0000,0000,,I don't like people who \Ndon't keep their promises!
+Dialogue: 0,0:15:00.42,0:15:04.27,Default,,0000,0000,0000,,Just like I don't like bitter candies!
+Dialogue: 0,0:15:04.29,0:15:12.29,Default,,0000,0000,0000,,Oh yeah! I heard the Fish-Man Island \Nmay not have sweets to pay this month.
+Dialogue: 0,0:15:12.57,0:15:14.93,Default,,0000,0000,0000,,I just got word from Pekoms. Do \Nyou want the Fish-Man Island
+Dialogue: 0,0:15:14.95,0:15:22.95,Default,,0000,0000,0000,,to be burned down too?
+Dialogue: 0,0:15:24.49,0:15:29.09,Default,,0000,0000,0000,,I can't have the sweets \Nfrom the Fish-Man Island?!
+Dialogue: 0,0:15:29.11,0:15:37.11,Default,,0000,0000,0000,,Get them on the Transponder Snail now!
+Dialogue: 0,0:15:47.52,0:15:49.97,Default,,0000,0000,0000,,Destroy the island?!
+Dialogue: 0,0:15:49.99,0:15:51.91,Default,,0000,0000,0000,,Are you guys nuts?
+Dialogue: 0,0:15:51.93,0:15:54.68,Default,,0000,0000,0000,,You can't destroy a country over candies!
+Dialogue: 0,0:15:54.70,0:16:02.70,Default,,0000,0000,0000,,This island has just been saved!
+Dialogue: 0,0:16:31.07,0:16:33.90,Default,,0000,0000,0000,,I can't believe it-bon.
+Dialogue: 0,0:16:33.92,0:16:37.26,Default,,0000,0000,0000,,They aren't even half-boiled, they are raw.
+Dialogue: 0,0:16:37.28,0:16:42.22,Default,,0000,0000,0000,,What should I do with those \Nfearless rookies-jour?
+Dialogue: 0,0:16:42.24,0:16:46.68,Default,,0000,0000,0000,,Ring, ring, ring... Ring, ring, ring...
+Dialogue: 0,0:16:46.70,0:16:51.02,Default,,0000,0000,0000,,Ring, ring, ring... Ring, ring, ring...
+Dialogue: 0,0:16:51.04,0:16:53.93,Default,,0000,0000,0000,,Ring, ring, ring... Ring, ring, ring...
+Dialogue: 0,0:16:53.95,0:16:58.19,Default,,0000,0000,0000,,It must be Mama! Grr! I told them \Nwhat was going on a while ago.
+Dialogue: 0,0:16:58.21,0:17:06.21,Default,,0000,0000,0000,,B-Big Mam is calling in person?!
+Dialogue: 0,0:17:32.54,0:17:36.52,Default,,0000,0000,0000,,Hey, Pekoms!
+Dialogue: 0,0:17:36.54,0:17:42.40,Default,,0000,0000,0000,,Why don't you pick it up? Grr! \NI don't wanna get yelled at!
+Dialogue: 0,0:17:42.42,0:17:43.32,Default,,0000,0000,0000,,Clank!
+Dialogue: 0,0:17:43.34,0:17:50.50,Default,,0000,0000,0000,,--Hello?\N--Hey!
+Dialogue: 0,0:17:50.52,0:17:53.28,Default,,0000,0000,0000,,Are you Big Mam?!
+Dialogue: 0,0:17:53.30,0:18:01.30,Default,,0000,0000,0000,,Hey, hey, hey, hey, hey, hey!
+Dialogue: 0,0:18:02.66,0:18:06.93,Default,,0000,0000,0000,,You're not Tamago, are you? Nor Pekoms.
+Dialogue: 0,0:18:06.95,0:18:08.06,Default,,0000,0000,0000,,Who are you?
+Dialogue: 0,0:18:08.08,0:18:11.96,Default,,0000,0000,0000,,I'm Monkey D. Luffy! I'm gonna \Nbecome the King of the Pirates!
+Dialogue: 0,0:18:11.98,0:18:14.60,Default,,0000,0000,0000,,No, no, no, no, no, no!
+Dialogue: 0,0:18:14.62,0:18:20.90,Default,,0000,0000,0000,,--Luffy-kun!\N--Straw Hat-san...
+Dialogue: 0,0:18:20.92,0:18:28.92,Default,,0000,0000,0000,,Monkey D.?
+Dialogue: 0,0:18:34.00,0:18:36.87,Default,,0000,0000,0000,,You're Garp's grandson!
+Dialogue: 0,0:18:36.89,0:18:39.80,Default,,0000,0000,0000,,Now I remember!
+Dialogue: 0,0:18:39.82,0:18:44.74,Default,,0000,0000,0000,,You were the brat who meddled \Nin the war 2 years ago.
+Dialogue: 0,0:18:44.76,0:18:46.68,Default,,0000,0000,0000,,The sweets are gone!
+Dialogue: 0,0:18:46.70,0:18:48.65,Default,,0000,0000,0000,,I ate them all!
+Dialogue: 0,0:18:48.67,0:18:51.15,Default,,0000,0000,0000,,So it's true that they don't have any!
+Dialogue: 0,0:18:51.17,0:18:53.18,Default,,0000,0000,0000,,They must have 10 tons of them!
+Dialogue: 0,0:18:53.20,0:18:59.98,Default,,0000,0000,0000,,I ate 10 tons of them!
+Dialogue: 0,0:19:00.00,0:19:02.57,Default,,0000,0000,0000,,Straw Hat-san, that's too...!
+Dialogue: 0,0:19:02.59,0:19:10.59,Default,,0000,0000,0000,,Why is he saying that?
+Dialogue: 0,0:19:35.04,0:19:39.70,Default,,0000,0000,0000,,You fool! Stop lying!
+Dialogue: 0,0:19:39.72,0:19:43.45,Default,,0000,0000,0000,,You're covering up for Fish-Men, aren't you?
+Dialogue: 0,0:19:43.47,0:19:45.69,Default,,0000,0000,0000,,But it's true that I ate them!
+Dialogue: 0,0:19:45.71,0:19:53.48,Default,,0000,0000,0000,,I didn't know they had to go to you!
+Dialogue: 0,0:19:53.50,0:19:57.59,Default,,0000,0000,0000,,We have a lot of treasure with us here.
+Dialogue: 0,0:19:57.61,0:20:01.13,Default,,0000,0000,0000,,You can have it all! In \Ncompensation for the sweets!
+Dialogue: 0,0:20:01.15,0:20:02.84,Default,,0000,0000,0000,,Treasure?!
+Dialogue: 0,0:20:02.86,0:20:06.61,Default,,0000,0000,0000,,I can't eat treasure!
+Dialogue: 0,0:20:06.63,0:20:09.38,Default,,0000,0000,0000,,What I want is sweet candies!
+Dialogue: 0,0:20:09.40,0:20:13.90,Default,,0000,0000,0000,,Hey, wait a minute! Is that all treasure?
+Dialogue: 0,0:20:13.92,0:20:21.19,Default,,0000,0000,0000,,Yes, it is.
+Dialogue: 0,0:20:21.21,0:20:24.02,Default,,0000,0000,0000,,Mama, this is Tamago! Let's think about this.
+Dialogue: 0,0:20:24.04,0:20:31.87,Default,,0000,0000,0000,,A few days ago, that brat - Captain \NKid sank two of our allies' ships-bon!
+Dialogue: 0,0:20:31.89,0:20:34.10,Default,,0000,0000,0000,,Kid?
+Dialogue: 0,0:20:34.12,0:20:35.61,Default,,0000,0000,0000,,It's that guy!
+Dialogue: 0,0:20:35.63,0:20:41.18,Default,,0000,0000,0000,,The rookie who's worth over a 100 \Nmillion that we met at the Sabaody!
+Dialogue: 0,0:20:41.20,0:20:42.78,Default,,0000,0000,0000,,It was a huge loss
+Dialogue: 0,0:20:42.80,0:20:47.86,Default,,0000,0000,0000,,and to be honest, we've been \Nin need of money lately-bon.
+Dialogue: 0,0:20:47.88,0:20:51.99,Default,,0000,0000,0000,,So how about we save the fun of \Neating sweets for a couple of weeks
+Dialogue: 0,0:20:52.01,0:20:59.13,Default,,0000,0000,0000,,and take the treasure and forgive them? \NI think it's the best plan for us-jour.
+Dialogue: 0,0:20:59.15,0:21:00.49,Default,,0000,0000,0000,,If you want candies,
+Dialogue: 0,0:21:00.51,0:21:08.51,Default,,0000,0000,0000,,we could get something sweet \Nand delicious on our way back.
+Dialogue: 0,0:21:10.13,0:21:13.29,Default,,0000,0000,0000,,Screw that, Tamago!
+Dialogue: 0,0:21:13.31,0:21:16.28,Default,,0000,0000,0000,,How could you say such \Nan embarrassing thing!?
+Dialogue: 0,0:21:16.30,0:21:20.04,Default,,0000,0000,0000,,Pirates shouldn't compromise \Non what they want!
+Dialogue: 0,0:21:20.06,0:21:24.18,Default,,0000,0000,0000,,I-I'm sorry-soir!
+Dialogue: 0,0:21:24.20,0:21:29.30,Default,,0000,0000,0000,,Having said that,
+Dialogue: 0,0:21:29.32,0:21:34.44,Default,,0000,0000,0000,,That brat who stood up to \Nme has piqued my interest.
+Dialogue: 0,0:21:34.46,0:21:38.77,Default,,0000,0000,0000,,Have it your way, instead \Nof the Fish-Man Island,
+Dialogue: 0,0:21:38.79,0:21:46.79,Default,,0000,0000,0000,,I'll have my vengeance against you all!
+Dialogue: 0,0:21:52.56,0:21:55.87,Default,,0000,0000,0000,,Luffy-sama and the others are not back yet.
+Dialogue: 0,0:21:55.89,0:21:59.58,Default,,0000,0000,0000,,Are you sure they are going \Nto be okay, Nami-chin-sama?
+Dialogue: 0,0:21:59.60,0:22:02.88,Default,,0000,0000,0000,,Yeah, it's taking so long.
+Dialogue: 0,0:22:02.90,0:22:05.81,Default,,0000,0000,0000,,Boy! I wonder what they're doing!
+Dialogue: 0,0:22:05.83,0:22:10.30,Default,,0000,0000,0000,,I won't forgive them if they \Ncan't get the treasure back!
+Dialogue: 0,0:22:10.32,0:22:16.64,Default,,0000,0000,0000,,Monkey D. Luffy. I know your name now.
+Dialogue: 0,0:22:16.66,0:22:24.56,Default,,0000,0000,0000,,Come to the New World!
+Dialogue: 0,0:22:24.58,0:22:30.04,Default,,0000,0000,0000,,Luffy-kun!
+Dialogue: 0,0:22:30.06,0:22:32.77,Default,,0000,0000,0000,,Sure, wait for me there.
+Dialogue: 0,0:22:32.79,0:22:38.57,Default,,0000,0000,0000,,There's some business I want \Nto settle with you, too.
+Dialogue: 0,0:22:38.59,0:22:45.71,Default,,0000,0000,0000,,I can't leave it in your \Nhands - that's too dangerous!
+Dialogue: 0,0:22:45.73,0:22:53.73,Default,,0000,0000,0000,,I'll kick your ass all over the New World...
+Dialogue: 0,0:22:55.09,0:23:02.97,Default,,0000,0000,0000,,...and make the Fish-Man Island my territory!
+Dialogue: 0,0:23:02.99,0:23:07.17,Default,,0000,0000,0000,,You insolent brat!
+Dialogue: 0,0:23:07.19,0:23:08.61,Default,,0000,0000,0000,,Fish-Man Island's treasure,
+Dialogue: 0,0:23:08.63,0:23:11.37,Default,,0000,0000,0000,,the Tamate Box, hold a surprising secret.
+Dialogue: 0,0:23:11.39,0:23:14.90,Default,,0000,0000,0000,,One that further intensifies the conflict...
+Dialogue: 0,0:23:14.92,0:23:17.38,Default,,0000,0000,0000,,...between Luffy and Big \NMam of the Four Emperors.
+Dialogue: 0,0:23:17.40,0:23:21.55,Default,,0000,0000,0000,,Uncertainty grows concerning the \NStraw Hats' next destination.
+Dialogue: 0,0:23:21.57,0:23:23.27,Default,,0000,0000,0000,,On the oceans of the New World...
+Dialogue: 0,0:23:23.29,0:23:25.02,Default,,0000,0000,0000,,...than man whose fate is \Nclosely tied to theirs...
+Dialogue: 0,0:23:25.04,0:23:27.37,Default,,0000,0000,0000,,...makes a move.
+Dialogue: 0,0:23:27.39,0:23:28.88,Default,,0000,0000,0000,,On the next episode of One Piece!
+Dialogue: 0,0:23:28.90,0:23:31.71,Default,,0000,0000,0000,,"Many Problems Lie Ahead! A Trap \NAwaiting in the New World!"
+Dialogue: 0,0:23:31.73,0:23:39.73,Default,,0000,0000,0000,,I'm gonna be King of the Pirates!!

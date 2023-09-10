@@ -1,0 +1,368 @@
+﻿[Script Info]
+Title: English (US)
+Original Script: ToeiAnimation  [http://www.crunchyroll.com/user/ToeiAnimation]
+Original Translation: 
+Original Editing: 
+Original Timing: 
+Synch Point: 
+Script Updated By: 
+Update Details: 
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 640
+PlayResY: 360
+Timer: 0.0000
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name,Fontname,Fontsize,PrimaryColour,SecondaryColour,OutlineColour,BackColour,Bold,Italic,Underline,Strikeout,ScaleX,ScaleY,Spacing,Angle,BorderStyle,Outline,Shadow,Alignment,MarginL,MarginR,MarginV,Encoding
+Style: B1,Arial,32,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,2,0070,0070,0030,0
+Style: OS,Arial,18,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,8,0001,0001,0015,0
+Style: Default,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,2,0020,0020,0022,0
+Style: Italics,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,-1,0,0,100,100,0,0,1,2,1,2,0020,0020,0022,0
+Style: Ep Title,Arial,18,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,3,0170,0070,0020,0
+Style: Copy of Ep Title,Arial,18,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,3,0070,0226,0065,0
+Style: On Top,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,8,0020,0020,0022,0
+Style: Copy of OS,Arial,18,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,9,0020,0020,0020,0
+Style: DefaultLow,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,2,0020,0020,0010,0
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:02.34,0:00:02.32,On Top,,0000,0000,0000,,{\i1}iku ze Shining! Running! Forever{\i}
+Dialogue: 0,0:00:02.34,0:00:05.06,Default,,0000,0000,0000,,{\i1}Let's go, Shining! Running! Forever{\i}
+Dialogue: 0,0:00:05.08,0:00:05.06,On Top,,0000,0000,0000,,{\i1}mae e tsukisusumuno sa{\i}
+Dialogue: 0,0:00:05.08,0:00:07.80,Default,,0000,0000,0000,,{\i1}Keep on advancing{\i}
+Dialogue: 0,0:00:07.82,0:00:07.80,On Top,,0000,0000,0000,,{\i1}kawaru koto no nai kizuna wa kitto "yume no hate" terashidasu{\i}
+Dialogue: 0,0:00:07.82,0:00:13.84,Default,,0000,0000,0000,,{\i1}The unchanging bond will light up the "end of the dream"{\i}
+Dialogue: 0,0:00:13.86,0:00:13.84,On Top,,0000,0000,0000,,{\i1}Wake up! Wake up! Wake up! Wake up heart beat!{\i}
+Dialogue: 0,0:00:13.86,0:00:16.51,Default,,0000,0000,0000,,{\i1}Wake up! Wake up! Wake up! Wake up heart beat!{\i}
+Dialogue: 0,0:00:16.53,0:00:16.51,On Top,,0000,0000,0000,,{\i1}We are the one! Go ahead!{\i}
+Dialogue: 0,0:00:16.53,0:00:24.53,Default,,0000,0000,0000,,{\i1}We are the one! Go ahead!{\i}
+Dialogue: 0,0:00:24.87,0:00:24.85,On Top,,0000,0000,0000,,{\i1}jiyuu dake ga rashinban sa We are best friends{\i}
+Dialogue: 0,0:00:24.87,0:00:29.25,Default,,0000,0000,0000,,{\i1}Freedom is our only compass, We are best friends{\i}
+Dialogue: 0,0:00:29.27,0:00:29.25,On Top,,0000,0000,0000,,{\i1}ore tachi no ruuto kore kara mo ore tachi de kirihiraku ze{\i}
+Dialogue: 0,0:00:29.27,0:00:35.76,Default,,0000,0000,0000,,{\i1}We will keep making our own route{\i}
+Dialogue: 0,0:00:35.78,0:00:35.76,On Top,,0000,0000,0000,,{\i1}zenryoku shissou no hibi wa Go east, Go west{\i}
+Dialogue: 0,0:00:35.78,0:00:40.16,Default,,0000,0000,0000,,{\i1}Running at full speed everyday, Go east, Go west!{\i}
+Dialogue: 0,0:00:40.18,0:00:40.16,On Top,,0000,0000,0000,,{\i1}tsugitsugi mitsukaru yaritai koto subete kuria shite{\i}
+Dialogue: 0,0:00:40.18,0:00:46.80,Default,,0000,0000,0000,,{\i1}We keep finding the things we want to do and doing them all{\i}
+Dialogue: 0,0:00:46.82,0:00:46.80,On Top,,0000,0000,0000,,{\i1}asa ga machikirenakute uzukidasu (I can't wait){\i}
+Dialogue: 0,0:00:46.82,0:00:52.17,Default,,0000,0000,0000,,{\i1}We can't wait until the morning (I can't wait){\i}
+Dialogue: 0,0:00:52.19,0:00:52.17,On Top,,0000,0000,0000,,{\i1}sore nara isso taiyou sora e to hikizuridashite{\i}
+Dialogue: 0,0:00:52.19,0:00:58.65,Default,,0000,0000,0000,,{\i1}Why not drag the sun out into the sky{\i}
+Dialogue: 0,0:00:58.67,0:00:58.65,On Top,,0000,0000,0000,,{\i1}go-in Go{\i}
+Dialogue: 0,0:00:58.67,0:01:00.96,Default,,0000,0000,0000,,{\i1}Force it and go{\i}
+Dialogue: 0,0:01:00.98,0:01:00.96,On Top,,0000,0000,0000,,{\i1}sou sa Shining! Running! Forever{\i}
+Dialogue: 0,0:01:00.98,0:01:03.75,Default,,0000,0000,0000,,{\i1}Yes, Shining! Running! Forever{\i}
+Dialogue: 0,0:01:03.77,0:01:03.75,On Top,,0000,0000,0000,,{\i1}yume no kakera hitotsu ni{\i}
+Dialogue: 0,0:01:03.77,0:01:06.39,Default,,0000,0000,0000,,{\i1}Put the pieces of our dreams together{\i}
+Dialogue: 0,0:01:06.41,0:01:06.39,On Top,,0000,0000,0000,,{\i1}kasaneawase gutto kitara sore ga torejaa sa{\i}
+Dialogue: 0,0:01:06.41,0:01:11.93,Default,,0000,0000,0000,,{\i1}and if that makes you feel something - that's the treasure{\i}
+Dialogue: 0,0:01:11.95,0:01:11.93,On Top,,0000,0000,0000,,{\i1}iku ze Shining! Running! Forever{\i}
+Dialogue: 0,0:01:11.95,0:01:14.66,Default,,0000,0000,0000,,{\i1}Let's go, Shining! Running! Forever{\i}
+Dialogue: 0,0:01:14.68,0:01:14.66,On Top,,0000,0000,0000,,{\i1}mae e tsukisusumuno sa{\i}
+Dialogue: 0,0:01:14.68,0:01:17.33,Default,,0000,0000,0000,,{\i1}Keep on advancing{\i}
+Dialogue: 0,0:01:17.35,0:01:17.33,On Top,,0000,0000,0000,,{\i1}kawaru koto no nai kizuna wa kitto "yume no hate" terashidasu{\i}
+Dialogue: 0,0:01:17.35,0:01:23.44,Default,,0000,0000,0000,,{\i1}The unchanging bond will light up the "end of the dream"{\i}
+Dialogue: 0,0:01:23.46,0:01:23.44,On Top,,0000,0000,0000,,{\i1}Wake up! Wake up! Wake up! Wake up heart beat!{\i}
+Dialogue: 0,0:01:23.46,0:01:26.11,Default,,0000,0000,0000,,{\i1}Wake up! Wake up! Wake up! Wake up heart beat!{\i}
+Dialogue: 0,0:01:26.13,0:01:26.11,On Top,,0000,0000,0000,,{\i1}We are the one! Go ahead!{\i}
+Dialogue: 0,0:01:26.13,0:01:30.45,Default,,0000,0000,0000,,{\i1}We are the one! Go ahead!{\i}
+Dialogue: 0,0:01:30.47,0:01:34.25,Default,,0000,0000,0000,,Get dragged into darkness, Straw Hat!
+Dialogue: 0,0:01:34.27,0:01:36.15,Default,,0000,0000,0000,,I'll never lose!
+Dialogue: 0,0:01:36.17,0:01:38.35,Default,,0000,0000,0000,,I'm gonna find the One Piece
+Dialogue: 0,0:01:38.37,0:01:45.36,Default,,0000,0000,0000,,and become the King of the Pirates!
+Dialogue: 0,0:01:45.38,0:01:45.36,On Top,,0000,0000,0000,,{\i1}norikoeru tabi{\i}
+Dialogue: 0,0:01:45.38,0:01:47.66,Default,,0000,0000,0000,,{\i1}Everytime we overcome something,{\i}
+Dialogue: 0,0:01:47.68,0:01:47.66,On Top,,0000,0000,0000,,{\i1}zawameku kanousei (I can't stay){\i}
+Dialogue: 0,0:01:47.68,0:01:50.83,Default,,0000,0000,0000,,{\i1}it stirs possibility (I can't stay){\i}
+Dialogue: 0,0:01:50.85,0:01:50.83,On Top,,0000,0000,0000,,{\i1}asu mo asatte mo{\i}
+Dialogue: 0,0:01:50.85,0:01:53.24,Default,,0000,0000,0000,,{\i1}Tomorrow and the day after,{\i}
+Dialogue: 0,0:01:53.26,0:01:53.24,On Top,,0000,0000,0000,,{\i1}atsuku hageshii wakuwaku no rensa daze!{\i}
+Dialogue: 0,0:01:53.26,0:01:59.94,Default,,0000,0000,0000,,{\i1}there will be a chain of burning, intense excitement!{\i}
+Dialogue: 0,0:01:59.96,0:01:59.94,On Top,,0000,0000,0000,,{\i1}sou sa Shining! Running! Forever{\i}
+Dialogue: 0,0:01:59.96,0:02:02.31,Default,,0000,0000,0000,,{\i1}Yes, Shining! Running! Forever{\i}
+Dialogue: 0,0:02:02.33,0:02:02.31,On Top,,0000,0000,0000,,{\i1}koukishin ni makasete{\i}
+Dialogue: 0,0:02:02.33,0:02:05.01,Default,,0000,0000,0000,,{\i1}Go along with your curiosity{\i}
+Dialogue: 0,0:02:05.03,0:02:05.01,On Top,,0000,0000,0000,,{\i1}omoi no mama mezasu basho e sore ga adobenchaa{\i}
+Dialogue: 0,0:02:05.03,0:02:10.49,Default,,0000,0000,0000,,{\i1}and go wherever you want to go - that's the adventure{\i}
+Dialogue: 0,0:02:10.51,0:02:10.49,On Top,,0000,0000,0000,,{\i1}iku ze Shining! Running! Forever{\i}
+Dialogue: 0,0:02:10.51,0:02:13.22,Default,,0000,0000,0000,,{\i1}Let's go, Shining! Running! Forever{\i}
+Dialogue: 0,0:02:13.24,0:02:13.22,On Top,,0000,0000,0000,,{\i1}kokoro no chizu hirogete{\i}
+Dialogue: 0,0:02:13.24,0:02:15.93,Default,,0000,0000,0000,,{\i1}Open up the sailing chart in your heart{\i}
+Dialogue: 0,0:02:15.95,0:02:15.93,On Top,,0000,0000,0000,,{\i1}chikara wo himeta kizuna wa kitto "yume no hate" tsukamitoru{\i}
+Dialogue: 0,0:02:15.95,0:02:22.10,Default,,0000,0000,0000,,{\i1}The bond with potential power will seize the "end of the dream"{\i}
+Dialogue: 0,0:02:22.12,0:02:22.10,On Top,,0000,0000,0000,,{\i1}Never! Never! Never! Never Stop it!{\i}
+Dialogue: 0,0:02:22.12,0:02:24.67,Default,,0000,0000,0000,,{\i1}Never! Never! Never! Never Stop it!{\i}
+Dialogue: 0,0:02:24.69,0:02:24.67,On Top,,0000,0000,0000,,{\i1}We are the one! Go ahead!{\i}
+Dialogue: 0,0:02:24.69,0:02:32.69,Default,,0000,0000,0000,,{\i1}We are the one! Go ahead!{\i}
+Dialogue: 0,0:02:35.26,0:02:38.71,Default,,0000,0000,0000,,{\i1}All the pirates who are after the One Piece...{\i}
+Dialogue: 0,0:02:38.73,0:02:45.97,Default,,0000,0000,0000,,{\i1}...head for the New World,\Nthe second half of the Grand Line.{\i}
+Dialogue: 0,0:02:45.99,0:02:53.30,Default,,0000,0000,0000,,{\i1}However, no one has ever fully explored it\Nexcept for Gold Roger, King of the Pirates.{\i}
+Dialogue: 0,0:02:53.32,0:03:00.34,Default,,0000,0000,0000,,{\i1}The New World has ruined\Nmany pirates' dreams and ambitions.{\i}
+Dialogue: 0,0:03:00.36,0:03:06.35,Default,,0000,0000,0000,,{\i1}Now, Monkey D. Luffy, a boy whose body turned\Nto rubber after he ate the Gum-Gum Fruit,{\i}
+Dialogue: 0,0:03:06.37,0:03:08.95,Default,,0000,0000,0000,,{\i1}and his friends venture into that sea.{\i}
+Dialogue: 0,0:03:08.97,0:03:16.05,Default,,0000,0000,0000,,I'm gonna become the King of the Pirates!
+Dialogue: 0,0:03:16.07,0:03:19.66,Default,,0000,0000,0000,,{\i1}To take down one of the Four Emperors -\Nthe rulers of the New World,{\i}
+Dialogue: 0,0:03:19.68,0:03:25.46,Default,,0000,0000,0000,,{\i1}Luffy and the others formed a pirate alliance\Nwith Trafalgar Law and have come to Dressrosa.{\i}
+Dialogue: 0,0:03:25.48,0:03:30.98,Default,,0000,0000,0000,,{\i1}Luffy entered a fighting competition - in which a winner will\Nget the Flare-Flare Fruit as the prize - and won the first round.{\i}
+Dialogue: 0,0:03:31.00,0:03:36.16,Default,,0000,0000,0000,,{\i1}And while the last match of the first round is on,\Nthe losers are...{\i}
+Dialogue: 0,0:03:36.18,0:03:37.74,Default,,0000,0000,0000,,You're...
+Dialogue: 0,0:03:37.76,0:03:43.01,Default,,0000,0000,0000,,I mean, you, sir, are...
+Dialogue: 0,0:03:43.03,0:03:46.88,Default,,0000,0000,0000,,...King Riku-{\i1}sama{\i}, aren't you?
+Dialogue: 0,0:03:46.90,0:03:49.76,Default,,0000,0000,0000,,Since I'm deep underground now,
+Dialogue: 0,0:03:49.78,0:03:55.86,Default,,0000,0000,0000,,I no longer need to disguise myself.
+Dialogue: 0,0:03:55.88,0:04:03.43,Default,,0000,0000,0000,,{\i1}"A Horrible Past!\NThe Secret of Dressrosa!"{\i}
+Dialogue: 0,0:04:03.45,0:04:07.28,On Top,,0000,0000,0000,,THE CORRIDA COLOSSEUM
+Dialogue: 0,0:04:07.30,0:04:10.67,Default,,0000,0000,0000,,Luffy-{\i1}senpai{\i}!
+Dialogue: 0,0:04:10.69,0:04:12.54,Default,,0000,0000,0000,,Oh?! You must be...
+Dialogue: 0,0:04:12.56,0:04:16.31,Default,,0000,0000,0000,,Oh, wait! No! My name is Lucy!
+Dialogue: 0,0:04:16.33,0:04:19.12,Default,,0000,0000,0000,,That's not important now...
+Dialogue: 0,0:04:19.14,0:04:23.89,Default,,0000,0000,0000,,Oh, I can't!\NI'm too nervous to even speak.
+Dialogue: 0,0:04:23.91,0:04:29.73,Default,,0000,0000,0000,,If you've got nothing to say, I'm gonna go now.\NI wanna go support Rebecca.
+Dialogue: 0,0:04:29.75,0:04:31.79,Default,,0000,0000,0000,,Don't go!
+Dialogue: 0,0:04:31.81,0:04:34.93,Default,,0000,0000,0000,,I was asked by Z-Z-Zoro-{\i1}senpai{\i}!
+Dialogue: 0,0:04:34.95,0:04:36.90,Default,,0000,0000,0000,,What?! By Zoro?!
+Dialogue: 0,0:04:36.92,0:04:40.24,Default,,0000,0000,0000,,Yes!\NHe asked me to bring Luffy-{\i1}senpai{\i} to him!
+Dialogue: 0,0:04:40.26,0:04:42.54,Default,,0000,0000,0000,,I see! Where is he?
+Dialogue: 0,0:04:42.56,0:04:45.34,Default,,0000,0000,0000,,H-He's outside of the Colosseum.
+Dialogue: 0,0:04:45.36,0:04:49.35,Default,,0000,0000,0000,,I-I'm gonna show you! This way!
+Dialogue: 0,0:04:49.37,0:04:54.85,Default,,0000,0000,0000,,Okay!\NI'm counting on you, Crest Head!
+Dialogue: 0,0:04:54.87,0:04:59.39,Default,,0000,0000,0000,,{\i1}"Counting on you, Crest Head"?!\NLuffy-senpai's counting on me and...{\i}
+Dialogue: 0,0:04:59.41,0:05:01.60,Default,,0000,0000,0000,,I'm counting on you, Crest Head!
+Dialogue: 0,0:05:01.62,0:05:04.78,Default,,0000,0000,0000,,{\i1}...he gave me a nickname!\NThat means...{\i}
+Dialogue: 0,0:05:04.80,0:05:06.30,Default,,0000,0000,0000,,I'm counting on you, Crest Head!
+Dialogue: 0,0:05:06.32,0:05:10.73,Default,,0000,0000,0000,,{\i1}...I'm Luffy-senpai's friend now?!{\i}
+Dialogue: 0,0:05:10.75,0:05:18.75,Default,,0000,0000,0000,,Hey, what's wrong?
+Dialogue: 0,0:05:25.47,0:05:33.47,Default,,0000,0000,0000,,Heated fights are going on\Nin the battle royal of Block D!
+Dialogue: 0,0:05:46.29,0:05:54.29,Default,,0000,0000,0000,,She's so persistent! Very tenacious!\NThe contender - Rebecca!
+Dialogue: 0,0:05:57.11,0:06:01.78,Default,,0000,0000,0000,,Watching her not-unbeautiful fighting style\Nmakes me...
+Dialogue: 0,0:06:01.80,0:06:07.10,Default,,0000,0000,0000,,...wanna not unsupport her!
+Dialogue: 0,0:06:07.12,0:06:15.12,Default,,0000,0000,0000,,I'm Rebecca's real father!
+Dialogue: 0,0:06:19.96,0:06:27.96,On Top,,0000,0000,0000,,THE KING RIKU ARMY HEADQUARTERS
+Dialogue: 0,0:06:40.71,0:06:42.69,Default,,0000,0000,0000,,A-Are you?!
+Dialogue: 0,0:06:42.71,0:06:45.21,Default,,0000,0000,0000,,{\i1}Drop dead already, Rebecca!{\i}
+Dialogue: 0,0:06:45.23,0:06:48.68,Default,,0000,0000,0000,,{\i1}--You kin of King Riku!\N--Part of that evil family!{\i}
+Dialogue: 0,0:06:48.70,0:06:52.00,Default,,0000,0000,0000,,{\i1}Granddaughter of the pyromaniac!\NGo to hell!{\i}
+Dialogue: 0,0:06:52.02,0:06:55.55,Default,,0000,0000,0000,,If you're her father...
+Dialogue: 0,0:06:55.57,0:07:00.14,Default,,0000,0000,0000,,If you're telling the truth,\Nsince she's King Riku's granddaughter...
+Dialogue: 0,0:07:00.16,0:07:04.86,Default,,0000,0000,0000,,When you were a human,\Ndon't tell me you were...
+Dialogue: 0,0:07:04.88,0:07:07.55,Default,,0000,0000,0000,,Everything started that night.
+Dialogue: 0,0:07:07.57,0:07:09.59,Default,,0000,0000,0000,,Hey, answer my question!
+Dialogue: 0,0:07:09.61,0:07:11.54,Default,,0000,0000,0000,,Were you King Riku's...
+Dialogue: 0,0:07:11.56,0:07:16.32,Default,,0000,0000,0000,,No, it might\Nhave started long before.
+Dialogue: 0,0:07:16.34,0:07:20.23,Default,,0000,0000,0000,,Since the day a woman named Monet\Nstarted to work at the palace...
+Dialogue: 0,0:07:20.25,0:07:21.46,Default,,0000,0000,0000,,What?
+Dialogue: 0,0:07:21.48,0:07:25.78,Default,,0000,0000,0000,,Monet?!
+Dialogue: 0,0:07:25.80,0:07:29.36,Default,,0000,0000,0000,,The bird woman that we encountered\Nin Punk Hazard?
+Dialogue: 0,0:07:29.38,0:07:33.58,Default,,0000,0000,0000,,This country has changed\Nin a big way last decade.
+Dialogue: 0,0:07:33.60,0:07:36.05,Default,,0000,0000,0000,,Both the scenery and the people!
+Dialogue: 0,0:07:36.07,0:07:42.02,On Top,,0000,0000,0000,,DRESSROSA - 10 YEARS AGO
+Dialogue: 0,0:07:42.04,0:07:44.12,Default,,0000,0000,0000,,Hey, what happened?
+Dialogue: 0,0:07:44.14,0:07:46.12,Default,,0000,0000,0000,,Some pirates did this.
+Dialogue: 0,0:07:46.14,0:07:51.43,Default,,0000,0000,0000,,But the King Riku Army fought for us\Nso we got away with this little damage.
+Dialogue: 0,0:07:51.45,0:07:58.77,Default,,0000,0000,0000,,Oh, the King Riku Army!
+Dialogue: 0,0:07:58.79,0:08:01.48,Default,,0000,0000,0000,,I have a message from King Riku-{\i1}sama{\i}.
+Dialogue: 0,0:08:01.50,0:08:03.63,Default,,0000,0000,0000,,What? From King-{\i1}sama{\i}?!
+Dialogue: 0,0:08:03.65,0:08:08.78,Default,,0000,0000,0000,,"I'm sorry that I couldn't protect\Nmy dear citizen's house from the pirates."
+Dialogue: 0,0:08:08.80,0:08:12.20,Default,,0000,0000,0000,,"The King Riku Army will handle\Nthe repair of your house."
+Dialogue: 0,0:08:12.22,0:08:16.05,Default,,0000,0000,0000,,--That's more than we deserve!\N--Don't worry. Guys, get to work!
+Dialogue: 0,0:08:16.07,0:08:18.42,Default,,0000,0000,0000,,Alright! Let's help them!
+Dialogue: 0,0:08:18.44,0:08:20.80,Default,,0000,0000,0000,,Yeah! We help each another when someone's in trouble.
+Dialogue: 0,0:08:20.82,0:08:24.29,Default,,0000,0000,0000,,That's what King Riku-{\i1}sama{\i} always says!
+Dialogue: 0,0:08:24.31,0:08:32.31,Default,,0000,0000,0000,,Okay! Let's do it together!
+Dialogue: 0,0:08:38.13,0:08:41.58,Default,,0000,0000,0000,,It's been two weeks without rain.
+Dialogue: 0,0:08:41.60,0:08:45.58,Default,,0000,0000,0000,,Yeah but even during this drought,\Nthe flowers don't die.
+Dialogue: 0,0:08:45.60,0:08:46.92,Default,,0000,0000,0000,,Why is that?
+Dialogue: 0,0:08:46.94,0:08:48.89,Default,,0000,0000,0000,,It's thanks to the fairies.
+Dialogue: 0,0:08:48.91,0:08:52.42,Default,,0000,0000,0000,,They are protecting the flowers.
+Dialogue: 0,0:08:52.44,0:08:54.68,Default,,0000,0000,0000,,I wanna eat more!
+Dialogue: 0,0:08:54.70,0:08:58.08,Default,,0000,0000,0000,,--If you have energy to shout, you're fine.\N--What?
+Dialogue: 0,0:08:58.10,0:09:03.37,Default,,0000,0000,0000,,Although we're very poor,\Nwe don't have to fight in a war in this country.
+Dialogue: 0,0:09:03.39,0:09:07.24,Default,,0000,0000,0000,,That's the best thing. Don't you think so?
+Dialogue: 0,0:09:07.26,0:09:09.92,Default,,0000,0000,0000,,Uh-huh!
+Dialogue: 0,0:09:09.94,0:09:12.84,Default,,0000,0000,0000,,For 800 years\Nunder the reign of the Riku Family,
+Dialogue: 0,0:09:12.86,0:09:15.87,Default,,0000,0000,0000,,this country had never been involved\Nin a war.
+Dialogue: 0,0:09:15.89,0:09:17.75,Default,,0000,0000,0000,,That's amazing.
+Dialogue: 0,0:09:17.77,0:09:21.28,Default,,0000,0000,0000,,Yeah.\NIt's miraculous for a country.
+Dialogue: 0,0:09:21.30,0:09:25.56,Default,,0000,0000,0000,,Even though the country was poor,\Nthe people and fairies all helped each other
+Dialogue: 0,0:09:25.58,0:09:27.99,Default,,0000,0000,0000,,and were rich in spirit.
+Dialogue: 0,0:09:28.01,0:09:35.40,Default,,0000,0000,0000,,Dressrosa was a very peaceful country.\NHowever...
+Dialogue: 0,0:09:35.42,0:09:43.42,Default,,0000,0000,0000,,A "nightmare" came flying to the palace\Nout of the blue!
+Dialogue: 0,0:09:49.63,0:09:56.02,Default,,0000,0000,0000,,Who are you?
+Dialogue: 0,0:09:56.04,0:10:00.19,Default,,0000,0000,0000,,Don't try to scream or call for help.
+Dialogue: 0,0:10:00.21,0:10:03.53,Default,,0000,0000,0000,,Y-You are...
+Dialogue: 0,0:10:03.55,0:10:07.89,Default,,0000,0000,0000,,My name is Don Quixote Doflamingo.
+Dialogue: 0,0:10:07.91,0:10:14.47,Default,,0000,0000,0000,,I guess you know what my name suggests,\Ndon't you?
+Dialogue: 0,0:10:14.49,0:10:19.42,Default,,0000,0000,0000,,I've been troubled by hearing\Nabout a pirate named Don Quixote these days.
+Dialogue: 0,0:10:19.44,0:10:23.45,Default,,0000,0000,0000,,Yes, you were right to be troubled.
+Dialogue: 0,0:10:23.47,0:10:31.47,Default,,0000,0000,0000,,I'm a descendent of the Don Quixote Family\Nthat once governed this country.
+Dialogue: 0,0:10:32.04,0:10:36.33,Default,,0000,0000,0000,,I am the rightful king of this country!\NAnd now, I'm...
+Dialogue: 0,0:10:36.35,0:10:39.70,Default,,0000,0000,0000,,...back!
+Dialogue: 0,0:10:39.72,0:10:43.77,Default,,0000,0000,0000,,But you robbed a transport ship \Nof the Heavenly Tribute
+Dialogue: 0,0:10:43.79,0:10:46.27,Default,,0000,0000,0000,,\Nof money for the Celestial Dragons \Nfrom various countries
+Dialogue: 0,0:10:46.29,0:10:52.94,Default,,0000,0000,0000,,and became a Warlord by blackmailing \Nthe World Government, I heard.
+Dialogue: 0,0:10:52.96,0:10:56.28,Default,,0000,0000,0000,,They don't know what to do with me.
+Dialogue: 0,0:10:56.30,0:11:00.85,Default,,0000,0000,0000,,They can't handle me\Nbecause I'm not afraid of the Celestial Dragons.
+Dialogue: 0,0:11:00.87,0:11:06.28,Default,,0000,0000,0000,,Since you know my status and what I'm capable of,\NI'm just gonna cut to the chase.
+Dialogue: 0,0:11:06.30,0:11:09.33,Default,,0000,0000,0000,,I want my country back!
+Dialogue: 0,0:11:09.35,0:11:15.90,Default,,0000,0000,0000,,If you refuse,\Nthere's gonna be bloody mess in Dressrosa.
+Dialogue: 0,0:11:15.92,0:11:21.84,Default,,0000,0000,0000,,But I'm not a devil.\NI know you don't like to fight.
+Dialogue: 0,0:11:21.86,0:11:23.67,Default,,0000,0000,0000,,So...
+Dialogue: 0,0:11:23.69,0:11:27.98,Default,,0000,0000,0000,,I'm going to sell you this country\Nfor 10 billion berries.
+Dialogue: 0,0:11:28.00,0:11:30.94,Default,,0000,0000,0000,,You're gonna sell this country for money?!
+Dialogue: 0,0:11:30.96,0:11:31.91,Default,,0000,0000,0000,,I can just...
+Dialogue: 0,0:11:31.93,0:11:37.55,Default,,0000,0000,0000,,...take it back from you\Nwithout giving you such an opportunity.
+Dialogue: 0,0:11:37.57,0:11:42.05,Default,,0000,0000,0000,,If we can avoid a war by paying money,\NI'd like to do so.
+Dialogue: 0,0:11:42.07,0:11:45.76,Default,,0000,0000,0000,,But 10 billion berries is a lot of money!\NWe don't have that much...
+Dialogue: 0,0:11:45.78,0:11:49.07,Default,,0000,0000,0000,,Yes, you do!
+Dialogue: 0,0:11:49.09,0:11:53.14,Default,,0000,0000,0000,,Scrape it up from your dear citizens.
+Dialogue: 0,0:11:53.16,0:11:54.44,Default,,0000,0000,0000,,What?!
+Dialogue: 0,0:11:54.46,0:11:57.43,Default,,0000,0000,0000,,I'm expecting to have it\Nby the break of dawn tomorrow.
+Dialogue: 0,0:11:57.45,0:12:02.21,Default,,0000,0000,0000,,You can't get aid from other countries.\NProve your worth as a king.
+Dialogue: 0,0:12:02.23,0:12:06.27,Default,,0000,0000,0000,,And you can't tell your citizens about me.
+Dialogue: 0,0:12:06.29,0:12:08.89,Default,,0000,0000,0000,,You only have two choices.
+Dialogue: 0,0:12:08.91,0:12:12.56,Default,,0000,0000,0000,,Collect money to avoid a war or...
+Dialogue: 0,0:12:12.58,0:12:16.49,Default,,0000,0000,0000,,...fight me and see\Nyour citizens bathed in blood.
+Dialogue: 0,0:12:16.51,0:12:24.51,Default,,0000,0000,0000,,Pick the one that you want.
+Dialogue: 0,0:12:27.51,0:12:31.16,Default,,0000,0000,0000,,Can't we fight Doflamingo, King-{\i1}sama{\i}?!
+Dialogue: 0,0:12:31.18,0:12:37.92,Default,,0000,0000,0000,,No! Fighting may sound good\Nbut humans should not kill each other!
+Dialogue: 0,0:12:37.94,0:12:44.69,Default,,0000,0000,0000,,But it's hard to collect that much money!\NThere aren't that many rich people in this country!
+Dialogue: 0,0:12:44.71,0:12:49.73,Default,,0000,0000,0000,,We shouldn't have to pay the family\Nthat once abandoned this country in the first place!
+Dialogue: 0,0:12:49.75,0:12:52.93,Default,,0000,0000,0000,,If it means war, we're gonna fight...
+Dialogue: 0,0:12:52.95,0:12:58.53,Default,,0000,0000,0000,,For 800 years, Dressrosa has never fought a war.\NIt proves we're not beasts!
+Dialogue: 0,0:12:58.55,0:13:03.37,Default,,0000,0000,0000,,Don't become a brute! Be a human!\NI won't let you kill anybody!
+Dialogue: 0,0:13:03.39,0:13:06.43,Default,,0000,0000,0000,,--But...\N--Captain Tank!
+Dialogue: 0,0:13:06.45,0:13:09.21,Default,,0000,0000,0000,,I know you have a lot to say.
+Dialogue: 0,0:13:09.23,0:13:13.52,Default,,0000,0000,0000,,But what we value the most is\Nthe citizens' lives.
+Dialogue: 0,0:13:13.54,0:13:17.29,Default,,0000,0000,0000,,I know you feel the same way.
+Dialogue: 0,0:13:17.31,0:13:25.31,Default,,0000,0000,0000,,I beg you!
+Dialogue: 0,0:13:28.75,0:13:32.60,Default,,0000,0000,0000,,We soldiers of the King Riku Army\Ntruly believe in you
+Dialogue: 0,0:13:32.62,0:13:35.74,Default,,0000,0000,0000,,and do as you tell us to.
+Dialogue: 0,0:13:35.76,0:13:39.18,Default,,0000,0000,0000,,And we take pride in it!
+Dialogue: 0,0:13:39.20,0:13:42.19,Default,,0000,0000,0000,,Tank, thank you for saying that.
+Dialogue: 0,0:13:42.21,0:13:43.75,Default,,0000,0000,0000,,No.
+Dialogue: 0,0:13:43.77,0:13:47.72,Default,,0000,0000,0000,,Please forgive me for being disrespectful.
+Dialogue: 0,0:13:47.74,0:13:52.26,Default,,0000,0000,0000,,Listen! We don't have much time!\NSplit up in units and go to different towns!
+Dialogue: 0,0:13:52.28,0:13:55.02,Default,,0000,0000,0000,,Collect 10 billion from all over the country.
+Dialogue: 0,0:13:55.04,0:13:59.53,Default,,0000,0000,0000,,If we can't do it,\Nthis country will be taken over by the pirate.
+Dialogue: 0,0:13:59.55,0:14:04.70,Default,,0000,0000,0000,,We're going to lose the trust of the citizens\Nby collecting their money.
+Dialogue: 0,0:14:04.72,0:14:07.18,Default,,0000,0000,0000,,But it's just for several hours!
+Dialogue: 0,0:14:07.20,0:14:10.81,Default,,0000,0000,0000,,When everything is over,\Nwe'll make it up for them sincerely!
+Dialogue: 0,0:14:10.83,0:14:14.44,Default,,0000,0000,0000,,That's the only way!\NThere's no fooling anyone to get out of this!
+Dialogue: 0,0:14:14.46,0:14:19.65,Default,,0000,0000,0000,,Collect as much as you can!\NThe country is on the line!
+Dialogue: 0,0:14:19.67,0:14:22.82,Default,,0000,0000,0000,,Yeah!
+Dialogue: 0,0:14:22.84,0:14:25.29,Default,,0000,0000,0000,,Let's go! Follow my lead!
+Dialogue: 0,0:14:25.31,0:14:33.31,Default,,0000,0000,0000,,Yeah!
+Dialogue: 0,0:14:35.79,0:14:39.40,Default,,0000,0000,0000,,--It's the Army.\N--What are they doing this late?
+Dialogue: 0,0:14:39.42,0:14:42.61,Default,,0000,0000,0000,,That's Captain Tank!
+Dialogue: 0,0:14:42.63,0:14:50.63,Default,,0000,0000,0000,,Stop!
+Dialogue: 0,0:14:51.40,0:14:53.65,Default,,0000,0000,0000,,Listen, everyone!
+Dialogue: 0,0:14:53.67,0:14:58.12,Default,,0000,0000,0000,,Bring all the money you have\Nin this town here!
+Dialogue: 0,0:14:58.14,0:15:01.92,Default,,0000,0000,0000,,--Whoa-whoa, what's the matter?\N--What's going on?
+Dialogue: 0,0:15:01.94,0:15:04.59,Default,,0000,0000,0000,,--Just bring it!\N--Hurry up!
+Dialogue: 0,0:15:04.61,0:15:07.63,Default,,0000,0000,0000,,King-{\i1}sama{\i} will be furious with you\Nif he hears about this!
+Dialogue: 0,0:15:07.65,0:15:10.07,Default,,0000,0000,0000,,This is...
+Dialogue: 0,0:15:10.09,0:15:18.09,Default,,0000,0000,0000,,...the king's order!
+Dialogue: 0,0:15:27.52,0:15:31.12,Default,,0000,0000,0000,,King-{\i1}sama{\i} will be furious with you\Nif he hears about this!
+Dialogue: 0,0:15:31.14,0:15:34.51,Default,,0000,0000,0000,,This is the king's order!
+Dialogue: 0,0:15:34.53,0:15:38.39,Default,,0000,0000,0000,,Hurry up! We can't tell you what's going on\Nand we don't have time!
+Dialogue: 0,0:15:38.41,0:15:44.89,Default,,0000,0000,0000,,Just believe in King-{\i1}sama{\i}\Nand bring all the money you have here!
+Dialogue: 0,0:15:44.91,0:15:47.24,Default,,0000,0000,0000,,That's too sudden.
+Dialogue: 0,0:15:47.26,0:15:52.74,Default,,0000,0000,0000,,{\i1}It's impossible!\NNo one's gonna accept such a request!{\i}
+Dialogue: 0,0:15:52.76,0:15:54.48,Default,,0000,0000,0000,,The Video Transponder Snail?
+Dialogue: 0,0:15:54.50,0:15:56.35,Default,,0000,0000,0000,,{\i1}Nation of Dressrosa!{\i}
+Dialogue: 0,0:15:56.37,0:15:57.51,Default,,0000,0000,0000,,King Riku-{\i1}sama{\i}!
+Dialogue: 0,0:15:57.53,0:15:58.92,Default,,0000,0000,0000,,It's King Riku-{\i1}sama{\i}!
+Dialogue: 0,0:15:58.94,0:16:04.83,Default,,0000,0000,0000,,{\i1}I know it's too sudden\Nand an unreasonable request.{\i}
+Dialogue: 0,0:16:04.85,0:16:10.83,Default,,0000,0000,0000,,{\i1}But please let me borrow all of your money\Nfrom all of you people...{\i}
+Dialogue: 0,0:16:10.85,0:16:15.03,Default,,0000,0000,0000,,{\i1}...without asking me for a reason!{\i}
+Dialogue: 0,0:16:15.05,0:16:16.84,Default,,0000,0000,0000,,The king is bowing his head!
+Dialogue: 0,0:16:16.86,0:16:18.40,Default,,0000,0000,0000,,King Riku-{\i1}sama{\i}!
+Dialogue: 0,0:16:18.42,0:16:20.90,Default,,0000,0000,0000,,But why is he doing this?
+Dialogue: 0,0:16:20.92,0:16:24.54,Default,,0000,0000,0000,,It's really too sudden!
+Dialogue: 0,0:16:24.56,0:16:27.12,Default,,0000,0000,0000,,King-{\i1}sama{\i}, stop bowing your head!
+Dialogue: 0,0:16:27.14,0:16:29.98,Default,,0000,0000,0000,,You shouldn't be doing that!\NYou're the king!
+Dialogue: 0,0:16:30.00,0:16:33.52,Default,,0000,0000,0000,,--Please stop!\N--Lift your head!
+Dialogue: 0,0:16:33.54,0:16:38.77,Default,,0000,0000,0000,,{\i1}The successive kings will be ashamed of you\Nfor doing such a thing!{\i}
+Dialogue: 0,0:16:38.79,0:16:41.32,Default,,0000,0000,0000,,{\i1}--King-sama!\N--Why do you have to do that!{\i}
+Dialogue: 0,0:16:41.34,0:16:44.99,Default,,0000,0000,0000,,{\i1}You're humiliating yourself in front of the whole world!\NJust stop!{\i}
+Dialogue: 0,0:16:45.01,0:16:46.91,Default,,0000,0000,0000,,King-{\i1}sama{\i}!
+Dialogue: 0,0:16:46.93,0:16:51.69,Default,,0000,0000,0000,,Please! This is not some kind of joke!
+Dialogue: 0,0:16:51.71,0:16:59.71,Default,,0000,0000,0000,,I don't mind cutting\Nmy arm or leg off to prove it!
+Dialogue: 0,0:17:00.63,0:17:02.61,Default,,0000,0000,0000,,{\i1}Listen, Tank.{\i}
+Dialogue: 0,0:17:02.63,0:17:07.85,Default,,0000,0000,0000,,If things go wrong,\NI will kill even just Doflamingo.
+Dialogue: 0,0:17:07.87,0:17:12.46,Default,,0000,0000,0000,,King Riku-{\i1}sama{\i}, is that...
+Dialogue: 0,0:17:12.48,0:17:18.19,Default,,0000,0000,0000,,I'll leave the rest up to you.
+Dialogue: 0,0:17:18.21,0:17:21.03,Default,,0000,0000,0000,,{\i1}To live up to his expectations,{\i}
+Dialogue: 0,0:17:21.05,0:17:25.33,Default,,0000,0000,0000,,{\i1}I'll collect the money at any cost!{\i}
+Dialogue: 0,0:17:25.35,0:17:29.39,Default,,0000,0000,0000,,{\i1}Even if I lose...{\i}
+Dialogue: 0,0:17:29.41,0:17:37.41,Default,,0000,0000,0000,,{\i1}...the trust of the people in me\Nas a military captain!{\i}
+Dialogue: 0,0:17:39.80,0:17:44.00,Default,,0000,0000,0000,,{\i1}I am begging you!{\i}
+Dialogue: 0,0:17:44.02,0:17:48.46,Default,,0000,0000,0000,,Hurry up, everyone!\NLet's bring all the money we got as the king says!
+Dialogue: 0,0:17:48.48,0:17:53.60,Default,,0000,0000,0000,,Yeah! King Riku is such a kind-hearted man!\NHe wouldn't do this out of ill intent!
+Dialogue: 0,0:17:53.62,0:17:56.83,Default,,0000,0000,0000,,That's right!\NThere must be a reason for this!
+Dialogue: 0,0:17:56.85,0:18:04.85,Default,,0000,0000,0000,,--Bring all your money!\N--All right!
+Dialogue: 0,0:18:23.41,0:18:29.27,Default,,0000,0000,0000,,The king's virtue made it possible!
+Dialogue: 0,0:18:29.29,0:18:30.53,Default,,0000,0000,0000,,Here!
+Dialogue: 0,0:18:30.55,0:18:34.40,Default,,0000,0000,0000,,Thank you!
+Dialogue: 0,0:18:34.42,0:18:36.26,Default,,0000,0000,0000,,I'm sorry!
+Dialogue: 0,0:18:36.28,0:18:40.71,Default,,0000,0000,0000,,{\i1}They're doing it out of their trust\Nin the eight centuries of the Riku Family's reign.{\i}
+Dialogue: 0,0:18:40.73,0:18:45.65,Default,,0000,0000,0000,,{\i1}How wonderful this country is!\NIt will be saved for sure!{\i}
+Dialogue: 0,0:18:45.67,0:18:47.33,Default,,0000,0000,0000,,Thank you!
+Dialogue: 0,0:18:47.35,0:18:49.13,Default,,0000,0000,0000,,King Riku-{\i1}sama{\i}!
+Dialogue: 0,0:18:49.15,0:18:57.15,Default,,0000,0000,0000,,Long live King Riku-{\i1}sama{\i}!
+Dialogue: 0,0:19:00.52,0:19:08.52,Default,,0000,0000,0000,,Thank you all.
+Dialogue: 0,0:19:09.23,0:19:11.83,Default,,0000,0000,0000,,Take all the money to the palace!
+Dialogue: 0,0:19:11.85,0:19:16.28,Default,,0000,0000,0000,,--Hurry up!\N--Yes, sir!
+Dialogue: 0,0:19:16.30,0:19:19.14,Default,,0000,0000,0000,,--Captain Tank!\N--What's wrong?!
+Dialogue: 0,0:19:19.16,0:19:22.91,Default,,0000,0000,0000,,--King-{\i1}sama{\i} is in the town of Sevio!\N--It's on the screen!
+Dialogue: 0,0:19:22.93,0:19:27.46,Default,,0000,0000,0000,,What?!
+Dialogue: 0,0:19:27.48,0:19:30.53,On Top,,0000,0000,0000,,THE TOWN IN THE SOUTH - SEVIO
+Dialogue: 0,0:19:30.55,0:19:34.97,Default,,0000,0000,0000,,King-{\i1}sama{\i}!\NYou didn't have to come all the way! We're gonna...
+Dialogue: 0,0:19:34.99,0:19:36.23,Default,,0000,0000,0000,,Get away!
+Dialogue: 0,0:19:36.25,0:19:37.10,Default,,0000,0000,0000,,What?!
+Dialogue: 0,0:19:37.12,0:19:40.08,Default,,0000,0000,0000,,It's King-{\i1}sama{\i}!
+Dialogue: 0,0:19:40.10,0:19:45.70,Default,,0000,0000,0000,,King Riku-{\i1}sama{\i}! We don't know what the deal is\Nbut we trust you so...
+Dialogue: 0,0:19:45.72,0:19:47.14,Default,,0000,0000,0000,,Get away!
+Dialogue: 0,0:19:47.16,0:19:48.17,Default,,0000,0000,0000,,What?
+Dialogue: 0,0:19:48.19,0:19:52.89,Default,,0000,0000,0000,,Get away from me!
+Dialogue: 0,0:19:52.91,0:19:57.42,Default,,0000,0000,0000,,What?!\NKing Riku-{\i1}sama{\i}, what are you...
+Dialogue: 0,0:19:57.44,0:20:05.44,Default,,0000,0000,0000,,Don't! There is a magazine!
+Dialogue: 0,0:20:20.77,0:20:28.77,Default,,0000,0000,0000,,{\i1}King Riku-sama!{\i}
+Dialogue: 0,0:20:29.41,0:20:36.71,Default,,0000,0000,0000,,King Riku-{\i1}sama{\i}?
+Dialogue: 0,0:20:36.73,0:20:39.63,Default,,0000,0000,0000,,Stop! Don't make me do this!
+Dialogue: 0,0:20:39.65,0:20:42.71,Default,,0000,0000,0000,,--King Riku-{\i1}sama{\i}, please stop!\N--What are you doing?!
+Dialogue: 0,0:20:42.73,0:20:45.27,Default,,0000,0000,0000,,Back off! Stay away from me!
+Dialogue: 0,0:20:45.29,0:20:49.54,Default,,0000,0000,0000,,Get away from me!
+Dialogue: 0,0:20:49.56,0:20:52.78,Default,,0000,0000,0000,,He cut the soldiers, too!
+Dialogue: 0,0:20:52.80,0:21:00.80,Default,,0000,0000,0000,,My body is moving on its own!
+Dialogue: 0,0:21:07.22,0:21:09.36,Default,,0000,0000,0000,,What are you doing?
+Dialogue: 0,0:21:09.38,0:21:15.94,Default,,0000,0000,0000,,King Riku-{\i1}sama{\i}!
+Dialogue: 0,0:21:15.96,0:21:20.98,Default,,0000,0000,0000,,Boy... What kind of king he is!
+Dialogue: 0,0:21:21.00,0:21:25.44,Default,,0000,0000,0000,,Well, the night has just begun, soldiers.
+Dialogue: 0,0:21:25.46,0:21:33.46,Default,,0000,0000,0000,,You should dance, too!
+Dialogue: 0,0:21:34.04,0:21:36.58,Default,,0000,0000,0000,,Parasite String!
+Dialogue: 0,0:21:36.60,0:21:40.55,Default,,0000,0000,0000,,Wh-What the hell? What's going on?!\NM-My arm is moving on its own!
+Dialogue: 0,0:21:40.57,0:21:44.43,Default,,0000,0000,0000,,What?
+Dialogue: 0,0:21:44.45,0:21:49.80,Default,,0000,0000,0000,,The soldiers are rampaging now, too!
+Dialogue: 0,0:21:49.82,0:21:53.71,Default,,0000,0000,0000,,Stop it!
+Dialogue: 0,0:21:53.73,0:21:56.44,Default,,0000,0000,0000,,Help me...
+Dialogue: 0,0:21:56.46,0:21:58.94,Default,,0000,0000,0000,,C-Captain!
+Dialogue: 0,0:21:58.96,0:22:00.58,Default,,0000,0000,0000,,It's not me!
+Dialogue: 0,0:22:00.60,0:22:04.78,Default,,0000,0000,0000,,I-I can't control my body!
+Dialogue: 0,0:22:04.80,0:22:07.35,Default,,0000,0000,0000,,I know!\NThat's what's happening to me!
+Dialogue: 0,0:22:07.37,0:22:10.95,Default,,0000,0000,0000,,Why does it move on its own?!
+Dialogue: 0,0:22:10.97,0:22:13.86,Default,,0000,0000,0000,,Is it what's happening to King-{\i1}sama{\i}?!
+Dialogue: 0,0:22:13.88,0:22:16.22,Default,,0000,0000,0000,,King Riku-{\i1}sama{\i}, why are you doing this?!
+Dialogue: 0,0:22:16.24,0:22:20.53,Default,,0000,0000,0000,,He's never done anything wrong up\Ntil now!
+Dialogue: 0,0:22:20.55,0:22:23.39,Default,,0000,0000,0000,,Did we do something?!
+Dialogue: 0,0:22:23.41,0:22:26.60,Default,,0000,0000,0000,,{\i1}There's no way to justify myself!{\i}
+Dialogue: 0,0:22:26.62,0:22:30.11,Default,,0000,0000,0000,,{\i1}This country is finished!{\i}
+Dialogue: 0,0:22:30.13,0:22:33.68,Default,,0000,0000,0000,,{\i1}Doflamingo set us up!{\i}
+Dialogue: 0,0:22:33.70,0:22:38.58,Default,,0000,0000,0000,,--What happened to the king?!\N--Please stop!
+Dialogue: 0,0:22:38.60,0:22:44.06,Default,,0000,0000,0000,,Hey, hey!\NCan we do it already, Doffy?
+Dialogue: 0,0:22:44.08,0:22:48.76,Default,,0000,0000,0000,,Idiot. Don't rush.
+Dialogue: 0,0:22:48.78,0:22:52.96,Default,,0000,0000,0000,,I have to make the people tremble\Nwith fear more
+Dialogue: 0,0:22:52.98,0:22:57.03,Default,,0000,0000,0000,,and get them hate King Riku\Nwith all their heart!
+Dialogue: 0,0:22:57.05,0:23:05.05,Default,,0000,0000,0000,,And then, the heroes will appear!

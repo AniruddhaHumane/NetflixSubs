@@ -1,0 +1,371 @@
+﻿[Script Info]
+Title: English (US)
+Original Script: ToeiAnimation  [http://www.crunchyroll.com/user/ToeiAnimation]
+Original Translation: 
+Original Editing: 
+Original Timing: 
+Synch Point: 
+Script Updated By: 
+Update Details: 
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 640
+PlayResY: 360
+Timer: 0.0000
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name,Fontname,Fontsize,PrimaryColour,SecondaryColour,OutlineColour,BackColour,Bold,Italic,Underline,Strikeout,ScaleX,ScaleY,Spacing,Angle,BorderStyle,Outline,Shadow,Alignment,MarginL,MarginR,MarginV,Encoding
+Style: Default,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,2,0020,0020,0022,0
+Style: B1,Arial,32,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,2,0070,0070,0030,0
+Style: OS,Arial,18,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,8,0001,0001,0015,0
+Style: Italics,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,-1,0,0,100,100,0,0,1,2,1,2,0020,0020,0022,0
+Style: Ep Title,Arial,18,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,3,0170,0070,0020,0
+Style: Copy of Ep Title,Arial,18,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,3,0070,0226,0065,0
+Style: On Top,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,8,0020,0020,0022,0
+Style: Copy of OS,Arial,18,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,9,0020,0020,0020,0
+Style: DefaultLow,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,2,0020,0020,0010,0
+Style: onscreensigns,Arial,18,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,3,0400,0040,0020,0
+Style: onscreensign2,Arial,18,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,1,0030,0040,0040,0
+Style: name right,Arial,18,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,9,0030,0040,0040,0
+Style: name left,Arial,18,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,7,0030,0040,0040,0
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:01.80,0:00:01.78,Default,,0000,0000,0000,,{\i1}I've never seen the end of \Nthe world with my own eyes{\i0}
+Dialogue: 0,0:00:01.80,0:00:07.71,On Top,,0000,0000,0000,,{\i1}kono sekai no hate nante \Nkono me de mita wake janai{\i0}
+Dialogue: 0,0:00:07.73,0:00:07.71,On Top,,0000,0000,0000,,{\i1}dakara tabidatsun da kimi to, we can!{\i0}
+Dialogue: 0,0:00:07.73,0:00:15.73,Default,,0000,0000,0000,,{\i1}That's why I start a \Njourney with you, we can!{\i0}
+Dialogue: 0,0:00:24.91,0:00:24.89,Default,,0000,0000,0000,,{\i1}Traveling from sea to sea{\i0}
+Dialogue: 0,0:00:24.91,0:00:30.06,On Top,,0000,0000,0000,,{\i1}umi kara umi wo mata ni kakete{\i0}
+Dialogue: 0,0:00:30.08,0:00:30.06,On Top,,0000,0000,0000,,{\i1}hitotsunagi no takara sagashi ni{\i0}
+Dialogue: 0,0:00:30.08,0:00:35.61,Default,,0000,0000,0000,,{\i1}In search of the one-piece treasure{\i0}
+Dialogue: 0,0:00:35.63,0:00:35.61,On Top,,0000,0000,0000,,{\i1}sonna no yumemonogatari dato{\i0}
+Dialogue: 0,0:00:35.63,0:00:40.63,Default,,0000,0000,0000,,{\i1}Despite the fact that \Neveryone laughs and says{\i0}
+Dialogue: 0,0:00:40.65,0:00:40.66,Default,,0000,0000,0000,,{\i1}that it's just a fantasy{\i0}
+Dialogue: 0,0:00:40.68,0:00:43.70,On Top,,0000,0000,0000,,{\i1}daremo ga waratteiru kedo{\i0}
+Dialogue: 0,0:00:43.72,0:00:43.70,On Top,,0000,0000,0000,,{\i1}mune no takaburi dake ga rashinban{\i0}
+Dialogue: 0,0:00:43.72,0:00:51.33,Default,,0000,0000,0000,,{\i1}A rush of excitement is our only compass{\i0}
+Dialogue: 0,0:00:51.35,0:00:51.33,On Top,,0000,0000,0000,,{\i1}shittakaburi shitero yo{\i0}
+Dialogue: 0,0:00:51.35,0:00:55.04,Default,,0000,0000,0000,,{\i1}Just keep pretending you know everything{\i0}
+Dialogue: 0,0:00:55.06,0:00:55.04,Default,,0000,0000,0000,,{\i1}Textbooks are just guidebooks{\i0}
+Dialogue: 0,0:00:55.06,0:01:01.86,On Top,,0000,0000,0000,,{\i1}kyoukasho nante sa guidebook{\i0}
+Dialogue: 0,0:01:01.88,0:01:02.01,Default,,0000,0000,0000,,{\i1}Both the rain and our \Ntears will eventually stop{\i0}
+Dialogue: 0,0:01:02.03,0:01:04.68,On Top,,0000,0000,0000,,{\i1}ame mo namida mo itsuka wa yamu{\i0}
+Dialogue: 0,0:01:04.70,0:01:04.68,On Top,,0000,0000,0000,,{\i1}kao wo agero ikari wo agero{\i0}
+Dialogue: 0,0:01:04.70,0:01:07.68,Default,,0000,0000,0000,,{\i1}Hold up your head, pull up anchor{\i0}
+Dialogue: 0,0:01:07.70,0:01:07.68,On Top,,0000,0000,0000,,{\i1}kokoro no arashi ga sugita nara{\i0}
+Dialogue: 0,0:01:07.70,0:01:10.39,Default,,0000,0000,0000,,{\i1}Once the storm in your heart subsides{\i0}
+Dialogue: 0,0:01:10.41,0:01:10.39,On Top,,0000,0000,0000,,{\i1}kajitore saa kachitore{\i0}
+Dialogue: 0,0:01:10.41,0:01:12.94,Default,,0000,0000,0000,,{\i1}Take the helm, now, win a victory{\i0}
+Dialogue: 0,0:01:12.96,0:01:12.94,On Top,,0000,0000,0000,,{\i1}ashita no kaze ga fuku koro niwa{\i0}
+Dialogue: 0,0:01:12.96,0:01:15.65,Default,,0000,0000,0000,,{\i1}By the time tomorrow's wind blows{\i0}
+Dialogue: 0,0:01:15.67,0:01:15.65,On Top,,0000,0000,0000,,{\i1}harebare ho wo hare mune wo hare{\i0}
+Dialogue: 0,0:01:15.67,0:01:18.40,Default,,0000,0000,0000,,{\i1}Get refreshed, spread sail, chest out{\i0}
+Dialogue: 0,0:01:18.42,0:01:18.40,On Top,,0000,0000,0000,,{\i1}dareka ni aitakunarun da{\i0}
+Dialogue: 0,0:01:18.42,0:01:20.74,Default,,0000,0000,0000,,{\i1}It makes me long to see someone{\i0}
+Dialogue: 0,0:01:20.76,0:01:20.74,On Top,,0000,0000,0000,,{\i1}souzou tsukanai koto bakari daro{\i0}
+Dialogue: 0,0:01:20.76,0:01:28.66,Default,,0000,0000,0000,,{\i1}There are tons of unimaginable truth{\i0}
+Dialogue: 0,0:01:28.68,0:01:28.66,On Top,,0000,0000,0000,,{\i1}miteminufuri suruna yo{\i0}
+Dialogue: 0,0:01:28.68,0:01:32.29,Default,,0000,0000,0000,,{\i1}Don't turn a blind eye{\i0}
+Dialogue: 0,0:01:32.31,0:01:32.29,On Top,,0000,0000,0000,,{\i1}joushiki nante sa tasuuketsu{\i0}
+Dialogue: 0,0:01:32.31,0:01:40.31,Default,,0000,0000,0000,,{\i1}Common sense is just the mind of the masses{\i0}
+Dialogue: 0,0:01:40.69,0:01:40.67,On Top,,0000,0000,0000,,{\i1}kono sekai no hate nante \Nkono me de mita wake janai{\i0}
+Dialogue: 0,0:01:40.69,0:01:46.35,Default,,0000,0000,0000,,{\i1}I've never seen the end of \Nthe world with my own eyes{\i0}
+Dialogue: 0,0:01:46.37,0:01:46.35,On Top,,0000,0000,0000,,{\i1}dakara ikou ze amano jack senchou{\i0}
+Dialogue: 0,0:01:46.37,0:01:51.27,Default,,0000,0000,0000,,{\i1}That's why we've got to go, \NCaptain Live-By-My-Own-Rules{\i0}
+Dialogue: 0,0:01:51.29,0:01:51.27,On Top,,0000,0000,0000,,{\i1}dekiyashinai koto tte nani? \Nmada nani mo hajimatte nai{\i0}
+Dialogue: 0,0:01:51.29,0:01:57.06,Default,,0000,0000,0000,,{\i1}Who says it's impossible? \NNothing has started yet{\i0}
+Dialogue: 0,0:01:57.08,0:01:57.06,Default,,0000,0000,0000,,{\i1}I want to know everything now, yes, we can!{\i0}
+Dialogue: 0,0:01:57.08,0:02:02.03,On Top,,0000,0000,0000,,{\i1}subete shiritain da ima, yes, we can!{\i0}
+Dialogue: 0,0:02:02.05,0:02:02.03,On Top,,0000,0000,0000,,{\i1}Yes, we can! You can!{\i0}
+Dialogue: 0,0:02:02.05,0:02:05.32,Default,,0000,0000,0000,,{\i1}Yes, we can! You can!{\i0}
+Dialogue: 0,0:02:05.34,0:02:05.32,On Top,,0000,0000,0000,,{\i1}kono shunkan{\i0}
+Dialogue: 0,0:02:05.34,0:02:07.99,Default,,0000,0000,0000,,{\i1}This moment{\i0}
+Dialogue: 0,0:02:08.01,0:02:07.99,On Top,,0000,0000,0000,,{\i1}We can! I can!{\i0}
+Dialogue: 0,0:02:08.01,0:02:10.70,Default,,0000,0000,0000,,{\i1}We can! I can!{\i0}
+Dialogue: 0,0:02:10.72,0:02:10.70,On Top,,0000,0000,0000,,{\i1}kono kaikan{\i0}
+Dialogue: 0,0:02:10.72,0:02:13.41,Default,,0000,0000,0000,,{\i1}This great feeling{\i0}
+Dialogue: 0,0:02:13.43,0:02:13.41,On Top,,0000,0000,0000,,{\i1}ima ima, yes, we can!{\i0}
+Dialogue: 0,0:02:13.43,0:02:21.43,Default,,0000,0000,0000,,{\i1}Now, now, yes, we can!{\i0}
+Dialogue: 0,0:02:26.66,0:02:26.64,On Top,,0000,0000,0000,,{\i1}Yes, we can!{\i0}
+Dialogue: 0,0:02:26.66,0:02:32.77,Default,,0000,0000,0000,,{\i1}Yes, we can!{\i0}
+Dialogue: 0,0:02:32.79,0:02:36.31,Default,,0000,0000,0000,,{\i1}The goal is the last island - Raftel{\i0}
+Dialogue: 0,0:02:36.33,0:02:41.69,Default,,0000,0000,0000,,{\i1}and the Great Treasure of One Piece!{\i0}
+Dialogue: 0,0:02:41.71,0:02:45.15,Default,,0000,0000,0000,,{\i1}However, no one has ever reached\Nthe legendary island...{\i0}
+Dialogue: 0,0:02:45.17,0:02:49.91,Default,,0000,0000,0000,,{\i1}...except for Gold Roger, \NKing of the Pirates.{\i0}
+Dialogue: 0,0:02:49.93,0:02:52.33,Default,,0000,0000,0000,,{\i1}It is the Great Pirate Era.{\i0}
+Dialogue: 0,0:02:52.35,0:02:56.75,Default,,0000,0000,0000,,{\i1}While the monsters of the New World\Nfight each other fiercely,{\i0}
+Dialogue: 0,0:02:56.77,0:03:02.55,Default,,0000,0000,0000,,{\i1}the Straw Hat Pirates are\Nin the center of the storm!{\i0}
+Dialogue: 0,0:03:02.57,0:03:05.49,Default,,0000,0000,0000,,{\i1}Their captain is a rubber man\Nwho ate the Gum-Gum Fruit.{\i0}
+Dialogue: 0,0:03:05.51,0:03:08.43,Default,,0000,0000,0000,,{\i1}Monkey D. Luffy!{\i0}
+Dialogue: 0,0:03:08.45,0:03:09.64,Default,,0000,0000,0000,,{\i1}Zoro!{\i0}
+Dialogue: 0,0:03:09.66,0:03:10.66,Default,,0000,0000,0000,,{\i1}Nami!{\i0}
+Dialogue: 0,0:03:10.68,0:03:12.06,Default,,0000,0000,0000,,{\i1}Usopp!{\i0}
+Dialogue: 0,0:03:12.08,0:03:13.39,Default,,0000,0000,0000,,{\i1}Sanji!{\i0}
+Dialogue: 0,0:03:13.41,0:03:14.41,Default,,0000,0000,0000,,{\i1}Chopper!{\i0}
+Dialogue: 0,0:03:14.43,0:03:15.77,Default,,0000,0000,0000,,{\i1}Robin!{\i0}
+Dialogue: 0,0:03:15.79,0:03:16.91,Default,,0000,0000,0000,,{\i1}Franky!{\i0}
+Dialogue: 0,0:03:16.93,0:03:18.52,Default,,0000,0000,0000,,{\i1}Brook!{\i0}
+Dialogue: 0,0:03:18.54,0:03:21.77,Default,,0000,0000,0000,,{\i1}This tight-knit group of nine pirates...{\i0}
+Dialogue: 0,0:03:21.79,0:03:26.86,Default,,0000,0000,0000,,{\i1}...are making their way through the vast sea\Nwith their sights set on the One Piece!{\i0}
+Dialogue: 0,0:03:26.88,0:03:34.79,Default,,0000,0000,0000,,I'm gonna become the King of the Pirates!
+Dialogue: 0,0:03:34.81,0:03:39.29,Default,,0000,0000,0000,,{\i1}To take back Sanji from Big Mom,\NLuffy and the others...{\i0}
+Dialogue: 0,0:03:39.31,0:03:43.67,Default,,0000,0000,0000,,{\i1}...parted from Zoro and the rest who have started\Npreparing for a battle with Emperor Kaido.{\i0}
+Dialogue: 0,0:03:43.69,0:03:51.69,Default,,0000,0000,0000,,{\i1}They headed for the Whole Cake Island\Nbut now face a serious food shortage...{\i0}
+Dialogue: 0,0:04:00.56,0:04:08.56,Default,,0000,0000,0000,,Hey! Cut it out!
+Dialogue: 0,0:04:09.76,0:04:12.16,Default,,0000,0000,0000,,Ow! Ow! Ow! Ow! Ow! Ow!
+Dialogue: 0,0:04:12.18,0:04:16.33,Default,,0000,0000,0000,,Luffy-{\i1}san{\i0}, you can't eat him!
+Dialogue: 0,0:04:16.35,0:04:19.73,Default,,0000,0000,0000,,--Luffy! It's me! It's me!\N--Let go of him! No! He's gonna eat you!
+Dialogue: 0,0:04:19.75,0:04:26.13,Default,,0000,0000,0000,,That's enough!
+Dialogue: 0,0:04:26.15,0:04:31.26,Default,,0000,0000,0000,,--I can't do this anymore...\N--Nami-{\i1}san{\i0}!
+Dialogue: 0,0:04:31.28,0:04:36.14,Default,,0000,0000,0000,,We're in dire straits without any food...
+Dialogue: 0,0:04:36.16,0:04:44.16,Default,,0000,0000,0000,,Will we be able to see Sanji-{\i1}kun{\i0}?
+Dialogue: 0,0:04:46.59,0:04:49.25,Default,,0000,0000,0000,,Hey! You-{\i1}gara{\i0} guys!
+Dialogue: 0,0:04:49.27,0:04:51.79,Default,,0000,0000,0000,,There's an island!
+Dialogue: 0,0:04:51.81,0:04:52.70,Default,,0000,0000,0000,,An island?
+Dialogue: 0,0:04:52.72,0:04:54.83,Default,,0000,0000,0000,,Oh, could it be...
+Dialogue: 0,0:04:54.85,0:04:58.10,Default,,0000,0000,0000,,...the island on the chart?!
+Dialogue: 0,0:04:58.12,0:04:59.75,Default,,0000,0000,0000,,Yes!
+Dialogue: 0,0:04:59.77,0:05:03.83,Default,,0000,0000,0000,,The gods saved me!\NIt must be a reward for being so good all the time!
+Dialogue: 0,0:05:03.85,0:05:09.09,Default,,0000,0000,0000,,Food!
+Dialogue: 0,0:05:09.11,0:05:11.80,Default,,0000,0000,0000,,Okay! Guys!
+Dialogue: 0,0:05:11.82,0:05:14.78,Default,,0000,0000,0000,,Let's go to the food island!
+Dialogue: 0,0:05:14.80,0:05:16.08,Default,,0000,0000,0000,,Yeah!
+Dialogue: 0,0:05:16.10,0:05:17.77,Default,,0000,0000,0000,,Wait!
+Dialogue: 0,0:05:17.79,0:05:20.10,Default,,0000,0000,0000,,Don't go to that island.
+Dialogue: 0,0:05:20.12,0:05:21.36,Default,,0000,0000,0000,,Why?!
+Dialogue: 0,0:05:21.38,0:05:24.61,Default,,0000,0000,0000,,Do you know something?
+Dialogue: 0,0:05:24.63,0:05:28.65,Default,,0000,0000,0000,,Pirates shouldn't go there.
+Dialogue: 0,0:05:28.67,0:05:31.45,Default,,0000,0000,0000,,That island is...
+Dialogue: 0,0:05:31.47,0:05:34.37,Default,,0000,0000,0000,,...a Navy base!
+Dialogue: 0,0:05:34.39,0:05:38.20,Default,,0000,0000,0000,,A Navy base?
+Dialogue: 0,0:05:38.22,0:05:46.22,Default,,0000,0000,0000,,{\i1}"A Hungry Front!\NLuffy and the Navy Rookies!"{\i0}
+Dialogue: 0,0:05:49.20,0:05:51.90,Default,,0000,0000,0000,,Please look out for the Sunny!
+Dialogue: 0,0:05:51.92,0:05:55.64,Default,,0000,0000,0000,,--Yeah, leave it to us!\N--You really going?
+Dialogue: 0,0:05:55.66,0:05:58.88,Default,,0000,0000,0000,,Don't worry! We'll steal their food\Nand be back soon!
+Dialogue: 0,0:05:58.90,0:06:03.45,Default,,0000,0000,0000,,Even though you're with Straw Hat,\Ndon't lower your guard!
+Dialogue: 0,0:06:03.47,0:06:10.03,Default,,0000,0000,0000,,They have notorious hotheads from \Nvarious Navy units on that island.
+Dialogue: 0,0:06:10.05,0:06:15.57,Default,,0000,0000,0000,,That's an annoying frontline base\Nwhere they observe the Whole Cake Island.
+Dialogue: 0,0:06:15.59,0:06:23.59,Default,,0000,0000,0000,,If you underestimate them, you'll get hurt.
+Dialogue: 0,0:06:30.46,0:06:33.32,Default,,0000,0000,0000,,Okay, guys!\NLet's execute our plan right away!
+Dialogue: 0,0:06:33.34,0:06:41.34,Default,,0000,0000,0000,,Yeah!
+Dialogue: 0,0:07:02.92,0:07:07.50,Default,,0000,0000,0000,,Vice Admiral Prodi.\NThe reserves will arrive soon.
+Dialogue: 0,0:07:07.52,0:07:15.52,Default,,0000,0000,0000,,Mm-hm.
+Dialogue: 0,0:07:17.70,0:07:25.70,Default,,0000,0000,0000,,What's going on?!
+Dialogue: 0,0:07:28.83,0:07:36.83,Default,,0000,0000,0000,,JUSTICE
+Dialogue: 0,0:07:40.55,0:07:44.20,Default,,0000,0000,0000,,They're all useless.
+Dialogue: 0,0:07:44.22,0:07:48.04,Default,,0000,0000,0000,,Cowardly weaklings!
+Dialogue: 0,0:07:48.06,0:07:52.00,Default,,0000,0000,0000,,I'll beat you all up!
+Dialogue: 0,0:07:52.02,0:08:00.02,Default,,0000,0000,0000,,Get him, everyone!
+Dialogue: 0,0:08:18.88,0:08:23.30,Default,,0000,0000,0000,,That's enough, new boy!
+Dialogue: 0,0:08:23.32,0:08:26.80,Default,,0000,0000,0000,,You're Vice Admiral Prodi.
+Dialogue: 0,0:08:26.82,0:08:28.25,Default,,0000,0000,0000,,Just who I was looking for.
+Dialogue: 0,0:08:28.27,0:08:33.96,Default,,0000,0000,0000,,Send these dumb-asses \Nback to their old units.
+Dialogue: 0,0:08:33.98,0:08:41.98,Default,,0000,0000,0000,,You twit!
+Dialogue: 0,0:08:46.91,0:08:51.03,Default,,0000,0000,0000,,Thank you for\Nyour better-than-expected reaction!
+Dialogue: 0,0:08:51.05,0:08:59.05,Default,,0000,0000,0000,,Okay, everyone!\NCome out and get changed!
+Dialogue: 0,0:09:05.07,0:09:09.28,Default,,0000,0000,0000,,I'm so excited to sneak into the base\Ndisguised as a Navy soldier!
+Dialogue: 0,0:09:09.30,0:09:13.17,Default,,0000,0000,0000,,--I don't wanna wear this.\N--Wear it if you wanna get food!
+Dialogue: 0,0:09:13.19,0:09:16.78,Default,,0000,0000,0000,,Okay.
+Dialogue: 0,0:09:16.80,0:09:19.84,Default,,0000,0000,0000,,Luffy! I smell something good!
+Dialogue: 0,0:09:19.86,0:09:21.97,Default,,0000,0000,0000,,I think it stopped.
+Dialogue: 0,0:09:21.99,0:09:25.81,Default,,0000,0000,0000,,If we'd arrived here a little later,\Nwe would've run into that Navy ship.
+Dialogue: 0,0:09:25.83,0:09:27.56,Default,,0000,0000,0000,,That was close.
+Dialogue: 0,0:09:27.58,0:09:30.44,Default,,0000,0000,0000,,Nami-{\i1}san{\i0},\NI'm going back to the Submerge.
+Dialogue: 0,0:09:30.46,0:09:32.61,Default,,0000,0000,0000,,Thanks! Please keep guard!
+Dialogue: 0,0:09:32.63,0:09:36.02,Default,,0000,0000,0000,,Nami! Look at the tower!
+Dialogue: 0,0:09:36.04,0:09:39.01,Default,,0000,0000,0000,,The soldiers are carrying food in there!
+Dialogue: 0,0:09:39.03,0:09:41.28,Default,,0000,0000,0000,,That must be their food storage!
+Dialogue: 0,0:09:41.30,0:09:45.24,Default,,0000,0000,0000,,But their headquarters is close to it\Nso we'd better watch out!
+Dialogue: 0,0:09:45.26,0:09:49.98,Default,,0000,0000,0000,,Yeah, let's grab the food carefully\Nwithout causing any trouble!
+Dialogue: 0,0:09:50.00,0:09:51.22,Default,,0000,0000,0000,,Uh-huh!
+Dialogue: 0,0:09:51.24,0:09:53.08,Default,,0000,0000,0000,,Okay, Luffy, let's go...
+Dialogue: 0,0:09:53.10,0:09:54.67,Default,,0000,0000,0000,,He's gone!
+Dialogue: 0,0:09:54.69,0:09:56.53,Default,,0000,0000,0000,,Carrot too!
+Dialogue: 0,0:09:56.55,0:09:58.90,Default,,0000,0000,0000,,Food...
+Dialogue: 0,0:09:58.92,0:10:04.64,Default,,0000,0000,0000,,Not that way!
+Dialogue: 0,0:10:04.66,0:10:07.42,Default,,0000,0000,0000,,Did you plan it, Garp?!
+Dialogue: 0,0:10:07.44,0:10:10.74,Default,,0000,0000,0000,,{\i1}He destroyed one whole ship!{\i0}
+Dialogue: 0,0:10:10.76,0:10:13.13,Default,,0000,0000,0000,,That's not good.
+Dialogue: 0,0:10:13.15,0:10:16.15,Default,,0000,0000,0000,,{\i1}You think it's not your problem?!\NAren't you his instructor?!{\i0}
+Dialogue: 0,0:10:16.17,0:10:21.13,Default,,0000,0000,0000,,Grount requested the transfer!\NTake good care of him!
+Dialogue: 0,0:10:21.15,0:10:22.39,Default,,0000,0000,0000,,Clank.
+Dialogue: 0,0:10:22.41,0:10:24.74,Default,,0000,0000,0000,,Vice Admiral Garp.
+Dialogue: 0,0:10:24.76,0:10:28.80,Default,,0000,0000,0000,,--Grount was transferred to Vice Admiral Prodi?\N--Yeah.
+Dialogue: 0,0:10:28.82,0:10:36.82,Default,,0000,0000,0000,,Why did he want to go to such an remote place?\NWhat is he thinking?
+Dialogue: 0,0:10:37.10,0:10:39.59,Default,,0000,0000,0000,,Damn, that old bastard!
+Dialogue: 0,0:10:39.61,0:10:42.64,Default,,0000,0000,0000,,Hey, why did you want \Nto be transferred here?!
+Dialogue: 0,0:10:42.66,0:10:46.13,Default,,0000,0000,0000,,Big Mom is somewhere near here, right?
+Dialogue: 0,0:10:46.15,0:10:47.60,Default,,0000,0000,0000,,I'll bring her down!
+Dialogue: 0,0:10:47.62,0:10:50.10,Default,,0000,0000,0000,,You're so naive!
+Dialogue: 0,0:10:50.12,0:10:55.27,Default,,0000,0000,0000,,All-Hunt Grount. You're just 17 years \Nold but you're a naval captain?!
+Dialogue: 0,0:10:55.29,0:10:58.02,Default,,0000,0000,0000,,What are the people at the HQ thinking?!
+Dialogue: 0,0:10:58.04,0:11:01.48,Default,,0000,0000,0000,,Plus, you used to be in Kuzan's unit.
+Dialogue: 0,0:11:01.50,0:11:06.30,Default,,0000,0000,0000,,We have two soldiers with the same \Nbackground here. Do you know them?
+Dialogue: 0,0:11:06.32,0:11:08.01,Default,,0000,0000,0000,,Maybe.
+Dialogue: 0,0:11:08.03,0:11:11.95,Default,,0000,0000,0000,,How could Kuzan leave\Nsuch a good-for-nothing brat behind?!
+Dialogue: 0,0:11:11.97,0:11:18.13,Default,,0000,0000,0000,,Well, he's worthless too since he left the Navy\Nafter losing in the power struggle!
+Dialogue: 0,0:11:18.15,0:11:20.88,Default,,0000,0000,0000,,We only hear bad rumors about him these days!
+Dialogue: 0,0:11:20.90,0:11:23.89,Default,,0000,0000,0000,,Don't talk bad about Aokiji-{\i1}san{\i0}!
+Dialogue: 0,0:11:23.91,0:11:28.51,Default,,0000,0000,0000,,You'd better be careful \Nnot to become like him.
+Dialogue: 0,0:11:28.53,0:11:33.44,Default,,0000,0000,0000,,Hey! I'll assign him to duty soon!\NLet him rest a while!
+Dialogue: 0,0:11:33.46,0:11:37.02,Default,,0000,0000,0000,,Yes, sir!
+Dialogue: 0,0:11:37.04,0:11:38.78,Default,,0000,0000,0000,,Aren't we there yet?
+Dialogue: 0,0:11:38.80,0:11:43.65,Default,,0000,0000,0000,,We're getting closer!\NIt's from that building!
+Dialogue: 0,0:11:43.67,0:11:46.25,Default,,0000,0000,0000,,Oh, Luffy and Carrot!
+Dialogue: 0,0:11:46.27,0:11:48.74,Default,,0000,0000,0000,,Of all places,\Nthey're going into the headquarters!
+Dialogue: 0,0:11:48.76,0:11:51.62,Default,,0000,0000,0000,,We gotta catch them first! Let's go!
+Dialogue: 0,0:11:51.64,0:11:59.64,Default,,0000,0000,0000,,--Okay!\N--Honestly!
+Dialogue: 0,0:12:06.32,0:12:10.09,Default,,0000,0000,0000,,Oh, this is great!
+Dialogue: 0,0:12:10.11,0:12:16.01,Default,,0000,0000,0000,,--Rest here until you get assigned to a task.\N--Be nice to your "friends"!
+Dialogue: 0,0:12:16.03,0:12:24.03,Default,,0000,0000,0000,,Hey.
+Dialogue: 0,0:12:28.72,0:12:30.32,Default,,0000,0000,0000,,Hey, newbie!
+Dialogue: 0,0:12:30.34,0:12:32.62,Default,,0000,0000,0000,,Why did you wreak havoc earlier?
+Dialogue: 0,0:12:32.64,0:12:35.33,Default,,0000,0000,0000,,If you don't care about \Nyour colleagues, go away!
+Dialogue: 0,0:12:35.35,0:12:37.25,Default,,0000,0000,0000,,Yeah, go away!
+Dialogue: 0,0:12:37.27,0:12:40.35,Default,,0000,0000,0000,,Hey, we're talking to you!
+Dialogue: 0,0:12:40.37,0:12:42.95,Default,,0000,0000,0000,,What an insolent twit!
+Dialogue: 0,0:12:42.97,0:12:50.97,Default,,0000,0000,0000,,Don't push your luck, newbie!
+Dialogue: 0,0:12:51.11,0:12:52.97,Default,,0000,0000,0000,,--Ouch!\N--You okay?!
+Dialogue: 0,0:12:52.99,0:13:00.99,Default,,0000,0000,0000,,That bastard!
+Dialogue: 0,0:13:11.05,0:13:19.05,Default,,0000,0000,0000,,Do you still wanna fight?
+Dialogue: 0,0:13:22.10,0:13:24.13,Default,,0000,0000,0000,,Bring it on!
+Dialogue: 0,0:13:24.15,0:13:26.84,Default,,0000,0000,0000,,Okay.
+Dialogue: 0,0:13:26.86,0:13:31.84,Default,,0000,0000,0000,,But before that...!
+Dialogue: 0,0:13:31.86,0:13:34.81,Default,,0000,0000,0000,,Oh, I missed you, Grount!
+Dialogue: 0,0:13:34.83,0:13:36.22,Default,,0000,0000,0000,,Shut up!
+Dialogue: 0,0:13:36.24,0:13:38.85,Default,,0000,0000,0000,,That's annoying!\NLet go of me, Bonham!
+Dialogue: 0,0:13:38.87,0:13:44.02,Default,,0000,0000,0000,,Calm down or I'll break your bones!
+Dialogue: 0,0:13:44.04,0:13:48.28,Default,,0000,0000,0000,,Hey! Zappa's here too, right?\NWhere is he?
+Dialogue: 0,0:13:48.30,0:13:55.53,Default,,0000,0000,0000,,He's... there!
+Dialogue: 0,0:13:55.55,0:14:00.58,Default,,0000,0000,0000,,As soon as he got here,\Nhe started proposing to every single woman but...
+Dialogue: 0,0:14:00.60,0:14:07.00,Default,,0000,0000,0000,,...he finally got turned down\Nby the very last one.
+Dialogue: 0,0:14:07.02,0:14:15.02,Default,,0000,0000,0000,,Hey, it's been a while since we last met!\NWe have a lot of catching-up to do!
+Dialogue: 0,0:14:15.45,0:14:17.85,Default,,0000,0000,0000,,We three will have a good \Ntime together again!
+Dialogue: 0,0:14:17.87,0:14:21.15,Default,,0000,0000,0000,,As long as you stay out of my way...\NI mean, let go of me!
+Dialogue: 0,0:14:21.17,0:14:23.98,Default,,0000,0000,0000,,Here you go!
+Dialogue: 0,0:14:24.00,0:14:26.08,Default,,0000,0000,0000,,Eat it up!
+Dialogue: 0,0:14:26.10,0:14:28.16,Default,,0000,0000,0000,,Yum-yum!
+Dialogue: 0,0:14:28.18,0:14:36.18,Default,,0000,0000,0000,,Put a lot of carrots on mine!
+Dialogue: 0,0:14:36.43,0:14:38.68,Default,,0000,0000,0000,,Hey, are you okay?!
+Dialogue: 0,0:14:38.70,0:14:41.30,Default,,0000,0000,0000,,What's wrong?!
+Dialogue: 0,0:14:41.32,0:14:49.32,Default,,0000,0000,0000,,Report this to the headquarters A.S.A.P.!
+Dialogue: 0,0:15:01.62,0:15:02.73,Default,,0000,0000,0000,,FINE-
+Dialogue: 0,0:15:02.75,0:15:03.77,Default,,0000,0000,0000,,TUNED
+Dialogue: 0,0:15:03.79,0:15:04.81,Default,,0000,0000,0000,,JUSTICE
+Dialogue: 0,0:15:04.83,0:15:12.19,Default,,0000,0000,0000,,FINE-TUNED JUSTICE
+Dialogue: 0,0:15:12.21,0:15:14.09,Default,,0000,0000,0000,,A ghost?!
+Dialogue: 0,0:15:14.11,0:15:18.66,Default,,0000,0000,0000,,Yes, they're saying that it appeared in front of them\Nout of the blue and attacked them.
+Dialogue: 0,0:15:18.68,0:15:20.28,Default,,0000,0000,0000,,Yeah?
+Dialogue: 0,0:15:20.30,0:15:27.04,Default,,0000,0000,0000,,I see. So you're saying a ghost\Ntied them up and took their uniforms?
+Dialogue: 0,0:15:27.06,0:15:32.09,Default,,0000,0000,0000,,Yes... No... I mean...
+Dialogue: 0,0:15:32.11,0:15:34.66,Default,,0000,0000,0000,,Don't be ridiculous!
+Dialogue: 0,0:15:34.68,0:15:38.76,Default,,0000,0000,0000,,Listen! Enforce the search inside the facilities\Nand along the shoreline!
+Dialogue: 0,0:15:38.78,0:15:42.41,Default,,0000,0000,0000,,Go find their invasion route!
+Dialogue: 0,0:15:42.43,0:15:46.02,Default,,0000,0000,0000,,--Now, go!\N--Y-Yes, sir!
+Dialogue: 0,0:15:46.04,0:15:49.07,Default,,0000,0000,0000,,Hey! What's going on with the \NVideo Transponder Snails?
+Dialogue: 0,0:15:49.09,0:15:51.92,Default,,0000,0000,0000,,All of them are running, sir.
+Dialogue: 0,0:15:51.94,0:15:58.97,Default,,0000,0000,0000,,--Let's go to the monitoring room!\N--Yes, sir!
+Dialogue: 0,0:15:58.99,0:16:01.11,Default,,0000,0000,0000,,It's hot!
+Dialogue: 0,0:16:01.13,0:16:07.37,Default,,0000,0000,0000,,This spicy flavor is addicting!
+Dialogue: 0,0:16:07.39,0:16:09.36,Default,,0000,0000,0000,,You're still a kid, huh?
+Dialogue: 0,0:16:09.38,0:16:12.11,Default,,0000,0000,0000,,Screw you!
+Dialogue: 0,0:16:12.13,0:16:13.59,Default,,0000,0000,0000,,What's so funny?!
+Dialogue: 0,0:16:13.61,0:16:20.87,Default,,0000,0000,0000,,He's getting as hot as curry.
+Dialogue: 0,0:16:20.89,0:16:22.35,Default,,0000,0000,0000,,So good!
+Dialogue: 0,0:16:22.37,0:16:23.95,Default,,0000,0000,0000,,Look, Luffy!
+Dialogue: 0,0:16:23.97,0:16:27.52,Default,,0000,0000,0000,,A seagull-shaped carrot! How cute!
+Dialogue: 0,0:16:27.54,0:16:29.23,Default,,0000,0000,0000,,Can I have yours?
+Dialogue: 0,0:16:29.25,0:16:31.07,Default,,0000,0000,0000,,Yes, you can.
+Dialogue: 0,0:16:31.09,0:16:33.73,Default,,0000,0000,0000,,Thanks!
+Dialogue: 0,0:16:33.75,0:16:38.61,Default,,0000,0000,0000,,I can't believe it.\NThey're totally exposed and no one's noticing.
+Dialogue: 0,0:16:38.63,0:16:46.63,Default,,0000,0000,0000,,I'm hungry...
+Dialogue: 0,0:16:48.54,0:16:50.04,Default,,0000,0000,0000,,Nami!
+Dialogue: 0,0:16:50.06,0:16:55.22,Default,,0000,0000,0000,,You don't look familiar.
+Dialogue: 0,0:16:55.24,0:16:56.71,Default,,0000,0000,0000,,That's unacceptable!
+Dialogue: 0,0:16:56.73,0:17:00.91,Default,,0000,0000,0000,,A new soldier like you has to eat a lot\Nand gain weight or you can't keep up!
+Dialogue: 0,0:17:00.93,0:17:03.17,Default,,0000,0000,0000,,Eat up and hang in there!
+Dialogue: 0,0:17:03.19,0:17:08.27,Default,,0000,0000,0000,,Huge man right there,\Nyou can have some too!
+Dialogue: 0,0:17:08.29,0:17:10.85,Default,,0000,0000,0000,,Great! Thank you!
+Dialogue: 0,0:17:10.87,0:17:13.15,Default,,0000,0000,0000,,Don't mention it. Just eat it!
+Dialogue: 0,0:17:13.17,0:17:15.94,Default,,0000,0000,0000,,Okay!
+Dialogue: 0,0:17:15.96,0:17:21.53,Default,,0000,0000,0000,,This is so good!
+Dialogue: 0,0:17:21.55,0:17:22.80,Default,,0000,0000,0000,,What's the situation?
+Dialogue: 0,0:17:22.82,0:17:26.71,Default,,0000,0000,0000,,We still haven't found out who invaded\Nor their route in.
+Dialogue: 0,0:17:26.73,0:17:33.44,Default,,0000,0000,0000,,Where are they hiding?
+Dialogue: 0,0:17:33.46,0:17:40.97,Default,,0000,0000,0000,,I won't let them get away at any cost!
+Dialogue: 0,0:17:40.99,0:17:44.10,Default,,0000,0000,0000,,Nami and Chopper!
+Dialogue: 0,0:17:44.12,0:17:50.27,Default,,0000,0000,0000,,Nami! Chopper! We're here!
+Dialogue: 0,0:17:50.29,0:17:53.19,Default,,0000,0000,0000,,--Hey!\N--Come here, guys!
+Dialogue: 0,0:17:53.21,0:17:58.11,Default,,0000,0000,0000,,Nami!
+Dialogue: 0,0:17:58.13,0:18:01.12,Default,,0000,0000,0000,,I heard someone said "Nami"!
+Dialogue: 0,0:18:01.14,0:18:02.16,Default,,0000,0000,0000,,Where is she?!
+Dialogue: 0,0:18:02.18,0:18:10.18,Default,,0000,0000,0000,,Let's eat together! Come on!
+Dialogue: 0,0:18:11.23,0:18:16.92,Default,,0000,0000,0000,,A-Am I seeing her in a vision?!
+Dialogue: 0,0:18:16.94,0:18:20.63,Default,,0000,0000,0000,,Why is she here?
+Dialogue: 0,0:18:20.65,0:18:25.32,Default,,0000,0000,0000,,This is the chance of a lifetime!\NI won't blow it!
+Dialogue: 0,0:18:25.34,0:18:33.34,Default,,0000,0000,0000,,What's the matter, Zappa?
+Dialogue: 0,0:18:38.96,0:18:42.53,Default,,0000,0000,0000,,Wh-What?!
+Dialogue: 0,0:18:42.55,0:18:47.70,Default,,0000,0000,0000,,You're Ms. Nami of the Straw Hats,\Naren't you?
+Dialogue: 0,0:18:47.72,0:18:52.14,Default,,0000,0000,0000,,No, I'm new here. My name is Mina...
+Dialogue: 0,0:18:52.16,0:18:56.04,Default,,0000,0000,0000,,You can't fool me.
+Dialogue: 0,0:18:56.06,0:19:01.55,Default,,0000,0000,0000,,{\i1}Oh, no! He knows who I am!{\i0}
+Dialogue: 0,0:19:01.57,0:19:05.24,Default,,0000,0000,0000,,I've been gazing at...
+Dialogue: 0,0:19:05.26,0:19:11.02,Default,,0000,0000,0000,,...your wanted poster night and day!
+Dialogue: 0,0:19:11.04,0:19:13.05,Default,,0000,0000,0000,,Urgh! What's wrong with him?!
+Dialogue: 0,0:19:13.07,0:19:20.74,Default,,0000,0000,0000,,And now, you're in front of me!
+Dialogue: 0,0:19:20.76,0:19:24.45,Default,,0000,0000,0000,,Oh, my beautiful {\i1}amore{\i0}!
+Dialogue: 0,0:19:24.47,0:19:29.55,Default,,0000,0000,0000,,Forget that we're a Navy soldier and a pirate,\Nand marry me, {\i1}amore{\i0}?!
+Dialogue: 0,0:19:29.57,0:19:30.62,Default,,0000,0000,0000,,Marry?!
+Dialogue: 0,0:19:30.64,0:19:34.42,Default,,0000,0000,0000,,No, no, no!\NI've never thought about marrying!
+Dialogue: 0,0:19:34.44,0:19:40.84,Default,,0000,0000,0000,,Let me loosen up your closed heart\Nwith my lonely heart!
+Dialogue: 0,0:19:40.86,0:19:48.31,Default,,0000,0000,0000,,Accept my love! {\i1}Baciami{\i0}!
+Dialogue: 0,0:19:48.33,0:19:54.25,Default,,0000,0000,0000,,Stay away! You make me sick!
+Dialogue: 0,0:19:54.27,0:20:01.53,Default,,0000,0000,0000,,Oh, it's spicy!
+Dialogue: 0,0:20:01.55,0:20:05.11,Default,,0000,0000,0000,,Are you in your right mind?
+Dialogue: 0,0:20:05.13,0:20:07.05,Default,,0000,0000,0000,,Ms. Nami...
+Dialogue: 0,0:20:07.07,0:20:15.07,Default,,0000,0000,0000,,She ran away.
+Dialogue: 0,0:20:22.77,0:20:25.53,Default,,0000,0000,0000,,What's wrong with that creepy soldier?!
+Dialogue: 0,0:20:25.55,0:20:32.14,Default,,0000,0000,0000,,Are you okay?
+Dialogue: 0,0:20:32.16,0:20:33.81,Default,,0000,0000,0000,,Oh, it's heavy!
+Dialogue: 0,0:20:33.83,0:20:38.11,Default,,0000,0000,0000,,They serve delicious curry here, huh?\NOne, two!
+Dialogue: 0,0:20:38.13,0:20:44.44,Default,,0000,0000,0000,,Hey, what are you doing?!
+Dialogue: 0,0:20:44.46,0:20:46.67,Default,,0000,0000,0000,,Where the hell are they?!
+Dialogue: 0,0:20:46.69,0:20:53.01,Default,,0000,0000,0000,,Oh? Is that a fight?
+Dialogue: 0,0:20:53.03,0:20:57.58,Default,,0000,0000,0000,,What's going on here?!
+Dialogue: 0,0:20:57.60,0:20:58.89,Default,,0000,0000,0000,,Is this...?
+Dialogue: 0,0:20:58.91,0:21:01.63,Default,,0000,0000,0000,,Hey! Zoom in to this guy!
+Dialogue: 0,0:21:01.65,0:21:06.34,Default,,0000,0000,0000,,Yes, sir!
+Dialogue: 0,0:21:06.36,0:21:11.47,Default,,0000,0000,0000,,D-Don't tell me he's...
+Dialogue: 0,0:21:11.49,0:21:18.35,Default,,0000,0000,0000,,Garp's grandson?!
+Dialogue: 0,0:21:18.37,0:21:21.56,Default,,0000,0000,0000,,{\i1}To all soldiers across the island!{\i0}
+Dialogue: 0,0:21:21.58,0:21:24.57,Default,,0000,0000,0000,,{\i1}We found the invader!{\i0}
+Dialogue: 0,0:21:24.59,0:21:31.49,Default,,0000,0000,0000,,{\i1}He's devouring curry in the cafeteria!{\i0}
+Dialogue: 0,0:21:31.51,0:21:36.45,Default,,0000,0000,0000,,He is none other than Straw Hat Luffy!
+Dialogue: 0,0:21:36.47,0:21:42.33,Default,,0000,0000,0000,,Straw Hat Luffy?!
+Dialogue: 0,0:21:42.35,0:21:43.42,Default,,0000,0000,0000,,Is that him?!
+Dialogue: 0,0:21:43.44,0:21:46.30,Default,,0000,0000,0000,,--Chopper, let's run!\N--To where?!
+Dialogue: 0,0:21:46.32,0:21:53.59,Default,,0000,0000,0000,,To the food storage outside, of course!\NI'm not gonna leave empty-handed!
+Dialogue: 0,0:21:53.61,0:21:58.57,Default,,0000,0000,0000,,They must have hid their ship somewhere!\NLook everywhere along the coast!
+Dialogue: 0,0:21:58.59,0:22:02.72,Default,,0000,0000,0000,,Yeah!
+Dialogue: 0,0:22:02.74,0:22:06.90,Default,,0000,0000,0000,,I wonder if\NLuffy-{\i1}san{\i0} and the others are okay...
+Dialogue: 0,0:22:06.92,0:22:11.43,Default,,0000,0000,0000,,For the pride of the Navy,\Ncatch them at any price!
+Dialogue: 0,0:22:11.45,0:22:17.06,Default,,0000,0000,0000,,{\i1}Don't let them escape from this island!{\i0}
+Dialogue: 0,0:22:17.08,0:22:19.64,Default,,0000,0000,0000,,Oh, no!
+Dialogue: 0,0:22:19.66,0:22:24.16,Default,,0000,0000,0000,,Luffy! We're in trouble!
+Dialogue: 0,0:22:24.18,0:22:28.23,Default,,0000,0000,0000,,What's going on?
+Dialogue: 0,0:22:28.25,0:22:30.51,Default,,0000,0000,0000,,He's the man of 500 million?!
+Dialogue: 0,0:22:30.53,0:22:33.55,Default,,0000,0000,0000,,Ms. Nami's captain?!
+Dialogue: 0,0:22:33.57,0:22:41.57,Default,,0000,0000,0000,,He looks dumb. Straw Hat Luffy...
+Dialogue: 0,0:22:51.53,0:22:53.65,Default,,0000,0000,0000,,I will...
+Dialogue: 0,0:22:53.67,0:23:01.67,Default,,0000,0000,0000,,...kick your ass!
+Dialogue: 0,0:23:10.59,0:23:12.89,Default,,0000,0000,0000,,{\i1}It's a no-where-to-run solitary \Nisland far off in the sea!
+Dialogue: 0,0:23:12.91,0:23:16.07,Italics,,0000,0000,0000,,Luffy and the others are \Nbesieged by the Navy!{\i0}
+Dialogue: 0,0:23:16.09,0:23:18.46,Italics,,0000,0000,0000,,{\i1}Grount, Bonham and Zappa raise \Ntheir fighting spirit against
+Dialogue: 0,0:23:18.48,0:23:20.96,Italics,,0000,0000,0000,,the man worth 500 million - Luffy,{\i0}
+Dialogue: 0,0:23:20.98,0:23:22.75,Italics,,0000,0000,0000,,{\i1}and their ultimate fighting techniques
+Dialogue: 0,0:23:22.77,0:23:25.83,Italics,,0000,0000,0000,,blast leads them to a battle \Nroyal against the Straw Hats!{\i0}
+Dialogue: 0,0:23:25.85,0:23:27.29,Default,,0000,0000,0000,,On the next episode of One Piece!
+Dialogue: 0,0:23:27.31,0:23:30.44,Default,,0000,0000,0000,,"The Implacable Three! A Big \NChase After the Straw Hats!"
+Dialogue: 0,0:23:30.46,0:23:38.46,Default,,0000,0000,0000,,I'm gonna be the King of the Pirates!

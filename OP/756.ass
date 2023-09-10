@@ -1,0 +1,376 @@
+﻿[Script Info]
+Title: English (US)
+Original Script: ToeiAnimation  [http://www.crunchyroll.com/user/ToeiAnimation]
+Original Translation: 
+Original Editing: 
+Original Timing: 
+Synch Point: 
+Script Updated By: 
+Update Details: 
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 640
+PlayResY: 360
+Timer: 0.0000
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name,Fontname,Fontsize,PrimaryColour,SecondaryColour,OutlineColour,BackColour,Bold,Italic,Underline,Strikeout,ScaleX,ScaleY,Spacing,Angle,BorderStyle,Outline,Shadow,Alignment,MarginL,MarginR,MarginV,Encoding
+Style: Default,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,2,0020,0020,0022,0
+Style: B1,Arial,32,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,2,0070,0070,0030,0
+Style: OS,Arial,18,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,8,0001,0001,0015,0
+Style: Italics,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,-1,0,0,100,100,0,0,1,2,1,2,0020,0020,0022,0
+Style: Ep Title,Arial,18,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,3,0170,0070,0020,0
+Style: Copy of Ep Title,Arial,18,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,3,0070,0226,0065,0
+Style: On Top,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,8,0020,0020,0022,0
+Style: Copy of OS,Arial,18,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,9,0020,0020,0020,0
+Style: DefaultLow,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,2,0020,0020,0010,0
+Style: onscreensigns,Arial,18,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,3,0400,0040,0020,0
+Style: onscreensign2,Arial,18,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,1,0030,0040,0040,0
+Style: name right,Arial,18,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,9,0030,0040,0040,0
+Style: name left,Arial,18,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,7,0030,0040,0040,0
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:01.80,0:00:01.78,OS,,0000,0000,0000,,{\i1}kono sekai no hate nante \Nkono me de mita wake janai{\i0}
+Dialogue: 0,0:00:01.80,0:00:07.71,Default,,0000,0000,0000,,{\i1}I've never seen the end of \Nthe world with my own eyes{\i0}
+Dialogue: 0,0:00:07.73,0:00:07.71,OS,,0000,0000,0000,,{\i1}dakara tabidatsun da kimi to, we can!{\i0}
+Dialogue: 0,0:00:07.73,0:00:15.73,Default,,0000,0000,0000,,{\i1}That's why I start a \Njourney with you, we can!{\i0}
+Dialogue: 0,0:00:24.91,0:00:24.89,OS,,0000,0000,0000,,{\i1}umi kara umi wo mata ni kakete{\i0}
+Dialogue: 0,0:00:24.91,0:00:30.06,Default,,0000,0000,0000,,{\i1}Traveling from sea to sea{\i0}
+Dialogue: 0,0:00:30.08,0:00:30.06,OS,,0000,0000,0000,,{\i1}hitotsunagi no takara sagashi ni{\i0}
+Dialogue: 0,0:00:30.08,0:00:35.61,Default,,0000,0000,0000,,{\i1}In search of the one-piece treasure{\i0}
+Dialogue: 0,0:00:35.63,0:00:35.61,OS,,0000,0000,0000,,{\i1}sonna no yumemonogatari dato{\i0}
+Dialogue: 0,0:00:35.63,0:00:40.66,Default,,0000,0000,0000,,{\i1}Despite the fact that \Neveryone laughs and says{\i0}
+Dialogue: 0,0:00:40.68,0:00:40.66,OS,,0000,0000,0000,,{\i1}daremo ga waratteiru kedo{\i0}
+Dialogue: 0,0:00:40.68,0:00:43.70,Default,,0000,0000,0000,,{\i1}that it's just a fantasy{\i0}
+Dialogue: 0,0:00:43.72,0:00:43.70,OS,,0000,0000,0000,,{\i1}mune no takaburi dake ga rashinban{\i0}
+Dialogue: 0,0:00:43.72,0:00:51.33,Default,,0000,0000,0000,,{\i1}A rush of excitement is our only compass{\i0}
+Dialogue: 0,0:00:51.35,0:00:51.33,OS,,0000,0000,0000,,{\i1}shittakaburi shitero yo{\i0}
+Dialogue: 0,0:00:51.35,0:00:55.04,Default,,0000,0000,0000,,{\i1}Just keep pretending you know everything{\i0}
+Dialogue: 0,0:00:55.06,0:00:55.04,OS,,0000,0000,0000,,{\i1}kyoukasho nante sa guidebook{\i0}
+Dialogue: 0,0:00:55.06,0:01:02.01,Default,,0000,0000,0000,,{\i1}Textbooks are just guidebooks{\i0}
+Dialogue: 0,0:01:02.03,0:01:02.01,OS,,0000,0000,0000,,{\i1}ame mo namida mo itsuka wa yamu{\i0}
+Dialogue: 0,0:01:02.03,0:01:04.68,Default,,0000,0000,0000,,{\i1}Both the rain and our \Ntears will eventually stop{\i0}
+Dialogue: 0,0:01:04.70,0:01:04.68,OS,,0000,0000,0000,,{\i1}kao wo agero ikari wo agero{\i0}
+Dialogue: 0,0:01:04.70,0:01:07.68,Default,,0000,0000,0000,,{\i1}Hold up your head, pull up anchor{\i0}
+Dialogue: 0,0:01:07.70,0:01:07.68,OS,,0000,0000,0000,,{\i1}kokoro no arashi ga sugita nara{\i0}
+Dialogue: 0,0:01:07.70,0:01:10.39,Default,,0000,0000,0000,,{\i1}Once the storm in your heart subsides{\i0}
+Dialogue: 0,0:01:10.41,0:01:10.39,OS,,0000,0000,0000,,{\i1}kajitore saa kachitore{\i0}
+Dialogue: 0,0:01:10.41,0:01:12.94,Default,,0000,0000,0000,,{\i1}Take the helm, now, win a victory{\i0}
+Dialogue: 0,0:01:12.96,0:01:12.94,OS,,0000,0000,0000,,{\i1}ashita no kaze ga fuku koro niwa{\i0}
+Dialogue: 0,0:01:12.96,0:01:15.65,Default,,0000,0000,0000,,{\i1}By the time tomorrow's wind blows{\i0}
+Dialogue: 0,0:01:15.67,0:01:15.65,OS,,0000,0000,0000,,{\i1}harebare ho wo hare mune wo hare{\i0}
+Dialogue: 0,0:01:15.67,0:01:18.40,Default,,0000,0000,0000,,{\i1}Get refreshed, spread sail, chest out{\i0}
+Dialogue: 0,0:01:18.42,0:01:18.40,OS,,0000,0000,0000,,{\i1}dareka ni aitakunarun da{\i0}
+Dialogue: 0,0:01:18.42,0:01:20.74,Default,,0000,0000,0000,,{\i1}It makes me long to see someone{\i0}
+Dialogue: 0,0:01:20.76,0:01:20.74,OS,,0000,0000,0000,,{\i1}souzou tsukanai koto bakari daro{\i0}
+Dialogue: 0,0:01:20.76,0:01:28.66,Default,,0000,0000,0000,,{\i1}There are tons of unimaginable truth{\i0}
+Dialogue: 0,0:01:28.68,0:01:28.66,OS,,0000,0000,0000,,{\i1}miteminufuri suruna yo{\i0}
+Dialogue: 0,0:01:28.68,0:01:32.29,Default,,0000,0000,0000,,{\i1}Don't turn a blind eye{\i0}
+Dialogue: 0,0:01:32.31,0:01:32.29,OS,,0000,0000,0000,,{\i1}joushiki nante sa tasuuketsu{\i0}
+Dialogue: 0,0:01:32.31,0:01:40.31,Default,,0000,0000,0000,,{\i1}Common sense is just the mind of the masses{\i0}
+Dialogue: 0,0:01:40.69,0:01:40.67,OS,,0000,0000,0000,,{\i1}kono sekai no hate nante \Nkono me de mita wake janai{\i0}
+Dialogue: 0,0:01:40.69,0:01:46.35,Default,,0000,0000,0000,,{\i1}I've never seen the end of \Nthe world with my own eyes{\i0}
+Dialogue: 0,0:01:46.37,0:01:46.35,OS,,0000,0000,0000,,{\i1}dakara ikou ze amano jack senchou{\i0}
+Dialogue: 0,0:01:46.37,0:01:51.27,Default,,0000,0000,0000,,{\i1}That's why we've got to go, \NCaptain Live-By-My-Own-Rules{\i0}
+Dialogue: 0,0:01:51.29,0:01:51.27,OS,,0000,0000,0000,,{\i1}dekiyashinai koto tte nani? \Nmada nani mo hajimatte nai{\i0}
+Dialogue: 0,0:01:51.29,0:01:57.06,Default,,0000,0000,0000,,{\i1}Who says it's impossible? \NNothing has started yet{\i0}
+Dialogue: 0,0:01:57.08,0:01:57.06,OS,,0000,0000,0000,,{\i1}subete shiritain da ima, yes, we can!{\i0}
+Dialogue: 0,0:01:57.08,0:02:02.03,Default,,0000,0000,0000,,{\i1}I want to know everything now, yes, we can!{\i0}
+Dialogue: 0,0:02:02.05,0:02:02.03,OS,,0000,0000,0000,,{\i1}Yes, we can! You can!{\i0}
+Dialogue: 0,0:02:02.05,0:02:05.32,Default,,0000,0000,0000,,{\i1}Yes, we can! You can!{\i0}
+Dialogue: 0,0:02:05.34,0:02:05.32,OS,,0000,0000,0000,,{\i1}kono shunkan{\i0}
+Dialogue: 0,0:02:05.34,0:02:07.99,Default,,0000,0000,0000,,{\i1}This moment{\i0}
+Dialogue: 0,0:02:08.01,0:02:07.99,OS,,0000,0000,0000,,{\i1}We can! I can!{\i0}
+Dialogue: 0,0:02:08.01,0:02:10.70,Default,,0000,0000,0000,,{\i1}We can! I can!{\i0}
+Dialogue: 0,0:02:10.72,0:02:10.70,Default,,0000,0000,0000,,{\i1}This great feeling{\i0}
+Dialogue: 0,0:02:10.72,0:02:13.41,OS,,0000,0000,0000,,{\i1}kono kaikan{\i0}
+Dialogue: 0,0:02:13.43,0:02:13.41,Default,,0000,0000,0000,,{\i1}Now, now, yes, we can!{\i0}
+Dialogue: 0,0:02:13.43,0:02:21.43,OS,,0000,0000,0000,,{\i1}ima ima, yes, we can!{\i0}
+Dialogue: 0,0:02:26.66,0:02:26.64,Default,,0000,0000,0000,,{\i1}Yes, we can!{\i0}
+Dialogue: 0,0:02:26.66,0:02:32.77,OS,,0000,0000,0000,,{\i1}Yes, we can!{\i0}
+Dialogue: 0,0:02:32.79,0:02:36.31,Default,,0000,0000,0000,,{\i1}The goal is the last island - Raftel{\i0}
+Dialogue: 0,0:02:36.33,0:02:41.69,Default,,0000,0000,0000,,{\i1}and the Great Treasure of One Piece!{\i0}
+Dialogue: 0,0:02:41.71,0:02:45.15,Default,,0000,0000,0000,,{\i1}However, no one has ever reached\Nthe legendary island...{\i0}
+Dialogue: 0,0:02:45.17,0:02:49.91,Default,,0000,0000,0000,,{\i1}...except for Gold Roger, \NKing of the Pirates.{\i0}
+Dialogue: 0,0:02:49.93,0:02:52.33,Default,,0000,0000,0000,,{\i1}It is the Great Pirate Era.{\i0}
+Dialogue: 0,0:02:52.35,0:02:56.75,Default,,0000,0000,0000,,{\i1}While the monsters of the New World\Nfight each other fiercely,{\i0}
+Dialogue: 0,0:02:56.77,0:03:02.55,Default,,0000,0000,0000,,{\i1}the Straw Hat Pirates are\Nin the center of the storm!{\i0}
+Dialogue: 0,0:03:02.57,0:03:05.68,Default,,0000,0000,0000,,{\i1}Their captain is a rubber man\Nwho ate the Gum-Gum Fruit.{\i0}
+Dialogue: 0,0:03:05.70,0:03:08.43,Default,,0000,0000,0000,,{\i1}Monkey D. Luffy!{\i0}
+Dialogue: 0,0:03:08.45,0:03:09.64,Default,,0000,0000,0000,,{\i1}Zoro!{\i0}
+Dialogue: 0,0:03:09.66,0:03:10.85,Default,,0000,0000,0000,,{\i1}Nami!{\i0}
+Dialogue: 0,0:03:10.87,0:03:12.06,Default,,0000,0000,0000,,{\i1}Usopp!{\i0}
+Dialogue: 0,0:03:12.08,0:03:13.39,Default,,0000,0000,0000,,{\i1}Sanji!{\i0}
+Dialogue: 0,0:03:13.41,0:03:14.64,Default,,0000,0000,0000,,{\i1}Chopper!{\i0}
+Dialogue: 0,0:03:14.66,0:03:15.77,Default,,0000,0000,0000,,{\i1}Robin!{\i0}
+Dialogue: 0,0:03:15.79,0:03:17.06,Default,,0000,0000,0000,,{\i1}Franky!{\i0}
+Dialogue: 0,0:03:17.08,0:03:18.52,Default,,0000,0000,0000,,{\i1}Brook!{\i0}
+Dialogue: 0,0:03:18.54,0:03:21.77,Italics,,0000,0000,0000,,{\i1}This tight-knit group of nine pirates...{\i0}
+Dialogue: 0,0:03:21.79,0:03:23.72,Italics,,0000,0000,0000,,{\i1}...are making their way through the vast sea
+Dialogue: 0,0:03:23.74,0:03:26.86,Italics,,0000,0000,0000,,with their sights set on the One Piece!{\i0}
+Dialogue: 0,0:03:26.88,0:03:34.88,Italics,,0000,0000,0000,,I'm gonna become the King of the Pirates!
+Dialogue: 0,0:03:35.10,0:03:36.55,Italics,,0000,0000,0000,,{\i1}Luffy and the others arrived at Zou,
+Dialogue: 0,0:03:36.57,0:03:40.08,Italics,,0000,0000,0000,,an island where their new \Nadventure will take place.{\i0}
+Dialogue: 0,0:03:40.10,0:03:44.05,Default,,0000,0000,0000,,{\i1}This enormous island,\Nwhich is as high as the clouds, is,{\i0}
+Dialogue: 0,0:03:44.07,0:03:49.43,Default,,0000,0000,0000,,{\i1}as its name suggests,\Na zou (elephant) that has been alive for a millennium.{\i0}
+Dialogue: 0,0:03:49.45,0:03:53.35,Default,,0000,0000,0000,,{\i1}Luffy and the rest met\NWanda and Carrot from the Mink Tribe{\i0}
+Dialogue: 0,0:03:53.37,0:03:57.64,Default,,0000,0000,0000,,{\i1}and were guided to the place\Ncalled the Rightflank Fortress.{\i0}
+Dialogue: 0,0:03:57.66,0:04:02.36,Default,,0000,0000,0000,,I'm sorry!
+Dialogue: 0,0:04:02.38,0:04:08.24,Default,,0000,0000,0000,,Sanji-{\i1}kun{\i0} is...
+Dialogue: 0,0:04:08.26,0:04:16.26,Default,,0000,0000,0000,,{\i1}"Start to Counterattack!\NGreat Moves by the Twirly Hat Crew!"{\i0}
+Dialogue: 0,0:04:28.93,0:04:31.34,Default,,0000,0000,0000,,That was horrible...
+Dialogue: 0,0:04:31.36,0:04:35.21,Default,,0000,0000,0000,,--Are you all right?\N--I can't see anything!
+Dialogue: 0,0:04:35.23,0:04:37.60,Default,,0000,0000,0000,,Get off of me, monkey boy!
+Dialogue: 0,0:04:37.62,0:04:43.06,Default,,0000,0000,0000,,Where are we now?
+Dialogue: 0,0:04:43.08,0:04:45.61,Default,,0000,0000,0000,,Th-The Thousand Sunny!
+Dialogue: 0,0:04:45.63,0:04:50.24,Default,,0000,0000,0000,,I can't believe this! We got carried \Nall the way back to where we started?!
+Dialogue: 0,0:04:50.26,0:04:55.58,Default,,0000,0000,0000,,All our hard work...
+Dialogue: 0,0:04:55.60,0:05:01.50,Default,,0000,0000,0000,,Anyway, we need Nekozaemon\Nto make one more effort.
+Dialogue: 0,0:05:01.52,0:05:06.96,Default,,0000,0000,0000,,But he got soaking wet...
+Dialogue: 0,0:05:06.98,0:05:14.98,Default,,0000,0000,0000,,Ink?
+Dialogue: 0,0:05:34.68,0:05:42.68,Default,,0000,0000,0000,,I-It's a cat monster!
+Dialogue: 0,0:05:43.58,0:05:45.88,Default,,0000,0000,0000,,Excuse my tongue!
+Dialogue: 0,0:05:45.90,0:05:49.23,Default,,0000,0000,0000,,Nekozaemon! Can you still do it?
+Dialogue: 0,0:05:49.25,0:05:55.42,Default,,0000,0000,0000,,Go for it!
+Dialogue: 0,0:05:55.44,0:06:03.44,Default,,0000,0000,0000,,Stop, cat monster! Stop!
+Dialogue: 0,0:06:06.48,0:06:11.99,Default,,0000,0000,0000,,{\i1}Nekozaemon can't go on any more.{\i0}
+Dialogue: 0,0:06:12.01,0:06:20.01,Default,,0000,0000,0000,,{\i1}But I feel bad and I can't \Nbring myself to say it to him.{\i0}
+Dialogue: 0,0:06:21.60,0:06:25.30,Default,,0000,0000,0000,,Oh, the sun is setting!\NWe can't go any farther today!
+Dialogue: 0,0:06:25.32,0:06:33.32,Default,,0000,0000,0000,,Mm-hm! Let's go back to the ship\Nand climb again tomorrow!
+Dialogue: 0,0:06:49.52,0:06:57.52,Default,,0000,0000,0000,,Welcome!
+Dialogue: 0,0:06:58.43,0:07:02.03,Default,,0000,0000,0000,,I like how you drink!\NHere, have another cup!
+Dialogue: 0,0:07:02.05,0:07:03.87,Default,,0000,0000,0000,,Go ahead and drink!
+Dialogue: 0,0:07:03.89,0:07:09.31,Default,,0000,0000,0000,,It's our special "Monkey Wine."\NIt's made from the abundance of fruits in the forest.
+Dialogue: 0,0:07:09.33,0:07:17.33,Default,,0000,0000,0000,,Yeah! It tastes good!
+Dialogue: 0,0:07:18.03,0:07:20.95,Default,,0000,0000,0000,,Go away, you fools!\NDon't press yourselves against me!
+Dialogue: 0,0:07:20.97,0:07:23.36,Default,,0000,0000,0000,,What?! Let's play!
+Dialogue: 0,0:07:23.38,0:07:25.08,Default,,0000,0000,0000,,Let me give you love bites!
+Dialogue: 0,0:07:25.10,0:07:26.91,Default,,0000,0000,0000,,Let us {\i1}garchu{\i0}!
+Dialogue: 0,0:07:26.93,0:07:28.35,Default,,0000,0000,0000,,Let me lick you!
+Dialogue: 0,0:07:28.37,0:07:30.38,Default,,0000,0000,0000,,Shut up! Don't be such a baby!
+Dialogue: 0,0:07:30.40,0:07:34.64,Default,,0000,0000,0000,,Whoa-whoa, don't get mad, Zoro!
+Dialogue: 0,0:07:34.66,0:07:38.18,Default,,0000,0000,0000,,Look how well they're treating us!\NYou're so rude!
+Dialogue: 0,0:07:38.20,0:07:40.07,Default,,0000,0000,0000,,Let's play!
+Dialogue: 0,0:07:40.09,0:07:41.96,Default,,0000,0000,0000,,I can't drink like this!
+Dialogue: 0,0:07:41.98,0:07:47.96,Default,,0000,0000,0000,,Please overlook these cultural differences.\NMinkship is a friendly gesture to us.
+Dialogue: 0,0:07:47.98,0:07:50.40,Default,,0000,0000,0000,,So you call it minkship.
+Dialogue: 0,0:07:50.42,0:07:58.42,Default,,0000,0000,0000,,Rub-rub, fluff-fluff... It feels good, right?
+Dialogue: 0,0:08:01.37,0:08:05.70,Default,,0000,0000,0000,,You don't have to hold back!\NRub yourself against me as much as you want!
+Dialogue: 0,0:08:05.72,0:08:08.66,Default,,0000,0000,0000,,--Don't touch me!\N--Hey, you jerk! Let them have minkship!
+Dialogue: 0,0:08:08.68,0:08:15.57,Default,,0000,0000,0000,,Buzz off! I'm not playing with you!
+Dialogue: 0,0:08:15.59,0:08:18.68,Default,,0000,0000,0000,,It's delicious! What kind of meat is this?!
+Dialogue: 0,0:08:18.70,0:08:23.34,Default,,0000,0000,0000,,That's hippo.\NAnd these are lizard, alligator, and frog.
+Dialogue: 0,0:08:23.36,0:08:26.08,Default,,0000,0000,0000,,We don't eat animals with fur.
+Dialogue: 0,0:08:26.10,0:08:29.88,Default,,0000,0000,0000,,But why do you welcome us like this?
+Dialogue: 0,0:08:29.90,0:08:33.15,Default,,0000,0000,0000,,Because you-{\i1}teia{\i0} guys are \Nour saviors' friends!
+Dialogue: 0,0:08:33.17,0:08:36.63,Default,,0000,0000,0000,,Saviors... What happened exactly?
+Dialogue: 0,0:08:36.65,0:08:44.65,Default,,0000,0000,0000,,N-Nooooo!!
+Dialogue: 0,0:08:58.55,0:09:01.53,Default,,0000,0000,0000,,E-Everybody!
+Dialogue: 0,0:09:01.55,0:09:03.87,Default,,0000,0000,0000,,Brook!
+Dialogue: 0,0:09:03.89,0:09:07.83,Default,,0000,0000,0000,,What a relief! I read in the newspaper!
+Dialogue: 0,0:09:07.85,0:09:10.35,Default,,0000,0000,0000,,I'm glad that you're all okay!
+Dialogue: 0,0:09:10.37,0:09:11.76,Default,,0000,0000,0000,,Luffy-{\i1}san{\i0}!
+Dialogue: 0,0:09:11.78,0:09:14.19,Default,,0000,0000,0000,,What happened to you?!
+Dialogue: 0,0:09:14.21,0:09:17.19,Default,,0000,0000,0000,,I'm sorry about Sanji-{\i1}san{\i0}!
+Dialogue: 0,0:09:17.21,0:09:19.64,Default,,0000,0000,0000,,I'm too ashamed to face you!
+Dialogue: 0,0:09:19.66,0:09:22.12,Default,,0000,0000,0000,,But I don't have a facial surface anyway.
+Dialogue: 0,0:09:22.14,0:09:27.68,Default,,0000,0000,0000,,Oh?! Hey, aren't you with Momo?!
+Dialogue: 0,0:09:27.70,0:09:31.75,Default,,0000,0000,0000,,Yes, of course,\Nhe's okay but it seems like...
+Dialogue: 0,0:09:31.77,0:09:34.90,Default,,0000,0000,0000,,...he doesn't really like the Minks.
+Dialogue: 0,0:09:34.92,0:09:37.63,Default,,0000,0000,0000,,What? He doesn't like nice people like them?
+Dialogue: 0,0:09:37.65,0:09:41.36,Default,,0000,0000,0000,,No. He shuts himself in a room\Nand never comes out.
+Dialogue: 0,0:09:41.38,0:09:44.36,Default,,0000,0000,0000,,But that's good for us.
+Dialogue: 0,0:09:44.38,0:09:47.49,Default,,0000,0000,0000,,I don't know what you're \Ntalking about at all.
+Dialogue: 0,0:09:47.51,0:09:52.75,Default,,0000,0000,0000,,I thought so.\NLuffy-{\i1}san{\i0}, could I have a word with you?
+Dialogue: 0,0:09:52.77,0:09:55.63,Default,,0000,0000,0000,,Come this way.
+Dialogue: 0,0:09:55.65,0:09:59.84,Default,,0000,0000,0000,,All of you newcomers to Zou, come here!
+Dialogue: 0,0:09:59.86,0:10:04.74,Default,,0000,0000,0000,,You too, Zoro-{\i1}san{\i0}!
+Dialogue: 0,0:10:04.76,0:10:07.37,Default,,0000,0000,0000,,Where is Kin'emon-{\i1}san{\i0} now?
+Dialogue: 0,0:10:07.39,0:10:09.85,Default,,0000,0000,0000,,He should be arriving soon.
+Dialogue: 0,0:10:09.87,0:10:13.19,Default,,0000,0000,0000,,I see. That's perfect.
+Dialogue: 0,0:10:13.21,0:10:17.19,Default,,0000,0000,0000,,I actually wanna ask you a favor...
+Dialogue: 0,0:10:17.21,0:10:19.16,Default,,0000,0000,0000,,Just say it.
+Dialogue: 0,0:10:19.18,0:10:21.21,Default,,0000,0000,0000,,Come closer.
+Dialogue: 0,0:10:21.23,0:10:28.14,Default,,0000,0000,0000,,I want you to try not to use words like\N"samurai" or "Land of Wano" in this country.
+Dialogue: 0,0:10:28.16,0:10:31.18,Default,,0000,0000,0000,,Don't use them if you can.
+Dialogue: 0,0:10:31.20,0:10:35.79,Default,,0000,0000,0000,,If you use those words,\Nyou might offend many people
+Dialogue: 0,0:10:35.81,0:10:39.23,Default,,0000,0000,0000,,and anger them or make them hate you.
+Dialogue: 0,0:10:39.25,0:10:40.94,Default,,0000,0000,0000,,Offend?
+Dialogue: 0,0:10:40.96,0:10:42.84,Default,,0000,0000,0000,,Anger? Hate?
+Dialogue: 0,0:10:42.86,0:10:44.51,Default,,0000,0000,0000,,Why "samurai"...
+Dialogue: 0,0:10:44.53,0:10:52.53,Default,,0000,0000,0000,,Well, this country was actually...
+Dialogue: 0,0:10:55.67,0:11:00.78,Default,,0000,0000,0000,,I found you!
+Dialogue: 0,0:11:00.80,0:11:03.08,Default,,0000,0000,0000,,Baron Corpse!
+Dialogue: 0,0:11:03.10,0:11:05.55,Default,,0000,0000,0000,,Here they come!
+Dialogue: 0,0:11:05.57,0:11:08.50,Default,,0000,0000,0000,,"Corpse"?!
+Dialogue: 0,0:11:08.52,0:11:10.15,Default,,0000,0000,0000,,You'll reach the Rightflank Forest!
+Dialogue: 0,0:11:10.17,0:11:12.51,Default,,0000,0000,0000,,And you'll find the corpse \Nof your-{\i1}teia{\i0} friend there!
+Dialogue: 0,0:11:12.53,0:11:15.67,Default,,0000,0000,0000,,C-Corpse?!
+Dialogue: 0,0:11:15.69,0:11:20.78,Default,,0000,0000,0000,,--The corpse she was talking about was...\N--...Brook!
+Dialogue: 0,0:11:20.80,0:11:23.26,Default,,0000,0000,0000,,We call him so with affection.
+Dialogue: 0,0:11:23.28,0:11:25.62,Default,,0000,0000,0000,,That's very confusing.
+Dialogue: 0,0:11:25.64,0:11:30.18,Default,,0000,0000,0000,,To be honest, I was surprised...
+Dialogue: 0,0:11:30.20,0:11:38.20,Default,,0000,0000,0000,,I didn't know there was such \Na tempting race in this world!
+Dialogue: 0,0:11:39.42,0:11:42.15,Default,,0000,0000,0000,,Stop it! Help!
+Dialogue: 0,0:11:42.17,0:11:47.74,Default,,0000,0000,0000,,--We Dog Minks... h-have a thing for bones!\N--Stop chewing on me!
+Dialogue: 0,0:11:47.76,0:11:49.57,Default,,0000,0000,0000,,--He's quite popular.\N--Stop licking...
+Dialogue: 0,0:11:49.59,0:11:55.87,Default,,0000,0000,0000,,How stupid...
+Dialogue: 0,0:11:55.89,0:11:59.35,Default,,0000,0000,0000,,Luffy, what happened to Tra-guy,\Nby the way?
+Dialogue: 0,0:11:59.37,0:12:01.92,Default,,0000,0000,0000,,Oh, he went to the Bear Forest.
+Dialogue: 0,0:12:01.94,0:12:03.09,Default,,0000,0000,0000,,Bear?
+Dialogue: 0,0:12:03.11,0:12:05.70,Default,,0000,0000,0000,,Tra-guy-{\i1}kun{\i0} went to see
+Dialogue: 0,0:12:05.72,0:12:07.34,Default,,0000,0000,0000,,his friends of the Heart \NPirates including Bepo...
+Dialogue: 0,0:12:07.36,0:12:11.22,Default,,0000,0000,0000,,...in the Whale Forest.
+Dialogue: 0,0:12:11.24,0:12:15.93,Default,,0000,0000,0000,,Hey! More importantly,\Nwhat should we do about Sanji-{\i1}kun{\i0}?!
+Dialogue: 0,0:12:15.95,0:12:22.27,Default,,0000,0000,0000,,Like I said before, he left a note.\NSo don't you think it's gonna be alright?
+Dialogue: 0,0:12:22.29,0:12:24.66,Default,,0000,0000,0000,,Yeah, it's not like he was kidnapped.
+Dialogue: 0,0:12:24.68,0:12:27.97,Default,,0000,0000,0000,,I'm worried because it didn't look right!
+Dialogue: 0,0:12:27.99,0:12:32.78,Default,,0000,0000,0000,,I'm sorry! We couldn't do anything!
+Dialogue: 0,0:12:32.80,0:12:35.09,Default,,0000,0000,0000,,You don't need to cry!
+Dialogue: 0,0:12:35.11,0:12:40.67,Default,,0000,0000,0000,,Well, you know what, guys?\NFrankly, we're just confused right now.
+Dialogue: 0,0:12:40.69,0:12:44.09,Default,,0000,0000,0000,,We only have a rough idea of what's going on.
+Dialogue: 0,0:12:44.11,0:12:50.57,Default,,0000,0000,0000,,He's right! The last time we talked,\Nyou guys said you were facing Big Mom's ship!
+Dialogue: 0,0:12:50.59,0:12:52.48,Default,,0000,0000,0000,,Now we finally got to Zou and there
+Dialogue: 0,0:12:52.50,0:12:55.10,Default,,0000,0000,0000,,are those talking animals \Non the elephant's back
+Dialogue: 0,0:12:55.12,0:12:57.12,Default,,0000,0000,0000,,and the city's ruined!
+Dialogue: 0,0:12:57.14,0:13:01.94,Default,,0000,0000,0000,,We thought the Mink Tribe was our enemy\Nbut instead, they welcomed us so warmly!
+Dialogue: 0,0:13:01.96,0:13:05.19,Default,,0000,0000,0000,,They even told us we're \Ntheir saviors' friends!
+Dialogue: 0,0:13:05.21,0:13:09.28,Default,,0000,0000,0000,,Could you tell us everything in detail, Nami?
+Dialogue: 0,0:13:09.30,0:13:16.62,Default,,0000,0000,0000,,What's happened to your group\Nsince you left Dressrosa 11 days ago?
+Dialogue: 0,0:13:16.64,0:13:20.71,Default,,0000,0000,0000,,Yeah, I guess I was a little upset.
+Dialogue: 0,0:13:20.73,0:13:25.04,Default,,0000,0000,0000,,Okay, I'll tell you \Neverything as it happened.
+Dialogue: 0,0:13:25.06,0:13:29.83,Default,,0000,0000,0000,,Oh, I give up!\NDo whatever you want with me!
+Dialogue: 0,0:13:29.85,0:13:34.93,Default,,0000,0000,0000,,What we encountered that day\Noff the coast of Dressrosa was...
+Dialogue: 0,0:13:34.95,0:13:38.85,Default,,0000,0000,0000,,...the Big Mom Pirates' \Nenormous singing ship!
+Dialogue: 0,0:13:38.87,0:13:41.45,Default,,0000,0000,0000,,Singing?!
+Dialogue: 0,0:13:41.47,0:13:47.90,Default,,0000,0000,0000,,{\i1}Ship! Ship!{\i0}
+Dialogue: 0,0:13:47.92,0:13:50.07,Default,,0000,0000,0000,,Its figurehead is singing, isn't it?
+Dialogue: 0,0:13:50.09,0:13:53.53,Default,,0000,0000,0000,,{\i1}Ship! Ship!{\i0}
+Dialogue: 0,0:13:53.55,0:13:55.70,Italics,,0000,0000,0000,,{\i1}Their combatants that we could identify
+Dialogue: 0,0:13:55.72,0:13:59.32,Italics,,0000,0000,0000,,were the duo that Luffy met \Non the Fish-Man Island.{\i0}
+Dialogue: 0,0:13:59.34,0:14:02.21,DefaultLow,,0000,0000,0000,,Mama! I see Caesar! Grr!
+Dialogue: 0,0:14:02.23,0:14:05.98,On Top,,0000,0000,0000,,PEKOMS\NA COMBATANT OF THE BIG MOM PIRATES
+Dialogue: 0,0:14:06.00,0:14:09.23,Default,,0000,0000,0000,,They have him with them as we thought-{\i1}bon{\i0}!
+Dialogue: 0,0:14:09.25,0:14:11.85,On Top,,0000,0000,0000,,BARON TAMAGO\NA COMBATANT OF THE BIG MOM PIRATES
+Dialogue: 0,0:14:11.87,0:14:17.60,Default,,0000,0000,0000,,Let's sink their ship\Nand recover just Caesar-{\i1}soir{\i0}!
+Dialogue: 0,0:14:17.62,0:14:25.53,Default,,0000,0000,0000,,{\i1}And another one...{\i0}
+Dialogue: 0,0:14:25.55,0:14:32.27,Default,,0000,0000,0000,,{\i1}He's one of the Worst Generation.{\i0}
+Dialogue: 0,0:14:32.29,0:14:33.86,Default,,0000,0000,0000,,{\i1}Capone "Gang" Bege!{\i0}
+Dialogue: 0,0:14:33.88,0:14:36.48,Default,,0000,0000,0000,,{\i1}Bege?{\i0}
+Dialogue: 0,0:14:36.50,0:14:40.52,Default,,0000,0000,0000,,{\i1}Seems like they became \NBig Mom's subordinates.{\i0}
+Dialogue: 0,0:14:40.54,0:14:46.44,Default,,0000,0000,0000,,{\i1}They came for Caesar\Nbut he was more scared of them.{\i0}
+Dialogue: 0,0:14:46.46,0:14:50.32,Default,,0000,0000,0000,,{\i1}But, frankly speaking,\Nwe had no chance to get away from them.{\i0}
+Dialogue: 0,0:14:50.34,0:14:54.68,Default,,0000,0000,0000,,{\i1}And we knew they'd take us down\Nif nothing was done!{\i0}
+Dialogue: 0,0:14:54.70,0:14:58.99,Default,,0000,0000,0000,,Roger that, Captain!\NBut how about giving us permission!
+Dialogue: 0,0:14:59.01,0:15:00.27,Default,,0000,0000,0000,,Permission?
+Dialogue: 0,0:15:00.29,0:15:03.47,Default,,0000,0000,0000,,Yes. Permission to...
+Dialogue: 0,0:15:03.49,0:15:06.04,Default,,0000,0000,0000,,...launch a counterattack\Nagainst Big Mom's ship!
+Dialogue: 0,0:15:06.06,0:15:07.81,Default,,0000,0000,0000,,Yeah, you got it.
+Dialogue: 0,0:15:07.83,0:15:09.98,Default,,0000,0000,0000,,I already picked a fight with her!
+Dialogue: 0,0:15:10.00,0:15:12.98,Default,,0000,0000,0000,,All right, guys!\NWe'll be waiting for you at Zou!
+Dialogue: 0,0:15:13.00,0:15:14.82,Default,,0000,0000,0000,,All of you, be safe!
+Dialogue: 0,0:15:14.84,0:15:19.49,Default,,0000,0000,0000,,Roger that!
+Dialogue: 0,0:15:19.51,0:15:25.49,Default,,0000,0000,0000,,Alright, guys!
+Dialogue: 0,0:15:25.51,0:15:33.51,Default,,0000,0000,0000,,Prepare yourselves for the worst!
+Dialogue: 0,0:15:49.13,0:15:54.78,Default,,0000,0000,0000,,{\i1}Ship! Ship!{\i0}
+Dialogue: 0,0:15:54.80,0:15:57.37,Default,,0000,0000,0000,,Let's get out of here with Coup de Burst!
+Dialogue: 0,0:15:57.39,0:15:58.76,Default,,0000,0000,0000,,What about Gaon Cannon?!
+Dialogue: 0,0:15:58.78,0:16:04.42,Default,,0000,0000,0000,,No! We don't have enough Cola!\NI have another idea instead!
+Dialogue: 0,0:16:04.44,0:16:10.59,Default,,0000,0000,0000,,Okay? Listen carefully!
+Dialogue: 0,0:16:10.61,0:16:13.21,Default,,0000,0000,0000,,If you have an idea, just do it!
+Dialogue: 0,0:16:13.23,0:16:17.19,Default,,0000,0000,0000,,Help us if you wanna survive!
+Dialogue: 0,0:16:17.21,0:16:20.27,Default,,0000,0000,0000,,Brook! Let's fight them at the stern\Nand let them drop their guard!
+Dialogue: 0,0:16:20.29,0:16:22.18,Default,,0000,0000,0000,,Okay!
+Dialogue: 0,0:16:22.20,0:16:25.83,Default,,0000,0000,0000,,--Nami-{\i1}san{\i0}, please take the helm!\N--Got it!
+Dialogue: 0,0:16:25.85,0:16:33.85,Default,,0000,0000,0000,,What are you doing?!\NJust hit it already-{\i1}bon{\i0}!
+Dialogue: 0,0:16:37.09,0:16:45.09,Default,,0000,0000,0000,,Soul Parade!
+Dialogue: 0,0:16:45.63,0:16:48.66,Default,,0000,0000,0000,,Chopper-{\i1}san{\i0}, there they go!
+Dialogue: 0,0:16:48.68,0:16:56.68,Default,,0000,0000,0000,,Monster Point!
+Dialogue: 0,0:16:59.15,0:17:02.19,Default,,0000,0000,0000,,Cho-Cho-Cho-Cho-Cho... Chopperemon?!
+Dialogue: 0,0:17:02.21,0:17:07.59,Default,,0000,0000,0000,,Catch, Chopper!
+Dialogue: 0,0:17:07.61,0:17:13.48,Default,,0000,0000,0000,,Wh-Wh-What are you gonna do to me?!
+Dialogue: 0,0:17:13.50,0:17:17.40,Default,,0000,0000,0000,,No! Let go of me!
+Dialogue: 0,0:17:17.42,0:17:21.92,Default,,0000,0000,0000,,I'll get even with you bastard!\NHow could you use my body like a bag?!
+Dialogue: 0,0:17:21.94,0:17:27.37,Default,,0000,0000,0000,,We won't help you\Nif you don't stop resisting!
+Dialogue: 0,0:17:27.39,0:17:28.90,Default,,0000,0000,0000,,No!
+Dialogue: 0,0:17:28.92,0:17:36.76,Default,,0000,0000,0000,,All yours, Sanji!
+Dialogue: 0,0:17:36.78,0:17:40.16,Default,,0000,0000,0000,,--That's Caesar! Grr!\N--What are they doing-{\i1}bon{\i0}?!
+Dialogue: 0,0:17:40.18,0:17:44.43,Default,,0000,0000,0000,,Nice pitch, Chopper!
+Dialogue: 0,0:17:44.45,0:17:48.35,Default,,0000,0000,0000,,How can he fly?!
+Dialogue: 0,0:17:48.37,0:17:54.86,Default,,0000,0000,0000,,Poele a Frire...
+Dialogue: 0,0:17:54.88,0:18:00.90,Default,,0000,0000,0000,,...Spectre!
+Dialogue: 0,0:18:00.92,0:18:08.92,Default,,0000,0000,0000,,--Oh no! Grr!\N--Turn away-{\i1}bon{\i0}!
+Dialogue: 0,0:18:08.97,0:18:11.66,Default,,0000,0000,0000,,Ship!
+Dialogue: 0,0:18:11.68,0:18:14.98,Default,,0000,0000,0000,,The starboard side's been damaged!
+Dialogue: 0,0:18:15.00,0:18:22.88,Default,,0000,0000,0000,,Help!
+Dialogue: 0,0:18:22.90,0:18:26.21,Default,,0000,0000,0000,,Guys! They're getting away from us!
+Dialogue: 0,0:18:26.23,0:18:28.81,Default,,0000,0000,0000,,Okay! It's my turn!
+Dialogue: 0,0:18:28.83,0:18:31.12,Default,,0000,0000,0000,,Climate Baton!
+Dialogue: 0,0:18:31.14,0:18:32.39,Default,,0000,0000,0000,,Weather...
+Dialogue: 0,0:18:32.41,0:18:35.44,Default,,0000,0000,0000,,...Egg!
+Dialogue: 0,0:18:35.46,0:18:43.46,Default,,0000,0000,0000,,Come hatch, rain clouds!
+Dialogue: 0,0:18:48.69,0:18:56.69,Default,,0000,0000,0000,,Rain Tempo!
+Dialogue: 0,0:18:59.23,0:19:02.17,Default,,0000,0000,0000,,Ship?
+Dialogue: 0,0:19:02.19,0:19:05.66,Default,,0000,0000,0000,,Why did the weather change\Nin just that area-{\i1}bon{\i0}?!
+Dialogue: 0,0:19:05.68,0:19:13.68,Default,,0000,0000,0000,,We're gonna lose them! Grr!
+Dialogue: 0,0:19:18.38,0:19:24.99,Default,,0000,0000,0000,,Good job, Nami-{\i1}san{\i0}!
+Dialogue: 0,0:19:25.01,0:19:28.23,Default,,0000,0000,0000,,Only you guys could do that!
+Dialogue: 0,0:19:28.25,0:19:30.38,Default,,0000,0000,0000,,That doesn't make me blush, you idiot!
+Dialogue: 0,0:19:30.40,0:19:32.95,Default,,0000,0000,0000,,Oh, that was a white-knuckler!
+Dialogue: 0,0:19:32.97,0:19:34.75,Default,,0000,0000,0000,,That's {\i1}super{\i0}!
+Dialogue: 0,0:19:34.77,0:19:35.83,Default,,0000,0000,0000,,That's great!
+Dialogue: 0,0:19:35.85,0:19:40.29,Default,,0000,0000,0000,,Stop it!\NWell, it {\i1}was{\i0} a big deal I guess but...
+Dialogue: 0,0:19:40.31,0:19:43.92,Default,,0000,0000,0000,,And how many days did it take to Zou\Nfrom there?
+Dialogue: 0,0:19:43.94,0:19:45.93,Default,,0000,0000,0000,,We arrived here the next day.
+Dialogue: 0,0:19:45.95,0:19:49.60,Default,,0000,0000,0000,,Seems like Zou was nearby at that time.
+Dialogue: 0,0:19:49.62,0:19:52.00,Default,,0000,0000,0000,,That was 10 days ago.
+Dialogue: 0,0:19:52.02,0:19:54.30,Default,,0000,0000,0000,,As far as I could see,
+Dialogue: 0,0:19:54.32,0:19:58.44,Default,,0000,0000,0000,,the oldest sign of destruction\Nin the city at the center of Zou was...
+Dialogue: 0,0:19:58.46,0:20:02.21,Default,,0000,0000,0000,,...from a little more than two weeks ago.
+Dialogue: 0,0:20:02.23,0:20:03.85,Default,,0000,0000,0000,,That's right.
+Dialogue: 0,0:20:03.87,0:20:08.70,Default,,0000,0000,0000,,And by 10 days ago,\Nmost of the country had been destroyed.
+Dialogue: 0,0:20:08.72,0:20:13.87,Default,,0000,0000,0000,,But on that day,\NNami and the others arrived here.
+Dialogue: 0,0:20:13.89,0:20:16.73,Default,,0000,0000,0000,,That can only be described as a miracle!
+Dialogue: 0,0:20:16.75,0:20:22.00,Default,,0000,0000,0000,,If not for their courage\Nand Chopper's medical expertise,
+Dialogue: 0,0:20:22.02,0:20:30.02,Default,,0000,0000,0000,,every single person in the Mokomo Dukedom\Nwould've been helplessly killed...
+Dialogue: 0,0:20:36.87,0:20:40.37,Default,,0000,0000,0000,,I know it's just happened and it still hurts
+Dialogue: 0,0:20:40.39,0:20:43.61,Default,,0000,0000,0000,,so if you don't wanna talk \Nabout it, that's fine but...
+Dialogue: 0,0:20:43.63,0:20:45.81,Default,,0000,0000,0000,,No, I'll tell you everything.
+Dialogue: 0,0:20:45.83,0:20:48.98,Default,,0000,0000,0000,,You-{\i1}teia{\i0} people have the \Nright to know everything.
+Dialogue: 0,0:20:49.00,0:20:50.95,Default,,0000,0000,0000,,Hey!
+Dialogue: 0,0:20:50.97,0:20:57.04,Default,,0000,0000,0000,,Everybody!
+Dialogue: 0,0:20:57.06,0:21:03.70,Default,,0000,0000,0000,,D-Duke-{\i1}sama{\i0} has...
+Dialogue: 0,0:21:03.72,0:21:08.67,Default,,0000,0000,0000,,What happened?!
+Dialogue: 0,0:21:08.69,0:21:15.81,Default,,0000,0000,0000,,Duke-{\i1}sama{\i0} has woken up!
+Dialogue: 0,0:21:15.83,0:21:20.77,Default,,0000,0000,0000,,That's great!
+Dialogue: 0,0:21:20.79,0:21:24.60,Default,,0000,0000,0000,,Duke-{\i1}sama{\i0}... He's all right now...
+Dialogue: 0,0:21:24.62,0:21:28.19,Default,,0000,0000,0000,,Wanda!
+Dialogue: 0,0:21:28.21,0:21:34.75,Default,,0000,0000,0000,,I'm happy for you, Wanda!
+Dialogue: 0,0:21:34.77,0:21:37.79,Default,,0000,0000,0000,,Okay! Let's go examine his condition now!
+Dialogue: 0,0:21:37.81,0:21:39.84,Default,,0000,0000,0000,,Miyagi! Tristan!
+Dialogue: 0,0:21:39.86,0:21:42.57,Default,,0000,0000,0000,,Oh, wait for me!
+Dialogue: 0,0:21:42.59,0:21:46.93,Default,,0000,0000,0000,,Okay, okay!\NLet me {\i1}go at{\i0} it and learn from you!
+Dialogue: 0,0:21:46.95,0:21:53.68,Default,,0000,0000,0000,,Dr. Miyagi! You're hopping too much!
+Dialogue: 0,0:21:53.70,0:21:59.03,Default,,0000,0000,0000,,Wanda! Duke Dogstorm said\Nhe'd like to see the saviors!
+Dialogue: 0,0:21:59.05,0:22:01.06,Default,,0000,0000,0000,,Okay, I'll be right up!
+Dialogue: 0,0:22:01.08,0:22:03.87,Default,,0000,0000,0000,,You-{\i1}teia{\i0} guys, will you come with me?!
+Dialogue: 0,0:22:03.89,0:22:07.34,Default,,0000,0000,0000,,Yeah but who's Dogstorm?
+Dialogue: 0,0:22:07.36,0:22:10.18,Default,,0000,0000,0000,,He's the duke of the Mokomo Dukedom.
+Dialogue: 0,0:22:10.20,0:22:13.47,Default,,0000,0000,0000,,Which means he's the ruler of the country!
+Dialogue: 0,0:22:13.49,0:22:17.88,Default,,0000,0000,0000,,He'd been in a coma ever\Nsince the city was wiped out.
+Dialogue: 0,0:22:17.90,0:22:20.75,Default,,0000,0000,0000,,So has the other one.
+Dialogue: 0,0:22:20.77,0:22:22.66,Default,,0000,0000,0000,,The other one?!
+Dialogue: 0,0:22:22.68,0:22:27.23,Default,,0000,0000,0000,,Yes! This country has two rulers!
+Dialogue: 0,0:22:27.25,0:22:31.53,Default,,0000,0000,0000,,"King of the Day" - Duke Dogstorm!
+Dialogue: 0,0:22:31.55,0:22:35.96,Default,,0000,0000,0000,,"King of the Night" - Master Cat Viper!
+Dialogue: 0,0:22:35.98,0:22:43.98,Default,,0000,0000,0000,,The country of Zou has been protected\Nby those two rulers!
+Dialogue: 0,0:23:10.90,0:23:14.88,Italics,,0000,0000,0000,,{\i1}The Raid Bell suddenly rings\Nall over the peaceful Mokomo Dukedom!{\i0}
+Dialogue: 0,0:23:14.90,0:23:17.69,Italics,,0000,0000,0000,,{\i1}The earth-rumblings herald Emperor
+Dialogue: 0,0:23:17.71,0:23:20.64,Italics,,0000,0000,0000,,Kaido's right hand man,\NJack the Drought!{\i0}
+Dialogue: 0,0:23:20.66,0:23:23.18,Italics,,0000,0000,0000,,{\i1}A tragic event that happened \Nto Wanda and her people,
+Dialogue: 0,0:23:23.20,0:23:26.46,Italics,,0000,0000,0000,,and their fierce fight to protect \Nthe country are now revealed!{\i0}
+Dialogue: 0,0:23:26.48,0:23:27.81,Default,,0000,0000,0000,,On the next episode of One Piece!
+Dialogue: 0,0:23:27.83,0:23:30.84,Default,,0000,0000,0000,,\N"A Threat Descends! The Beast Pirates, Jack!"
+Dialogue: 0,0:23:30.86,0:23:38.86,Default,,0000,0000,0000,,I'm gonna be the King of the Pirates!

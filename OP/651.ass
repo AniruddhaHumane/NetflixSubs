@@ -1,0 +1,358 @@
+﻿[Script Info]
+Title: English (US)
+Original Script: ToeiAnimation  [http://www.crunchyroll.com/user/ToeiAnimation]
+Original Translation: 
+Original Editing: 
+Original Timing: 
+Synch Point: 
+Script Updated By: 
+Update Details: 
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 640
+PlayResY: 360
+Timer: 0.0000
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name,Fontname,Fontsize,PrimaryColour,SecondaryColour,OutlineColour,BackColour,Bold,Italic,Underline,Strikeout,ScaleX,ScaleY,Spacing,Angle,BorderStyle,Outline,Shadow,Alignment,MarginL,MarginR,MarginV,Encoding
+Style: B1,Arial,32,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,2,0070,0070,0030,0
+Style: OS,Arial,18,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,8,0001,0001,0015,0
+Style: Default,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,2,0020,0020,0022,0
+Style: Italics,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,-1,0,0,100,100,0,0,1,2,1,2,0020,0020,0022,0
+Style: Ep Title,Arial,18,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,3,0170,0070,0020,0
+Style: Copy of Ep Title,Arial,18,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,3,0070,0226,0065,0
+Style: On Top,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,8,0020,0020,0022,0
+Style: Copy of OS,Arial,18,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,9,0020,0020,0020,0
+Style: DefaultLow,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,2,0020,0020,0010,0
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:02.14,0:00:02.12,On Top,,0000,0000,0000,,{\i1}iku ze Shining! Running! Forever{\i0}
+Dialogue: 0,0:00:02.14,0:00:04.86,Default,,0000,0000,0000,,{\i1}Let's go, Shining! Running! Forever{\i0}
+Dialogue: 0,0:00:04.88,0:00:04.86,On Top,,0000,0000,0000,,{\i1}mae e tsukisusumuno sa{\i0}
+Dialogue: 0,0:00:04.88,0:00:07.60,Default,,0000,0000,0000,,{\i1}Keep on advancing{\i0}
+Dialogue: 0,0:00:07.62,0:00:07.60,On Top,,0000,0000,0000,,{\i1}kawaru koto no nai kizuna wa \Nkitto "yume no hate" terashidasu{\i0}
+Dialogue: 0,0:00:07.62,0:00:13.64,Default,,0000,0000,0000,,{\i1}The unchanging bond will light \Nup the "end of the dream"{\i0}
+Dialogue: 0,0:00:13.66,0:00:13.64,On Top,,0000,0000,0000,,{\i1}Wake up! Wake up! Wake \Nup! Wake up heart beat!{\i0}
+Dialogue: 0,0:00:13.66,0:00:16.31,Default,,0000,0000,0000,,{\i1}Wake up! Wake up! Wake \Nup! Wake up heart beat!{\i0}
+Dialogue: 0,0:00:16.33,0:00:16.31,On Top,,0000,0000,0000,,{\i1}We are the one! Go ahead!{\i0}
+Dialogue: 0,0:00:16.33,0:00:24.33,Default,,0000,0000,0000,,{\i1}We are the one! Go ahead!{\i0}
+Dialogue: 0,0:00:24.67,0:00:24.65,On Top,,0000,0000,0000,,{\i1}jiyuu dake ga rashinban \Nsa We are best friends{\i0}
+Dialogue: 0,0:00:24.67,0:00:29.05,Default,,0000,0000,0000,,{\i1}Freedom is our only compass, \NWe are best friends{\i0}
+Dialogue: 0,0:00:29.07,0:00:29.05,On Top,,0000,0000,0000,,{\i1}ore tachi no ruuto kore kara \Nmo ore tachi de kirihiraku ze{\i0}
+Dialogue: 0,0:00:29.07,0:00:35.56,Default,,0000,0000,0000,,{\i1}We will keep making our own route{\i0}
+Dialogue: 0,0:00:35.58,0:00:35.56,On Top,,0000,0000,0000,,{\i1}zenryoku shissou no hibi wa Go east, Go west{\i0}
+Dialogue: 0,0:00:35.58,0:00:39.96,Default,,0000,0000,0000,,{\i1}Running at full speed \Neveryday, Go east, Go west!{\i0}
+Dialogue: 0,0:00:39.98,0:00:39.96,Default,,0000,0000,0000,,{\i1}We keep finding the things we \Nwant to do and doing them all{\i0}
+Dialogue: 0,0:00:39.98,0:00:46.60,On Top,,0000,0000,0000,,{\i1}tsugitsugi mitsukaru yaritai \Nkoto subete kuria shite{\i0}
+Dialogue: 0,0:00:46.62,0:00:46.60,Default,,0000,0000,0000,,{\i1}We can't wait until the \Nmorning (I can't wait){\i0}
+Dialogue: 0,0:00:46.62,0:00:51.97,On Top,,0000,0000,0000,,{\i1}asa ga machikirenakute \Nuzukidasu (I can't wait){\i0}
+Dialogue: 0,0:00:51.99,0:00:51.97,Default,,0000,0000,0000,,{\i1}Why not drag the sun out into the sky{\i0}
+Dialogue: 0,0:00:51.99,0:00:58.45,On Top,,0000,0000,0000,,{\i1}sore nara isso taiyou \Nsora e to hikizuridashite{\i0}
+Dialogue: 0,0:00:58.47,0:00:58.45,Default,,0000,0000,0000,,{\i1}Force it and go{\i0}
+Dialogue: 0,0:00:58.47,0:01:00.72,On Top,,0000,0000,0000,,{\i1}go-in Go{\i0}
+Dialogue: 0,0:01:00.74,0:01:00.72,Default,,0000,0000,0000,,{\i1}Yes, Shining! Running! Forever{\i0}
+Dialogue: 0,0:01:00.74,0:01:03.55,On Top,,0000,0000,0000,,{\i1}sou sa Shining! Running! Forever{\i0}
+Dialogue: 0,0:01:03.57,0:01:03.55,Default,,0000,0000,0000,,{\i1}Put the pieces of our dreams together{\i0}
+Dialogue: 0,0:01:03.57,0:01:06.19,On Top,,0000,0000,0000,,{\i1}yume no kakera hitotsu ni{\i0}
+Dialogue: 0,0:01:06.21,0:01:06.19,Default,,0000,0000,0000,,{\i1}and if that makes you feel \Nsomething - that's the treasure{\i0}
+Dialogue: 0,0:01:06.21,0:01:11.73,On Top,,0000,0000,0000,,{\i1}kasaneawase gutto kitara sore ga torejaa sa{\i0}
+Dialogue: 0,0:01:11.75,0:01:11.73,Default,,0000,0000,0000,,{\i1}Let's go, Shining! Running! Forever{\i0}
+Dialogue: 0,0:01:11.75,0:01:14.46,On Top,,0000,0000,0000,,{\i1}iku ze Shining! Running! Forever{\i0}
+Dialogue: 0,0:01:14.48,0:01:14.46,Default,,0000,0000,0000,,{\i1}Keep on advancing{\i0}
+Dialogue: 0,0:01:14.48,0:01:17.13,On Top,,0000,0000,0000,,{\i1}mae e tsukisusumuno sa{\i0}
+Dialogue: 0,0:01:17.15,0:01:17.13,Default,,0000,0000,0000,,{\i1}The unchanging bond will light \Nup the "end of the dream"{\i0}
+Dialogue: 0,0:01:17.15,0:01:23.24,On Top,,0000,0000,0000,,{\i1}kawaru koto no nai kizuna wa \Nkitto "yume no hate" terashidasu{\i0}
+Dialogue: 0,0:01:23.26,0:01:23.24,Default,,0000,0000,0000,,{\i1}Wake up! Wake up! Wake \Nup! Wake up heart beat!{\i0}
+Dialogue: 0,0:01:23.26,0:01:25.91,On Top,,0000,0000,0000,,{\i1}Wake up! Wake up! Wake \Nup! Wake up heart beat!{\i0}
+Dialogue: 0,0:01:25.93,0:01:25.91,Default,,0000,0000,0000,,{\i1}We are the one! Go ahead!{\i0}
+Dialogue: 0,0:01:25.93,0:01:30.45,On Top,,0000,0000,0000,,{\i1}We are the one! Go ahead!{\i0}
+Dialogue: 0,0:01:30.47,0:01:34.25,Default,,0000,0000,0000,,Get dragged into darkness, Straw Hat!
+Dialogue: 0,0:01:34.27,0:01:36.15,Default,,0000,0000,0000,,I'll never lose!
+Dialogue: 0,0:01:36.17,0:01:38.35,Default,,0000,0000,0000,,I'm gonna find the One Piece
+Dialogue: 0,0:01:38.37,0:01:45.16,Default,,0000,0000,0000,,and become the King of the Pirates!
+Dialogue: 0,0:01:45.18,0:01:45.16,Default,,0000,0000,0000,,{\i1}Everytime we overcome something,{\i0}
+Dialogue: 0,0:01:45.18,0:01:47.46,On Top,,0000,0000,0000,,{\i1}norikoeru tabi{\i0}
+Dialogue: 0,0:01:47.48,0:01:47.46,Default,,0000,0000,0000,,{\i1}it stirs possibility (I can't stay){\i0}
+Dialogue: 0,0:01:47.48,0:01:50.63,On Top,,0000,0000,0000,,{\i1}zawameku kanousei (I can't stay){\i0}
+Dialogue: 0,0:01:50.65,0:01:50.63,Default,,0000,0000,0000,,{\i1}Tomorrow and the day after,{\i0}
+Dialogue: 0,0:01:50.65,0:01:53.04,On Top,,0000,0000,0000,,{\i1}asu mo asatte mo{\i0}
+Dialogue: 0,0:01:53.06,0:01:53.04,Default,,0000,0000,0000,,{\i1}there will be a chain of \Nburning, intense excitement!{\i0}
+Dialogue: 0,0:01:53.06,0:01:59.74,On Top,,0000,0000,0000,,{\i1}atsuku hageshii wakuwaku no rensa daze!{\i0}
+Dialogue: 0,0:01:59.76,0:01:59.74,Default,,0000,0000,0000,,{\i1}Yes, Shining! Running! Forever{\i0}
+Dialogue: 0,0:01:59.76,0:02:02.11,On Top,,0000,0000,0000,,{\i1}sou sa Shining! Running! Forever{\i0}
+Dialogue: 0,0:02:02.13,0:02:02.11,Default,,0000,0000,0000,,{\i1}Go along with your curiosity{\i0}
+Dialogue: 0,0:02:02.13,0:02:04.81,On Top,,0000,0000,0000,,{\i1}koukishin ni makasete{\i0}
+Dialogue: 0,0:02:04.83,0:02:04.81,Default,,0000,0000,0000,,{\i1}and go wherever you want to \Ngo - that's the adventure{\i0}
+Dialogue: 0,0:02:04.83,0:02:10.29,On Top,,0000,0000,0000,,{\i1}omoi no mama mezasu basho \Ne sore ga adobenchaa{\i0}
+Dialogue: 0,0:02:10.31,0:02:10.29,Default,,0000,0000,0000,,{\i1}Let's go, Shining! Running! Forever{\i0}
+Dialogue: 0,0:02:10.31,0:02:13.02,On Top,,0000,0000,0000,,{\i1}iku ze Shining! Running! Forever{\i0}
+Dialogue: 0,0:02:13.04,0:02:13.02,Default,,0000,0000,0000,,{\i1}Open up the sailing chart in your heart{\i0}
+Dialogue: 0,0:02:13.04,0:02:15.73,On Top,,0000,0000,0000,,{\i1}kokoro no chizu hirogete{\i0}
+Dialogue: 0,0:02:15.75,0:02:15.73,Default,,0000,0000,0000,,{\i1}The bond with potential power \Nwill seize the "end of the dream"{\i0}
+Dialogue: 0,0:02:15.75,0:02:21.90,On Top,,0000,0000,0000,,{\i1}chikara wo himeta kizuna wa \Nkitto "yume no hate" tsukamitoru{\i0}
+Dialogue: 0,0:02:21.92,0:02:21.90,Default,,0000,0000,0000,,{\i1}Never! Never! Never! Never Stop it!{\i0}
+Dialogue: 0,0:02:21.92,0:02:24.47,On Top,,0000,0000,0000,,{\i1}Never! Never! Never! Never Stop it!{\i0}
+Dialogue: 0,0:02:24.49,0:02:24.47,Default,,0000,0000,0000,,{\i1}We are the one! Go ahead!{\i0}
+Dialogue: 0,0:02:24.49,0:02:32.49,On Top,,0000,0000,0000,,{\i1}We are the one! Go ahead!{\i0}
+Dialogue: 0,0:02:35.26,0:02:38.71,Default,,0000,0000,0000,,{\i1}All the pirates who are \Nafter the One Piece...{\i0}
+Dialogue: 0,0:02:38.73,0:02:45.92,Default,,0000,0000,0000,,{\i1}...head for the New World,\Nthe second half of the Grand Line.{\i0}
+Dialogue: 0,0:02:45.94,0:02:49.03,Default,,0000,0000,0000,,{\i1}However, no one has ever fully explored it
+Dialogue: 0,0:02:49.05,0:02:53.51,Italics,,0000,0000,0000,,\Nexcept for Gold Roger, King of the Pirates.{\i0}
+Dialogue: 0,0:02:53.53,0:03:00.34,Default,,0000,0000,0000,,{\i1}The New World has ruined\Nmany pirates' dreams and ambitions.{\i0}
+Dialogue: 0,0:03:00.36,0:03:03.44,Default,,0000,0000,0000,,{\i1}Now, Monkey D. Luffy, a boy whose body turned
+Dialogue: 0,0:03:03.46,0:03:06.64,Italics,,0000,0000,0000,,to rubber after he ate the Gum-Gum Fruit,{\i0}
+Dialogue: 0,0:03:06.66,0:03:09.12,Default,,0000,0000,0000,,{\i1}and his friends venture into that sea.{\i0}
+Dialogue: 0,0:03:09.14,0:03:16.25,Default,,0000,0000,0000,,I'm gonna become the King of the Pirates!
+Dialogue: 0,0:03:16.27,0:03:19.39,Default,,0000,0000,0000,,{\i1}To take down one of the Four Emperors -\Nthe rulers of the New World,{\i0}
+Dialogue: 0,0:03:19.41,0:03:22.49,Default,,0000,0000,0000,,{\i1}Luffy and the others formed a \Npirate alliance with Trafalgar Law{\i0}
+Dialogue: 0,0:03:22.51,0:03:27.40,Default,,0000,0000,0000,,{\i1}and have come to Dressrosa\Nto hand Caesar over to Doflamingo.{\i0}
+Dialogue: 0,0:03:27.42,0:03:29.13,Default,,0000,0000,0000,,{\i1}When Luffy found out that the prize for
+Dialogue: 0,0:03:29.15,0:03:31.13,Italics,,0000,0000,0000,,a fighting event\Nwas the Flare-Flare Fruit,{\i0}
+Dialogue: 0,0:03:31.15,0:03:34.39,Default,,0000,0000,0000,,{\i1}he decided to enter and fight fierce battles!{\i0}
+Dialogue: 0,0:03:34.41,0:03:40.41,Default,,0000,0000,0000,,I don't want to be just protected anymore!
+Dialogue: 0,0:03:40.43,0:03:47.72,Default,,0000,0000,0000,,I want to protect Soldier-{\i1}san{\i0} this time!
+Dialogue: 0,0:03:47.74,0:03:55.74,Default,,0000,0000,0000,,{\i1}"Protect You to the End!\NRebecca and the Toy Soldier!"{\i0}
+Dialogue: 0,0:03:56.68,0:04:00.28,Default,,0000,0000,0000,,Soldier-{\i1}san{\i0}'s gonna die.
+Dialogue: 0,0:04:00.30,0:04:02.09,Default,,0000,0000,0000,,Soldier?
+Dialogue: 0,0:04:02.11,0:04:05.16,Default,,0000,0000,0000,,He's a one-legged toy soldier.
+Dialogue: 0,0:04:05.18,0:04:06.27,Default,,0000,0000,0000,,A toy?
+Dialogue: 0,0:04:06.29,0:04:08.78,Default,,0000,0000,0000,,Oh, elderly people!\N
+Dialogue: 0,0:04:08.80,0:04:11.17,Default,,0000,0000,0000,,Do you want me to carry \Nyour bag or something?
+Dialogue: 0,0:04:11.19,0:04:13.10,Default,,0000,0000,0000,,Oh?
+Dialogue: 0,0:04:13.12,0:04:15.27,Default,,0000,0000,0000,,Am I funny?
+Dialogue: 0,0:04:15.29,0:04:18.47,Default,,0000,0000,0000,,I met a guy like that\Nin front of the Colosseum.
+Dialogue: 0,0:04:18.49,0:04:21.02,Default,,0000,0000,0000,,Yeah, I guess that's him.
+Dialogue: 0,0:04:21.04,0:04:23.95,Default,,0000,0000,0000,,We're not allowed out of the Colosseum.
+Dialogue: 0,0:04:23.97,0:04:27.90,Default,,0000,0000,0000,,We can't do anything if there's \Nsomething going on out there.
+Dialogue: 0,0:04:27.92,0:04:30.63,Default,,0000,0000,0000,,You're worrying that a toy is gonna die?
+Dialogue: 0,0:04:30.65,0:04:35.33,Default,,0000,0000,0000,,A living toy seems really odd to me.
+Dialogue: 0,0:04:35.35,0:04:40.63,Default,,0000,0000,0000,,You're not from here\Nso maybe it's hard to understand.
+Dialogue: 0,0:04:40.65,0:04:43.46,Default,,0000,0000,0000,,They're the same as humans.
+Dialogue: 0,0:04:43.48,0:04:46.48,Default,,0000,0000,0000,,They are friends for the friendless.
+Dialogue: 0,0:04:46.50,0:04:49.51,Default,,0000,0000,0000,,They are siblings for those who have none.
+Dialogue: 0,0:04:49.53,0:04:52.42,Default,,0000,0000,0000,,They are lovers for the loveless.
+Dialogue: 0,0:04:52.44,0:04:57.29,Default,,0000,0000,0000,,I don't understand why they \Naren't allowed to live with us.
+Dialogue: 0,0:04:57.31,0:05:02.63,Default,,0000,0000,0000,,Since the day I lost my mother\Nwho was my only family,
+Dialogue: 0,0:05:02.65,0:05:05.95,Default,,0000,0000,0000,,Soldier-{\i1}san{\i0} raised me.
+Dialogue: 0,0:05:05.97,0:05:11.74,Default,,0000,0000,0000,,He's like a father to me.
+Dialogue: 0,0:05:11.76,0:05:15.97,Default,,0000,0000,0000,,I see. So that toy is...
+Dialogue: 0,0:05:15.99,0:05:19.81,Default,,0000,0000,0000,,Thank you for waiting!\NThe ring has been fully prepared!
+Dialogue: 0,0:05:19.83,0:05:22.35,Default,,0000,0000,0000,,Rebecca, the match is gonna start.
+Dialogue: 0,0:05:22.37,0:05:24.05,Default,,0000,0000,0000,,Uh-huh.
+Dialogue: 0,0:05:24.07,0:05:26.63,Default,,0000,0000,0000,,Hey, what are you doing, Lucy?
+Dialogue: 0,0:05:26.65,0:05:30.79,Default,,0000,0000,0000,,When we struggled earlier,\Nthe two lunch boxes fell on the floor.
+Dialogue: 0,0:05:30.81,0:05:34.49,Default,,0000,0000,0000,,Sorry! You emptied your \Nwallet to buy me these.
+Dialogue: 0,0:05:34.51,0:05:39.99,Default,,0000,0000,0000,,But they still taste good!
+Dialogue: 0,0:05:40.01,0:05:44.20,Default,,0000,0000,0000,,You don't look like a prisoner to me.
+Dialogue: 0,0:05:44.22,0:05:52.22,Default,,0000,0000,0000,,Buy me lunch again sometime!
+Dialogue: 0,0:05:58.90,0:06:00.46,Default,,0000,0000,0000,,See you at the finals.
+Dialogue: 0,0:06:00.48,0:06:01.55,Default,,0000,0000,0000,,Yeah!
+Dialogue: 0,0:06:01.57,0:06:03.59,Default,,0000,0000,0000,,Good luck!
+Dialogue: 0,0:06:03.61,0:06:07.91,Default,,0000,0000,0000,,We're gonna start the match!\NCompetitors of Block D, enter the ring!
+Dialogue: 0,0:06:07.93,0:06:11.77,Default,,0000,0000,0000,,Alright! I'm gonna win the Flare-Flare Fruit!
+Dialogue: 0,0:06:11.79,0:06:19.79,Default,,0000,0000,0000,,Say whatever you want now!
+Dialogue: 0,0:06:22.56,0:06:24.94,Default,,0000,0000,0000,,{\i1}Mother-sama!{\i0}
+Dialogue: 0,0:06:24.96,0:06:27.78,Default,,0000,0000,0000,,Mother-{\i1}sama{\i0}, I picked so many flowers!
+Dialogue: 0,0:06:27.80,0:06:29.50,Default,,0000,0000,0000,,Wow, Rebecca!
+Dialogue: 0,0:06:29.52,0:06:31.29,Default,,0000,0000,0000,,Would you like to have one?
+Dialogue: 0,0:06:31.31,0:06:33.82,Default,,0000,0000,0000,,Thank you. I would like to.
+Dialogue: 0,0:06:33.84,0:06:37.25,Default,,0000,0000,0000,,And this is from your mother to you!
+Dialogue: 0,0:06:37.27,0:06:38.44,Default,,0000,0000,0000,,Okay, let's go.
+Dialogue: 0,0:06:38.46,0:06:41.19,Default,,0000,0000,0000,,Uh-huh!
+Dialogue: 0,0:06:41.21,0:06:43.36,Default,,0000,0000,0000,,1, 2! 1, 2!
+Dialogue: 0,0:06:43.38,0:06:48.67,Default,,0000,0000,0000,,1, 2! 1, 2!
+Dialogue: 0,0:06:48.69,0:06:51.02,Default,,0000,0000,0000,,We sold all the flowers today!
+Dialogue: 0,0:06:51.04,0:06:52.26,Default,,0000,0000,0000,,Yes, we did.
+Dialogue: 0,0:06:52.28,0:06:58.91,Default,,0000,0000,0000,,Maybe people bought them\Nbecause you're so cute!
+Dialogue: 0,0:06:58.93,0:07:00.48,Default,,0000,0000,0000,,Let's eat!
+Dialogue: 0,0:07:00.50,0:07:03.54,Default,,0000,0000,0000,,Go ahead. Dig in.
+Dialogue: 0,0:07:03.56,0:07:05.89,Default,,0000,0000,0000,,You must be tired\Nfrom walking all over the town.
+Dialogue: 0,0:07:05.91,0:07:09.62,Default,,0000,0000,0000,,Yeah, I'm so hungry!\NMy stomach was growling!
+Dialogue: 0,0:07:09.64,0:07:11.92,Default,,0000,0000,0000,,Oh no!
+Dialogue: 0,0:07:11.94,0:07:19.94,Default,,0000,0000,0000,,--It's yummy!\N--Yeah!
+Dialogue: 0,0:07:22.95,0:07:25.26,Default,,0000,0000,0000,,The King Riku Army is setting \Nthe village on fire!
+Dialogue: 0,0:07:25.28,0:07:27.00,Default,,0000,0000,0000,,Please stop!
+Dialogue: 0,0:07:27.02,0:07:35.02,Default,,0000,0000,0000,,Why is the king doing this?!
+Dialogue: 0,0:07:37.19,0:07:41.94,Default,,0000,0000,0000,,The palace is on fire!
+Dialogue: 0,0:07:41.96,0:07:49.63,Default,,0000,0000,0000,,What's going on in this country?
+Dialogue: 0,0:07:49.65,0:07:54.26,Default,,0000,0000,0000,,Go! Don't let them get away!
+Dialogue: 0,0:07:54.28,0:08:02.28,Default,,0000,0000,0000,,Run, Lady Scarlet!
+Dialogue: 0,0:08:13.70,0:08:15.92,Default,,0000,0000,0000,,--Who are you, shorty!\N--Outta our way!
+Dialogue: 0,0:08:15.94,0:08:17.44,Default,,0000,0000,0000,,Run!
+Dialogue: 0,0:08:17.46,0:08:25.46,Default,,0000,0000,0000,,As far as you can!
+Dialogue: 0,0:08:35.39,0:08:38.60,Default,,0000,0000,0000,,Mother-{\i1}sama{\i0}, I'm hungry.
+Dialogue: 0,0:08:38.62,0:08:40.10,Default,,0000,0000,0000,,I know.
+Dialogue: 0,0:08:40.12,0:08:48.12,Default,,0000,0000,0000,,We haven't eaten anything\Nfor two days.
+Dialogue: 0,0:08:49.87,0:08:51.30,Default,,0000,0000,0000,,Rebecca,
+Dialogue: 0,0:08:51.32,0:08:53.73,Default,,0000,0000,0000,,do you think you can stay \Nhere alone for a while?
+Dialogue: 0,0:08:53.75,0:08:57.53,Default,,0000,0000,0000,,Promise me to stay here, no matter what.
+Dialogue: 0,0:08:57.55,0:09:00.26,Default,,0000,0000,0000,,I'm gonna go buy something to eat.
+Dialogue: 0,0:09:00.28,0:09:08.28,Default,,0000,0000,0000,,Uh-huh!
+Dialogue: 0,0:09:24.76,0:09:32.76,Default,,0000,0000,0000,,Mother-{\i1}sama{\i0}!
+Dialogue: 0,0:09:36.99,0:09:42.34,Default,,0000,0000,0000,,I... I couldn't protect her!
+Dialogue: 0,0:09:42.36,0:09:44.39,Default,,0000,0000,0000,,I'm sorry!\N
+Dialogue: 0,0:09:44.41,0:09:51.27,Default,,0000,0000,0000,,I couldn't protect your mother!
+Dialogue: 0,0:09:51.29,0:09:53.71,Default,,0000,0000,0000,,She told me to give you these.
+Dialogue: 0,0:09:53.73,0:09:57.92,Default,,0000,0000,0000,,She said that you're waiting here hungry.
+Dialogue: 0,0:09:57.94,0:10:03.40,Default,,0000,0000,0000,,{\i1}Mother-sama, I'm hungry.{\i0}
+Dialogue: 0,0:10:03.42,0:10:11.42,Default,,0000,0000,0000,,{\i1}I'm gonna go buy something to eat.{\i0}
+Dialogue: 0,0:10:21.50,0:10:23.45,Default,,0000,0000,0000,,Mother-{\i1}sama{\i0}?
+Dialogue: 0,0:10:23.47,0:10:25.41,Default,,0000,0000,0000,,Mother-{\i1}sama{\i0}...
+Dialogue: 0,0:10:25.43,0:10:27.08,Default,,0000,0000,0000,,Mother-{\i1}sama{\i0}!
+Dialogue: 0,0:10:27.10,0:10:35.10,Default,,0000,0000,0000,,Mother-{\i1}sama{\i0}!!
+Dialogue: 0,0:10:38.73,0:10:40.56,Default,,0000,0000,0000,,I saw a trail of blood on the staircase!
+Dialogue: 0,0:10:40.58,0:10:47.43,Default,,0000,0000,0000,,They must be hiding somewhere!\NLet's search!
+Dialogue: 0,0:10:47.45,0:10:50.37,Default,,0000,0000,0000,,{\i1}I'm sorry.{\i0}
+Dialogue: 0,0:10:50.39,0:10:52.48,Default,,0000,0000,0000,,{\i1}I'm sorry!{\i0}
+Dialogue: 0,0:10:52.50,0:11:00.50,Default,,0000,0000,0000,,{\i1}I'm sorry!!{\i0}
+Dialogue: 0,0:11:02.24,0:11:05.19,Default,,0000,0000,0000,,You have to eat.
+Dialogue: 0,0:11:05.21,0:11:08.31,Default,,0000,0000,0000,,I-If you don't want it, I'm gonna eat it.
+Dialogue: 0,0:11:08.33,0:11:09.32,Default,,0000,0000,0000,,\NOkay?
+Dialogue: 0,0:11:09.34,0:11:17.05,Default,,0000,0000,0000,,I'm really gonna eat it!
+Dialogue: 0,0:11:17.07,0:11:23.26,Default,,0000,0000,0000,,Your mother was high-born.
+Dialogue: 0,0:11:23.28,0:11:27.91,Default,,0000,0000,0000,,Do you know we have a new king now?
+Dialogue: 0,0:11:27.93,0:11:34.65,Default,,0000,0000,0000,,The new king wants to capture\Nall the former nobility.
+Dialogue: 0,0:11:34.67,0:11:37.02,Default,,0000,0000,0000,,He even wants to capture \Nyou because you have
+Dialogue: 0,0:11:37.04,0:11:41.67,Default,,0000,0000,0000,,your mother's blood in your veins.
+Dialogue: 0,0:11:41.69,0:11:44.39,Default,,0000,0000,0000,,Although I couldn't protect your mother,
+Dialogue: 0,0:11:44.41,0:11:48.59,Default,,0000,0000,0000,,I'm gonna protect you to the end,\Nwith my life!
+Dialogue: 0,0:11:48.61,0:11:52.57,Default,,0000,0000,0000,,Until the day you are filled with happiness,
+Dialogue: 0,0:11:52.59,0:12:00.17,Default,,0000,0000,0000,,I will always be by your side!
+Dialogue: 0,0:12:00.19,0:12:06.08,Default,,0000,0000,0000,,I want my mother!
+Dialogue: 0,0:12:06.10,0:12:08.04,Default,,0000,0000,0000,,I don't like you, Soldier-{\i1}san{\i0},
+Dialogue: 0,0:12:08.06,0:12:11.75,Default,,0000,0000,0000,,\Nbecause you couldn't protect my mother!
+Dialogue: 0,0:12:11.77,0:12:14.49,Default,,0000,0000,0000,,H-How do you like this?
+Dialogue: 0,0:12:14.51,0:12:16.76,Default,,0000,0000,0000,,Or this?
+Dialogue: 0,0:12:16.78,0:12:19.98,Default,,0000,0000,0000,,Or this?
+Dialogue: 0,0:12:20.00,0:12:21.46,Default,,0000,0000,0000,,Where are you going, Rebecca?!
+Dialogue: 0,0:12:21.48,0:12:23.84,Default,,0000,0000,0000,,I'm going home!
+Dialogue: 0,0:12:23.86,0:12:24.87,Default,,0000,0000,0000,,You can't!
+Dialogue: 0,0:12:24.89,0:12:26.50,Default,,0000,0000,0000,,The new king's friends
+Dialogue: 0,0:12:26.52,0:12:29.56,Default,,0000,0000,0000,,are all over the town\Nand at your house looking for you!
+Dialogue: 0,0:12:29.58,0:12:31.41,Default,,0000,0000,0000,,Doflamingo-{\i1}sama{\i0}!
+Dialogue: 0,0:12:31.43,0:12:35.53,Default,,0000,0000,0000,,Doflamingo! Doflamingo!
+Dialogue: 0,0:12:35.55,0:12:41.95,Default,,0000,0000,0000,,The Riku family has been running \Nthis poor country for centuries!
+Dialogue: 0,0:12:41.97,0:12:44.37,Default,,0000,0000,0000,,In the end, they became shameless and robbed
+Dialogue: 0,0:12:44.39,0:12:47.96,Default,,0000,0000,0000,,\Nmoney and goods from citizens for themselves!
+Dialogue: 0,0:12:47.98,0:12:55.98,Default,,0000,0000,0000,,I'm gonna make this country wealthy, instead!
+Dialogue: 0,0:13:09.48,0:13:11.97,Default,,0000,0000,0000,,I didn't know toys are capable to work.
+Dialogue: 0,0:13:11.99,0:13:19.99,Default,,0000,0000,0000,,I need money!
+Dialogue: 0,0:13:23.35,0:13:31.35,Default,,0000,0000,0000,,Rebecca!
+Dialogue: 0,0:13:51.21,0:13:52.29,Default,,0000,0000,0000,,Idiot!
+Dialogue: 0,0:13:52.31,0:14:00.31,Default,,0000,0000,0000,,Look! I'm unbreakable!\NI'm unbreakable and strong - a super toy!
+Dialogue: 0,0:14:09.83,0:14:15.17,Default,,0000,0000,0000,,{\i1}Soldier-san is a brave man{\i0}
+Dialogue: 0,0:14:15.19,0:14:20.91,Default,,0000,0000,0000,,{\i1}He will always be by your side{\i0}
+Dialogue: 0,0:14:20.93,0:14:23.11,Default,,0000,0000,0000,,{\i1}She must be feeling cold.{\i0}
+Dialogue: 0,0:14:23.13,0:14:31.13,Default,,0000,0000,0000,,{\i1}With this tin body, I don't feel anything.{\i0}
+Dialogue: 0,0:14:34.98,0:14:36.27,Default,,0000,0000,0000,,Isn't this warmer?
+Dialogue: 0,0:14:36.29,0:14:42.51,Default,,0000,0000,0000,,Yes, it's much warmer!
+Dialogue: 0,0:14:42.53,0:14:47.01,Default,,0000,0000,0000,,{\i1}Soldier-san is a brave man{\i0}
+Dialogue: 0,0:14:47.03,0:14:55.03,Default,,0000,0000,0000,,{\i1}He will always be by your side{\i0}
+Dialogue: 0,0:15:41.65,0:15:43.04,Default,,0000,0000,0000,,How much is the rent here?
+Dialogue: 0,0:15:43.06,0:15:45.74,Default,,0000,0000,0000,,It's abandoned so you can just use it.
+Dialogue: 0,0:15:45.76,0:15:48.78,Default,,0000,0000,0000,,Since the King Riku Army ransacked this area,
+Dialogue: 0,0:15:48.80,0:15:52.14,Default,,0000,0000,0000,,\Nso many residents have moved away.
+Dialogue: 0,0:15:52.16,0:15:53.98,Default,,0000,0000,0000,,It's warm in the house!
+Dialogue: 0,0:15:54.00,0:15:55.28,Default,,0000,0000,0000,,Close the window.
+Dialogue: 0,0:15:55.30,0:15:57.25,Default,,0000,0000,0000,,No.
+Dialogue: 0,0:15:57.27,0:15:59.97,Default,,0000,0000,0000,,There are other toys.
+Dialogue: 0,0:15:59.99,0:16:02.94,Default,,0000,0000,0000,,Other children as well.\NGo out and play with them.
+Dialogue: 0,0:16:02.96,0:16:06.36,Default,,0000,0000,0000,,I guess you're gonna be safe here.
+Dialogue: 0,0:16:06.38,0:16:08.12,Default,,0000,0000,0000,,Since there are other people in the village,
+Dialogue: 0,0:16:08.14,0:16:11.00,Default,,0000,0000,0000,,\Nwe have to follow the law.
+Dialogue: 0,0:16:11.02,0:16:14.32,Default,,0000,0000,0000,,After you fall asleep at night,\NI'll go back to my toy house.
+Dialogue: 0,0:16:14.34,0:16:18.29,Default,,0000,0000,0000,,But I'll be back before you wake up.
+Dialogue: 0,0:16:18.31,0:16:20.34,Default,,0000,0000,0000,,To let you know I'm here all the time,
+Dialogue: 0,0:16:20.36,0:16:22.91,Default,,0000,0000,0000,,I'll drop a new flower \Npetal through the crack
+Dialogue: 0,0:16:22.93,0:16:30.93,Default,,0000,0000,0000,,\Nin the window every morning.
+Dialogue: 0,0:16:38.07,0:16:40.06,Default,,0000,0000,0000,,Good morning, Soldier-{\i1}san{\i0}!
+Dialogue: 0,0:16:40.08,0:16:44.15,Default,,0000,0000,0000,,Yeah, good morning!
+Dialogue: 0,0:16:44.17,0:16:49.17,Default,,0000,0000,0000,,You little monkey!
+Dialogue: 0,0:16:49.19,0:16:52.84,Default,,0000,0000,0000,,There are so many clothes that would fit you!
+Dialogue: 0,0:16:52.86,0:16:55.07,Default,,0000,0000,0000,,Cute!
+Dialogue: 0,0:16:55.09,0:16:58.77,Default,,0000,0000,0000,,Cool!
+Dialogue: 0,0:16:58.79,0:17:01.54,Default,,0000,0000,0000,,W-We're not here shopping for me.
+Dialogue: 0,0:17:01.56,0:17:03.43,Default,,0000,0000,0000,,\NGo ahead and pick out what you want.
+Dialogue: 0,0:17:03.45,0:17:11.45,Default,,0000,0000,0000,,Yes!
+Dialogue: 0,0:17:15.78,0:17:19.54,Default,,0000,0000,0000,,Ta-dah!
+Dialogue: 0,0:17:19.56,0:17:22.17,Default,,0000,0000,0000,,You're small but you really go at it!
+Dialogue: 0,0:17:22.19,0:17:28.07,Default,,0000,0000,0000,,I need money.
+Dialogue: 0,0:17:28.09,0:17:29.77,Default,,0000,0000,0000,,H-Hey!
+Dialogue: 0,0:17:29.79,0:17:33.93,Default,,0000,0000,0000,,I need money!
+Dialogue: 0,0:17:33.95,0:17:41.95,Default,,0000,0000,0000,,Happy Birthday, Rebecca!
+Dialogue: 0,0:17:43.87,0:17:51.87,Default,,0000,0000,0000,,It's yummy!
+Dialogue: 0,0:17:56.72,0:18:00.56,Default,,0000,0000,0000,,Here!
+Dialogue: 0,0:18:00.58,0:18:04.62,Default,,0000,0000,0000,,Rebecca! Try to catch this!
+Dialogue: 0,0:18:04.64,0:18:08.39,Default,,0000,0000,0000,,Ouch!
+Dialogue: 0,0:18:08.41,0:18:10.78,Default,,0000,0000,0000,,How did you like it?!
+Dialogue: 0,0:18:10.80,0:18:18.02,Default,,0000,0000,0000,,Hey!
+Dialogue: 0,0:18:18.04,0:18:19.66,Default,,0000,0000,0000,,What do you want?
+Dialogue: 0,0:18:19.68,0:18:21.03,Default,,0000,0000,0000,,Um...
+Dialogue: 0,0:18:21.05,0:18:23.14,Default,,0000,0000,0000,,Read this!
+Dialogue: 0,0:18:23.16,0:18:26.07,Default,,0000,0000,0000,,Hey!
+Dialogue: 0,0:18:26.09,0:18:28.70,Default,,0000,0000,0000,,W-Why?
+Dialogue: 0,0:18:28.72,0:18:33.17,Default,,0000,0000,0000,,Here!
+Dialogue: 0,0:18:33.19,0:18:34.04,Default,,0000,0000,0000,,Here!
+Dialogue: 0,0:18:34.06,0:18:35.15,Default,,0000,0000,0000,,Bye-bye!
+Dialogue: 0,0:18:35.17,0:18:43.17,Default,,0000,0000,0000,,Bye-bye!
+Dialogue: 0,0:18:47.27,0:18:48.74,Default,,0000,0000,0000,,She must be an orphan.
+Dialogue: 0,0:18:48.76,0:18:56.74,Default,,0000,0000,0000,,She has no family who cares about her.
+Dialogue: 0,0:18:56.76,0:19:02.50,Default,,0000,0000,0000,,Rebecca!
+Dialogue: 0,0:19:02.52,0:19:04.23,Default,,0000,0000,0000,,Rebecca!
+Dialogue: 0,0:19:04.25,0:19:05.60,Default,,0000,0000,0000,,Where are you?!
+Dialogue: 0,0:19:05.62,0:19:07.12,Default,,0000,0000,0000,,Rebecca!
+Dialogue: 0,0:19:07.14,0:19:13.88,Default,,0000,0000,0000,,Rebecca!!
+Dialogue: 0,0:19:13.90,0:19:18.09,Default,,0000,0000,0000,,She's cute. We probably can \Nsell her for a high price.
+Dialogue: 0,0:19:18.11,0:19:20.96,Default,,0000,0000,0000,,Rebecca!
+Dialogue: 0,0:19:20.98,0:19:23.62,Default,,0000,0000,0000,,Rebecca!
+Dialogue: 0,0:19:23.64,0:19:27.58,Default,,0000,0000,0000,,Hey, that strange toy is chasing us.
+Dialogue: 0,0:19:27.60,0:19:29.41,Default,,0000,0000,0000,,Rebecca!
+Dialogue: 0,0:19:29.43,0:19:32.60,Default,,0000,0000,0000,,Soldier-{\i1}san{\i0}!
+Dialogue: 0,0:19:32.62,0:19:33.76,Default,,0000,0000,0000,,Who cares.\N
+Dialogue: 0,0:19:33.78,0:19:41.78,Default,,0000,0000,0000,,He's not gonna catch up with us.
+Dialogue: 0,0:19:43.99,0:19:45.44,Default,,0000,0000,0000,,You bastard!
+Dialogue: 0,0:19:45.46,0:19:52.01,Default,,0000,0000,0000,,You're just a toy!\NDon't stand against humans!
+Dialogue: 0,0:19:52.03,0:19:56.95,Default,,0000,0000,0000,,I'm gonna destroy you!
+Dialogue: 0,0:19:56.97,0:20:01.26,Default,,0000,0000,0000,,Soldier-{\i1}san{\i0}!
+Dialogue: 0,0:20:01.28,0:20:09.28,Default,,0000,0000,0000,,Rebecca!
+Dialogue: 0,0:20:09.95,0:20:11.46,Default,,0000,0000,0000,,I'm sorry.\N
+Dialogue: 0,0:20:11.48,0:20:14.42,Default,,0000,0000,0000,,They put me on the wanted list.
+Dialogue: 0,0:20:14.44,0:20:22.44,Default,,0000,0000,0000,,I'm on it, too! Let's find a new place!
+Dialogue: 0,0:20:22.95,0:20:30.95,Default,,0000,0000,0000,,I want to live with you one day,\Nin the same house.
+Dialogue: 0,0:20:33.84,0:20:35.79,Default,,0000,0000,0000,,Let me teach you how to fight.
+Dialogue: 0,0:20:35.81,0:20:38.37,Default,,0000,0000,0000,,There's no need since I have you.
+Dialogue: 0,0:20:38.39,0:20:40.61,Default,,0000,0000,0000,,If something happens to \Nme, what are you gonna do?
+Dialogue: 0,0:20:40.63,0:20:41.82,Default,,0000,0000,0000,,\NCome on!
+Dialogue: 0,0:20:41.84,0:20:44.76,Default,,0000,0000,0000,,My mother said I shouldn't hurt anyone!
+Dialogue: 0,0:20:44.78,0:20:48.87,Default,,0000,0000,0000,,I'm gonna teach you how to not get hurt!
+Dialogue: 0,0:20:48.89,0:20:56.89,Default,,0000,0000,0000,,Come on!
+Dialogue: 0,0:20:57.03,0:20:58.97,Default,,0000,0000,0000,,I don't wanna do it anymore!
+Dialogue: 0,0:20:58.99,0:21:00.71,Default,,0000,0000,0000,,Take up your sword!
+Dialogue: 0,0:21:00.73,0:21:03.45,Default,,0000,0000,0000,,Alright, here we go!
+Dialogue: 0,0:21:03.47,0:21:11.47,Default,,0000,0000,0000,,Listen. We're not playing here!
+Dialogue: 0,0:21:11.86,0:21:13.35,Default,,0000,0000,0000,,Faster!
+Dialogue: 0,0:21:13.37,0:21:19.14,Default,,0000,0000,0000,,Use the lower half of your body!
+Dialogue: 0,0:21:19.16,0:21:21.69,Default,,0000,0000,0000,,We're gonna do this everyday!
+Dialogue: 0,0:21:21.71,0:21:29.71,Default,,0000,0000,0000,,What?!
+Dialogue: 0,0:21:39.38,0:21:42.22,Default,,0000,0000,0000,,{\i1}He has always been by my side
+Dialogue: 0,0:21:42.24,0:21:50.24,Italics,,0000,0000,0000,,\Nand he saved me so many times.{\i0}
+Dialogue: 0,0:21:50.82,0:21:52.82,Default,,0000,0000,0000,,Here she comes!
+Dialogue: 0,0:21:52.84,0:21:55.59,Default,,0000,0000,0000,,Are you all ready?!
+Dialogue: 0,0:21:55.61,0:21:58.54,Default,,0000,0000,0000,,She's the most beautiful \Ngladiator in the Colosseum!
+Dialogue: 0,0:21:58.56,0:22:01.20,Default,,0000,0000,0000,,\NThe "Phantom Princess"!
+Dialogue: 0,0:22:01.22,0:22:06.21,Default,,0000,0000,0000,,No one else can make\Nthe place heat up like she does!
+Dialogue: 0,0:22:06.23,0:22:10.59,Default,,0000,0000,0000,,{\i1}Please don't die, Soldier-san!{\i0}
+Dialogue: 0,0:22:10.61,0:22:14.72,Default,,0000,0000,0000,,{\i1}I won't...{\i0}
+Dialogue: 0,0:22:14.74,0:22:18.54,Default,,0000,0000,0000,,--Screw you, Rebecca!\N--Cut her to pieces!
+Dialogue: 0,0:22:18.56,0:22:21.65,Default,,0000,0000,0000,,King Riku's line - burn in hell!
+Dialogue: 0,0:22:21.67,0:22:24.58,Default,,0000,0000,0000,,A corrupted family!
+Dialogue: 0,0:22:24.60,0:22:32.60,Default,,0000,0000,0000,,{\i1}...give up, either!{\i0}
+Dialogue: 0,0:22:39.65,0:22:40.97,Default,,0000,0000,0000,,What?!
+Dialogue: 0,0:22:40.99,0:22:43.25,Default,,0000,0000,0000,,Why does everyone hate her so much?!
+Dialogue: 0,0:22:43.27,0:22:46.19,Default,,0000,0000,0000,,She's a very nice person! Screw them!
+Dialogue: 0,0:22:46.21,0:22:47.72,Default,,0000,0000,0000,,She bought me lunch...
+Dialogue: 0,0:22:47.74,0:22:49.58,Default,,0000,0000,0000,,I know!
+Dialogue: 0,0:22:49.60,0:22:51.89,Default,,0000,0000,0000,,But Rebecca's grandfather is...
+Dialogue: 0,0:22:51.91,0:22:59.91,Default,,0000,0000,0000,,...despised by the whole country!\NHe's the former king!

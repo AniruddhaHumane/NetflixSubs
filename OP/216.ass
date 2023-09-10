@@ -1,0 +1,382 @@
+﻿[Script Info]
+Title: English (US)
+Original Script: ToeiAnimation  [http://www.crunchyroll.com/user/ToeiAnimation]
+Original Translation: 
+Original Editing: 
+Original Timing: 
+Synch Point: 
+Script Updated By: 
+Update Details: 
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 640
+PlayResY: 360
+Timer: 0.0000
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name,Fontname,Fontsize,PrimaryColour,SecondaryColour,OutlineColour,BackColour,Bold,Italic,Underline,Strikeout,ScaleX,ScaleY,Spacing,Angle,BorderStyle,Outline,Shadow,Alignment,MarginL,MarginR,MarginV,Encoding
+Style: Default,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,2,0020,0020,0022,0
+Style: OS,Arial,18,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,8,0001,0001,0015,0
+Style: B1,Arial,32,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,2,0070,0070,0030,0
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:04.95,0:00:09.23,Default,,0000,0000,0000,,{\i1}It's all right! Now let's move forward{\i0}
+Dialogue: 0,0:00:09.25,0:00:12.65,Default,,0000,0000,0000,,{\i1}with the sun always in our hearts{\i0}
+Dialogue: 0,0:00:12.67,0:00:16.03,Default,,0000,0000,0000,,{\i1}As power passes through our clasped hands{\i0}
+Dialogue: 0,0:00:16.05,0:00:24.05,Default,,0000,0000,0000,,{\i1}let's grab hold of our wishes{\i0}
+Dialogue: 0,0:00:27.23,0:00:34.71,Default,,0000,0000,0000,,{\i1}Working together, let's ride the giant waves{\i0}
+Dialogue: 0,0:00:34.73,0:00:41.93,Default,,0000,0000,0000,,{\i1}Let's hurry toward the excitement--\Nthere's the starting signal{\i0}
+Dialogue: 0,0:00:41.95,0:00:48.89,Default,,0000,0000,0000,,{\i1}Now's the time to set sail-- let's raise anchor{\i0}
+Dialogue: 0,0:00:48.91,0:00:56.03,Default,,0000,0000,0000,,{\i1}Cut through the rainbow-colored wind\Nand head for a sea of adventure{\i0}
+Dialogue: 0,0:00:56.05,0:00:59.69,Default,,0000,0000,0000,,{\i1}It'll be a journey fraught with injury{\i0}
+Dialogue: 0,0:00:59.71,0:01:03.20,Default,,0000,0000,0000,,{\i1}but what you cherish most will be right there{\i0}
+Dialogue: 0,0:01:03.22,0:01:07.37,Default,,0000,0000,0000,,{\i1}And if you get into a jam{\i0}
+Dialogue: 0,0:01:07.39,0:01:10.37,Default,,0000,0000,0000,,{\i1}I'll always be there to protect you{\i0}
+Dialogue: 0,0:01:10.39,0:01:14.59,Default,,0000,0000,0000,,{\i1}It's all right! Now let's move forward{\i0}
+Dialogue: 0,0:01:14.61,0:01:18.09,Default,,0000,0000,0000,,{\i1}with the sun always in our hearts{\i0}
+Dialogue: 0,0:01:18.11,0:01:21.42,Default,,0000,0000,0000,,{\i1}If a storm hits, let's put\Nour arms around each other{\i0}
+Dialogue: 0,0:01:21.44,0:01:25.64,Default,,0000,0000,0000,,{\i1}and gaze at the light beyond{\i0}
+Dialogue: 0,0:01:25.66,0:01:29.35,Default,,0000,0000,0000,,{\i1}If we gather up the pieces of our dreams{\i0}
+Dialogue: 0,0:01:29.37,0:01:32.65,Default,,0000,0000,0000,,{\i1}they'll make a map leading to tomorrow{\i0}
+Dialogue: 0,0:01:32.67,0:01:36.02,Default,,0000,0000,0000,,{\i1}So let's grab hold of our wishes{\i0}
+Dialogue: 0,0:01:36.04,0:01:41.28,Default,,0000,0000,0000,,{\i1}under the same flag-- together, we're one{\i0}
+Dialogue: 0,0:01:41.30,0:01:49.30,Default,,0000,0000,0000,,{\i1}One Piece{\i0}
+Dialogue: 0,0:01:55.04,0:01:58.32,Default,,0000,0000,0000,,Luffy and friends have agreed...
+Dialogue: 0,0:01:58.34,0:02:01.00,Default,,0000,0000,0000,,...to another Davy Back Fight\Nwith the Foxy Pirates.
+Dialogue: 0,0:02:01.02,0:02:09.02,Default,,0000,0000,0000,,Despite putting up a good fight,\NLuffy soon found himself all alone.
+Dialogue: 0,0:02:18.04,0:02:20.82,Default,,0000,0000,0000,,Straw Hat Luffy is out!
+Dialogue: 0,0:02:20.84,0:02:23.77,Default,,0000,0000,0000,,Wha...?!
+Dialogue: 0,0:02:23.79,0:02:31.08,Default,,0000,0000,0000,,Team Foxy emerges victorious in\NRound #1's game of Hit and Dead Ball!
+Dialogue: 0,0:02:31.10,0:02:39.10,B1,,0000,0000,0000,,{\fad(2000,2000)}"Showdown on the Cliff!\NRed Light, Green Light!"
+Dialogue: 0,0:02:40.03,0:02:44.43,Default,,0000,0000,0000,,Our Foxy Pirates have claimed victory\Nin Round #1 of this second fight!
+Dialogue: 0,0:02:44.45,0:02:46.64,Default,,0000,0000,0000,,It's time to claim our booty...
+Dialogue: 0,0:02:46.66,0:02:48.85,Default,,0000,0000,0000,,...and take one member of Team Straw Hat!
+Dialogue: 0,0:02:48.87,0:02:52.19,Default,,0000,0000,0000,,Who will our boss choose?!
+Dialogue: 0,0:02:52.21,0:02:59.22,Default,,0000,0000,0000,,--The one I want...\N--...is obvious to us all! Right, Boss?
+Dialogue: 0,0:02:59.24,0:03:00.23,Default,,0000,0000,0000,,You!
+Dialogue: 0,0:03:00.25,0:03:04.69,Default,,0000,0000,0000,,The archaeologist, Nico Robin!
+Dialogue: 0,0:03:04.71,0:03:05.61,Default,,0000,0000,0000,,Me?
+Dialogue: 0,0:03:05.63,0:03:09.63,Default,,0000,0000,0000,,Oh, my! Our captain has chosen\NNico Robin, the archaeologist!
+Dialogue: 0,0:03:09.65,0:03:12.86,Default,,0000,0000,0000,,Oh, Captain! You naughty man!
+Dialogue: 0,0:03:12.88,0:03:16.66,Default,,0000,0000,0000,,Oh, no! Why didn't you choose Choppy, Boss?!
+Dialogue: 0,0:03:16.68,0:03:19.39,Default,,0000,0000,0000,,She's dangerous as an enemy.
+Dialogue: 0,0:03:19.41,0:03:23.55,Default,,0000,0000,0000,,Taking her first will give us\Nthe advantage from here on out.
+Dialogue: 0,0:03:23.57,0:03:29.44,Default,,0000,0000,0000,,--Still...!\N--We can get Doctor Chopper\Nfor sure in the next round!
+Dialogue: 0,0:03:29.46,0:03:33.01,Default,,0000,0000,0000,,Now I get it! You're so smart, Boss!
+Dialogue: 0,0:03:33.03,0:03:36.21,Default,,0000,0000,0000,,--Robin!\N--Robin-chan!
+Dialogue: 0,0:03:36.23,0:03:40.01,Default,,0000,0000,0000,,Bye.
+Dialogue: 0,0:03:40.03,0:03:44.63,Default,,0000,0000,0000,,I can feel the deep sorrow\Nhidden behind her smile!
+Dialogue: 0,0:03:44.65,0:03:46.70,Default,,0000,0000,0000,,The pain of having to part with me...!
+Dialogue: 0,0:03:46.72,0:03:49.32,Default,,0000,0000,0000,,Damn! How dare they take\NRobin-chan against her will,
+Dialogue: 0,0:03:49.34,0:03:51.33,Default,,0000,0000,0000,,even if it is in the rules?!
+Dialogue: 0,0:03:51.35,0:03:56.19,Default,,0000,0000,0000,,Robin!
+Dialogue: 0,0:03:56.21,0:03:57.55,Default,,0000,0000,0000,,How do I look?
+Dialogue: 0,0:03:57.57,0:04:00.39,Default,,0000,0000,0000,,--Suits you perfectly!\N--You look great, black-haired lady!
+Dialogue: 0,0:04:00.41,0:04:02.46,Default,,0000,0000,0000,,I wanted you to join us from the very start!
+Dialogue: 0,0:04:02.48,0:04:06.28,Default,,0000,0000,0000,,Ugh! She's so popular!
+Dialogue: 0,0:04:06.30,0:04:10.66,Default,,0000,0000,0000,,R-Robin's really gettin' along with 'em...
+Dialogue: 0,0:04:10.68,0:04:13.10,Default,,0000,0000,0000,,I never trusted her to begin with...
+Dialogue: 0,0:04:13.12,0:04:17.11,Default,,0000,0000,0000,,Don't be crazy! Robin is counting on us!
+Dialogue: 0,0:04:17.13,0:04:18.19,Default,,0000,0000,0000,,I think.
+Dialogue: 0,0:04:18.21,0:04:20.56,Default,,0000,0000,0000,,Good point as always, Nami-san.
+Dialogue: 0,0:04:20.58,0:04:24.15,Default,,0000,0000,0000,,I'm gonna win her right back in the next round.
+Dialogue: 0,0:04:24.17,0:04:27.15,Default,,0000,0000,0000,,Okay! Let's do the next round already!
+Dialogue: 0,0:04:27.17,0:04:31.51,Default,,0000,0000,0000,,You can't play in the next round, Luffy.\NYou're in the third round.
+Dialogue: 0,0:04:31.53,0:04:33.83,Default,,0000,0000,0000,,Learn the rules already, will ya?
+Dialogue: 0,0:04:33.85,0:04:35.83,Default,,0000,0000,0000,,Oh. I guess I'm on cheering duty then.
+Dialogue: 0,0:04:35.85,0:04:41.07,Default,,0000,0000,0000,,But there's only five of us for Round #2...
+Dialogue: 0,0:04:41.09,0:04:44.92,Default,,0000,0000,0000,,Pathetic Straw Hat team!\NYou've lost more than another member!
+Dialogue: 0,0:04:44.94,0:04:47.12,Default,,0000,0000,0000,,You've lost a major part of your offense!
+Dialogue: 0,0:04:47.14,0:04:49.43,Default,,0000,0000,0000,,How do you like them grapes, err, apples?!
+Dialogue: 0,0:04:49.45,0:04:57.45,Default,,0000,0000,0000,,Now let's start the next round!
+Dialogue: 0,0:04:58.82,0:05:03.77,Default,,0000,0000,0000,,Round #2 will be a game held on\NLong Reef: Dash Touch Domination!
+Dialogue: 0,0:05:03.79,0:05:05.93,Default,,0000,0000,0000,,Or "D.T.D." for short!
+Dialogue: 0,0:05:05.95,0:05:07.47,Default,,0000,0000,0000,,It's a six-on-six group competition,
+Dialogue: 0,0:05:07.49,0:05:12.36,Default,,0000,0000,0000,,but without Nico Robin, Team Straw Hat\Nwill only have five players!
+Dialogue: 0,0:05:12.38,0:05:13.90,Default,,0000,0000,0000,,The rules are simple!
+Dialogue: 0,0:05:13.92,0:05:17.70,Default,,0000,0000,0000,,Basically, it's like the\N"Red Light, Green Light" game!
+Dialogue: 0,0:05:17.72,0:05:21.60,Default,,0000,0000,0000,,Move even a muscle after the\N"stop light" stops calling and you're out!
+Dialogue: 0,0:05:21.62,0:05:26.55,Default,,0000,0000,0000,,Whichever team touches\Nthe "stop light" first wins!
+Dialogue: 0,0:05:26.57,0:05:28.76,Default,,0000,0000,0000,,But this is no kid's game!
+Dialogue: 0,0:05:28.78,0:05:32.43,Default,,0000,0000,0000,,Keep in mind, this is a pirate\Nversion of "Red Light, Green Light"!
+Dialogue: 0,0:05:32.45,0:05:35.01,Default,,0000,0000,0000,,All weapons are okay to use!
+Dialogue: 0,0:05:35.03,0:05:39.38,Default,,0000,0000,0000,,D.T.D. is a truly perilous game!
+Dialogue: 0,0:05:39.40,0:05:42.59,Default,,0000,0000,0000,,First is Team Straw Hat...\Nwith the same ol' lineup.
+Dialogue: 0,0:05:42.61,0:05:44.21,Default,,0000,0000,0000,,Leave us alone!
+Dialogue: 0,0:05:44.23,0:05:48.98,Default,,0000,0000,0000,,Team Foxy is led by our idol\NPorche-chan and Hamburg the oddball!
+Dialogue: 0,0:05:49.00,0:05:53.52,Default,,0000,0000,0000,,I'm going to win Choppy\Nwith my own two hands!
+Dialogue: 0,0:05:53.54,0:05:57.66,Default,,0000,0000,0000,,Then there's the ever-swift Chiqicheetah,\Nthe swordfish fishman Capote,
+Dialogue: 0,0:05:57.68,0:06:00.27,Default,,0000,0000,0000,,as well as "Tackle Machine" Pickles\Nand Big Pan the wotan,
+Dialogue: 0,0:06:00.29,0:06:03.91,Default,,0000,0000,0000,,who have both vowed revenge\Nfor their Groggy Ring defeat!
+Dialogue: 0,0:06:03.93,0:06:09.95,Default,,0000,0000,0000,,Those losers will pay for humiliating us!
+Dialogue: 0,0:06:09.97,0:06:15.58,Default,,0000,0000,0000,,These are the six members\Nof the truly mighty Team Foxy!
+Dialogue: 0,0:06:15.60,0:06:18.56,Default,,0000,0000,0000,,What's the old stilts guy doing up there?
+Dialogue: 0,0:06:18.58,0:06:20.14,Default,,0000,0000,0000,,I forgot an important detail!
+Dialogue: 0,0:06:20.16,0:06:23.27,Default,,0000,0000,0000,,Tonjit the nomad here\Nwill act as the "stop light"!
+Dialogue: 0,0:06:23.29,0:06:27.18,Default,,0000,0000,0000,,The great fool, err, man of bravery\Nwho stood atop stilts for ten whole years,
+Dialogue: 0,0:06:27.20,0:06:28.99,Default,,0000,0000,0000,,reaching high into the heavens!
+Dialogue: 0,0:06:29.01,0:06:32.66,Default,,0000,0000,0000,,Tonjit is the only logical choice\Nto be our "stop light"!
+Dialogue: 0,0:06:32.68,0:06:35.76,Default,,0000,0000,0000,,I'm seriously sick of heights, though...
+Dialogue: 0,0:06:35.78,0:06:36.87,Default,,0000,0000,0000,,Hold on!
+Dialogue: 0,0:06:36.89,0:06:41.51,Default,,0000,0000,0000,,If he's the "stop light," doesn't that\Ngive us a big advantage in D.T.D.?!
+Dialogue: 0,0:06:41.53,0:06:43.27,Default,,0000,0000,0000,,Don't abbreviate it too!
+Dialogue: 0,0:06:43.29,0:06:48.29,Default,,0000,0000,0000,,But Usopp's right! Luck's on our side!
+Dialogue: 0,0:06:48.31,0:06:50.34,Default,,0000,0000,0000,,You sure about this, Boss?!
+Dialogue: 0,0:06:50.36,0:06:55.10,Default,,0000,0000,0000,,It's nothin'! We pirates have to\Nbattle the deep blue sea all the time!
+Dialogue: 0,0:06:55.12,0:06:58.84,Default,,0000,0000,0000,,Don't sweat the small stuff!
+Dialogue: 0,0:06:58.86,0:07:01.51,Default,,0000,0000,0000,,--Talk about generous!\N--Wow! What a great guy!
+Dialogue: 0,0:07:01.53,0:07:04.08,Default,,0000,0000,0000,,Generous, my butt!
+Dialogue: 0,0:07:04.10,0:07:12.10,Default,,0000,0000,0000,,Right off the bat, we're given\Na clearly unfair course!
+Dialogue: 0,0:07:12.59,0:07:16.03,Default,,0000,0000,0000,,I guess that Idiot-Idiot Beam is his only talent...
+Dialogue: 0,0:07:16.05,0:07:18.40,Default,,0000,0000,0000,,--Lame Fox!\N--Split-Head...
+Dialogue: 0,0:07:18.42,0:07:20.29,Default,,0000,0000,0000,,Idiot-Idiot Beam...
+Dialogue: 0,0:07:20.31,0:07:21.74,Default,,0000,0000,0000,,Lame Fox...
+Dialogue: 0,0:07:21.76,0:07:24.10,Default,,0000,0000,0000,,--Split-Head...!\N--Boss!
+Dialogue: 0,0:07:24.12,0:07:28.03,Default,,0000,0000,0000,,--Pull yourself together!\N--You really take things to heart, Boss.
+Dialogue: 0,0:07:28.05,0:07:33.94,Default,,0000,0000,0000,,First, as the D.T.D. rules state,\Nboth teams must start by calling out...
+Dialogue: 0,0:07:33.96,0:07:36.88,Default,,0000,0000,0000,,First step!
+Dialogue: 0,0:07:36.90,0:07:40.74,Default,,0000,0000,0000,,Oh! Team Foxy suddenly takes a big lead!
+Dialogue: 0,0:07:40.76,0:07:42.97,Default,,0000,0000,0000,,Bastards...!
+Dialogue: 0,0:07:42.99,0:07:46.77,Default,,0000,0000,0000,,This'll be a cinch if we\Nfollow the plan! Let's do it!
+Dialogue: 0,0:07:46.79,0:07:47.98,Default,,0000,0000,0000,,Yeah!
+Dialogue: 0,0:07:48.00,0:07:49.73,Default,,0000,0000,0000,,I'm sure it goes without saying,
+Dialogue: 0,0:07:49.75,0:07:53.74,Default,,0000,0000,0000,,but there's more to this than rushing\Nahead to touch the "stop light"!
+Dialogue: 0,0:07:53.76,0:07:57.28,Default,,0000,0000,0000,,This terrain makes it easy to lose\Nyour balance during a sudden stop,
+Dialogue: 0,0:07:57.30,0:08:00.03,Default,,0000,0000,0000,,so we can also expect the\Nenemy to use that against us!
+Dialogue: 0,0:08:00.05,0:08:04.62,Default,,0000,0000,0000,,Split-Head! Get in the way\Nand I won't sit by quietly!
+Dialogue: 0,0:08:04.64,0:08:05.94,Default,,0000,0000,0000,,Split...
+Dialogue: 0,0:08:05.96,0:08:11.04,Default,,0000,0000,0000,,Ha! Like I need to interfere!\NThis is going to be a piece of cake!
+Dialogue: 0,0:08:11.06,0:08:12.88,Default,,0000,0000,0000,,Are you ready, Stop Light?!
+Dialogue: 0,0:08:12.90,0:08:17.57,Default,,0000,0000,0000,,--Mm-hmm.\N--All right, then!
+Dialogue: 0,0:08:17.59,0:08:20.64,Default,,0000,0000,0000,,You can do it!
+Dialogue: 0,0:08:20.66,0:08:24.09,Default,,0000,0000,0000,,After Team Foxy's victory in the first round,
+Dialogue: 0,0:08:24.11,0:08:27.03,Default,,0000,0000,0000,,it's now time to begin Round #2's\NDash Touch Domination!
+Dialogue: 0,0:08:27.05,0:08:30.31,Default,,0000,0000,0000,,Ready! Go!
+Dialogue: 0,0:08:30.33,0:08:36.07,Default,,0000,0000,0000,,"Green..."
+Dialogue: 0,0:08:36.09,0:08:38.96,Default,,0000,0000,0000,,Dash, Hamburg!
+Dialogue: 0,0:08:38.98,0:08:41.67,Default,,0000,0000,0000,,Chiqicheetah is already ahead of the pack!
+Dialogue: 0,0:08:41.69,0:08:44.54,Default,,0000,0000,0000,,He's followed by "Full Dash" Hamburg!
+Dialogue: 0,0:08:44.56,0:08:48.16,Default,,0000,0000,0000,,Meanwhile, Roronoa and Sanji\Nare leading the Straw Hat pack!
+Dialogue: 0,0:08:48.18,0:08:51.17,Default,,0000,0000,0000,,--Move, dammit!\N--No, you back off!
+Dialogue: 0,0:08:51.19,0:08:53.71,Default,,0000,0000,0000,,This is no time to argue while running!
+Dialogue: 0,0:08:53.73,0:08:56.30,Default,,0000,0000,0000,,Knock it off, Sanji-kun! Zoro!
+Dialogue: 0,0:08:56.32,0:08:59.30,Default,,0000,0000,0000,,Yeah, Sanji-kun! Zoro!
+Dialogue: 0,0:08:59.32,0:09:01.38,Default,,0000,0000,0000,,They're awesome!
+Dialogue: 0,0:09:01.40,0:09:04.10,Default,,0000,0000,0000,,"...light..."
+Dialogue: 0,0:09:04.12,0:09:09.97,Default,,0000,0000,0000,,Man, that's long! How can you hold\Nyour breath so long, old stilts guy?!
+Dialogue: 0,0:09:09.99,0:09:11.59,Default,,0000,0000,0000,,He's an ideal "stop light"!
+Dialogue: 0,0:09:11.61,0:09:15.70,Default,,0000,0000,0000,,"Red..."
+Dialogue: 0,0:09:15.72,0:09:20.40,Default,,0000,0000,0000,,--You lovey-dovey loser!\N--Say what, fish flake head?!
+Dialogue: 0,0:09:20.42,0:09:23.26,Default,,0000,0000,0000,,These are the two Straw Hats to look out for!
+Dialogue: 0,0:09:23.28,0:09:30.50,Default,,0000,0000,0000,,Let's knock 'em outta the game\Nright away, just as planned!
+Dialogue: 0,0:09:30.52,0:09:34.00,Default,,0000,0000,0000,,Go, Big Pan!
+Dialogue: 0,0:09:34.02,0:09:38.13,Default,,0000,0000,0000,,Punk Attack!
+Dialogue: 0,0:09:38.15,0:09:39.71,Default,,0000,0000,0000,,They're in trouble!
+Dialogue: 0,0:09:39.73,0:09:41.55,Default,,0000,0000,0000,,He's about to call "red light"!
+Dialogue: 0,0:09:41.57,0:09:43.55,Default,,0000,0000,0000,,This isn't the time for that!
+Dialogue: 0,0:09:43.57,0:09:51.57,Default,,0000,0000,0000,,"...l..."
+Dialogue: 0,0:09:52.86,0:09:55.92,Default,,0000,0000,0000,,"...ight...!"
+Dialogue: 0,0:09:55.94,0:10:03.94,Default,,0000,0000,0000,,Stop!
+Dialogue: 0,0:10:12.02,0:10:20.02,Default,,0000,0000,0000,,I-If we move now, we'll be out...!
+Dialogue: 0,0:10:21.18,0:10:22.51,Default,,0000,0000,0000,,Out!
+Dialogue: 0,0:10:22.53,0:10:28.22,Default,,0000,0000,0000,,Wow! Pickles and Big Pan of Team\NFoxy are already out of the game!
+Dialogue: 0,0:10:28.24,0:10:31.23,Default,,0000,0000,0000,,All right, Zoro! Sanji!
+Dialogue: 0,0:10:31.25,0:10:39.25,Default,,0000,0000,0000,,No big deal! All we need is\None person to touch him to win!
+Dialogue: 0,0:10:39.83,0:10:45.81,Default,,0000,0000,0000,,Chiqicheetah, Porche, and Hamburg\Nhave a huge lead over the Straw Hats!
+Dialogue: 0,0:10:45.83,0:10:50.78,Default,,0000,0000,0000,,Ooh! We're in a "totally going to win" mood!
+Dialogue: 0,0:10:50.80,0:10:52.79,Default,,0000,0000,0000,,They're too fast!
+Dialogue: 0,0:10:52.81,0:10:55.33,Default,,0000,0000,0000,,Zoro and Sanji are our only hope, but...
+Dialogue: 0,0:10:55.35,0:10:57.17,Default,,0000,0000,0000,,Damn Moss Head!
+Dialogue: 0,0:10:57.19,0:10:59.28,Default,,0000,0000,0000,,Stupid Love Cook!
+Dialogue: 0,0:10:59.30,0:11:02.29,Default,,0000,0000,0000,,Just so you know, I have the important task
+Dialogue: 0,0:11:02.31,0:11:04.86,Default,,0000,0000,0000,,of getting Robin-chan back.\NI've had enough of you!
+Dialogue: 0,0:11:04.88,0:11:07.47,Default,,0000,0000,0000,,--"Gree..."\N--I don't give a damn about you!
+Dialogue: 0,0:11:07.49,0:11:13.01,Default,,0000,0000,0000,,--"...eee..."\N--Hold on, you protected species head!
+Dialogue: 0,0:11:13.03,0:11:15.41,Default,,0000,0000,0000,,Despite losing two players,
+Dialogue: 0,0:11:15.43,0:11:18.88,Default,,0000,0000,0000,,Team Foxy is closest to\Nreaching the "stop light"!
+Dialogue: 0,0:11:18.90,0:11:24.86,Default,,0000,0000,0000,,At this rate, Team Straw Hat\Nhas no chance at all!
+Dialogue: 0,0:11:24.88,0:11:26.79,Default,,0000,0000,0000,,Go! Go!
+Dialogue: 0,0:11:26.81,0:11:34.81,Default,,0000,0000,0000,,Yes, that's it! Just like that!
+Dialogue: 0,0:11:45.57,0:11:49.51,Default,,0000,0000,0000,,"...een..."
+Dialogue: 0,0:11:49.53,0:11:56.68,Default,,0000,0000,0000,,Crap! It's your fault we're so\Nfar behind, you damn Moss Head!
+Dialogue: 0,0:11:56.70,0:11:58.44,Default,,0000,0000,0000,,How did this happen?!
+Dialogue: 0,0:11:58.46,0:12:00.10,Default,,0000,0000,0000,,The path is gone!
+Dialogue: 0,0:12:00.12,0:12:03.61,Default,,0000,0000,0000,,I know you have no sense of direction,\Nbut this takes the cake!
+Dialogue: 0,0:12:03.63,0:12:10.57,Default,,0000,0000,0000,,How can you even get lost in\Na place with such a clear view?!
+Dialogue: 0,0:12:10.59,0:12:13.53,Default,,0000,0000,0000,,It might be easier to catch up\Nhere than on a curved track...
+Dialogue: 0,0:12:13.55,0:12:19.08,Default,,0000,0000,0000,,Guess it's do or die!
+Dialogue: 0,0:12:19.10,0:12:24.19,Default,,0000,0000,0000,,Oh! Sanji is taking a chance now!
+Dialogue: 0,0:12:24.21,0:12:29.09,Default,,0000,0000,0000,,Yikes...!
+Dialogue: 0,0:12:29.11,0:12:34.18,Default,,0000,0000,0000,,Sanji's big gamble pays off!\NHe's now right behind the lead group!
+Dialogue: 0,0:12:34.20,0:12:39.44,Default,,0000,0000,0000,,Oh, that's no fair! Hurry, Hamburg!
+Dialogue: 0,0:12:39.46,0:12:42.49,Default,,0000,0000,0000,,Wh-What do you want...?
+Dialogue: 0,0:12:42.51,0:12:45.94,Default,,0000,0000,0000,,Never hurts to reduce the number of opponents!
+Dialogue: 0,0:12:45.96,0:12:48.65,Default,,0000,0000,0000,,Time for all three of you to kick the bucket!
+Dialogue: 0,0:12:48.67,0:12:49.91,Default,,0000,0000,0000,,Crap!
+Dialogue: 0,0:12:49.93,0:12:52.12,Default,,0000,0000,0000,,N-Nami! Usopp!
+Dialogue: 0,0:12:52.14,0:12:54.58,Default,,0000,0000,0000,,We've got no choice...
+Dialogue: 0,0:12:54.60,0:12:56.79,Default,,0000,0000,0000,,--Everyone run for it!\N--Roger!
+Dialogue: 0,0:12:56.81,0:13:01.36,Default,,0000,0000,0000,,Hmph! There's no getting away from me!
+Dialogue: 0,0:13:01.38,0:13:03.90,Default,,0000,0000,0000,,Get back here!
+Dialogue: 0,0:13:03.92,0:13:08.88,Default,,0000,0000,0000,,Man, old stilts guy's "Green"\Nis really long this time...
+Dialogue: 0,0:13:08.90,0:13:13.54,Default,,0000,0000,0000,,Oh?!
+Dialogue: 0,0:13:13.56,0:13:15.22,Default,,0000,0000,0000,,H-He's asleep...!
+Dialogue: 0,0:13:15.24,0:13:17.81,Default,,0000,0000,0000,,--Get up!\N--Hey, you! Wake up!
+Dialogue: 0,0:13:17.83,0:13:25.83,Default,,0000,0000,0000,,--Don't be sleepin'!\N--"...light, red light!"
+Dialogue: 0,0:13:26.96,0:13:29.01,Default,,0000,0000,0000,,C-Crap!
+Dialogue: 0,0:13:29.03,0:13:33.11,Default,,0000,0000,0000,,Out!
+Dialogue: 0,0:13:33.13,0:13:36.70,Default,,0000,0000,0000,,Even though the "stop light" was napping,\NCapote was caught off guard!
+Dialogue: 0,0:13:36.72,0:13:39.08,Default,,0000,0000,0000,,He's out of the game!
+Dialogue: 0,0:13:39.10,0:13:43.21,Default,,0000,0000,0000,,What kind of nerves does this guy have,\Nnapping in a place like that?!
+Dialogue: 0,0:13:43.23,0:13:46.94,Default,,0000,0000,0000,,That's old stilts guy for you!
+Dialogue: 0,0:13:46.96,0:13:48.06,Default,,0000,0000,0000,,All right!
+Dialogue: 0,0:13:48.08,0:13:51.26,Default,,0000,0000,0000,,They're in firing range now!
+Dialogue: 0,0:13:51.28,0:13:58.18,Default,,0000,0000,0000,,It was gonna be such an easy win, too!\NNow I'm a little worried...
+Dialogue: 0,0:13:58.20,0:14:03.76,Default,,0000,0000,0000,,The four players in the lead are now\Nwithin 100 meters of the "stop light"!
+Dialogue: 0,0:14:03.78,0:14:06.40,Default,,0000,0000,0000,,Will it be a mad dash to the end?!
+Dialogue: 0,0:14:06.42,0:14:11.74,Default,,0000,0000,0000,,It'll be one of these four\Nwho touches the "stop light"!
+Dialogue: 0,0:14:11.76,0:14:14.12,Default,,0000,0000,0000,,Come on, Sanji!
+Dialogue: 0,0:14:14.14,0:14:16.45,Default,,0000,0000,0000,,No one's paying any attention to us...
+Dialogue: 0,0:14:16.47,0:14:19.09,Default,,0000,0000,0000,,Yeah, they're completely ignoring us...
+Dialogue: 0,0:14:19.11,0:14:25.35,Default,,0000,0000,0000,,I do feel a little useless.
+Dialogue: 0,0:14:25.37,0:14:31.09,Default,,0000,0000,0000,,At least there's comfort in knowing\Nwe're not the only useless ones...
+Dialogue: 0,0:14:31.11,0:14:34.18,Default,,0000,0000,0000,,T-The path ends again...
+Dialogue: 0,0:14:34.20,0:14:41.30,Default,,0000,0000,0000,,Brr! I hope this'll end soon so\NI can go eat something warm...
+Dialogue: 0,0:14:41.32,0:14:42.77,Default,,0000,0000,0000,,Outta the way!
+Dialogue: 0,0:14:42.79,0:14:44.69,Default,,0000,0000,0000,,Get him, Hamburg!
+Dialogue: 0,0:14:44.71,0:14:50.35,Default,,0000,0000,0000,,This time... I will make mincemeat out of ya!
+Dialogue: 0,0:14:50.37,0:14:52.78,Default,,0000,0000,0000,,You wanna fight, you damn gorilla?!
+Dialogue: 0,0:14:52.80,0:14:55.53,Default,,0000,0000,0000,,I'll get you this time!
+Dialogue: 0,0:14:55.55,0:15:00.28,Default,,0000,0000,0000,,Hamburg intercepts Sanji!
+Dialogue: 0,0:15:00.30,0:15:04.16,Default,,0000,0000,0000,,Meanwhile, Chiqicheetah heads for\Nthe "stop light" at breakneck speed!
+Dialogue: 0,0:15:04.18,0:15:09.08,Default,,0000,0000,0000,,Sanji has fallen right into Porche-chan's trap!
+Dialogue: 0,0:15:09.10,0:15:14.36,Default,,0000,0000,0000,,What?!
+Dialogue: 0,0:15:14.38,0:15:15.97,Default,,0000,0000,0000,,Victory is ours!
+Dialogue: 0,0:15:15.99,0:15:17.89,Default,,0000,0000,0000,,Dammit!
+Dialogue: 0,0:15:17.91,0:15:23.40,Default,,0000,0000,0000,,Chiqicheetah rushes straight\Nfor the "stop light" from behind!
+Dialogue: 0,0:15:23.42,0:15:28.22,Default,,0000,0000,0000,,"Ggg..."
+Dialogue: 0,0:15:28.24,0:15:36.24,Default,,0000,0000,0000,,Grachoo!
+Dialogue: 0,0:15:41.33,0:15:42.49,Default,,0000,0000,0000,,Out!
+Dialogue: 0,0:15:42.51,0:15:45.35,Default,,0000,0000,0000,,Oh, my! It was just a sneeze!
+Dialogue: 0,0:15:45.37,0:15:49.37,Default,,0000,0000,0000,,Tonjit hasn't started calling out\N"red light, green light" yet!
+Dialogue: 0,0:15:49.39,0:15:54.84,Default,,0000,0000,0000,,Has his speed backfired on him?!\NChiqicheetah is out for jumping the gun!
+Dialogue: 0,0:15:54.86,0:15:57.94,Default,,0000,0000,0000,,Blast! Don't sneeze, Stop Light!
+Dialogue: 0,0:15:57.96,0:16:04.43,Default,,0000,0000,0000,,We were so close to winning, too!
+Dialogue: 0,0:16:04.45,0:16:10.13,Default,,0000,0000,0000,,Even your snot is long, old stilts guy!
+Dialogue: 0,0:16:10.15,0:16:12.19,Default,,0000,0000,0000,,Sure lucked out there...
+Dialogue: 0,0:16:12.21,0:16:15.02,Default,,0000,0000,0000,,He was sneezing...
+Dialogue: 0,0:16:15.04,0:16:17.80,Default,,0000,0000,0000,,This is no time to be laughing, Hamburg!
+Dialogue: 0,0:16:17.82,0:16:20.70,Default,,0000,0000,0000,,We have to win and take Choppy!
+Dialogue: 0,0:16:20.72,0:16:24.71,Default,,0000,0000,0000,,Both teams are closing in on the "stop light"!
+Dialogue: 0,0:16:24.73,0:16:27.71,Default,,0000,0000,0000,,At this distance, the next play\Nshould decide the game!
+Dialogue: 0,0:16:27.73,0:16:32.08,Default,,0000,0000,0000,,Will the "stop light" be touched by\Nthe duo of Porche-chan and Hamburg?!
+Dialogue: 0,0:16:32.10,0:16:36.05,Default,,0000,0000,0000,,Or will it be Sanji?! Which will it be?!
+Dialogue: 0,0:16:36.07,0:16:38.55,Default,,0000,0000,0000,,This is the moment of truth!
+Dialogue: 0,0:16:38.57,0:16:40.51,Default,,0000,0000,0000,,"Green..."
+Dialogue: 0,0:16:40.53,0:16:48.53,Default,,0000,0000,0000,,It appears he's indeed\Ncalling out his line this time!
+Dialogue: 0,0:16:51.21,0:16:53.94,Default,,0000,0000,0000,,Take this! And this!
+Dialogue: 0,0:16:53.96,0:16:56.82,Default,,0000,0000,0000,,See you later!
+Dialogue: 0,0:16:56.84,0:16:59.57,Default,,0000,0000,0000,,H-Hamburg! What are you doing?!
+Dialogue: 0,0:16:59.59,0:17:05.74,Default,,0000,0000,0000,,--"...light..."\N--Here comes Robin-chan's savior!
+Dialogue: 0,0:17:05.76,0:17:07.50,Default,,0000,0000,0000,,Oh! Sanji!
+Dialogue: 0,0:17:07.52,0:17:09.96,Default,,0000,0000,0000,,--What?!\N--What's Porche-chan doing?!
+Dialogue: 0,0:17:09.98,0:17:12.75,Default,,0000,0000,0000,,--Stay still, Porche-chan!\N--Do something!
+Dialogue: 0,0:17:12.77,0:17:15.05,Default,,0000,0000,0000,,"...rrr..."
+Dialogue: 0,0:17:15.07,0:17:17.63,Default,,0000,0000,0000,,Now Robin-chan's ours again.
+Dialogue: 0,0:17:17.65,0:17:20.01,Default,,0000,0000,0000,,She's totally gonna fall in love with me!
+Dialogue: 0,0:17:20.03,0:17:23.93,Default,,0000,0000,0000,,Sanji! Hurry up! Touch him!
+Dialogue: 0,0:17:23.95,0:17:26.47,Default,,0000,0000,0000,,--"...eeee..."\N--Good work, old man.
+Dialogue: 0,0:17:26.49,0:17:33.10,Default,,0000,0000,0000,,The game's over now.
+Dialogue: 0,0:17:33.12,0:17:36.02,Default,,0000,0000,0000,,"...dddd..."
+Dialogue: 0,0:17:36.04,0:17:40.31,Default,,0000,0000,0000,,Oh, my! Sanji is turning back\Nbefore touching the "stop light"!
+Dialogue: 0,0:17:40.33,0:17:41.45,Default,,0000,0000,0000,,What is he doing?!
+Dialogue: 0,0:17:41.47,0:17:48.66,Default,,0000,0000,0000,,Even if you are my enemy,\NI can't turn my back on a lady!
+Dialogue: 0,0:17:48.68,0:17:52.97,Default,,0000,0000,0000,,Incredible! Sanji, the nefarious cook,\Nhas saved Porche-chan!
+Dialogue: 0,0:17:52.99,0:17:56.33,Default,,0000,0000,0000,,"...light!"
+Dialogue: 0,0:17:56.35,0:17:58.38,Default,,0000,0000,0000,,Hamburg is fighting to remain still!
+Dialogue: 0,0:17:58.40,0:18:06.40,Default,,0000,0000,0000,,But Sanji is as good as out,\Ndespite having saved Porche-chan!
+Dialogue: 0,0:18:07.74,0:18:11.92,Default,,0000,0000,0000,,No, wait! There's Sanji!\NAnd he has Porche-chan!
+Dialogue: 0,0:18:11.94,0:18:15.75,Default,,0000,0000,0000,,Not only that, Sanji is completely still,\Ndespite his current situation!
+Dialogue: 0,0:18:15.77,0:18:18.86,Default,,0000,0000,0000,,He's not moving in the slightest! He's safe!
+Dialogue: 0,0:18:18.88,0:18:20.53,Default,,0000,0000,0000,,Impossible...!
+Dialogue: 0,0:18:20.55,0:18:24.97,Default,,0000,0000,0000,,How can he stand completely still\Nin the middle of the ocean?!
+Dialogue: 0,0:18:24.99,0:18:27.83,Default,,0000,0000,0000,,Oh! He's treading water!
+Dialogue: 0,0:18:27.85,0:18:31.12,Default,,0000,0000,0000,,All while carrying Porche-chan and\Nkeeping his upper body motionless!
+Dialogue: 0,0:18:31.14,0:18:33.17,Default,,0000,0000,0000,,Just like a swan!
+Dialogue: 0,0:18:33.19,0:18:37.71,Default,,0000,0000,0000,,He's kicking furiously beneath the\Nsurface while looking elegant above!
+Dialogue: 0,0:18:37.73,0:18:41.12,Default,,0000,0000,0000,,As long as the "stop light"\Ncan't see him moving, he's safe!
+Dialogue: 0,0:18:41.14,0:18:46.51,Default,,0000,0000,0000,,Sanji is incredibly determined to win!
+Dialogue: 0,0:18:46.53,0:18:49.97,Default,,0000,0000,0000,,I will save Robin-chan, no matter what!
+Dialogue: 0,0:18:49.99,0:18:55.77,Default,,0000,0000,0000,,Sanji still has a chance to touch the "stop light"!
+Dialogue: 0,0:18:55.79,0:18:58.61,Default,,0000,0000,0000,,--He's one heck of an opponent!\N--Impressive, Cook!
+Dialogue: 0,0:18:58.63,0:19:01.19,Default,,0000,0000,0000,,Sanji! You're too much...!
+Dialogue: 0,0:19:01.21,0:19:07.53,Default,,0000,0000,0000,,Oh, my! I could really fall for you, Mr. Cook!
+Dialogue: 0,0:19:07.55,0:19:11.36,Default,,0000,0000,0000,,Oh! Both Porche-chan and Sanji\Nhave dived underwater!
+Dialogue: 0,0:19:11.38,0:19:16.30,Default,,0000,0000,0000,,You're both out!
+Dialogue: 0,0:19:16.32,0:19:20.81,Default,,0000,0000,0000,,H-Hey! Keep swimming!\NYou're gonna make me drown!
+Dialogue: 0,0:19:20.83,0:19:25.20,Default,,0000,0000,0000,,Oh, what have I done...! Robin-chan...!
+Dialogue: 0,0:19:25.22,0:19:27.22,Default,,0000,0000,0000,,"Green..."
+Dialogue: 0,0:19:27.24,0:19:30.47,Default,,0000,0000,0000,,Here we go again!
+Dialogue: 0,0:19:30.49,0:19:35.18,Default,,0000,0000,0000,,The only ones left now are\NHamburg of Team Foxy, and...!
+Dialogue: 0,0:19:35.20,0:19:38.99,Default,,0000,0000,0000,,--We're almost to the "stop light"!\N--There's no one to stop us!
+Dialogue: 0,0:19:39.01,0:19:41.69,Default,,0000,0000,0000,,I can't believe we're gonna touch him!
+Dialogue: 0,0:19:41.71,0:19:44.11,Default,,0000,0000,0000,,"...light..."
+Dialogue: 0,0:19:44.13,0:19:46.41,Default,,0000,0000,0000,,Let's all touch him together!
+Dialogue: 0,0:19:46.43,0:19:47.53,Default,,0000,0000,0000,,Yeah!
+Dialogue: 0,0:19:47.55,0:19:52.52,Default,,0000,0000,0000,,Oh! The trio of forgotten Straw Hat\Nslowpokes is poised to touch him!
+Dialogue: 0,0:19:52.54,0:20:00.54,Default,,0000,0000,0000,,An upset's in the making!\NWho would've thunk it?!
+Dialogue: 0,0:20:00.97,0:20:04.88,Default,,0000,0000,0000,,Just when I finally get on the real path...
+Dialogue: 0,0:20:04.90,0:20:07.84,Default,,0000,0000,0000,,Ugh! Kicking is that crappy\Ncook's specialty, but...
+Dialogue: 0,0:20:07.86,0:20:10.80,Default,,0000,0000,0000,,Get outta the way!
+Dialogue: 0,0:20:10.82,0:20:12.92,Default,,0000,0000,0000,,"...red..."
+Dialogue: 0,0:20:12.94,0:20:14.26,Default,,0000,0000,0000,,Yes!
+Dialogue: 0,0:20:14.28,0:20:18.39,Default,,0000,0000,0000,,Victory is certain for Team Straw Hat!
+Dialogue: 0,0:20:18.41,0:20:26.41,Default,,0000,0000,0000,,All right! We win!
+Dialogue: 0,0:20:28.80,0:20:36.62,Default,,0000,0000,0000,,"...light!"
+Dialogue: 0,0:20:36.64,0:20:39.45,Default,,0000,0000,0000,,Hamburg has touched the "stop light"!
+Dialogue: 0,0:20:39.47,0:20:47.47,Default,,0000,0000,0000,,Team Foxy is the winner of Round #2's\NDash Touch Domination game!
+Dialogue: 0,0:20:48.11,0:20:54.90,Default,,0000,0000,0000,,That's two supreme victories in a row!
+Dialogue: 0,0:20:54.92,0:20:56.50,Default,,0000,0000,0000,,Huh? It's over already?
+Dialogue: 0,0:20:56.52,0:20:58.60,Default,,0000,0000,0000,,You ended it!
+Dialogue: 0,0:20:58.62,0:21:00.61,Default,,0000,0000,0000,,In the worst possible way!
+Dialogue: 0,0:21:00.63,0:21:07.64,Default,,0000,0000,0000,,It's all your fault, Zoro!
+Dialogue: 0,0:21:07.66,0:21:09.57,Default,,0000,0000,0000,,I'm up next, right?
+Dialogue: 0,0:21:09.59,0:21:13.97,Default,,0000,0000,0000,,I'm gonna take back my crew! I'm their captain!
+Dialogue: 0,0:21:13.99,0:21:17.38,Default,,0000,0000,0000,,Haven't you forgotten an\Nimportant fact, Straw Hat?
+Dialogue: 0,0:21:17.40,0:21:22.98,Default,,0000,0000,0000,,You've lost twice now, which has cost\Nyou Nico Robin and one other member!
+Dialogue: 0,0:21:23.00,0:21:26.27,Default,,0000,0000,0000,,But you can only win back\None crew member per game!
+Dialogue: 0,0:21:26.29,0:21:32.01,Default,,0000,0000,0000,,In short, if by some incredibly\Nrare chance you win the next round...
+Dialogue: 0,0:21:32.03,0:21:34.93,Default,,0000,0000,0000,,Get to the point, Split-Head.
+Dialogue: 0,0:21:34.95,0:21:36.55,Default,,0000,0000,0000,,Split...
+Dialogue: 0,0:21:36.57,0:21:39.17,Default,,0000,0000,0000,,In other words, there's only one round left,
+Dialogue: 0,0:21:39.19,0:21:43.61,Default,,0000,0000,0000,,so even if you win it, you can\Nonly take one person back.
+Dialogue: 0,0:21:43.63,0:21:45.17,Default,,0000,0000,0000,,Huh?
+Dialogue: 0,0:21:45.19,0:21:48.73,Default,,0000,0000,0000,,Struggle as you might, Straw Hat,\Nyou can't change the fact
+Dialogue: 0,0:21:48.75,0:21:56.75,Default,,0000,0000,0000,,that you've already lost one\Nof your crewmates for good!
+Dialogue: 0,0:22:07.04,0:22:09.14,Default,,0000,0000,0000,,{\i1}A piece of a dream that we started grasping{\i0}
+Dialogue: 0,0:22:09.16,0:22:12.69,Default,,0000,0000,0000,,{\i1}Chasing after something constant{\i0}
+Dialogue: 0,0:22:12.71,0:22:18.28,Default,,0000,0000,0000,,{\i1}We send our aspirations sailing into the sky{\i0}
+Dialogue: 0,0:22:18.30,0:22:20.57,Default,,0000,0000,0000,,{\i1}Even when we're exhausted{\i0}
+Dialogue: 0,0:22:20.59,0:22:23.74,Default,,0000,0000,0000,,{\i1}We have a compass that can\Nsearch for something constant{\i0}
+Dialogue: 0,0:22:23.76,0:22:29.16,Default,,0000,0000,0000,,{\i1}Say, do you think we can keep it forever?{\i0}
+Dialogue: 0,0:22:29.18,0:22:32.08,Default,,0000,0000,0000,,{\i1}At the end of the dream\Nthat we will reach someday{\i0}
+Dialogue: 0,0:22:32.10,0:22:34.88,Default,,0000,0000,0000,,{\i1}We want to be adults as we\Nare now as much as possible{\i0}
+Dialogue: 0,0:22:34.90,0:22:37.84,Default,,0000,0000,0000,,{\i1}We pray to this endless sky that we look up at{\i0}
+Dialogue: 0,0:22:37.86,0:22:40.92,Default,,0000,0000,0000,,{\i1}Eternally... Eternally...{\i0}
+Dialogue: 0,0:22:40.94,0:22:43.72,Default,,0000,0000,0000,,{\i1}Wild fantasies from our childhood{\i0}
+Dialogue: 0,0:22:43.74,0:22:46.55,Default,,0000,0000,0000,,{\i1}We trace unforgettable memories{\i0}
+Dialogue: 0,0:22:46.57,0:22:52.23,Default,,0000,0000,0000,,{\i1}And try to keep the embers\Nburning that still consume us{\i0}
+Dialogue: 0,0:22:52.25,0:22:55.02,Default,,0000,0000,0000,,{\i1}To this familiar sunny sky{\i0}
+Dialogue: 0,0:22:55.04,0:22:57.86,Default,,0000,0000,0000,,{\i1}Together we entrust our feelings{\i0}
+Dialogue: 0,0:22:57.88,0:23:00.44,Default,,0000,0000,0000,,{\i1}We go beyond the changing time{\i0}
+Dialogue: 0,0:23:00.46,0:23:08.46,Default,,0000,0000,0000,,{\i1}Eternally... Eternally...{\i0}
+Dialogue: 0,0:23:11.50,0:23:15.47,Default,,0000,0000,0000,,Hey! Split-Head! Quit your blabbing\Nand start the next match already!
+Dialogue: 0,0:23:15.49,0:23:18.25,Default,,0000,0000,0000,,--Do you even understand the situation?!\N--Luffy!
+Dialogue: 0,0:23:18.27,0:23:20.04,Default,,0000,0000,0000,,He's surprisingly cold-hearted.
+Dialogue: 0,0:23:20.06,0:23:24.20,Default,,0000,0000,0000,,His brotherly soul is burning\Nred-hot for you guys! Ain't it so?!
+Dialogue: 0,0:23:24.22,0:23:25.91,Default,,0000,0000,0000,,Oh, yeah!
+Dialogue: 0,0:23:25.93,0:23:27.16,Default,,0000,0000,0000,,On the next episode of One Piece!
+Dialogue: 0,0:23:27.18,0:23:30.26,Default,,0000,0000,0000,,"The Captains Square Off!\NThe Final Combat Round!"
+Dialogue: 0,0:23:30.28,0:23:38.28,Default,,0000,0000,0000,,King of the Pirates! Oh, yeah!

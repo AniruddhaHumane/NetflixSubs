@@ -1,0 +1,382 @@
+﻿[Script Info]
+Title: English (US)
+Original Script: ToeiAnimation  [http://www.crunchyroll.com/user/ToeiAnimation]
+Original Translation: 
+Original Editing: 
+Original Timing: 
+Synch Point: 
+Script Updated By: 
+Update Details: 
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 640
+PlayResY: 360
+Timer: 0.0000
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name,Fontname,Fontsize,PrimaryColour,SecondaryColour,OutlineColour,BackColour,Bold,Italic,Underline,Strikeout,ScaleX,ScaleY,Spacing,Angle,BorderStyle,Outline,Shadow,Alignment,MarginL,MarginR,MarginV,Encoding
+Style: B1,Arial,32,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,2,0070,0070,0030,0
+Style: OS,Arial,18,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,8,0001,0001,0015,0
+Style: Default,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,2,0020,0020,0022,0
+Style: Italics,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,-1,0,0,100,100,0,0,1,2,1,2,0020,0020,0022,0
+Style: Ep Title,Arial,18,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,3,0170,0070,0020,0
+Style: Copy of Ep Title,Arial,18,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,3,0070,0226,0065,0
+Style: On Top,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,8,0020,0020,0022,0
+Style: Copy of OS,Arial,18,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,9,0020,0020,0020,0
+Style: DefaultLow,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,2,0020,0020,0010,0
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:04.06,0:00:06.55,Default,,0000,0000,0000,,{\i1}Gold Roger, the King of the Pirates,
+Dialogue: 0,0:00:06.57,0:00:09.46,Italics,,0000,0000,0000,,\Nonce attained everything this world has to offer.{\i0}
+Dialogue: 0,0:00:09.48,0:00:11.59,Default,,0000,0000,0000,,{\i1}The words he uttered \Njust before his death
+Dialogue: 0,0:00:11.61,0:00:14.13,Italics,,0000,0000,0000,,\Ndrove people around the world to the seas.{\i0}
+Dialogue: 0,0:00:14.15,0:00:17.47,Default,,0000,0000,0000,,My treasure?\NIf you want it, you can have it!
+Dialogue: 0,0:00:17.49,0:00:21.30,Default,,0000,0000,0000,,Find it! I left everything\Nthis world has to offer there!
+Dialogue: 0,0:00:21.32,0:00:23.75,Default,,0000,0000,0000,,{\i1}Now everyone is in \Nsearch of romanticism!{\i0}
+Dialogue: 0,0:00:23.77,0:00:26.48,Default,,0000,0000,0000,,{\i1}The world has truly entered \Na Great Pirate Era!{\i0}
+Dialogue: 0,0:00:26.50,0:00:26.48,Default,,0000,0000,0000,,{\i1}I can't stand still, I can't stop{\i0}
+Dialogue: 0,0:00:26.50,0:00:30.39,On Top,,0000,0000,0000,,{\i1}jitto dekinai tomarenai{\i0}
+Dialogue: 0,0:00:30.41,0:00:30.39,Default,,0000,0000,0000,,{\i1}Daybreak hasn't come \Nyet and I can't wait{\i0}
+Dialogue: 0,0:00:30.41,0:00:34.79,On Top,,0000,0000,0000,,{\i1}yoake ga osokute jirettai{\i0}
+Dialogue: 0,0:00:34.81,0:00:34.79,Default,,0000,0000,0000,,{\i1}One, two, Sunshine four...WE GO!{\i0}
+Dialogue: 0,0:00:34.81,0:00:39.93,On Top,,0000,0000,0000,,{\i1}ichi, ni, Sunshine yon...we go!{\i0}
+Dialogue: 0,0:00:39.95,0:00:39.93,Default,,0000,0000,0000,,{\i1}Fly the flag, Break of Romance Dawn{\i0}
+Dialogue: 0,0:00:39.95,0:00:45.27,On Top,,0000,0000,0000,,{\i1}hata wo ageyou Break of Romance Dawn{\i0}
+Dialogue: 0,0:00:45.29,0:00:45.27,Default,,0000,0000,0000,,{\i1}Make waves, jump from your sleep{\i0}
+Dialogue: 0,0:00:45.29,0:00:50.71,On Top,,0000,0000,0000,,{\i1}namikaze tateyou suriipu \Nkara no janpusutaato{\i0}
+Dialogue: 0,0:00:50.73,0:00:50.71,Default,,0000,0000,0000,,{\i1}If you want to go to \Nthe unbelievable world{\i0}
+Dialogue: 0,0:00:50.73,0:00:55.24,On Top,,0000,0000,0000,,{\i1}arienai sekai wo iku nara{\i0}
+Dialogue: 0,0:00:55.26,0:00:55.24,Default,,0000,0000,0000,,{\i1}your toughness, that's what it takes{\i0}
+Dialogue: 0,0:00:55.26,0:01:00.02,On Top,,0000,0000,0000,,{\i1}kimi no tafunesu sore ga hitsuyou{\i0}
+Dialogue: 0,0:01:00.04,0:01:00.02,Default,,0000,0000,0000,,{\i1}Being brazen, is it a crime?{\i0}
+Dialogue: 0,0:01:00.04,0:01:02.62,On Top,,0000,0000,0000,,{\i1}medachisugi sorette tsumi?{\i0}
+Dialogue: 0,0:01:02.64,0:01:02.62,Default,,0000,0000,0000,,{\i1}Wanted->means Winner:D{\i0}
+Dialogue: 0,0:01:02.64,0:01:05.79,On Top,,0000,0000,0000,,{\i1}shimeitehai->tsumari Winner:D{\i0}
+Dialogue: 0,0:01:05.81,0:01:05.79,Default,,0000,0000,0000,,{\i1}Freedom is our only rule{\i0}
+Dialogue: 0,0:01:05.81,0:01:11.46,On Top,,0000,0000,0000,,{\i1}jiyuu dakega ore tachi no ruuru{\i0}
+Dialogue: 0,0:01:11.48,0:01:11.46,Default,,0000,0000,0000,,{\i1}It's not our way to worry{\i0}
+Dialogue: 0,0:01:11.48,0:01:16.97,On Top,,0000,0000,0000,,{\i1}shinpai nante dokofuku kaze--{\i0}
+Dialogue: 0,0:01:16.99,0:01:16.97,Default,,0000,0000,0000,,{\i1}At any cost, One Piece, \NI'll be the first{\i0}
+Dialogue: 0,0:01:16.99,0:01:19.50,On Top,,0000,0000,0000,,{\i1}ttai one piece ichibannori{\i0}
+Dialogue: 0,0:01:19.52,0:01:19.50,Default,,0000,0000,0000,,{\i1}My dreaming heart is huge{\i0}
+Dialogue: 0,0:01:19.52,0:01:23.51,On Top,,0000,0000,0000,,{\i1}yume miru kokoro wa choo dekai{\i0}
+Dialogue: 0,0:01:23.53,0:01:23.51,Default,,0000,0000,0000,,{\i1}It's important not to wake up{\i0}
+Dialogue: 0,0:01:23.53,0:01:27.74,On Top,,0000,0000,0000,,{\i1}samenai koto ga daiji--{\i0}
+Dialogue: 0,0:01:27.76,0:01:27.74,Default,,0000,0000,0000,,{\i1}I can't stand still, I can't stop{\i0}
+Dialogue: 0,0:01:27.76,0:01:30.38,On Top,,0000,0000,0000,,{\i1}tto dekinai tomarenai{\i0}
+Dialogue: 0,0:01:30.40,0:01:30.38,Default,,0000,0000,0000,,{\i1}Daybreak hasn't come \Nyet and I can't wait{\i0}
+Dialogue: 0,0:01:30.40,0:01:34.52,On Top,,0000,0000,0000,,{\i1}yoake ga osokute jirettai{\i0}
+Dialogue: 0,0:01:34.54,0:01:34.52,Default,,0000,0000,0000,,{\i1}One, two, Sunshine four...WE GO!{\i0}
+Dialogue: 0,0:01:34.54,0:01:39.69,On Top,,0000,0000,0000,,{\i1}ichi, ni, Sunshine yon...we go!{\i0}
+Dialogue: 0,0:01:39.71,0:01:39.69,Default,,0000,0000,0000,,{\i1}We...made it this far{\i0}
+Dialogue: 0,0:01:39.71,0:01:45.70,On Top,,0000,0000,0000,,{\i1}ore tachi wa...koko made kitaze{\i0}
+Dialogue: 0,0:01:45.72,0:01:45.70,Default,,0000,0000,0000,,{\i1}We go...to where the dream is{\i0}
+Dialogue: 0,0:01:45.72,0:01:48.60,On Top,,0000,0000,0000,,{\i1}ore tachi wa iku...yume no arika e{\i0}
+Dialogue: 0,0:01:48.62,0:01:48.60,Default,,0000,0000,0000,,{\i1}We won't left anyone behind{\i0}
+Dialogue: 0,0:01:48.62,0:01:53.54,On Top,,0000,0000,0000,,{\i1}dare mo oitekanaize--{\i0}
+Dialogue: 0,0:01:53.56,0:01:53.54,Default,,0000,0000,0000,,{\i1}Keep going forward, that's our pledge{\i0}
+Dialogue: 0,0:01:53.56,0:01:56.24,On Top,,0000,0000,0000,,{\i1}nshin aru nomi sore ga chikai{\i0}
+Dialogue: 0,0:01:56.26,0:01:56.24,Default,,0000,0000,0000,,{\i1}Since the day that the dream began{\i0}
+Dialogue: 0,0:01:56.26,0:02:00.24,On Top,,0000,0000,0000,,{\i1}yume ga hajimatta ano hi kara{\i0}
+Dialogue: 0,0:02:00.26,0:02:00.24,Default,,0000,0000,0000,,{\i1}the future that I'm \Naiming at hasn't changed{\i0}
+Dialogue: 0,0:02:00.26,0:02:04.55,On Top,,0000,0000,0000,,{\i1}mezasu mirai wa onaji--{\i0}
+Dialogue: 0,0:02:04.57,0:02:04.55,Default,,0000,0000,0000,,{\i1}I can't stand still, I can't stop{\i0}
+Dialogue: 0,0:02:04.57,0:02:07.15,On Top,,0000,0000,0000,,{\i1}tto dekinai tomarenai{\i0}
+Dialogue: 0,0:02:07.17,0:02:07.15,Default,,0000,0000,0000,,{\i1}The sun of my heart will never set{\i0}
+Dialogue: 0,0:02:07.17,0:02:11.59,On Top,,0000,0000,0000,,{\i1}kokoro no taiyou shizumanai{\i0}
+Dialogue: 0,0:02:11.61,0:02:11.59,Default,,0000,0000,0000,,{\i1}One, two, Sunshine{\i0}
+Dialogue: 0,0:02:11.61,0:02:15.76,On Top,,0000,0000,0000,,{\i1}ichi, ni, Sunshine{\i0}
+Dialogue: 0,0:02:15.78,0:02:15.76,Default,,0000,0000,0000,,{\i1}One, two, Sunshine{\i0}
+Dialogue: 0,0:02:15.78,0:02:19.73,On Top,,0000,0000,0000,,{\i1}ichi, ni, Sunshine{\i0}
+Dialogue: 0,0:02:19.75,0:02:19.73,Italics,,0000,0000,0000,,{\i1}One, two, Sunshine four...WE GO!{\i0}
+Dialogue: 0,0:02:19.75,0:02:27.75,On Top,,0000,0000,0000,,{\i1}ichi, ni, Sunshine yon...we go!{\i0}
+Dialogue: 0,0:02:28.22,0:02:28.20,Italics,,0000,0000,0000,,{\i1}WE GO!{\i0}
+Dialogue: 0,0:02:28.22,0:02:35.44,On Top,,0000,0000,0000,,{\i1}we go!{\i0}
+Dialogue: 0,0:02:35.46,0:02:38.71,Italics,,0000,0000,0000,,{\i1}All the pirates who are \Nafter the One Piece...{\i0}
+Dialogue: 0,0:02:38.73,0:02:45.92,Italics,,0000,0000,0000,,{\i1}...head for the New World,\Nthe second half of the Grand Line.{\i0}
+Dialogue: 0,0:02:45.94,0:02:49.31,Italics,,0000,0000,0000,,{\i1}However, no one has \Never fully explored it
+Dialogue: 0,0:02:49.33,0:02:53.49,Italics,,0000,0000,0000,,\Nexcept for Gold Roger, King of the Pirates.{\i0}
+Dialogue: 0,0:02:53.51,0:03:00.61,Italics,,0000,0000,0000,,{\i1}The New World has ruined\Nmany pirates' dreams and ambitions.{\i0}
+Dialogue: 0,0:03:00.63,0:03:03.47,Italics,,0000,0000,0000,,{\i1}Now, Monkey D. Luffy, \Na boy whose body turned
+Dialogue: 0,0:03:03.49,0:03:06.66,Italics,,0000,0000,0000,,\Nto rubber after he ate the Gum-Gum Fruit,{\i0}
+Dialogue: 0,0:03:06.68,0:03:09.19,Italics,,0000,0000,0000,,{\i1}and his friends venture into that sea.{\i0}
+Dialogue: 0,0:03:09.21,0:03:16.61,Italics,,0000,0000,0000,,I'm gonna become the \NKing of the Pirates!
+Dialogue: 0,0:03:16.63,0:03:18.92,Italics,,0000,0000,0000,,{\i1}The Straw Hats finally \Nentered the New World,
+Dialogue: 0,0:03:18.94,0:03:21.82,Italics,,0000,0000,0000,,the harshest sea ruled \Nby the Four Emperors{\i0}
+Dialogue: 0,0:03:21.84,0:03:23.81,Italics,,0000,0000,0000,,{\i1}and landed on Punk Hazard;\Nan island with
+Dialogue: 0,0:03:23.83,0:03:26.26,Italics,,0000,0000,0000,,two parts, one burning, \Nthe other frozen.{\i0}
+Dialogue: 0,0:03:26.28,0:03:27.56,Italics,,0000,0000,0000,,{\i1}They learned about the puppet
+Dialogue: 0,0:03:27.58,0:03:29.83,Italics,,0000,0000,0000,,master of Shinokuni - \NCaesar Clown's motive{\i0}
+Dialogue: 0,0:03:29.85,0:03:32.65,Italics,,0000,0000,0000,,{\i1}and along with their pirate \Nally - Trafalgar Law,
+Dialogue: 0,0:03:32.67,0:03:35.04,Italics,,0000,0000,0000,,\Nwere drawn into a climactic battle{\i0}
+Dialogue: 0,0:03:35.06,0:03:38.43,Italics,,0000,0000,0000,,{\i1}which ended with Caesar's defeat.{\i0}
+Dialogue: 0,0:03:38.45,0:03:42.94,Default,,0000,0000,0000,,You haven't eaten anything until today,f\Nhave you?
+Dialogue: 0,0:03:42.96,0:03:45.70,Default,,0000,0000,0000,,That's my son!
+Dialogue: 0,0:03:45.72,0:03:49.16,Default,,0000,0000,0000,,But it must've been hard!
+Dialogue: 0,0:03:49.18,0:03:53.84,Default,,0000,0000,0000,,You don't have to worry \Nabout anything anymore!
+Dialogue: 0,0:03:53.86,0:03:58.52,Default,,0000,0000,0000,,Let's hope that everybody \Nelse is okay, too!
+Dialogue: 0,0:03:58.54,0:04:00.08,Default,,0000,0000,0000,,Now,
+Dialogue: 0,0:04:00.10,0:04:04.95,Default,,0000,0000,0000,,let's keep living, Momonosuke!
+Dialogue: 0,0:04:04.97,0:04:12.86,Default,,0000,0000,0000,,Uh-huh.
+Dialogue: 0,0:04:12.88,0:04:15.46,Default,,0000,0000,0000,,Guys!
+Dialogue: 0,0:04:15.48,0:04:18.12,Default,,0000,0000,0000,,Somebody's coming after us.
+Dialogue: 0,0:04:18.14,0:04:19.87,Default,,0000,0000,0000,,So...
+Dialogue: 0,0:04:19.89,0:04:21.54,Default,,0000,0000,0000,,...you gotta hurry!
+Dialogue: 0,0:04:21.56,0:04:27.97,Default,,0000,0000,0000,,It's a banquet!
+Dialogue: 0,0:04:27.99,0:04:35.99,Default,,0000,0000,0000,,{\i1}Thus, they started the victory banquet.{\i0}
+Dialogue: 0,0:04:36.86,0:04:44.03,Default,,0000,0000,0000,,{\i1}"It's Time to Say Goodbye!\NLeaving Punk Hazard!"{\i0}
+Dialogue: 0,0:04:44.05,0:04:52.05,Default,,0000,0000,0000,,{\i1}Super{\i0}!
+Dialogue: 0,0:04:53.39,0:04:56.02,Default,,0000,0000,0000,,Law.
+Dialogue: 0,0:04:56.04,0:04:58.80,Default,,0000,0000,0000,,I know you don't really think that
+Dialogue: 0,0:04:58.82,0:05:04.47,Default,,0000,0000,0000,,\NI'll keep my promise with a pirate like you.
+Dialogue: 0,0:05:04.49,0:05:06.46,Default,,0000,0000,0000,,But if you really wanted to silence me,
+Dialogue: 0,0:05:06.48,0:05:10.81,Default,,0000,0000,0000,,there were several occasions \Nthat you could've killed me.
+Dialogue: 0,0:05:10.83,0:05:14.40,Default,,0000,0000,0000,,What are you up to,\Ntaking advantage of Straw Hat?
+Dialogue: 0,0:05:14.42,0:05:19.73,Default,,0000,0000,0000,,I'm taking advantage of him?\NMaybe he's taking advantage of me.
+Dialogue: 0,0:05:19.75,0:05:22.96,Default,,0000,0000,0000,,Which of the Four Emperors \Nare you talking about?
+Dialogue: 0,0:05:22.98,0:05:25.34,Default,,0000,0000,0000,,The Emperor's name is...
+Dialogue: 0,0:05:25.36,0:05:29.72,Default,,0000,0000,0000,,...Kaido, the King of the Beasts!
+Dialogue: 0,0:05:29.74,0:05:31.99,Default,,0000,0000,0000,,As long as Shanks is not \Nthe first one to fight,
+Dialogue: 0,0:05:32.01,0:05:33.79,Default,,0000,0000,0000,,\NI have no problem.
+Dialogue: 0,0:05:33.81,0:05:35.09,Default,,0000,0000,0000,,Because...
+Dialogue: 0,0:05:35.11,0:05:38.83,Default,,0000,0000,0000,,...I plan to beat all \Nof the Four Emperors!
+Dialogue: 0,0:05:38.85,0:05:41.48,Default,,0000,0000,0000,,"Beat all of the Four Emperors"?
+Dialogue: 0,0:05:41.50,0:05:45.05,Default,,0000,0000,0000,,We share a mutual interest\Nbut you're underestimating them.
+Dialogue: 0,0:05:45.07,0:05:46.76,Default,,0000,0000,0000,,They are the emperors of the sea
+Dialogue: 0,0:05:46.78,0:05:51.33,Default,,0000,0000,0000,,who have skirmished over territories \Neven against Whitebeard himself.
+Dialogue: 0,0:05:51.35,0:05:55.39,Default,,0000,0000,0000,,And above all, they say Kaido, \Nthe King of the Beasts
+Dialogue: 0,0:05:55.41,0:05:57.59,Default,,0000,0000,0000,,\Nis the strongest creature in the world.
+Dialogue: 0,0:05:57.61,0:06:01.68,Default,,0000,0000,0000,,Huh? What? He's not even a human?!
+Dialogue: 0,0:06:01.70,0:06:05.94,Default,,0000,0000,0000,,We'll ally with each other \Nuntil we kill Kaido.
+Dialogue: 0,0:06:05.96,0:06:08.77,Default,,0000,0000,0000,,And our chances of success are...
+Dialogue: 0,0:06:08.79,0:06:11.49,Default,,0000,0000,0000,,Well, I'll just say they're really low.
+Dialogue: 0,0:06:11.51,0:06:19.14,Default,,0000,0000,0000,,What?! We shouldn't go \Nalong with this, Luffy!
+Dialogue: 0,0:06:19.16,0:06:22.05,Default,,0000,0000,0000,,I see.
+Dialogue: 0,0:06:22.07,0:06:24.11,Default,,0000,0000,0000,,Okay, let's do it!
+Dialogue: 0,0:06:24.13,0:06:26.08,Default,,0000,0000,0000,,What?!
+Dialogue: 0,0:06:26.10,0:06:31.14,Default,,0000,0000,0000,,Wait a minute!
+Dialogue: 0,0:06:31.16,0:06:32.98,Default,,0000,0000,0000,,There is no particular reason
+Dialogue: 0,0:06:33.00,0:06:36.09,Default,,0000,0000,0000,,that I didn't kill you, White Chase-{\i1}ya{\i0}.
+Dialogue: 0,0:06:36.11,0:06:38.59,Default,,0000,0000,0000,,By the way,
+Dialogue: 0,0:06:38.61,0:06:41.82,Default,,0000,0000,0000,,I'm thinking about going to Green Bit.
+Dialogue: 0,0:06:41.84,0:06:49.84,Default,,0000,0000,0000,,I wonder if I can handle the Straw Hats.
+Dialogue: 0,0:06:52.87,0:06:54.00,Default,,0000,0000,0000,,You're doing great!
+Dialogue: 0,0:06:54.02,0:06:57.62,Default,,0000,0000,0000,,He can barely lift the kid up!
+Dialogue: 0,0:06:57.64,0:06:59.06,Default,,0000,0000,0000,,Gum-Gum...
+Dialogue: 0,0:06:59.08,0:07:02.08,Default,,0000,0000,0000,,...Big-eater!
+Dialogue: 0,0:07:02.10,0:07:05.01,Default,,0000,0000,0000,,Brother Luffy, you're big!
+Dialogue: 0,0:07:05.03,0:07:07.88,Default,,0000,0000,0000,,--Stretchy!\N--Cool!
+Dialogue: 0,0:07:07.90,0:07:09.90,Default,,0000,0000,0000,,Mocha, are you alright?
+Dialogue: 0,0:07:09.92,0:07:10.89,Default,,0000,0000,0000,,Aren't you cold?
+Dialogue: 0,0:07:10.91,0:07:18.71,Default,,0000,0000,0000,,Uh-huh, I'm fine!
+Dialogue: 0,0:07:18.73,0:07:20.98,Default,,0000,0000,0000,,You guys are kind of nice!
+Dialogue: 0,0:07:21.00,0:07:29.00,Default,,0000,0000,0000,,Shut up! We are the fearsome Navy G-5!
+Dialogue: 0,0:07:34.19,0:07:42.19,Default,,0000,0000,0000,,Law!
+Dialogue: 0,0:07:46.08,0:07:49.24,Default,,0000,0000,0000,,It's all ready now!
+Dialogue: 0,0:07:49.26,0:07:52.05,Default,,0000,0000,0000,,I thought you guys were \Ngonna take the tanker.
+Dialogue: 0,0:07:52.07,0:07:56.90,Default,,0000,0000,0000,,Well, no, because Nami \Nand Chopper claimed
+Dialogue: 0,0:07:56.92,0:08:01.98,Default,,0000,0000,0000,,we're not going anywhere until \Nwe see the children sailing out.
+Dialogue: 0,0:08:02.00,0:08:05.20,Default,,0000,0000,0000,,It's a pain to wait \Nfor other Navy people
+Dialogue: 0,0:08:05.22,0:08:07.84,Default,,0000,0000,0000,,so take the tanker with the children.
+Dialogue: 0,0:08:07.86,0:08:10.28,Default,,0000,0000,0000,,Get on board, kids!
+Dialogue: 0,0:08:10.30,0:08:14.45,Default,,0000,0000,0000,,We're gonna take you home!
+Dialogue: 0,0:08:14.47,0:08:21.04,Default,,0000,0000,0000,,There is no need to hurry. One by one.
+Dialogue: 0,0:08:21.06,0:08:28.30,Default,,0000,0000,0000,,Take care!
+Dialogue: 0,0:08:28.32,0:08:31.08,Default,,0000,0000,0000,,Hey hey, Straw Hats!
+Dialogue: 0,0:08:31.10,0:08:34.14,Default,,0000,0000,0000,,If the tanker is ours,
+Dialogue: 0,0:08:34.16,0:08:35.98,Default,,0000,0000,0000,,this is the line!
+Dialogue: 0,0:08:36.00,0:08:38.38,Default,,0000,0000,0000,,Don't think of crossing it!
+Dialogue: 0,0:08:38.40,0:08:40.70,Default,,0000,0000,0000,,\NThis is the line between good and evil!
+Dialogue: 0,0:08:40.72,0:08:42.92,Default,,0000,0000,0000,,Don't step on it! Stay away!
+Dialogue: 0,0:08:42.94,0:08:46.38,Default,,0000,0000,0000,,Again?! You were enjoying the banquet\Na few minutes ago.
+Dialogue: 0,0:08:46.40,0:08:48.86,Default,,0000,0000,0000,,No, no! No, idiot!
+Dialogue: 0,0:08:48.88,0:08:50.95,Default,,0000,0000,0000,,About that, we really...
+Dialogue: 0,0:08:50.97,0:08:53.19,Default,,0000,0000,0000,,...Thank you for the meal!
+Dialogue: 0,0:08:53.21,0:09:01.21,Default,,0000,0000,0000,,But you guys are pirates!\NA dishonor to the human race!
+Dialogue: 0,0:09:02.21,0:09:04.07,Default,,0000,0000,0000,,Looks like they're leaving.
+Dialogue: 0,0:09:04.09,0:09:10.43,Default,,0000,0000,0000,,1, 2, 3!
+Dialogue: 0,0:09:10.45,0:09:11.80,Default,,0000,0000,0000,,Hm? What's that?
+Dialogue: 0,0:09:11.82,0:09:13.41,Default,,0000,0000,0000,,Big Sis Nami!
+Dialogue: 0,0:09:13.43,0:09:15.30,Default,,0000,0000,0000,,Chopper-{\i1}chan{\i0}!
+Dialogue: 0,0:09:15.32,0:09:19.57,Default,,0000,0000,0000,,--Where is the robot?\N--Oh? Where are the pirates?
+Dialogue: 0,0:09:19.59,0:09:22.32,Default,,0000,0000,0000,,Take that down! How annoying!
+Dialogue: 0,0:09:22.34,0:09:23.64,Default,,0000,0000,0000,,It's a barrier!
+Dialogue: 0,0:09:23.66,0:09:25.52,Default,,0000,0000,0000,,\NEven just looking at pirates hurts your eyes!
+Dialogue: 0,0:09:25.54,0:09:29.38,Default,,0000,0000,0000,,You guys are not so \Ndifferent from us, G-5!
+Dialogue: 0,0:09:29.40,0:09:33.06,Default,,0000,0000,0000,,But they got on board safely.
+Dialogue: 0,0:09:33.08,0:09:34.50,Default,,0000,0000,0000,,Hey!
+Dialogue: 0,0:09:34.52,0:09:37.08,Default,,0000,0000,0000,,--Brother!\N--Sis!
+Dialogue: 0,0:09:37.10,0:09:38.73,Default,,0000,0000,0000,,Shut up! Shut up! Shut up!
+Dialogue: 0,0:09:38.75,0:09:40.96,Default,,0000,0000,0000,,We are the champions of justice!
+Dialogue: 0,0:09:40.98,0:09:48.98,Default,,0000,0000,0000,,And we're gonna exterminate all pirates\Nwho cause civilians grief!
+Dialogue: 0,0:09:56.68,0:09:59.49,Default,,0000,0000,0000,,Pirates are the scum of the world!
+Dialogue: 0,0:09:59.51,0:10:03.52,Default,,0000,0000,0000,,And we're men of justice!\NDon't let the kids see them!
+Dialogue: 0,0:10:03.54,0:10:05.40,Default,,0000,0000,0000,,--Sis!\N--Robot!
+Dialogue: 0,0:10:05.42,0:10:07.00,Default,,0000,0000,0000,,No! You shouldn't see them!
+Dialogue: 0,0:10:07.02,0:10:09.18,Default,,0000,0000,0000,,--Brother!\N--Where are you?!
+Dialogue: 0,0:10:09.20,0:10:10.92,Default,,0000,0000,0000,,You don't wanna see them!
+Dialogue: 0,0:10:10.94,0:10:12.61,Default,,0000,0000,0000,,--They lifted it up!\N--Move it!
+Dialogue: 0,0:10:12.63,0:10:13.58,Default,,0000,0000,0000,,I can't see them!
+Dialogue: 0,0:10:13.60,0:10:15.74,Default,,0000,0000,0000,,You shouldn't see them, brats!
+Dialogue: 0,0:10:15.76,0:10:19.93,Default,,0000,0000,0000,,It's nice to see them well \Nand yelling like that.
+Dialogue: 0,0:10:19.95,0:10:24.17,Default,,0000,0000,0000,,She said she'll ask Vegapunk for \Nassistance about their treatment.
+Dialogue: 0,0:10:24.19,0:10:26.23,Default,,0000,0000,0000,,Oh yeah?! That's great!
+Dialogue: 0,0:10:26.25,0:10:30.42,Default,,0000,0000,0000,,Franky, I've been thinking.
+Dialogue: 0,0:10:30.44,0:10:34.43,Default,,0000,0000,0000,,What happened to the Mini-Merry\Nafter we took it to get to the island?
+Dialogue: 0,0:10:34.45,0:10:38.76,Default,,0000,0000,0000,,Oh, Robin! You're the fifth person\Nto ask that question.
+Dialogue: 0,0:10:38.78,0:10:41.23,Default,,0000,0000,0000,,Don't make eye-contact \Nwith those trashy pirates!
+Dialogue: 0,0:10:41.25,0:10:42.67,Default,,0000,0000,0000,,\NIt'll ruin your eyes!
+Dialogue: 0,0:10:42.69,0:10:45.78,Default,,0000,0000,0000,,But we Navy won't let it happen!
+Dialogue: 0,0:10:45.80,0:10:48.29,Default,,0000,0000,0000,,We're men of justice!
+Dialogue: 0,0:10:48.31,0:10:49.90,Default,,0000,0000,0000,,Run, guys!
+Dialogue: 0,0:10:49.92,0:10:51.67,Default,,0000,0000,0000,,The deadly gas from earlier!
+Dialogue: 0,0:10:51.69,0:10:53.08,Default,,0000,0000,0000,,What?!
+Dialogue: 0,0:10:53.10,0:10:58.22,Default,,0000,0000,0000,,Run if you don't wanna die!
+Dialogue: 0,0:10:58.24,0:11:00.99,Default,,0000,0000,0000,,We're... men of justice!
+Dialogue: 0,0:11:01.01,0:11:03.06,Default,,0000,0000,0000,,The spiral-eyebrowed brother!
+Dialogue: 0,0:11:03.08,0:11:04.69,Default,,0000,0000,0000,,The Navy's in our way!
+Dialogue: 0,0:11:04.71,0:11:08.91,Default,,0000,0000,0000,,Move!
+Dialogue: 0,0:11:08.93,0:11:12.34,Default,,0000,0000,0000,,If you wanna say goodbye to \Npirates, you're a bad kid!
+Dialogue: 0,0:11:12.36,0:11:13.94,Default,,0000,0000,0000,,If you say "Thank you" to them,
+Dialogue: 0,0:11:13.96,0:11:19.58,Default,,0000,0000,0000,,we'll drag you out of the \Ntanker and leave you here!
+Dialogue: 0,0:11:19.60,0:11:25.14,Default,,0000,0000,0000,,Listen! Pirates are bad \Nand the Navy is good!
+Dialogue: 0,0:11:25.16,0:11:29.40,Default,,0000,0000,0000,,Pirates have been causing \Nso much chaos in the world!
+Dialogue: 0,0:11:29.42,0:11:31.49,Default,,0000,0000,0000,,You should know that even \Nif you're just a kid!
+Dialogue: 0,0:11:31.51,0:11:37.81,Default,,0000,0000,0000,,We'll never forgive pirates!\NBecause we should not!
+Dialogue: 0,0:11:37.83,0:11:41.61,Default,,0000,0000,0000,,Unforgivable! Unforgivable!\NPirates are unforgivable!
+Dialogue: 0,0:11:41.63,0:11:45.14,Default,,0000,0000,0000,,We don't want pirates!\NSay "No" to pirates!
+Dialogue: 0,0:11:45.16,0:11:48.67,Default,,0000,0000,0000,,We don't want pirates!\NPirates are unforgivable!
+Dialogue: 0,0:11:48.69,0:11:52.04,Default,,0000,0000,0000,,We don't want pirates!\NSay "No" to pirates!
+Dialogue: 0,0:11:52.06,0:11:53.79,Default,,0000,0000,0000,,We don't want pirates!
+Dialogue: 0,0:11:53.81,0:11:58.20,Default,,0000,0000,0000,,But when we asked them to help us,
+Dialogue: 0,0:11:58.22,0:12:02.14,Default,,0000,0000,0000,,they helped us!
+Dialogue: 0,0:12:02.16,0:12:05.61,Default,,0000,0000,0000,,They didn't even know \Nwhat was going on with us
+Dialogue: 0,0:12:05.63,0:12:11.53,Default,,0000,0000,0000,,but they took us with them\Nwithout being bothered by our size!
+Dialogue: 0,0:12:11.55,0:12:13.59,Default,,0000,0000,0000,,I wanna go home!
+Dialogue: 0,0:12:13.61,0:12:16.59,Default,,0000,0000,0000,,We can go home soon! Hang tight!
+Dialogue: 0,0:12:16.61,0:12:20.30,Default,,0000,0000,0000,,There was nothing on the island\Nand no one had come to help us!
+Dialogue: 0,0:12:20.32,0:12:24.60,Default,,0000,0000,0000,,But they came!
+Dialogue: 0,0:12:24.62,0:12:26.61,Default,,0000,0000,0000,,I'm sorry!
+Dialogue: 0,0:12:26.63,0:12:32.13,Default,,0000,0000,0000,,That we didn't find you sooner!
+Dialogue: 0,0:12:32.15,0:12:35.65,Default,,0000,0000,0000,,Pirates stink and they're disgusting!
+Dialogue: 0,0:12:35.67,0:12:37.70,Default,,0000,0000,0000,,But the Navy is...
+Dialogue: 0,0:12:37.72,0:12:45.72,Default,,0000,0000,0000,,...always clean and beautiful!
+Dialogue: 0,0:12:45.76,0:12:49.23,Default,,0000,0000,0000,,Pirates are a bunch of cowards\Nand they're sloppy!
+Dialogue: 0,0:12:49.25,0:12:54.22,Default,,0000,0000,0000,,We don't want pirates!\NThe Navy is great!
+Dialogue: 0,0:12:54.24,0:12:59.13,Default,,0000,0000,0000,,If they don't let us say \N"Thank you" to them,
+Dialogue: 0,0:12:59.15,0:13:01.43,Default,,0000,0000,0000,,the Navy is...
+Dialogue: 0,0:13:01.45,0:13:03.08,Default,,0000,0000,0000,,Wait! I'm sorry!
+Dialogue: 0,0:13:03.10,0:13:06.36,Default,,0000,0000,0000,,We don't want pirates!\NThe Navy is great!
+Dialogue: 0,0:13:06.38,0:13:09.68,Default,,0000,0000,0000,,But, in contrast, the Navy is...
+Dialogue: 0,0:13:09.70,0:13:12.19,Default,,0000,0000,0000,,...very brave and righteous...
+Dialogue: 0,0:13:12.21,0:13:14.68,Default,,0000,0000,0000,,Stop it, you guys!
+Dialogue: 0,0:13:14.70,0:13:22.70,Default,,0000,0000,0000,,Shame on you!
+Dialogue: 0,0:13:27.55,0:13:29.13,Default,,0000,0000,0000,,B...
+Dialogue: 0,0:13:29.15,0:13:31.07,Default,,0000,0000,0000,,But Tashigi-{\i1}chan{\i0},
+Dialogue: 0,0:13:31.09,0:13:39.09,Default,,0000,0000,0000,,\Nunless we keep saying bad things about them,
+Dialogue: 0,0:13:39.43,0:13:44.69,Default,,0000,0000,0000,,we will start...
+Dialogue: 0,0:13:44.71,0:13:52.71,Default,,0000,0000,0000,,liking these outlaws!
+Dialogue: 0,0:13:58.68,0:14:06.68,Default,,0000,0000,0000,,E-Even though they're pirates!
+Dialogue: 0,0:14:20.37,0:14:28.37,Default,,0000,0000,0000,,They're odd Navy soldiers!
+Dialogue: 0,0:14:48.46,0:14:51.41,Default,,0000,0000,0000,,Pirate brothers and sisters!
+Dialogue: 0,0:14:51.43,0:14:53.95,Default,,0000,0000,0000,,Thank you for helping us!
+Dialogue: 0,0:14:53.97,0:14:56.91,Default,,0000,0000,0000,,When we grow up, we will become...
+Dialogue: 0,0:14:56.93,0:14:58.96,Default,,0000,0000,0000,,...Pirates!
+Dialogue: 0,0:14:58.98,0:15:02.96,Default,,0000,0000,0000,,Don't!
+Dialogue: 0,0:15:02.98,0:15:04.55,Default,,0000,0000,0000,,Take care!
+Dialogue: 0,0:15:04.57,0:15:06.76,Default,,0000,0000,0000,,Get good rest!
+Dialogue: 0,0:15:06.78,0:15:09.39,Default,,0000,0000,0000,,When you get home,\Nyou deserve to be spoiled by
+Dialogue: 0,0:15:09.41,0:15:11.61,Default,,0000,0000,0000,,your father and mother!
+Dialogue: 0,0:15:11.63,0:15:14.57,Default,,0000,0000,0000,,Kids! You gotta eat something healthy!
+Dialogue: 0,0:15:14.59,0:15:22.59,Default,,0000,0000,0000,,{\i1}Super{\i0}!
+Dialogue: 0,0:15:25.39,0:15:29.14,Default,,0000,0000,0000,,Alright, shall we go?
+Dialogue: 0,0:15:29.16,0:15:32.22,Default,,0000,0000,0000,,The weather is good considering \Nit's the New World.
+Dialogue: 0,0:15:32.24,0:15:37.57,Default,,0000,0000,0000,,But I know the sea will be rough.
+Dialogue: 0,0:15:37.59,0:15:40.52,Default,,0000,0000,0000,,Hey, is he coming with us?
+Dialogue: 0,0:15:40.54,0:15:43.81,Default,,0000,0000,0000,,Oh yeah! We haven't told \Nyou about the alliance.
+Dialogue: 0,0:15:43.83,0:15:46.78,Default,,0000,0000,0000,,Luffy got us involved in trouble again.
+Dialogue: 0,0:15:46.80,0:15:51.11,Default,,0000,0000,0000,,Straw Hat! Next time we see you,\Nwe'll take you down!
+Dialogue: 0,0:15:51.13,0:15:57.15,Default,,0000,0000,0000,,--You're our enemy next time!\N--Be ready for it!
+Dialogue: 0,0:15:57.17,0:16:00.80,Default,,0000,0000,0000,,See you!
+Dialogue: 0,0:16:00.82,0:16:08.82,Default,,0000,0000,0000,,We will catch you!
+Dialogue: 0,0:16:17.58,0:16:22.35,Default,,0000,0000,0000,,Whenever you're ready, Luffy!
+Dialogue: 0,0:16:22.37,0:16:23.96,Default,,0000,0000,0000,,Yeah!
+Dialogue: 0,0:16:23.98,0:16:27.40,Default,,0000,0000,0000,,Hey you, what's your name?!\NWhere are you?!
+Dialogue: 0,0:16:27.42,0:16:31.33,Default,,0000,0000,0000,,{\i1}Somebody please help me! I'm on...{\i0}
+Dialogue: 0,0:16:31.35,0:16:39.35,Default,,0000,0000,0000,,{\i1}...Punk Hazard!{\i0}
+Dialogue: 0,0:16:43.12,0:16:44.20,Default,,0000,0000,0000,,Who are they?
+Dialogue: 0,0:16:44.22,0:16:52.22,Default,,0000,0000,0000,,What?!
+Dialogue: 0,0:16:52.87,0:16:54.95,Default,,0000,0000,0000,,NHC10.
+Dialogue: 0,0:16:54.97,0:16:58.25,Default,,0000,0000,0000,,I detected it in their body.
+Dialogue: 0,0:16:58.27,0:17:01.98,Default,,0000,0000,0000,,Although it was just a trace amount,\Nit's...
+Dialogue: 0,0:17:02.00,0:17:10.00,Default,,0000,0000,0000,,...a drug!
+Dialogue: 0,0:17:13.45,0:17:15.27,Default,,0000,0000,0000,,There are children who were
+Dialogue: 0,0:17:15.29,0:17:18.49,Default,,0000,0000,0000,,kidnapped two years ago \Nin this laboratory!
+Dialogue: 0,0:17:18.51,0:17:21.41,Default,,0000,0000,0000,,Steal a ship and let's \Nescape from Punk Hazard!
+Dialogue: 0,0:17:21.43,0:17:24.93,Default,,0000,0000,0000,,Wait for me, Caesar!
+Dialogue: 0,0:17:24.95,0:17:32.95,Default,,0000,0000,0000,,I'll beat you up and kidnap you!
+Dialogue: 0,0:17:34.60,0:17:42.60,Default,,0000,0000,0000,,Mocha!!
+Dialogue: 0,0:17:45.98,0:17:49.14,Default,,0000,0000,0000,,Catch me if you can! But I'm protected!
+Dialogue: 0,0:17:49.16,0:17:52.13,Default,,0000,0000,0000,,Doflamingo! The Four Emperors!
+Dialogue: 0,0:17:52.15,0:17:55.85,Default,,0000,0000,0000,,Do you even have balls to \Npick a fight with them?
+Dialogue: 0,0:17:55.87,0:18:02.75,Default,,0000,0000,0000,,A fight?
+Dialogue: 0,0:18:02.77,0:18:04.48,Default,,0000,0000,0000,,I've been...
+Dialogue: 0,0:18:04.50,0:18:12.50,Default,,0000,0000,0000,,...picking fights all along!
+Dialogue: 0,0:18:13.67,0:18:18.32,Default,,0000,0000,0000,,Caesar!
+Dialogue: 0,0:18:18.34,0:18:21.46,Default,,0000,0000,0000,,Gum-Gum...
+Dialogue: 0,0:18:21.48,0:18:29.48,Default,,0000,0000,0000,,...Grizzly Magnum!
+Dialogue: 0,0:18:53.52,0:19:01.52,Default,,0000,0000,0000,,Let's sail out!
+Dialogue: 0,0:19:11.59,0:19:17.11,Default,,0000,0000,0000,,Looks like those squirts \Nhave the devil's luck.
+Dialogue: 0,0:19:17.13,0:19:25.13,Default,,0000,0000,0000,,I can't believe the \NSky Path ended there.
+Dialogue: 0,0:19:42.80,0:19:43.89,Default,,0000,0000,0000,,Young Master!
+Dialogue: 0,0:19:43.91,0:19:50.03,Default,,0000,0000,0000,,Damn! That bastard Law \Nreally betrayed us!
+Dialogue: 0,0:19:50.05,0:19:53.45,Default,,0000,0000,0000,,I'm sorry-{\i1}dasuyan{\i0}!\NI want to pay for it with death!
+Dialogue: 0,0:19:53.47,0:20:01.47,Default,,0000,0000,0000,,You needed me but I couldn't please you!
+Dialogue: 0,0:20:01.62,0:20:04.99,Default,,0000,0000,0000,,This is a life yacht \Nthat was on our tanker.
+Dialogue: 0,0:20:05.01,0:20:09.70,Default,,0000,0000,0000,,I'm so ashamed-{\i1}dasuyan{\i0}!\NAfter I hung up...
+Dialogue: 0,0:20:09.72,0:20:12.64,Default,,0000,0000,0000,,It's okay. You don't have to explain.
+Dialogue: 0,0:20:12.66,0:20:16.09,Default,,0000,0000,0000,,You two were just following my orders.
+Dialogue: 0,0:20:16.11,0:20:18.57,Default,,0000,0000,0000,,{\i1}What a surprise.{\i0}
+Dialogue: 0,0:20:18.59,0:20:21.98,Default,,0000,0000,0000,,{\i1}I didn't expect the boss \Nhimself to show up!{\i0}
+Dialogue: 0,0:20:22.00,0:20:23.06,Default,,0000,0000,0000,,Is that Law?
+Dialogue: 0,0:20:23.08,0:20:24.86,Default,,0000,0000,0000,,I haven't seen you for a while.
+Dialogue: 0,0:20:24.88,0:20:27.51,Default,,0000,0000,0000,,\NIt's a shame that you're not here.
+Dialogue: 0,0:20:27.53,0:20:31.74,Default,,0000,0000,0000,,{\i1}If you're looking for \NCaesar, he's with me.{\i0}
+Dialogue: 0,0:20:31.76,0:20:36.27,Default,,0000,0000,0000,,{\i1}J-Joker! Help me!{\i0}
+Dialogue: 0,0:20:36.29,0:20:40.40,Default,,0000,0000,0000,,Where are Baby 5 and Buffalo's bodies?
+Dialogue: 0,0:20:40.42,0:20:41.70,Default,,0000,0000,0000,,{\i1}I don't know.
+Dialogue: 0,0:20:41.72,0:20:44.28,Italics,,0000,0000,0000,,Don't ask me about \Nsuch frivolous things.{\i0}
+Dialogue: 0,0:20:44.30,0:20:52.30,Default,,0000,0000,0000,,{\i1}Let's negotiate.{\i0}
+Dialogue: 0,0:20:55.92,0:20:58.58,Default,,0000,0000,0000,,Hey Law, come to your senses.
+Dialogue: 0,0:20:58.60,0:21:02.37,Default,,0000,0000,0000,,A squirt like you shouldn't \Nimitate what grown-ups do.
+Dialogue: 0,0:21:02.39,0:21:07.19,Default,,0000,0000,0000,,Where are you now?\NDon't make me mad.
+Dialogue: 0,0:21:07.21,0:21:09.07,Default,,0000,0000,0000,,{\i1}Make you mad?{\i0}
+Dialogue: 0,0:21:09.09,0:21:14.55,Default,,0000,0000,0000,,{\i1}Your most important business partner is\None of the Four Emperors.{\i0}
+Dialogue: 0,0:21:14.57,0:21:18.22,Default,,0000,0000,0000,,{\i1}The big-time pirate - Kaido, \Nthe King of the Beasts.{\i0}
+Dialogue: 0,0:21:18.24,0:21:25.34,Default,,0000,0000,0000,,{\i1}And I know you can't make \Nhim mad at any cost.{\i0}
+Dialogue: 0,0:21:25.36,0:21:31.50,Default,,0000,0000,0000,,{\i1}What would happen if he finds out\Nyou can't produce SMILE anymore?{\i0}
+Dialogue: 0,0:21:31.52,0:21:36.40,Default,,0000,0000,0000,,{\i1}Since he's not the negotiating type,\Nthere'll probably be a fierce battle.{\i0}
+Dialogue: 0,0:21:36.42,0:21:39.46,Default,,0000,0000,0000,,Young Master, you're turning blue.
+Dialogue: 0,0:21:39.48,0:21:42.17,Default,,0000,0000,0000,,{\i1}And he'll destroy you.{\i0}
+Dialogue: 0,0:21:42.19,0:21:45.60,Default,,0000,0000,0000,,Hey, you carried the joke too far, Law.
+Dialogue: 0,0:21:45.62,0:21:47.92,Default,,0000,0000,0000,,What do you want in exchange for Caesar?
+Dialogue: 0,0:21:47.94,0:21:50.43,Default,,0000,0000,0000,,\NName your price.
+Dialogue: 0,0:21:50.45,0:21:55.44,Default,,0000,0000,0000,,{\i1}Resign from the Seven Warlords.{\i0}
+Dialogue: 0,0:21:55.46,0:21:57.80,Default,,0000,0000,0000,,I can't believe this squirt-{\i1}dasuyan{\i0}!
+Dialogue: 0,0:21:57.82,0:22:00.42,Default,,0000,0000,0000,,Then he can no longer stay in Dressrosa!
+Dialogue: 0,0:22:00.44,0:22:03.14,Default,,0000,0000,0000,,{\i1}All I want is for you \Nto abandon everything
+Dialogue: 0,0:22:03.16,0:22:04.95,Italics,,0000,0000,0000,,\Nthat you spent a decade to attain{\i0}
+Dialogue: 0,0:22:04.97,0:22:07.38,Default,,0000,0000,0000,,{\i1}and go back to being \Na common pirate again.{\i0}
+Dialogue: 0,0:22:07.40,0:22:10.00,Default,,0000,0000,0000,,{\i1}In that case, however,
+Dialogue: 0,0:22:10.02,0:22:15.63,Italics,,0000,0000,0000,,the Admirals from the Navy HQ\Nwill hunt you down!{\i0}
+Dialogue: 0,0:22:15.65,0:22:18.55,Default,,0000,0000,0000,,{\i1}I'm expecting to see it in the newspaper\Ntomorrow morning.{\i0}
+Dialogue: 0,0:22:18.57,0:22:23.79,Default,,0000,0000,0000,,{\i1}If your resignation from the Warlords is\Nin the paper,{\i0}
+Dialogue: 0,0:22:23.81,0:22:27.50,Default,,0000,0000,0000,,{\i1}I will call you.{\i0}
+Dialogue: 0,0:22:27.52,0:22:32.62,Default,,0000,0000,0000,,{\i1}If I don't see it, the \Nnegotiation is off.{\i0}
+Dialogue: 0,0:22:32.64,0:22:35.26,Default,,0000,0000,0000,,{\i1}Goodbye.{\i0}
+Dialogue: 0,0:22:35.28,0:22:36.07,Default,,0000,0000,0000,,Clank.
+Dialogue: 0,0:22:36.09,0:22:44.09,Default,,0000,0000,0000,,Wait a minute! Law!
+Dialogue: 0,0:22:49.67,0:22:57.67,Default,,0000,0000,0000,,Young Master!
+Dialogue: 0,0:23:01.15,0:23:09.15,Default,,0000,0000,0000,,Damn squirt!

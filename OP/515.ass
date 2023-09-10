@@ -1,0 +1,364 @@
+﻿[Script Info]
+Title: English (US)
+Original Script: ToeiAnimation  [http://www.crunchyroll.com/user/ToeiAnimation]
+Original Translation: 
+Original Editing: 
+Original Timing: 
+Synch Point: 
+Script Updated By: 
+Update Details: 
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 640
+PlayResY: 360
+Timer: 0.0000
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name,Fontname,Fontsize,PrimaryColour,SecondaryColour,OutlineColour,BackColour,Bold,Italic,Underline,Strikeout,ScaleX,ScaleY,Spacing,Angle,BorderStyle,Outline,Shadow,Alignment,MarginL,MarginR,MarginV,Encoding
+Style: Default,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,2,0020,0020,0022,0
+Style: B1,Arial,32,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,2,0070,0070,0030,0
+Style: OS,Arial,18,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,8,0001,0001,0015,0
+Style: Italics,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,-1,0,0,100,100,0,0,1,2,1,2,0020,0020,0022,0
+Style: Ep Title,Arial,18,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,3,0170,0070,0020,0
+Style: Copy of Ep Title,Arial,18,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,3,0070,0226,0065,0
+Style: On Top,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,8,0020,0020,0022,0
+Style: Copy of OS,Arial,18,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,9,0020,0020,0020,0
+Style: DefaultLow,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,2,0020,0020,0010,0
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:26.45,0:00:26.43,On Top,,0000,0000,0000,,ame agari no sora wo aogu tabi
+Dialogue: 0,0:00:26.45,0:00:31.50,DefaultLow,,0000,0000,0000,,Every time I look up to \Nthe sky after the rain
+Dialogue: 0,0:00:31.52,0:00:31.50,On Top,,0000,0000,0000,,nakimushi datta koro no boku wo omou
+Dialogue: 0,0:00:31.52,0:00:37.17,DefaultLow,,0000,0000,0000,,I think back to when I was a crybaby
+Dialogue: 0,0:00:37.19,0:00:37.17,On Top,,0000,0000,0000,,dareka no senaka wo gamushara ni oikaketa
+Dialogue: 0,0:00:37.19,0:00:45.01,DefaultLow,,0000,0000,0000,,I was chasing somebody's back blindly
+Dialogue: 0,0:00:45.03,0:00:45.01,On Top,,0000,0000,0000,,"tsuyoku naritai" tte
+Dialogue: 0,0:00:45.03,0:00:47.77,DefaultLow,,0000,0000,0000,,Thinking "I want to be stronger"
+Dialogue: 0,0:00:47.79,0:00:47.77,On Top,,0000,0000,0000,,ima wa kaze ni kieta "arigatou"
+Dialogue: 0,0:00:47.79,0:00:53.27,DefaultLow,,0000,0000,0000,,The word "thank you" has \Nfaded into the wind now
+Dialogue: 0,0:00:53.29,0:00:53.27,On Top,,0000,0000,0000,,boku wa tsuyoku nareteiru no kana?
+Dialogue: 0,0:00:53.29,0:00:58.49,DefaultLow,,0000,0000,0000,,Am I getting stronger?
+Dialogue: 0,0:00:58.51,0:00:58.49,On Top,,0000,0000,0000,,kotae wa mada desou ni nai kara sa
+Dialogue: 0,0:00:58.51,0:01:04.07,DefaultLow,,0000,0000,0000,,I don't know the answer yet
+Dialogue: 0,0:01:04.09,0:01:04.07,On Top,,0000,0000,0000,,yappari mada aruiteiku yo
+Dialogue: 0,0:01:04.09,0:01:09.62,DefaultLow,,0000,0000,0000,,That's why I'll keep walking ahead
+Dialogue: 0,0:01:09.64,0:01:09.62,On Top,,0000,0000,0000,,saa yukou
+Dialogue: 0,0:01:09.64,0:01:11.87,DefaultLow,,0000,0000,0000,,So let's go
+Dialogue: 0,0:01:11.89,0:01:11.87,On Top,,0000,0000,0000,,tachidomaru koto naku
+Dialogue: 0,0:01:11.89,0:01:15.21,DefaultLow,,0000,0000,0000,,Without stopping
+Dialogue: 0,0:01:15.23,0:01:15.21,On Top,,0000,0000,0000,,nagareru toki ni makenai youni
+Dialogue: 0,0:01:15.23,0:01:20.47,DefaultLow,,0000,0000,0000,,Without giving up to the flow of time
+Dialogue: 0,0:01:20.49,0:01:20.47,On Top,,0000,0000,0000,,nando mo tachimukai tsuzukeyou
+Dialogue: 0,0:01:20.49,0:01:26.03,DefaultLow,,0000,0000,0000,,I'll keep getting back up
+Dialogue: 0,0:01:26.05,0:01:26.03,On Top,,0000,0000,0000,,taisetsu na mono ushinaitakunai kara
+Dialogue: 0,0:01:26.05,0:01:31.52,DefaultLow,,0000,0000,0000,,Because I don't want to \Nlose something precious
+Dialogue: 0,0:01:31.54,0:01:31.52,On Top,,0000,0000,0000,,boku no naka ni nagareru koe wa
+Dialogue: 0,0:01:31.54,0:01:36.86,DefaultLow,,0000,0000,0000,,The voice inside of me
+Dialogue: 0,0:01:36.88,0:01:36.86,On Top,,0000,0000,0000,,zutto zutto boku wo sasaeteru
+Dialogue: 0,0:01:36.88,0:01:42.15,DefaultLow,,0000,0000,0000,,keeps sustaining me
+Dialogue: 0,0:01:42.17,0:01:42.15,On Top,,0000,0000,0000,,itazura na ame ga jama suru kedo
+Dialogue: 0,0:01:42.17,0:01:47.37,DefaultLow,,0000,0000,0000,,Wicked rain will get in my way
+Dialogue: 0,0:01:47.39,0:01:47.37,On Top,,0000,0000,0000,,nigedasanai kara
+Dialogue: 0,0:01:47.39,0:01:55.39,DefaultLow,,0000,0000,0000,,But I won't walk away
+Dialogue: 0,0:01:55.52,0:01:55.50,On Top,,0000,0000,0000,,saa yukou
+Dialogue: 0,0:01:55.52,0:01:57.79,DefaultLow,,0000,0000,0000,,So let's go
+Dialogue: 0,0:01:57.81,0:01:57.79,On Top,,0000,0000,0000,,Tachidomaru koto naku
+Dialogue: 0,0:01:57.81,0:02:01.09,DefaultLow,,0000,0000,0000,,Without stopping
+Dialogue: 0,0:02:01.11,0:02:01.09,On Top,,0000,0000,0000,,nagareru toki ni makenai youni
+Dialogue: 0,0:02:01.11,0:02:06.26,DefaultLow,,0000,0000,0000,,Without giving up to the flow of time
+Dialogue: 0,0:02:06.28,0:02:06.26,On Top,,0000,0000,0000,,nando mo tachimukai tsuzukeyou
+Dialogue: 0,0:02:06.28,0:02:11.98,DefaultLow,,0000,0000,0000,,I'll keep getting back up
+Dialogue: 0,0:02:12.00,0:02:11.98,On Top,,0000,0000,0000,,taisetsu na mono ushinaitakunai kara
+Dialogue: 0,0:02:12.00,0:02:17.44,DefaultLow,,0000,0000,0000,,Because I don't want to \Nlose something precious
+Dialogue: 0,0:02:17.46,0:02:17.44,On Top,,0000,0000,0000,,shinjita sono saki e to...
+Dialogue: 0,0:02:17.46,0:02:25.46,DefaultLow,,0000,0000,0000,,To the future I believe in...
+Dialogue: 0,0:02:33.85,0:02:36.92,Default,,0000,0000,0000,,The time is the Great Pirate Era.
+Dialogue: 0,0:02:36.94,0:02:42.11,Default,,0000,0000,0000,,Countless pirates fight \Ndesperately for the One Piece,
+Dialogue: 0,0:02:42.13,0:02:45.86,Default,,0000,0000,0000,,the great treasure left behind by \NGold Roger, King of the Pirates.
+Dialogue: 0,0:02:45.88,0:02:50.66,Default,,0000,0000,0000,,Monkey D. Luffy, a boy whose body turned \Nto rubber after he ate the Gum-Gum Fruit,
+Dialogue: 0,0:02:50.68,0:02:53.45,Default,,0000,0000,0000,,also takes to the sea to become \Nthe next King of the Pirates.
+Dialogue: 0,0:02:53.47,0:02:57.48,Default,,0000,0000,0000,,As Luffy and his friends \Novercome numerous adventures,
+Dialogue: 0,0:02:57.50,0:03:03.44,Default,,0000,0000,0000,,the World Government is less and \Nless able to ignore their existence.
+Dialogue: 0,0:03:03.46,0:03:05.86,Default,,0000,0000,0000,,This is exciting!
+Dialogue: 0,0:03:05.88,0:03:09.16,Default,,0000,0000,0000,,What kind of adventure \Nis waiting for us next?!
+Dialogue: 0,0:03:09.18,0:03:12.29,Default,,0000,0000,0000,,The crew, on its way to the New World,
+Dialogue: 0,0:03:12.31,0:03:20.31,Default,,0000,0000,0000,,will speed along the Grand Line again today!
+Dialogue: 0,0:03:21.46,0:03:27.34,Default,,0000,0000,0000,,Luffy was depressed after losing his \Nbrother Ace in the war against the Navy.
+Dialogue: 0,0:03:27.36,0:03:30.55,Default,,0000,0000,0000,,The King of the Pirates?!
+Dialogue: 0,0:03:30.57,0:03:36.14,Default,,0000,0000,0000,,I'm too weak!!
+Dialogue: 0,0:03:36.16,0:03:39.91,Default,,0000,0000,0000,,But at this time, he realized \Nthe importance of friendship.
+Dialogue: 0,0:03:39.93,0:03:46.49,Default,,0000,0000,0000,,And he went back to Marineford \Nat Dark King Rayleigh's suggestion.
+Dialogue: 0,0:03:46.51,0:03:49.36,Default,,0000,0000,0000,,The rest of the Straw Hats got a message
+Dialogue: 0,0:03:49.38,0:03:53.16,Default,,0000,0000,0000,,through the news about \NLuffy's mysterious behavior
+Dialogue: 0,0:03:53.18,0:03:58.01,Default,,0000,0000,0000,,and each starting taking \Ninitiatives on their own.
+Dialogue: 0,0:03:58.03,0:04:01.48,Default,,0000,0000,0000,,Luffy wants to become \Nthe King of the Pirates.
+Dialogue: 0,0:04:01.50,0:04:06.78,Default,,0000,0000,0000,,I have to improve myself as a navigator!
+Dialogue: 0,0:04:06.80,0:04:13.01,Default,,0000,0000,0000,,Hey, Luffy. The Thousand Sunny \Nstill has some life in her.
+Dialogue: 0,0:04:13.03,0:04:21.03,Default,,0000,0000,0000,,You're the only captain who can \Nmake it "the ship of dreams."
+Dialogue: 0,0:04:21.71,0:04:26.74,Default,,0000,0000,0000,,Luffy, if I can see you again...
+Dialogue: 0,0:04:26.76,0:04:29.79,Default,,0000,0000,0000,,I'll give you the greatest \Nsupport in the world as a cook
+Dialogue: 0,0:04:29.81,0:04:37.81,Default,,0000,0000,0000,,so you can become the King of the Pirates!
+Dialogue: 0,0:04:38.16,0:04:44.13,Default,,0000,0000,0000,,"I Will Get Much, Much Stronger! \NZoro's Pledge to His Captain!"
+Dialogue: 0,0:04:44.15,0:04:44.13,Default,,0000,0000,0000,,On the Sword Mountain Island -
+Dialogue: 0,0:04:44.15,0:04:47.14,OS,,0000,0000,0000,,GRAND LINE SWORD MOUNTAIN \NISLAND - TEHNA GEHNA KINGDOM
+Dialogue: 0,0:04:47.16,0:04:49.05,Default,,0000,0000,0000,,Tehna Gehna Kingdom in the Grand Line...
+Dialogue: 0,0:04:49.07,0:04:55.22,Default,,0000,0000,0000,,Come one! Come all!
+Dialogue: 0,0:04:55.24,0:04:58.51,Default,,0000,0000,0000,,So many people are here! \NWhat is there to see?!
+Dialogue: 0,0:04:58.53,0:05:01.69,Default,,0000,0000,0000,,I heard that they found a weird creature.
+Dialogue: 0,0:05:01.71,0:05:07.71,Default,,0000,0000,0000,,Now, come and see it! A \Nmysterious creature show!
+Dialogue: 0,0:05:07.73,0:05:11.37,Default,,0000,0000,0000,,No chest! No flesh!
+Dialogue: 0,0:05:11.39,0:05:13.24,Default,,0000,0000,0000,,No eyeballs!
+Dialogue: 0,0:05:13.26,0:05:16.78,Default,,0000,0000,0000,,It looks almost like a real skeleton!
+Dialogue: 0,0:05:16.80,0:05:19.64,Default,,0000,0000,0000,,And it only has one joint in its arms!
+Dialogue: 0,0:05:19.66,0:05:23.79,Default,,0000,0000,0000,,I wonder if there is a \Ncreature rarer than this!
+Dialogue: 0,0:05:23.81,0:05:27.13,Default,,0000,0000,0000,,Hey, stop lying, you!
+Dialogue: 0,0:05:27.15,0:05:30.38,Default,,0000,0000,0000,,Huh? What's wrong with this?
+Dialogue: 0,0:05:30.40,0:05:34.04,Default,,0000,0000,0000,,It's not moving at all!
+Dialogue: 0,0:05:34.06,0:05:39.68,Default,,0000,0000,0000,,It's just a doll, isn't it?
+Dialogue: 0,0:05:39.70,0:05:42.20,Default,,0000,0000,0000,,Luffy-san has made up his mind.
+Dialogue: 0,0:05:42.22,0:05:44.88,Default,,0000,0000,0000,,Well, then I have to do something, too.
+Dialogue: 0,0:05:44.90,0:05:47.81,Default,,0000,0000,0000,,Hey, skeleton, don't mess with us!
+Dialogue: 0,0:05:47.83,0:05:51.07,Default,,0000,0000,0000,,I have to do something!
+Dialogue: 0,0:05:51.09,0:05:54.66,Default,,0000,0000,0000,,Oh, now you realize it, \Nhuh? That's right. Move!
+Dialogue: 0,0:05:54.68,0:05:56.82,Default,,0000,0000,0000,,We have to show them something!
+Dialogue: 0,0:05:56.84,0:05:59.26,Default,,0000,0000,0000,,What can I do to help...
+Dialogue: 0,0:05:59.28,0:06:04.34,Default,,0000,0000,0000,,He just told you! It's enough \Nif you just move! Just move!
+Dialogue: 0,0:06:04.36,0:06:12.36,Default,,0000,0000,0000,,What's going on?!
+Dialogue: 0,0:06:14.82,0:06:20.06,Default,,0000,0000,0000,,When he saw me for the first time, \Nhe didn't get scared at all and...
+Dialogue: 0,0:06:20.08,0:06:23.64,Default,,0000,0000,0000,,...asked me if I wanted to join them.
+Dialogue: 0,0:06:23.66,0:06:26.85,Default,,0000,0000,0000,,Putting that aside, you,
+Dialogue: 0,0:06:26.87,0:06:28.86,Default,,0000,0000,0000,,join my crew!
+Dialogue: 0,0:06:28.88,0:06:34.45,Default,,0000,0000,0000,,Yeah, okay.
+Dialogue: 0,0:06:34.47,0:06:36.91,Default,,0000,0000,0000,,For 50 years,
+Dialogue: 0,0:06:36.93,0:06:39.40,Default,,0000,0000,0000,,I was just drifting about on the dark water.
+Dialogue: 0,0:06:39.42,0:06:44.87,Default,,0000,0000,0000,,Words can't express how \Nhappy I was to hear that.
+Dialogue: 0,0:06:44.89,0:06:48.96,Default,,0000,0000,0000,,This man stole my shadow.
+Dialogue: 0,0:06:48.98,0:06:51.12,Default,,0000,0000,0000,,Don't act like such a stranger!
+Dialogue: 0,0:06:51.14,0:06:59.14,Default,,0000,0000,0000,,If you need your shadow, \NI'll take it back for you!
+Dialogue: 0,0:07:18.18,0:07:25.29,Default,,0000,0000,0000,,I'm so happy to be alive!
+Dialogue: 0,0:07:25.31,0:07:27.58,Default,,0000,0000,0000,,I bet you are!
+Dialogue: 0,0:07:27.60,0:07:31.46,Default,,0000,0000,0000,,--Can I join your crew?\N--Yes, you can.
+Dialogue: 0,0:07:31.48,0:07:33.71,Default,,0000,0000,0000,,What?! So easily...
+Dialogue: 0,0:07:33.73,0:07:35.47,Default,,0000,0000,0000,,...He joined!
+Dialogue: 0,0:07:35.49,0:07:39.14,Default,,0000,0000,0000,,What?!
+Dialogue: 0,0:07:39.16,0:07:44.19,Default,,0000,0000,0000,,I can't explain how bright \Nyou looked to me...
+Dialogue: 0,0:07:44.21,0:07:50.02,Default,,0000,0000,0000,,Because 50 years of waiting for a \Nmiracle paid off at that moment.
+Dialogue: 0,0:07:50.04,0:07:52.48,Default,,0000,0000,0000,,--We want our money back!\N--That's right!
+Dialogue: 0,0:07:52.50,0:07:57.53,Default,,0000,0000,0000,,Jeez! I thought he could be \Nprofitable. We have no choice.
+Dialogue: 0,0:07:57.55,0:07:59.95,Default,,0000,0000,0000,,We should just force him to...
+Dialogue: 0,0:07:59.97,0:08:04.33,Default,,0000,0000,0000,,--What happened?\N--Huh?
+Dialogue: 0,0:08:04.35,0:08:12.02,Default,,0000,0000,0000,,I-It's moving...
+Dialogue: 0,0:08:12.04,0:08:15.76,Default,,0000,0000,0000,,40 degrees!
+Dialogue: 0,0:08:15.78,0:08:17.46,Default,,0000,0000,0000,,What?!
+Dialogue: 0,0:08:17.48,0:08:19.30,Default,,0000,0000,0000,,Oh, it's so hard!
+Dialogue: 0,0:08:19.32,0:08:22.05,Default,,0000,0000,0000,,It's really talking and moving!
+Dialogue: 0,0:08:22.07,0:08:24.68,Default,,0000,0000,0000,,--So creepy!\N--What is that thing?!
+Dialogue: 0,0:08:24.70,0:08:29.69,Default,,0000,0000,0000,,If I try to go further than 45 \Ndegrees, I slip, just as I thought!
+Dialogue: 0,0:08:29.71,0:08:33.78,Default,,0000,0000,0000,,But when I overcome that...
+Dialogue: 0,0:08:33.80,0:08:38.82,Default,,0000,0000,0000,,Maybe I can help Luffy-san more.
+Dialogue: 0,0:08:38.84,0:08:46.84,Default,,0000,0000,0000,,No, maybe I have to look for another way...
+Dialogue: 0,0:08:47.10,0:08:49.75,Default,,0000,0000,0000,,--He holds a guitar!\N--What is he gonna do?!
+Dialogue: 0,0:08:49.77,0:08:52.01,Default,,0000,0000,0000,,What is it this time?!
+Dialogue: 0,0:08:52.03,0:08:55.59,Default,,0000,0000,0000,,You don't have to do anything! \NIt's enough that you're a freak!
+Dialogue: 0,0:08:55.61,0:08:59.88,Default,,0000,0000,0000,,Alright, a freak! Call me whatever you like!
+Dialogue: 0,0:08:59.90,0:09:06.95,Default,,0000,0000,0000,,"Loneliness" is no longer \Na part of my vocabulary!
+Dialogue: 0,0:09:06.97,0:09:11.02,Default,,0000,0000,0000,,But, everybody, isn't it boring to just look?
+Dialogue: 0,0:09:11.04,0:09:19.04,Default,,0000,0000,0000,,--What's this rhythm?\N--It makes my heart skip a beat!
+Dialogue: 0,0:09:20.38,0:09:23.48,Default,,0000,0000,0000,,Check out my latest single -
+Dialogue: 0,0:09:23.50,0:09:31.50,Default,,0000,0000,0000,,Bone to be Wild!
+Dialogue: 0,0:09:32.77,0:09:33.12,DefaultLow,,0000,0000,0000,,Meanwhile, near the giant \Nbridge in the East Blue...
+Dialogue: 0,0:09:33.14,0:09:38.46,OS,,0000,0000,0000,,EAST BLUE - GIANT BRIDGE
+Dialogue: 0,0:09:38.48,0:09:41.35,Default,,0000,0000,0000,,What made you change your mind?
+Dialogue: 0,0:09:41.37,0:09:44.30,Default,,0000,0000,0000,,Now you agree to go to Baltigo with us.
+Dialogue: 0,0:09:44.32,0:09:46.38,Default,,0000,0000,0000,,Well, we're really glad anyway.
+Dialogue: 0,0:09:46.40,0:09:50.64,Default,,0000,0000,0000,,Dragon-san has always longed to meet you.
+Dialogue: 0,0:09:50.66,0:09:53.33,Default,,0000,0000,0000,,I didn't know there are people like you.
+Dialogue: 0,0:09:53.35,0:09:56.40,Default,,0000,0000,0000,,I wish that you guys had \Ncome to see me earlier.
+Dialogue: 0,0:09:56.42,0:09:57.66,Default,,0000,0000,0000,,I-I'm sorry!
+Dialogue: 0,0:09:57.68,0:10:02.49,Default,,0000,0000,0000,,We didn't know that you \Nwere allied with Crocodile.
+Dialogue: 0,0:10:02.51,0:10:04.66,Default,,0000,0000,0000,,Just kidding. I'm just teasing you.
+Dialogue: 0,0:10:04.68,0:10:10.12,Default,,0000,0000,0000,,No offense but I'm glad that \Nthings turned out this way.
+Dialogue: 0,0:10:10.14,0:10:18.14,Default,,0000,0000,0000,,Let's go! Let's head for Baltigo!
+Dialogue: 0,0:10:39.42,0:10:41.01,Default,,0000,0000,0000,,Go and meet your friends
+Dialogue: 0,0:10:41.03,0:10:47.41,Default,,0000,0000,0000,,who must be waiting for you \Nsomewhere out there, Robin!
+Dialogue: 0,0:10:47.43,0:10:52.20,Default,,0000,0000,0000,,--A bounty of 79 million berries?!\N--For an 8 year old girl?!
+Dialogue: 0,0:10:52.22,0:10:55.28,Default,,0000,0000,0000,,She's a survivor of the demons of Ohara,
+Dialogue: 0,0:10:55.30,0:10:57.42,Default,,0000,0000,0000,,who attempted to destroy the world.
+Dialogue: 0,0:10:57.44,0:10:59.34,Default,,0000,0000,0000,,That Ohara?!
+Dialogue: 0,0:10:59.36,0:11:00.96,Default,,0000,0000,0000,,I don't know how she did it,
+Dialogue: 0,0:11:00.98,0:11:04.32,Default,,0000,0000,0000,,but they said she sank 6 Navy ships.
+Dialogue: 0,0:11:04.34,0:11:08.12,Default,,0000,0000,0000,,That's why the price is so high...
+Dialogue: 0,0:11:08.14,0:11:14.48,Default,,0000,0000,0000,,She shouldn't be alive! \NShe's the child of a demon!
+Dialogue: 0,0:11:14.50,0:11:17.56,Default,,0000,0000,0000,,Alright, wait there!
+Dialogue: 0,0:11:17.58,0:11:19.77,Default,,0000,0000,0000,,Why did you come to help?!
+Dialogue: 0,0:11:19.79,0:11:27.79,Default,,0000,0000,0000,,When did I ask you to do that?!
+Dialogue: 0,0:11:29.09,0:11:35.33,Default,,0000,0000,0000,,I want to die already!
+Dialogue: 0,0:11:35.35,0:11:39.76,Default,,0000,0000,0000,,I understand Robin's enemy very well.
+Dialogue: 0,0:11:39.78,0:11:47.78,Default,,0000,0000,0000,,Shoot that flag.
+Dialogue: 0,0:11:50.53,0:11:51.60,Default,,0000,0000,0000,,No way!
+Dialogue: 0,0:11:51.62,0:11:53.31,Default,,0000,0000,0000,,Are you guys insane?!
+Dialogue: 0,0:11:53.33,0:11:56.73,Default,,0000,0000,0000,,You think you can live when the \Nwhole world is your enemy?!
+Dialogue: 0,0:11:56.75,0:12:04.48,Default,,0000,0000,0000,,I'm looking forward to it!!
+Dialogue: 0,0:12:04.50,0:12:06.58,Default,,0000,0000,0000,,Robin!
+Dialogue: 0,0:12:06.60,0:12:12.72,Default,,0000,0000,0000,,I need to hear you saying it!
+Dialogue: 0,0:12:12.74,0:12:20.74,Default,,0000,0000,0000,,Say that you wanna live!!
+Dialogue: 0,0:12:23.11,0:12:31.11,Default,,0000,0000,0000,,If you allow me to say what I \Nwant, even a little bit, I...
+Dialogue: 0,0:12:33.40,0:12:36.31,Default,,0000,0000,0000,,...wanna live!!
+Dialogue: 0,0:12:36.33,0:12:44.33,Default,,0000,0000,0000,,Take me out to sea with you!!
+Dialogue: 0,0:12:47.42,0:12:51.98,Default,,0000,0000,0000,,Robin-san, come inside. It's cold out here.
+Dialogue: 0,0:12:52.00,0:12:57.20,Default,,0000,0000,0000,,I'll stay here. I'm a pirate and \Nyou people are Revolutionaries.
+Dialogue: 0,0:12:57.22,0:13:00.21,Default,,0000,0000,0000,,I can't trust you so easily.
+Dialogue: 0,0:13:00.23,0:13:03.63,Default,,0000,0000,0000,,I can't just go into a \Ncabin that has no exits.
+Dialogue: 0,0:13:03.65,0:13:07.59,Default,,0000,0000,0000,,Please! We don't bear any \Nhostility toward you!
+Dialogue: 0,0:13:07.61,0:13:12.72,Default,,0000,0000,0000,,Let me stay here. This is how I \Ngot through when I was on my own.
+Dialogue: 0,0:13:12.74,0:13:15.22,Default,,0000,0000,0000,,I'm sorry. I understand.
+Dialogue: 0,0:13:15.24,0:13:18.04,Default,,0000,0000,0000,,Hey, bring as many blankets as you can!
+Dialogue: 0,0:13:18.06,0:13:21.34,Default,,0000,0000,0000,,And something hot to drink and eat, too!
+Dialogue: 0,0:13:21.36,0:13:23.06,Default,,0000,0000,0000,,But it's all prepared inside...
+Dialogue: 0,0:13:23.08,0:13:28.90,Default,,0000,0000,0000,,--Hurry up! And a wind guard and a sofa, too!\N--Yes, sir!
+Dialogue: 0,0:13:28.92,0:13:32.53,Default,,0000,0000,0000,,Luffy, do you think I can get stronger
+Dialogue: 0,0:13:32.55,0:13:35.12,Default,,0000,0000,0000,,by swimming with the flow of the times...
+Dialogue: 0,0:13:35.14,0:13:40.12,Default,,0000,0000,0000,,...under your father?
+Dialogue: 0,0:13:40.14,0:13:44.29,Default,,0000,0000,0000,,I never thought that I'd \Nwant to get stronger...
+Dialogue: 0,0:13:44.31,0:13:52.31,Default,,0000,0000,0000,,...for somebody else.
+Dialogue: 0,0:14:02.41,0:14:05.44,DefaultLow,,0000,0000,0000,,Meanwhile, on Bowin Islands \Nin the Grand Line...
+Dialogue: 0,0:14:05.46,0:14:10.19,OS,,0000,0000,0000,,GRAND LINE - BOWIN ISLANDS
+Dialogue: 0,0:14:10.21,0:14:12.78,Default,,0000,0000,0000,,What is it this time'n, Usopp'n?
+Dialogue: 0,0:14:12.80,0:14:15.87,Default,,0000,0000,0000,,First, I'll lose weight! \NThen, improve my strength!
+Dialogue: 0,0:14:15.89,0:14:18.08,Default,,0000,0000,0000,,Oh, you better do that!
+Dialogue: 0,0:14:18.10,0:14:20.16,Default,,0000,0000,0000,,And get stronger!
+Dialogue: 0,0:14:20.18,0:14:23.45,Default,,0000,0000,0000,,Yeah, that's the only way \Nto get off of the island'n!
+Dialogue: 0,0:14:23.47,0:14:25.88,Default,,0000,0000,0000,,And get much stronger!
+Dialogue: 0,0:14:25.90,0:14:27.96,Default,,0000,0000,0000,,Yeah, that's good, too'n!
+Dialogue: 0,0:14:27.98,0:14:30.38,Default,,0000,0000,0000,,And get much, much stronger!
+Dialogue: 0,0:14:30.40,0:14:32.13,Default,,0000,0000,0000,,Oh? Th-That much'n?!
+Dialogue: 0,0:14:32.15,0:14:36.17,Default,,0000,0000,0000,,Much, much, much, much, much, much stronger!
+Dialogue: 0,0:14:36.19,0:14:39.48,Default,,0000,0000,0000,,Wow, you've become so serious'n!
+Dialogue: 0,0:14:39.50,0:14:42.93,Default,,0000,0000,0000,,You suddenly got with it...
+Dialogue: 0,0:14:42.95,0:14:50.86,Default,,0000,0000,0000,,What was it in that newspaper'n?
+Dialogue: 0,0:14:50.88,0:14:54.70,Default,,0000,0000,0000,,I received a message from our captain.
+Dialogue: 0,0:14:54.72,0:14:56.61,Default,,0000,0000,0000,,A message?
+Dialogue: 0,0:14:56.63,0:14:59.74,Default,,0000,0000,0000,,What're you talkin' about? Get on already.
+Dialogue: 0,0:14:59.76,0:15:02.33,Default,,0000,0000,0000,,Eh?!
+Dialogue: 0,0:15:02.35,0:15:10.35,Default,,0000,0000,0000,,We're friends now, aren't we?
+Dialogue: 0,0:15:15.44,0:15:19.93,Default,,0000,0000,0000,,Luffy!
+Dialogue: 0,0:15:19.95,0:15:26.77,Default,,0000,0000,0000,,U-Usopp...? You... You came here, too?
+Dialogue: 0,0:15:26.79,0:15:31.44,Default,,0000,0000,0000,,Beat him! And we'll all \Ngo back together, Luffy!
+Dialogue: 0,0:15:31.46,0:15:36.70,Default,,0000,0000,0000,,Of course!!
+Dialogue: 0,0:15:36.72,0:15:38.03,Default,,0000,0000,0000,,I thought...
+Dialogue: 0,0:15:38.05,0:15:46.05,Default,,0000,0000,0000,,...that Luffy could become the King \Nof the Pirates without my help.
+Dialogue: 0,0:15:46.93,0:15:50.21,Default,,0000,0000,0000,,We made it here finally!
+Dialogue: 0,0:15:50.23,0:15:55.46,Default,,0000,0000,0000,,We'll see this wall again when \Nwe go half way around the world!
+Dialogue: 0,0:15:55.48,0:15:59.66,Default,,0000,0000,0000,,And by that time, I'll be \Nthe King of the Pirates!
+Dialogue: 0,0:15:59.68,0:16:02.18,Default,,0000,0000,0000,,But I was wrong.
+Dialogue: 0,0:16:02.20,0:16:05.76,Default,,0000,0000,0000,,There are a lot of \Nenemies who are beyond his power.
+Dialogue: 0,0:16:05.78,0:16:08.05,Default,,0000,0000,0000,,Luffy could lose.
+Dialogue: 0,0:16:08.07,0:16:11.65,Default,,0000,0000,0000,,He's pushing himself and crying out for help!
+Dialogue: 0,0:16:11.67,0:16:13.19,Default,,0000,0000,0000,,That's why...
+Dialogue: 0,0:16:13.21,0:16:20.86,Default,,0000,0000,0000,,...he needs my support!
+Dialogue: 0,0:16:20.88,0:16:24.74,Default,,0000,0000,0000,,Heracles'n, I wanna get stronger!
+Dialogue: 0,0:16:24.76,0:16:30.46,Default,,0000,0000,0000,,I wanna get much, much, much stronger and...
+Dialogue: 0,0:16:30.48,0:16:33.75,Default,,0000,0000,0000,,Hey, Master Heracles'n...
+Dialogue: 0,0:16:33.77,0:16:35.75,Default,,0000,0000,0000,,What? M-Master'n?
+Dialogue: 0,0:16:35.77,0:16:39.68,Default,,0000,0000,0000,,I've been curious about your weapons.
+Dialogue: 0,0:16:39.70,0:16:43.89,Default,,0000,0000,0000,,You're strong enough to live \Non such a dangerous island.
+Dialogue: 0,0:16:43.91,0:16:45.30,Default,,0000,0000,0000,,I wanna learn a lot from you!
+Dialogue: 0,0:16:45.32,0:16:47.77,Default,,0000,0000,0000,,Strong? Am I a strong master'n?
+Dialogue: 0,0:16:47.79,0:16:50.77,Default,,0000,0000,0000,,Yes, you are a strong master!
+Dialogue: 0,0:16:50.79,0:16:53.98,Default,,0000,0000,0000,,And... my name is...
+Dialogue: 0,0:16:54.00,0:16:55.27,Default,,0000,0000,0000,,...Heracles'n!
+Dialogue: 0,0:16:55.29,0:16:58.07,Default,,0000,0000,0000,,What a cool name!
+Dialogue: 0,0:16:58.09,0:17:01.45,Default,,0000,0000,0000,,A-Alright, why don't you sit down, Usopp'n?
+Dialogue: 0,0:17:01.47,0:17:04.00,Default,,0000,0000,0000,,Yes, master!
+Dialogue: 0,0:17:04.02,0:17:06.70,Default,,0000,0000,0000,,Listen, my pupil Usopp'n!
+Dialogue: 0,0:17:06.72,0:17:09.74,Default,,0000,0000,0000,,There are many plants in this forest
+Dialogue: 0,0:17:09.76,0:17:15.75,Default,,0000,0000,0000,,called Pop Green, which \Ngrow hostile instantly.
+Dialogue: 0,0:17:15.77,0:17:18.55,Default,,0000,0000,0000,,And these are the seeds'n.
+Dialogue: 0,0:17:18.57,0:17:20.80,Default,,0000,0000,0000,,Pop Green?
+Dialogue: 0,0:17:20.82,0:17:25.47,Default,,0000,0000,0000,,Each of them has an effective usage'n.
+Dialogue: 0,0:17:25.49,0:17:27.22,Default,,0000,0000,0000,,Usage'n, huh?
+Dialogue: 0,0:17:27.24,0:17:31.63,Default,,0000,0000,0000,,Wait for me, Luffy!
+Dialogue: 0,0:17:31.65,0:17:36.73,Default,,0000,0000,0000,,Run, Usopp'n! This forest \Nwill make you stronger!
+Dialogue: 0,0:17:36.75,0:17:39.43,Default,,0000,0000,0000,,To make you the King of the Pirates,
+Dialogue: 0,0:17:39.45,0:17:47.45,Default,,0000,0000,0000,,I'll \Nbecome the real King of the Snipers!
+Dialogue: 0,0:17:49.64,0:17:50.87,DefaultLow,,0000,0000,0000,,Meanwhile, on the Gloom \NIsland in the Grand Line...
+Dialogue: 0,0:17:50.89,0:17:53.67,OS,,0000,0000,0000,,GRAND LINE GLOOM ISLAND - \NTHE RUINS OF MUGGY KINGDOM
+Dialogue: 0,0:17:53.69,0:17:56.96,DefaultLow,,0000,0000,0000,,the ruins of Muggy Kingdom.
+Dialogue: 0,0:17:56.98,0:18:04.98,Default,,0000,0000,0000,,Please!
+Dialogue: 0,0:18:05.52,0:18:08.68,Default,,0000,0000,0000,,Train me as a swordsman!
+Dialogue: 0,0:18:08.70,0:18:13.14,Default,,0000,0000,0000,,I'm disappointed in you, Roronoa!
+Dialogue: 0,0:18:13.16,0:18:16.73,Default,,0000,0000,0000,,Are you asking your enemy for instruction?
+Dialogue: 0,0:18:16.75,0:18:19.90,Default,,0000,0000,0000,,Shame on you.
+Dialogue: 0,0:18:19.92,0:18:23.42,Default,,0000,0000,0000,,Get out of here. I have \Nno time for a boring man.
+Dialogue: 0,0:18:23.44,0:18:29.45,Default,,0000,0000,0000,,I think I was overestimating you.
+Dialogue: 0,0:18:29.47,0:18:33.42,Default,,0000,0000,0000,,What are you doing? That's just embarrassing.
+Dialogue: 0,0:18:33.44,0:18:35.42,Default,,0000,0000,0000,,I wanna get stronger!
+Dialogue: 0,0:18:35.44,0:18:38.79,Default,,0000,0000,0000,,You were beaten by the baboons
+Dialogue: 0,0:18:38.81,0:18:41.45,Default,,0000,0000,0000,,and you couldn't get to \Nsea, so you came back here.
+Dialogue: 0,0:18:41.47,0:18:47.64,Default,,0000,0000,0000,,I have nothing to teach someone like that.
+Dialogue: 0,0:18:47.66,0:18:50.42,Default,,0000,0000,0000,,I beat the baboons.
+Dialogue: 0,0:18:50.44,0:18:53.10,Default,,0000,0000,0000,,He beat them?
+Dialogue: 0,0:18:53.12,0:18:55.64,Default,,0000,0000,0000,,You're the only one left to beat here!
+Dialogue: 0,0:18:55.66,0:19:02.07,Default,,0000,0000,0000,,But I'm not so stupid as to think \Nthat I'm good enough to beat you!
+Dialogue: 0,0:19:02.09,0:19:04.10,Default,,0000,0000,0000,,I don't understand.
+Dialogue: 0,0:19:04.12,0:19:06.93,Default,,0000,0000,0000,,You still see me as an enemy.
+Dialogue: 0,0:19:06.95,0:19:10.96,Default,,0000,0000,0000,,Then why are you bowing to me \Nand asking for my guidance?
+Dialogue: 0,0:19:10.98,0:19:13.94,Default,,0000,0000,0000,,What's the purpose?
+Dialogue: 0,0:19:13.96,0:19:21.96,Default,,0000,0000,0000,,I wanna beat you!
+Dialogue: 0,0:19:23.93,0:19:29.08,Default,,0000,0000,0000,,You're asking me to train a \Nswordsman who wants to kill me?
+Dialogue: 0,0:19:29.10,0:19:32.64,Default,,0000,0000,0000,,You're weird. And what \Nyou're asking is nonsense.
+Dialogue: 0,0:19:32.66,0:19:35.56,Default,,0000,0000,0000,,Even so, what you're doing \Nis still embarrassing.
+Dialogue: 0,0:19:35.58,0:19:41.69,Default,,0000,0000,0000,,Seems like you found something \Nmore important than your ambition.
+Dialogue: 0,0:19:41.71,0:19:46.58,Default,,0000,0000,0000,,Hey, ghost girl, treat him.
+Dialogue: 0,0:19:46.60,0:19:50.04,Default,,0000,0000,0000,,Hey, don't tell me what to do!
+Dialogue: 0,0:19:50.06,0:19:52.95,Default,,0000,0000,0000,,The training will begin \Nwhen you're recovered.
+Dialogue: 0,0:19:52.97,0:19:57.46,Default,,0000,0000,0000,,Dammit! Everybody keeps \Ndemanding so much of me!
+Dialogue: 0,0:19:57.48,0:20:02.00,Default,,0000,0000,0000,,Come on, move it now!
+Dialogue: 0,0:20:02.02,0:20:04.30,Default,,0000,0000,0000,,What a clumsy fool.
+Dialogue: 0,0:20:04.32,0:20:07.34,Default,,0000,0000,0000,,When a man like you swallows his pride,
+Dialogue: 0,0:20:07.36,0:20:11.55,Default,,0000,0000,0000,,it's always for someone else.
+Dialogue: 0,0:20:11.57,0:20:15.06,Default,,0000,0000,0000,,"3D" is crossed out and "2Y" is written?
+Dialogue: 0,0:20:15.08,0:20:18.23,Default,,0000,0000,0000,,Oh yeah! There is a tattoo on his right arm!
+Dialogue: 0,0:20:18.25,0:20:24.52,Default,,0000,0000,0000,,We made a promise to meet again \Nat a certain place 3 days later.
+Dialogue: 0,0:20:24.54,0:20:26.93,Default,,0000,0000,0000,,But we couldn't make it.
+Dialogue: 0,0:20:26.95,0:20:30.48,Default,,0000,0000,0000,,So "3D" means "3 days"!
+Dialogue: 0,0:20:30.50,0:20:34.79,Default,,0000,0000,0000,,But "3D" is crossed out and "2Y"...?
+Dialogue: 0,0:20:34.81,0:20:36.75,Default,,0000,0000,0000,,--2 years!\N--2 years!
+Dialogue: 0,0:20:36.77,0:20:40.96,Default,,0000,0000,0000,,The meeting will be 2 years \Nlater instead of 3 days later.
+Dialogue: 0,0:20:40.98,0:20:45.38,Default,,0000,0000,0000,,And everything else was done \Njust to get all the publicity.
+Dialogue: 0,0:20:45.40,0:20:52.34,Default,,0000,0000,0000,,This is a message exclusively \Nto us. Luffy made a decision.
+Dialogue: 0,0:20:52.36,0:20:56.22,Default,,0000,0000,0000,,Even if we rush now, we're not good \Nenough to get far in the New World.
+Dialogue: 0,0:20:56.24,0:20:59.77,Default,,0000,0000,0000,,We have to stop once and get stronger.
+Dialogue: 0,0:20:59.79,0:21:07.79,Default,,0000,0000,0000,,And meet again no matter what!
+Dialogue: 0,0:21:09.84,0:21:17.84,Default,,0000,0000,0000,,Hey, I told you to rest!
+Dialogue: 0,0:21:24.98,0:21:28.97,Default,,0000,0000,0000,,What are you...?!
+Dialogue: 0,0:21:28.99,0:21:32.05,Default,,0000,0000,0000,,That doesn't work!
+Dialogue: 0,0:21:32.07,0:21:35.68,Default,,0000,0000,0000,,W-Who the hell are you?!
+Dialogue: 0,0:21:35.70,0:21:38.39,Default,,0000,0000,0000,,I'm Monkey D. Luffy!
+Dialogue: 0,0:21:38.41,0:21:41.67,Default,,0000,0000,0000,,The man who's gonna be King of the Pirates!
+Dialogue: 0,0:21:41.69,0:21:45.81,Default,,0000,0000,0000,,Until the day I defeat him and \Nbecome a master swordsman...
+Dialogue: 0,0:21:45.83,0:21:52.82,Default,,0000,0000,0000,,I'll never... be defeated! \NGot any problems with that...
+Dialogue: 0,0:21:52.84,0:21:56.98,Default,,0000,0000,0000,,...King of the Pirates?!
+Dialogue: 0,0:21:57.00,0:21:59.49,Default,,0000,0000,0000,,Nope!
+Dialogue: 0,0:21:59.51,0:22:02.71,Default,,0000,0000,0000,,There isn't enough time \Nfor everything anyway.
+Dialogue: 0,0:22:02.73,0:22:08.38,Default,,0000,0000,0000,,So let's do it.
+Dialogue: 0,0:22:08.40,0:22:11.22,Default,,0000,0000,0000,,You said you beat the baboons.
+Dialogue: 0,0:22:11.24,0:22:15.59,Default,,0000,0000,0000,,They acquired their swordsmanship \Nby copying humans.
+Dialogue: 0,0:22:15.61,0:22:19.43,Default,,0000,0000,0000,,There are ranks among them \Nand there is a master.
+Dialogue: 0,0:22:19.45,0:22:26.69,Default,,0000,0000,0000,,He is the leader that rules all \Nthe baboons on this island.
+Dialogue: 0,0:22:26.71,0:22:27.73,Default,,0000,0000,0000,,That sword is...
+Dialogue: 0,0:22:27.75,0:22:31.19,Default,,0000,0000,0000,,He mastered it by copying what I do.
+Dialogue: 0,0:22:31.21,0:22:34.32,Default,,0000,0000,0000,,He's different from the \Nbaboons that you fought.
+Dialogue: 0,0:22:34.34,0:22:36.53,Default,,0000,0000,0000,,Sounds like fun!
+Dialogue: 0,0:22:36.55,0:22:44.55,Default,,0000,0000,0000,,I'm gonna get much, much stronger!
+Dialogue: 0,0:22:59.12,0:23:07.12,Default,,0000,0000,0000,,See you at Sabaody Archipelago in 2 years!
+Dialogue: 0,0:23:11.46,0:23:15.24,Default,,0000,0000,0000,,The Straw Hats have decided to become \Nstronger and reunite in 2 years.
+Dialogue: 0,0:23:15.26,0:23:18.74,Default,,0000,0000,0000,,Luffy arrives on the \Nuninhabited island Ruskaina,
+Dialogue: 0,0:23:18.76,0:23:20.83,Default,,0000,0000,0000,,where he begins training in a new power
+Dialogue: 0,0:23:20.85,0:23:23.27,Default,,0000,0000,0000,,in order to face new enemies and adventures
+Dialogue: 0,0:23:23.29,0:23:26.08,Default,,0000,0000,0000,,awaiting him in the New World!
+Dialogue: 0,0:23:26.10,0:23:27.37,Default,,0000,0000,0000,,On the next episode of One Piece!
+Dialogue: 0,0:23:27.39,0:23:31.10,Default,,0000,0000,0000,,"Luffy's Training Begins! To the \NPlace We Promised in 2 Years!"
+Dialogue: 0,0:23:31.12,0:23:39.12,Default,,0000,0000,0000,,I'm gonna be King of the Pirates!!

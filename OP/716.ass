@@ -1,0 +1,305 @@
+﻿[Script Info]
+Title: English (US)
+Original Script: ToeiAnimation  [http://www.crunchyroll.com/user/ToeiAnimation]
+Original Translation: 
+Original Editing: 
+Original Timing: 
+Synch Point: 
+Script Updated By: 
+Update Details: 
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 640
+PlayResY: 360
+Timer: 0.0000
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name,Fontname,Fontsize,PrimaryColour,SecondaryColour,OutlineColour,BackColour,Bold,Italic,Underline,Strikeout,ScaleX,ScaleY,Spacing,Angle,BorderStyle,Outline,Shadow,Alignment,MarginL,MarginR,MarginV,Encoding
+Style: B1,Arial,32,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,2,0070,0070,0030,0
+Style: OS,Arial,18,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,8,0001,0001,0015,0
+Style: Default,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,2,0020,0020,0022,0
+Style: Italics,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,-1,0,0,100,100,0,0,1,2,1,2,0020,0020,0022,0
+Style: Ep Title,Arial,18,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,3,0170,0070,0020,0
+Style: Copy of Ep Title,Arial,18,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,3,0070,0226,0065,0
+Style: On Top,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,8,0020,0020,0022,0
+Style: Copy of OS,Arial,18,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,9,0020,0020,0020,0
+Style: DefaultLow,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,2,0020,0020,0010,0
+Style: sign1,Trebuchet MS,18,&H00040D0C,&H000000FF,&H00D1D9DA,&H00000000,-1,0,0,0,100,100,0,0,1,4,0,7,0050,0010,0050,1
+Style: sign2,Trebuchet MS,18,&H00040D0C,&H000000FF,&H00D1D9DA,&H00000000,-1,0,0,0,100,100,0,0,1,4,0,9,0000,0050,0130,1
+Style: sign3,Trebuchet MS,13,&H00040D0C,&H000000FF,&H00CBB9B2,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,1,0190,0010,0035,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:03.72,0:00:03.70,On Top,,0000,0000,0000,,{\i1}Fight butsukatte hamukatte{\i0}
+Dialogue: 0,0:00:03.72,0:00:06.00,Default,,0000,0000,0000,,{\i1}Fight, crash in, rise up{\i0}
+Dialogue: 0,0:00:06.02,0:00:06.00,On Top,,0000,0000,0000,,{\i1}sore ga boku tachi no Hard knock days{\i0}
+Dialogue: 0,0:00:06.02,0:00:09.21,Default,,0000,0000,0000,,{\i1}Those are our Hard knock days{\i0}
+Dialogue: 0,0:00:09.23,0:00:09.21,On Top,,0000,0000,0000,,{\i1}heibon na mainichi ja kawaki iyasenai{\i0}
+Dialogue: 0,0:00:09.23,0:00:14.05,Default,,0000,0000,0000,,{\i1}Ordinary days won't quench our thirst{\i0}
+Dialogue: 0,0:00:14.07,0:00:14.05,On Top,,0000,0000,0000,,{\i1}Here we go itsudatte nigenaide{\i0}
+Dialogue: 0,0:00:14.07,0:00:16.30,Default,,0000,0000,0000,,{\i1}Here we go, always, don't run away{\i0}
+Dialogue: 0,0:00:16.32,0:00:16.30,On Top,,0000,0000,0000,,{\i1}kazeatari tsuyoku ikiteyukou{\i0}
+Dialogue: 0,0:00:16.32,0:00:20.38,Default,,0000,0000,0000,,{\i1}Let's go on living buffeted \Nby the mighty winds{\i0}
+Dialogue: 0,0:00:20.40,0:00:20.38,On Top,,0000,0000,0000,,{\i1}gooru mada tooku{\i0}
+Dialogue: 0,0:00:20.40,0:00:23.10,Default,,0000,0000,0000,,{\i1}We're still far from our goal{\i0}
+Dialogue: 0,0:00:23.12,0:00:23.10,On Top,,0000,0000,0000,,{\i1}susumubeki Hard knock days{\i0}
+Dialogue: 0,0:00:23.12,0:00:31.12,Default,,0000,0000,0000,,{\i1}We got to carry on Hard knock days{\i0}
+Dialogue: 0,0:00:45.26,0:00:45.24,On Top,,0000,0000,0000,,{\i1}Let's do it again sou doredake, Baby{\i0}
+Dialogue: 0,0:00:45.26,0:00:48.54,Default,,0000,0000,0000,,{\i1}Let's do it again, yes, how many times, baby{\i0}
+Dialogue: 0,0:00:48.56,0:00:48.54,On Top,,0000,0000,0000,,{\i1}tachiagareba My dream come true{\i0}
+Dialogue: 0,0:00:48.56,0:00:51.04,Default,,0000,0000,0000,,{\i1}do I have to get up to \Nmake my dream come true{\i0}
+Dialogue: 0,0:00:51.06,0:00:51.04,On Top,,0000,0000,0000,,{\i1}towareru kakugo no tsuyosa{\i0}
+Dialogue: 0,0:00:51.06,0:00:53.67,Default,,0000,0000,0000,,{\i1}Feels like the strength of my resolve is{\i0}
+Dialogue: 0,0:00:53.69,0:00:53.67,On Top,,0000,0000,0000,,{\i1}tamesareteru youna Everyday{\i0}
+Dialogue: 0,0:00:53.69,0:00:56.13,Default,,0000,0000,0000,,{\i1}put to the test everyday{\i0}
+Dialogue: 0,0:00:56.15,0:00:56.13,On Top,,0000,0000,0000,,{\i1}Hey Let's go{\i0}
+Dialogue: 0,0:00:56.15,0:00:57.63,Default,,0000,0000,0000,,{\i1}Hey Let's go{\i0}
+Dialogue: 0,0:00:57.65,0:00:57.63,On Top,,0000,0000,0000,,{\i1}iiwake de chiisaku matomaru ki nakute{\i0}
+Dialogue: 0,0:00:57.65,0:01:01.38,Default,,0000,0000,0000,,{\i1}I don't want to settle for \Nsmall success, making excuses{\i0}
+Dialogue: 0,0:01:01.40,0:01:01.38,On Top,,0000,0000,0000,,{\i1}Hey Let's go{\i0}
+Dialogue: 0,0:01:01.40,0:01:02.89,Default,,0000,0000,0000,,{\i1}Hey Let's go{\i0}
+Dialogue: 0,0:01:02.91,0:01:02.89,On Top,,0000,0000,0000,,{\i1}tobidashita sekai wa araburu noo ruuru{\i0}
+Dialogue: 0,0:01:02.91,0:01:06.60,Default,,0000,0000,0000,,{\i1}The world I got out into is wild and lawless{\i0}
+Dialogue: 0,0:01:06.62,0:01:06.60,On Top,,0000,0000,0000,,{\i1}karaburi no sukima ni \Nsematteta genjitsu kauntaa{\i0}
+Dialogue: 0,0:01:06.62,0:01:10.89,Default,,0000,0000,0000,,{\i1}Whiffing through the air, \Noff-guard, reality countered me{\i0}
+Dialogue: 0,0:01:10.91,0:01:10.89,On Top,,0000,0000,0000,,{\i1}yousha naku Beat me Hit me mata taoretemo{\i0}
+Dialogue: 0,0:01:10.91,0:01:16.40,Default,,0000,0000,0000,,{\i1}Mercilessly, beat me, hit \Nme, and even if I fall again{\i0}
+Dialogue: 0,0:01:16.42,0:01:16.40,On Top,,0000,0000,0000,,{\i1}Oh{\i0}
+Dialogue: 0,0:01:16.42,0:01:17.15,Default,,0000,0000,0000,,{\i1}Oh{\i0}
+Dialogue: 0,0:01:17.17,0:01:17.15,On Top,,0000,0000,0000,,{\i1}mou ichido tachiagari \Nmae wo mita mono dake ga{\i0}
+Dialogue: 0,0:01:17.17,0:01:21.28,Default,,0000,0000,0000,,{\i1}Only those who get back on \Ntheir feet and look forward{\i0}
+Dialogue: 0,0:01:21.30,0:01:21.28,On Top,,0000,0000,0000,,{\i1}saigo ni warau nosa Only winner{\i0}
+Dialogue: 0,0:01:21.30,0:01:24.53,Default,,0000,0000,0000,,{\i1}will have the last laugh, only winner{\i0}
+Dialogue: 0,0:01:24.55,0:01:24.53,On Top,,0000,0000,0000,,{\i1}(We gotta go todoku made Glory road){\i0}
+Dialogue: 0,0:01:24.55,0:01:27.20,Default,,0000,0000,0000,,{\i1}(We gotta go, till we make \Nit there, on the glory road){\i0}
+Dialogue: 0,0:01:27.22,0:01:27.20,On Top,,0000,0000,0000,,{\i1}Fight butsukatte hamukatte{\i0}
+Dialogue: 0,0:01:27.22,0:01:29.41,Default,,0000,0000,0000,,{\i1}Fight, crash in, rise up{\i0}
+Dialogue: 0,0:01:29.43,0:01:29.41,On Top,,0000,0000,0000,,{\i1}sore ga boku tachi no Hard knock days{\i0}
+Dialogue: 0,0:01:29.43,0:01:32.62,Default,,0000,0000,0000,,{\i1}Those are our Hard knock days{\i0}
+Dialogue: 0,0:01:32.64,0:01:32.62,On Top,,0000,0000,0000,,{\i1}heibon na mainichi ja kawaki iyasenai{\i0}
+Dialogue: 0,0:01:32.64,0:01:37.38,Default,,0000,0000,0000,,{\i1}Ordinary days won't quench our thirst{\i0}
+Dialogue: 0,0:01:37.40,0:01:37.38,On Top,,0000,0000,0000,,{\i1}Here we go itsudatte nigenaide{\i0}
+Dialogue: 0,0:01:37.40,0:01:39.80,Default,,0000,0000,0000,,{\i1}Here we go, always, don't run away{\i0}
+Dialogue: 0,0:01:39.82,0:01:39.80,On Top,,0000,0000,0000,,{\i1}kazeatari tsuyoku ikiteyukou{\i0}
+Dialogue: 0,0:01:39.82,0:01:43.84,Default,,0000,0000,0000,,{\i1}Let's go on living buffeted \Nby the mighty winds{\i0}
+Dialogue: 0,0:01:43.86,0:01:43.84,On Top,,0000,0000,0000,,{\i1}gooru mada tooku susumubeki michi{\i0}
+Dialogue: 0,0:01:43.86,0:01:48.31,Default,,0000,0000,0000,,{\i1}We're still far from our goal, \Nwe got to carry on the way{\i0}
+Dialogue: 0,0:01:48.33,0:01:48.31,On Top,,0000,0000,0000,,{\i1}Fight kechirashite tsuyogatte{\i0}
+Dialogue: 0,0:01:48.33,0:01:50.10,Default,,0000,0000,0000,,{\i1}Fight, shake it off, act strong{\i0}
+Dialogue: 0,0:01:50.12,0:01:50.10,On Top,,0000,0000,0000,,{\i1}sore ga boku tachi no Hard knock days{\i0}
+Dialogue: 0,0:01:50.12,0:01:53.35,Default,,0000,0000,0000,,{\i1}Those are our Hard knock days{\i0}
+Dialogue: 0,0:01:53.37,0:01:53.35,On Top,,0000,0000,0000,,{\i1}bunan na sentaku? sonnano aru wake nai{\i0}
+Dialogue: 0,0:01:53.37,0:01:58.36,Default,,0000,0000,0000,,{\i1}A safe bet? There's no such thing{\i0}
+Dialogue: 0,0:01:58.38,0:01:58.36,On Top,,0000,0000,0000,,{\i1}Here we go itsudatte saikou de{\i0}
+Dialogue: 0,0:01:58.38,0:02:00.69,Default,,0000,0000,0000,,{\i1}Here we go, always, be the best{\i0}
+Dialogue: 0,0:02:00.71,0:02:00.69,On Top,,0000,0000,0000,,{\i1}atosaki nante kangaezu ni yukou{\i0}
+Dialogue: 0,0:02:00.71,0:02:04.74,Default,,0000,0000,0000,,{\i1}and keep going without \Nthinking of the consequences{\i0}
+Dialogue: 0,0:02:04.76,0:02:04.74,On Top,,0000,0000,0000,,{\i1}negai wo tabanete{\i0}
+Dialogue: 0,0:02:04.76,0:02:07.37,Default,,0000,0000,0000,,{\i1}Put all our wishes together{\i0}
+Dialogue: 0,0:02:07.39,0:02:07.37,On Top,,0000,0000,0000,,{\i1}susumubeki Hard knock days{\i0}
+Dialogue: 0,0:02:07.39,0:02:15.39,Default,,0000,0000,0000,,{\i1}We got to carry on Hard knock days{\i0}
+Dialogue: 0,0:02:16.48,0:02:16.46,On Top,,0000,0000,0000,,{\i1}hikari no saki Make my day{\i0}
+Dialogue: 0,0:02:16.48,0:02:24.48,Default,,0000,0000,0000,,{\i1}Beyond the light, make my day{\i0}
+Dialogue: 0,0:02:35.12,0:02:38.73,Default,,0000,0000,0000,,{\i1}All the pirates who are \Nafter the One Piece...{\i0}
+Dialogue: 0,0:02:38.75,0:02:45.91,Default,,0000,0000,0000,,{\i1}...head for the New World,\Nthe second half of the Grand Line.{\i0}
+Dialogue: 0,0:02:45.93,0:02:49.35,Italics,,0000,0000,0000,,{\i1}However, no one has ever fully explored it
+Dialogue: 0,0:02:49.37,0:02:53.29,Italics,,0000,0000,0000,,except for Gold Roger, King of the Pirates.{\i0}
+Dialogue: 0,0:02:53.31,0:03:00.34,Italics,,0000,0000,0000,,{\i1}The New World has ruined\Nmany pirates' dreams and ambitions.{\i0}
+Dialogue: 0,0:03:00.36,0:03:03.43,Italics,,0000,0000,0000,,{\i1}Now, Monkey D. Luffy, a boy whose body turned
+Dialogue: 0,0:03:03.45,0:03:06.58,Italics,,0000,0000,0000,,to rubber after he ate the Gum-Gum Fruit,{\i0}
+Dialogue: 0,0:03:06.60,0:03:08.97,Italics,,0000,0000,0000,,{\i1}and his friends venture into that sea.{\i0}
+Dialogue: 0,0:03:08.99,0:03:15.98,Default,,0000,0000,0000,,I'm gonna become the King of the Pirates!
+Dialogue: 0,0:03:16.00,0:03:19.56,Italics,,0000,0000,0000,,{\i1}To take down one of the Four Emperors -\Nthe rulers of the New World,{\i0}
+Dialogue: 0,0:03:19.58,0:03:22.77,Italics,,0000,0000,0000,,{\i1}Luffy and the others formed \Na pirate alliance with
+Dialogue: 0,0:03:22.79,0:03:25.09,Italics,,0000,0000,0000,,Trafalgar Law and have come to Dressrosa.{\i0}
+Dialogue: 0,0:03:25.11,0:03:28.47,Italics,,0000,0000,0000,,{\i1}But caught up in the current \Nking Doflamingo's agenda,
+Dialogue: 0,0:03:28.49,0:03:30.99,Italics,,0000,0000,0000,,they were trapped along \Nwith the entire island.{\i0}
+Dialogue: 0,0:03:31.01,0:03:35.25,Default,,0000,0000,0000,,{\i1}And with the Straw Hats fighting\Nthe Donquixote Family fiercely,{\i0}
+Dialogue: 0,0:03:35.27,0:03:43.27,Default,,0000,0000,0000,,{\i1}Luffy and Law finally clash with Doflamingo\Nat the Royal Palace!{\i0}
+Dialogue: 0,0:03:45.20,0:03:53.20,Default,,0000,0000,0000,,{\i1}I'm sorry!\NI didn't wanna lose you... So I lied!{\i0}
+Dialogue: 0,0:03:53.62,0:03:58.93,Default,,0000,0000,0000,,Russian, look.\NI found the same bonnet that Gimlet used to wear!
+Dialogue: 0,0:03:58.95,0:04:06.95,Default,,0000,0000,0000,,Don't you think this looks like him?\NSince he resembled me.
+Dialogue: 0,0:04:09.18,0:04:15.75,Default,,0000,0000,0000,,{\i1}Once more... Please smile!{\i0}
+Dialogue: 0,0:04:15.77,0:04:19.54,Default,,0000,0000,0000,,I-I'm sorry! I've gone way out of line...
+Dialogue: 0,0:04:19.56,0:04:27.56,Default,,0000,0000,0000,,If someone sees me wearing this...
+Dialogue: 0,0:04:29.95,0:04:37.95,Default,,0000,0000,0000,,{\i1}"Stardust of Death!\NDiamante's Storm of Vicious Attacks!"{\i0}
+Dialogue: 0,0:05:16.83,0:05:24.83,Default,,0000,0000,0000,,Good morning, Russian.
+Dialogue: 0,0:06:00.67,0:06:02.49,Default,,0000,0000,0000,,That's so cool, old man!
+Dialogue: 0,0:06:02.51,0:06:05.83,Default,,0000,0000,0000,,He lost his son and\Nhis wife got in a big accident.
+Dialogue: 0,0:06:05.85,0:06:13.68,Default,,0000,0000,0000,,No wonder his spirit has broken...
+Dialogue: 0,0:06:13.70,0:06:19.44,Default,,0000,0000,0000,,Pink! What the hell has happened to\Nyour sense of fashion?!
+Dialogue: 0,0:06:19.46,0:06:23.81,Default,,0000,0000,0000,,Hey! You're trying to be funny, aren't you?!
+Dialogue: 0,0:06:23.83,0:06:25.58,Default,,0000,0000,0000,,What happened to your luxury suits?
+Dialogue: 0,0:06:25.60,0:06:29.96,Default,,0000,0000,0000,,That's embarrassin"g"! There's the "G"!
+Dialogue: 0,0:06:29.98,0:06:32.55,Default,,0000,0000,0000,,I'm going out.
+Dialogue: 0,0:06:32.57,0:06:36.29,Default,,0000,0000,0000,,--Look! There goes a pervert!\N--A pervert is passing by!
+Dialogue: 0,0:06:36.31,0:06:38.40,Default,,0000,0000,0000,,Disgusting!
+Dialogue: 0,0:06:38.42,0:06:40.59,Default,,0000,0000,0000,,Don't walk around wearing that!
+Dialogue: 0,0:06:40.61,0:06:43.30,Default,,0000,0000,0000,,Oh, please! He's so creepy.
+Dialogue: 0,0:06:43.32,0:06:45.38,Default,,0000,0000,0000,,He's still wearing that?
+Dialogue: 0,0:06:45.40,0:06:47.13,Default,,0000,0000,0000,,Oh! There's a freak!
+Dialogue: 0,0:06:47.15,0:06:55.15,Default,,0000,0000,0000,,Hey! No!
+Dialogue: 0,0:07:31.39,0:07:37.43,Default,,0000,0000,0000,,I'm sorry, Russian! I'm late!
+Dialogue: 0,0:07:37.45,0:07:45.45,Default,,0000,0000,0000,,Russian...
+Dialogue: 0,0:08:21.28,0:08:24.85,Default,,0000,0000,0000,,Hey, honey, what should we name him?
+Dialogue: 0,0:08:24.87,0:08:26.88,Default,,0000,0000,0000,,How about...
+Dialogue: 0,0:08:26.90,0:08:28.91,Default,,0000,0000,0000,,Gimlet.
+Dialogue: 0,0:08:28.93,0:08:36.93,Default,,0000,0000,0000,,I love that name!
+Dialogue: 0,0:08:38.45,0:08:43.35,Default,,0000,0000,0000,,Russian...
+Dialogue: 0,0:08:43.37,0:08:46.12,Default,,0000,0000,0000,,To me,
+Dialogue: 0,0:08:46.14,0:08:54.14,Default,,0000,0000,0000,,these outfits are worth more than\Nany expensive suit.
+Dialogue: 0,0:09:03.79,0:09:08.65,Default,,0000,0000,0000,,{\i1}Because only while I'm wearing these,{\i0}
+Dialogue: 0,0:09:08.67,0:09:16.67,Default,,0000,0000,0000,,{\i1}you smile...{\i0}
+Dialogue: 0,0:09:22.20,0:09:26.47,Default,,0000,0000,0000,,I wasn't expecting rain, were you?\NI'm all wet!
+Dialogue: 0,0:09:26.49,0:09:30.64,Default,,0000,0000,0000,,You're soaking wet. What's so funny?
+Dialogue: 0,0:09:30.66,0:09:35.35,Default,,0000,0000,0000,,I like... rain.
+Dialogue: 0,0:09:35.37,0:09:38.19,Default,,0000,0000,0000,,Do you like it?
+Dialogue: 0,0:09:38.21,0:09:46.21,Default,,0000,0000,0000,,Rain.
+Dialogue: 0,0:10:07.80,0:10:12.87,Default,,0000,0000,0000,,{\i1}Seems like the rain that you liked so much...{\i0}
+Dialogue: 0,0:10:12.89,0:10:20.89,Default,,0000,0000,0000,,{\i1}...stopped.{\i0}
+Dialogue: 0,0:10:34.81,0:10:42.81,Default,,0000,0000,0000,,{\i1}Honey!{\i0}
+Dialogue: 0,0:10:47.45,0:10:49.36,Default,,0000,0000,0000,,Señor!
+Dialogue: 0,0:10:49.38,0:10:57.38,Default,,0000,0000,0000,,Fraland!
+Dialogue: 0,0:11:04.79,0:11:08.24,Default,,0000,0000,0000,,That's pathetic...
+Dialogue: 0,0:11:08.26,0:11:14.01,Default,,0000,0000,0000,,What are you thinking of, crying?
+Dialogue: 0,0:11:14.03,0:11:22.03,Default,,0000,0000,0000,,Brother.
+Dialogue: 0,0:11:33.04,0:11:37.59,Default,,0000,0000,0000,,If we see each other again someday somewhere,
+Dialogue: 0,0:11:37.61,0:11:40.15,Default,,0000,0000,0000,,let's have a drink.
+Dialogue: 0,0:11:40.17,0:11:43.50,Default,,0000,0000,0000,,And tell me...
+Dialogue: 0,0:11:43.52,0:11:48.57,Default,,0000,0000,0000,,...about the woman named Russian.
+Dialogue: 0,0:11:48.59,0:11:52.08,Default,,0000,0000,0000,,THE BATTLE AT THE SMILE FACTORY
+Dialogue: 0,0:11:52.10,0:12:00.10,Default,,0000,0000,0000,,THE WINNER - FRANKY
+Dialogue: 0,0:12:14.55,0:12:20.12,Default,,0000,0000,0000,,Now, you guys! Are you all ready?!
+Dialogue: 0,0:12:20.14,0:12:23.15,Default,,0000,0000,0000,,Yeah!!
+Dialogue: 0,0:12:23.17,0:12:29.38,Default,,0000,0000,0000,,This damn factory that gave \Nyou Tontattas a hard time!
+Dialogue: 0,0:12:29.40,0:12:35.92,Default,,0000,0000,0000,,Destroy it!!
+Dialogue: 0,0:12:35.94,0:12:37.29,Default,,0000,0000,0000,,Let's go!
+Dialogue: 0,0:12:37.31,0:12:45.31,Default,,0000,0000,0000,,Thank you, Fraland!
+Dialogue: 0,0:12:51.65,0:12:58.73,Default,,0000,0000,0000,,{\i1}Tontattas, good luck...{\i0}
+Dialogue: 0,0:12:58.75,0:13:03.60,Default,,0000,0000,0000,,{\i1}I'll leave all the mess \Nup there in your hands...{\i0}
+Dialogue: 0,0:13:03.62,0:13:11.62,Default,,0000,0000,0000,,{\i1}Luffy...{\i0}
+Dialogue: 0,0:13:23.95,0:13:27.50,Default,,0000,0000,0000,,Help the injured first! Call the rescue team!
+Dialogue: 0,0:13:27.52,0:13:28.17,Default,,0000,0000,0000,,Yes, sir!
+Dialogue: 0,0:13:28.19,0:13:34.64,DefaultLow,,0000,0000,0000,,THE PLATEAU - LOCATION OF THE ROYAL PALACE
+Dialogue: 0,0:13:34.66,0:13:42.66,Default,,0000,0000,0000,,Showtime!
+Dialogue: 0,0:13:43.86,0:13:48.23,Default,,0000,0000,0000,,Now, let's have showtime together!
+Dialogue: 0,0:13:48.25,0:13:51.85,Default,,0000,0000,0000,,You got to show me already!
+Dialogue: 0,0:13:51.87,0:13:59.87,Default,,0000,0000,0000,,The image of a father and a daughter\Ndying miserably together!
+Dialogue: 0,0:14:01.81,0:14:06.07,Default,,0000,0000,0000,,Half Moon...
+Dialogue: 0,0:14:06.09,0:14:12.16,Default,,0000,0000,0000,,...Glaive!
+Dialogue: 0,0:14:12.18,0:14:14.38,Default,,0000,0000,0000,,Kyros!
+Dialogue: 0,0:14:14.40,0:14:17.66,Default,,0000,0000,0000,,I thought you were furious earlier...
+Dialogue: 0,0:14:17.68,0:14:21.69,Default,,0000,0000,0000,,...forgetting your place!
+Dialogue: 0,0:14:21.71,0:14:28.97,Default,,0000,0000,0000,,Did you think that I'm just a talented matador\Nwho can make things ripple?!
+Dialogue: 0,0:14:28.99,0:14:34.51,Default,,0000,0000,0000,,Don't think that you'd be the strongest\Nin the Colosseum's history forever!
+Dialogue: 0,0:14:34.53,0:14:37.79,Default,,0000,0000,0000,,I have a solid strength.
+Dialogue: 0,0:14:37.81,0:14:45.81,Default,,0000,0000,0000,,The current hero of the Colosseum is\Nme, Diamante-{\i1}sama{\i0}!
+Dialogue: 0,0:14:59.82,0:15:06.88,Default,,0000,0000,0000,,The current hero of the Colosseum is\Nme, Diamante-{\i1}sama{\i0}!
+Dialogue: 0,0:15:06.90,0:15:09.48,Default,,0000,0000,0000,,I don't care about the title!
+Dialogue: 0,0:15:09.50,0:15:17.34,Default,,0000,0000,0000,,But I can make things ripple as well!
+Dialogue: 0,0:15:17.36,0:15:25.36,Default,,0000,0000,0000,,Army Bandera!
+Dialogue: 0,0:15:30.52,0:15:32.71,Default,,0000,0000,0000,,Father-{\i1}sama{\i0}!
+Dialogue: 0,0:15:32.73,0:15:40.68,Default,,0000,0000,0000,,Nice try! You almost got me!
+Dialogue: 0,0:15:40.70,0:15:42.91,Default,,0000,0000,0000,,Can't be helped!
+Dialogue: 0,0:15:42.93,0:15:46.15,Default,,0000,0000,0000,,You've been running around \Nthe country all day today
+Dialogue: 0,0:15:46.17,0:15:50.90,Default,,0000,0000,0000,,and fighting while protecting your daughter's life\Non this wavering ground!
+Dialogue: 0,0:15:50.92,0:15:53.81,Default,,0000,0000,0000,,With just one leg! If you \Nwere an ordinary person,
+Dialogue: 0,0:15:53.83,0:15:58.18,Default,,0000,0000,0000,,you would've been unable to move already!
+Dialogue: 0,0:15:58.20,0:16:03.30,Default,,0000,0000,0000,,Father-{\i1}sama{\i0}...
+Dialogue: 0,0:16:03.32,0:16:07.14,Default,,0000,0000,0000,,Viola-{\i1}sama{\i0}, how's Kyros-{\i1}sama{\i0} doing now?
+Dialogue: 0,0:16:07.16,0:16:10.67,Default,,0000,0000,0000,,He's totally exhausted...
+Dialogue: 0,0:16:10.69,0:16:14.55,Default,,0000,0000,0000,,Brother Kyros is almost \Nreaching his limit, too.
+Dialogue: 0,0:16:14.57,0:16:21.85,Default,,0000,0000,0000,,Please avenge Scarlet-{\i1}sama{\i0}...
+Dialogue: 0,0:16:21.87,0:16:27.12,Default,,0000,0000,0000,,You don't have to concern yourself about\Nmy having one leg!
+Dialogue: 0,0:16:27.14,0:16:29.46,Default,,0000,0000,0000,,Oh?
+Dialogue: 0,0:16:29.48,0:16:34.07,Default,,0000,0000,0000,,If I wanted to use it as an excuse,\NI wouldn't have come to this battlefield!
+Dialogue: 0,0:16:34.09,0:16:39.56,Default,,0000,0000,0000,,I dedicated my missing leg to someone \NI owed a lot to and I'm proud of it!
+Dialogue: 0,0:16:39.58,0:16:43.88,Default,,0000,0000,0000,,Okay. Then, I don't have to hesitate\Nto strike your weak point!
+Dialogue: 0,0:16:43.90,0:16:51.69,Default,,0000,0000,0000,,It's too boring for me to just deliver a \Nfinal blow to the already-fatigued you!
+Dialogue: 0,0:16:51.71,0:16:59.10,Default,,0000,0000,0000,,How about a game?!
+Dialogue: 0,0:16:59.12,0:17:07.12,Default,,0000,0000,0000,,The last showtime!
+Dialogue: 0,0:17:08.11,0:17:10.80,Default,,0000,0000,0000,,--Those are...\N--...Confetti?
+Dialogue: 0,0:17:10.82,0:17:14.27,Default,,0000,0000,0000,,That's right! They look \Nlike just paper but they're
+Dialogue: 0,0:17:14.29,0:17:17.81,Default,,0000,0000,0000,,actually something that I made to ripple.
+Dialogue: 0,0:17:17.83,0:17:21.93,Default,,0000,0000,0000,,Now, I'll undo my power.
+Dialogue: 0,0:17:21.95,0:17:26.11,Default,,0000,0000,0000,,Ripple Release!
+Dialogue: 0,0:17:26.13,0:17:27.98,Default,,0000,0000,0000,,Spiked iron balls!
+Dialogue: 0,0:17:28.00,0:17:33.89,Default,,0000,0000,0000,,Look how beautiful they are!\NIt's like stardust!
+Dialogue: 0,0:17:33.91,0:17:36.50,Default,,0000,0000,0000,,--Robin-{\i1}san{\i0}!\N--I guess we have nowhere to hide.
+Dialogue: 0,0:17:36.52,0:17:39.44,Default,,0000,0000,0000,,Robiland! Please protect Rebecca!
+Dialogue: 0,0:17:39.46,0:17:41.98,Default,,0000,0000,0000,,Commander-{\i1}san{\i0}, you're in danger, too!
+Dialogue: 0,0:17:42.00,0:17:44.69,Default,,0000,0000,0000,,I'm going to be fine!
+Dialogue: 0,0:17:44.71,0:17:48.82,Default,,0000,0000,0000,,I bet you're upset. You know what's coming.
+Dialogue: 0,0:17:48.84,0:17:53.95,Default,,0000,0000,0000,,Yes, those are stardust that \Ncan kill an entire army!
+Dialogue: 0,0:17:53.97,0:17:57.46,Default,,0000,0000,0000,,It's extremely difficult to stay alive!
+Dialogue: 0,0:17:57.48,0:17:59.69,Default,,0000,0000,0000,,I'm glad we're at the Sunflower Field!
+Dialogue: 0,0:17:59.71,0:18:05.00,Default,,0000,0000,0000,,Mil Fleurs!
+Dialogue: 0,0:18:05.02,0:18:11.62,Default,,0000,0000,0000,,You're blooming beautifully, I'm sorry!
+Dialogue: 0,0:18:11.64,0:18:15.27,Default,,0000,0000,0000,,Struggle as you like!
+Dialogue: 0,0:18:15.29,0:18:17.25,Default,,0000,0000,0000,,Adios!
+Dialogue: 0,0:18:17.27,0:18:25.27,Default,,0000,0000,0000,,Death Enjambre!
+Dialogue: 0,0:18:27.27,0:18:30.75,Default,,0000,0000,0000,,Flower Umbrella!
+Dialogue: 0,0:18:30.77,0:18:32.25,Default,,0000,0000,0000,,That was close!
+Dialogue: 0,0:18:32.27,0:18:34.75,Default,,0000,0000,0000,,Oh, she handles it quite well.
+Dialogue: 0,0:18:34.77,0:18:40.36,Default,,0000,0000,0000,,Pay attention!
+Dialogue: 0,0:18:40.38,0:18:45.91,Default,,0000,0000,0000,,Kyros!
+Dialogue: 0,0:18:45.93,0:18:50.52,Default,,0000,0000,0000,,An army that gets defeated by an attack \Nlike this mustn't be that good!
+Dialogue: 0,0:18:50.54,0:18:52.89,Default,,0000,0000,0000,,That's so crazy!
+Dialogue: 0,0:18:52.91,0:18:57.46,Default,,0000,0000,0000,,He's smacking away every \Nsingle spiked iron ball!
+Dialogue: 0,0:18:57.48,0:19:03.12,Default,,0000,0000,0000,,Don't tell me he can even \Navoid getting wet in rain!
+Dialogue: 0,0:19:03.14,0:19:11.14,Default,,0000,0000,0000,,Dammit!
+Dialogue: 0,0:19:16.02,0:19:20.23,Default,,0000,0000,0000,,Father-{\i1}sama{\i0}!!
+Dialogue: 0,0:19:20.25,0:19:23.11,Default,,0000,0000,0000,,Look out for what's falling onto you, Kyros!
+Dialogue: 0,0:19:23.13,0:19:27.80,Default,,0000,0000,0000,,How silly are you to stumble now?
+Dialogue: 0,0:19:27.82,0:19:30.92,Default,,0000,0000,0000,,Damn you, Diamante! I'll never forgive you!
+Dialogue: 0,0:19:30.94,0:19:34.81,Default,,0000,0000,0000,,No, Rebecca! There are still iron balls!
+Dialogue: 0,0:19:34.83,0:19:40.50,Default,,0000,0000,0000,,Father-{\i1}sama{\i0}!!
+Dialogue: 0,0:19:40.52,0:19:48.52,Default,,0000,0000,0000,,This is the gun that I shot\Nyour wife Scarlet with!
+Dialogue: 0,0:19:49.24,0:19:54.75,Default,,0000,0000,0000,,You should be happy!\NYou'll get killed with my gun like your wife!
+Dialogue: 0,0:19:54.77,0:19:56.55,Default,,0000,0000,0000,,I won't forgive you!
+Dialogue: 0,0:19:56.57,0:20:00.85,Default,,0000,0000,0000,,I won't forgive you! Diamante!
+Dialogue: 0,0:20:00.87,0:20:04.75,Default,,0000,0000,0000,,Well said, Rebecca! Don't forgive me!
+Dialogue: 0,0:20:04.77,0:20:08.13,Default,,0000,0000,0000,,Fight me! I'll kill you with these hands!
+Dialogue: 0,0:20:08.15,0:20:10.26,Default,,0000,0000,0000,,Like your mother!
+Dialogue: 0,0:20:10.28,0:20:18.28,Default,,0000,0000,0000,,Let go of me, Robin-{\i1}san{\i0}! I gotta kill him!
+Dialogue: 0,0:20:19.81,0:20:27.76,Default,,0000,0000,0000,,{\i1}How long will it last?!\NThe Flower Umbrella can't take it anymore!{\i0}
+Dialogue: 0,0:20:27.78,0:20:35.78,Default,,0000,0000,0000,,Diamante!!
+Dialogue: 0,0:20:39.72,0:20:47.72,Default,,0000,0000,0000,,{\i1}No way...{\i0}
+Dialogue: 0,0:20:51.89,0:20:58.58,Default,,0000,0000,0000,,This is {\i1}my{\i0} fight! Rebecca!
+Dialogue: 0,0:20:58.60,0:21:00.88,Default,,0000,0000,0000,,Drop...
+Dialogue: 0,0:21:00.90,0:21:04.63,Default,,0000,0000,0000,,...your sword!
+Dialogue: 0,0:21:04.65,0:21:08.97,Default,,0000,0000,0000,,For a decade, you...
+Dialogue: 0,0:21:08.99,0:21:12.51,Default,,0000,0000,0000,,Father-{\i1}sama{\i0}!\NGet under the umbrella! You'll die!
+Dialogue: 0,0:21:12.53,0:21:18.42,Default,,0000,0000,0000,,...have followed your mother's wish!!
+Dialogue: 0,0:21:18.44,0:21:21.21,Default,,0000,0000,0000,,My mother said I shouldn't hurt anyone!
+Dialogue: 0,0:21:21.23,0:21:27.77,Default,,0000,0000,0000,,I'm gonna teach you how to not get hurt!
+Dialogue: 0,0:21:27.79,0:21:30.30,Default,,0000,0000,0000,,Fight, Rebecca!
+Dialogue: 0,0:21:30.32,0:21:32.70,Default,,0000,0000,0000,,She has never hurt anybody
+Dialogue: 0,0:21:32.72,0:21:35.51,Default,,0000,0000,0000,,and she won it all by letting \Nopponents fall out of the ring!
+Dialogue: 0,0:21:35.53,0:21:38.87,Default,,0000,0000,0000,,She has never been defeated!
+Dialogue: 0,0:21:38.89,0:21:42.02,Default,,0000,0000,0000,,You can't even cut your enemy\Nand you call yourself a winner?!
+Dialogue: 0,0:21:42.04,0:21:46.32,Default,,0000,0000,0000,,Shed your blood, Rebecca!
+Dialogue: 0,0:21:46.34,0:21:49.09,Default,,0000,0000,0000,,You coward!
+Dialogue: 0,0:21:49.11,0:21:51.70,Default,,0000,0000,0000,,That was a horrible match!
+Dialogue: 0,0:21:51.72,0:21:55.56,Default,,0000,0000,0000,,You brought shame to all of us gladiators!
+Dialogue: 0,0:21:55.58,0:21:59.49,Default,,0000,0000,0000,,--Drop dead, Rebecca!\N--A corrupted family!
+Dialogue: 0,0:21:59.51,0:22:06.98,Default,,0000,0000,0000,,You foul-blooded wench!
+Dialogue: 0,0:22:07.00,0:22:13.74,Default,,0000,0000,0000,,You've been fighting in the Colosseum\Nbut you still haven't hurt anybody!
+Dialogue: 0,0:22:13.76,0:22:20.65,Default,,0000,0000,0000,,Your hands are still clean!
+Dialogue: 0,0:22:20.67,0:22:24.60,Default,,0000,0000,0000,,Those are the hands...
+Dialogue: 0,0:22:24.62,0:22:32.62,Default,,0000,0000,0000,,...in which your mother \NScarlet's spirit lives!
+Dialogue: 0,0:22:33.33,0:22:36.30,Default,,0000,0000,0000,,{\i1}Mother-sama...{\i0}
+Dialogue: 0,0:22:36.32,0:22:39.84,Default,,0000,0000,0000,,There's no need to bathe \Nthose hands with the blood
+Dialogue: 0,0:22:39.86,0:22:47.86,Default,,0000,0000,0000,,of a devil like him after all these years!
+Dialogue: 0,0:22:50.76,0:22:52.74,Default,,0000,0000,0000,,Rebecca!
+Dialogue: 0,0:22:52.76,0:23:00.76,Default,,0000,0000,0000,,I won't let you wield a sword!
+Dialogue: 0,0:23:10.85,0:23:13.15,Italics,,0000,0000,0000,,{\i1}His entire body assailed by \Ncountless deadly iron balls,
+Dialogue: 0,0:23:13.17,0:23:15.32,Italics,,0000,0000,0000,,Kyros reaches his limit!{\i0}
+Dialogue: 0,0:23:15.34,0:23:17.33,Italics,,0000,0000,0000,,{\i1}But when he thinks of the pain and grief
+Dialogue: 0,0:23:17.35,0:23:19.66,Italics,,0000,0000,0000,,that Doflamingo caused to the citizens,
+Dialogue: 0,0:23:19.68,0:23:22.14,Italics,,0000,0000,0000,,and gets filled with resentment,{\i0}
+Dialogue: 0,0:23:22.16,0:23:24.09,Italics,,0000,0000,0000,,{\i1}his wholehearted attack which will
+Dialogue: 0,0:23:24.11,0:23:26.87,Italics,,0000,0000,0000,,tear up the misfortune \Nof Dressrosa is launched!{\i0}
+Dialogue: 0,0:23:26.89,0:23:31.21,Default,,0000,0000,0000,,On the next episode of One Piece!\N"Trueno Bastardo! Kyros' Furious Strike!"
+Dialogue: 0,0:23:31.23,0:23:39.23,Default,,0000,0000,0000,,I'm gonna be the King of the Pirates!

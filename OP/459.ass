@@ -1,0 +1,269 @@
+﻿[Script Info]
+Title: English (US)
+Original Script: ToeiAnimation  [http://www.crunchyroll.com/user/ToeiAnimation]
+Original Translation: 
+Original Editing: 
+Original Timing: 
+Synch Point: 
+Script Updated By: 
+Update Details: 
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 640
+PlayResY: 360
+Timer: 0.0000
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name,Fontname,Fontsize,PrimaryColour,SecondaryColour,OutlineColour,BackColour,Bold,Italic,Underline,Strikeout,ScaleX,ScaleY,Spacing,Angle,BorderStyle,Outline,Shadow,Alignment,MarginL,MarginR,MarginV,Encoding
+Style: Default,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,2,0020,0020,0022,0
+Style: B1,Arial,32,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,2,0070,0070,0030,0
+Style: OS,Arial,18,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,8,0001,0001,0015,0
+Style: Italics,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,-1,0,0,100,100,0,0,1,2,1,2,0020,0020,0015,0
+Style: Ep Title,Arial,18,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,3,0170,0070,0020,0
+Style: Copy of Ep Title,Arial,18,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,3,0070,0226,0065,0
+Style: On Top,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,8,0020,0020,0022,0
+Style: Copy of OS,Arial,18,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,9,0020,0020,0020,0
+Style: DefaultLow,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,2,0020,0020,0010,0
+Style: Italics - Top,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,-1,0,0,100,100,0,0,1,2,1,8,0020,0020,0022,0
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:26.43,0:00:26.41,Italics,,0000,0000,0000,,Every time I look up to the sky after the rain
+Dialogue: 0,0:00:26.43,0:00:31.50,Italics - Top,,0000,0000,0000,,ame agari no sora wo aogu tabi
+Dialogue: 0,0:00:31.52,0:00:31.50,Italics,,0000,0000,0000,,I think back to when I was a crybaby
+Dialogue: 0,0:00:31.52,0:00:37.17,Italics - Top,,0000,0000,0000,,nakimushi datta koro no boku wo omou
+Dialogue: 0,0:00:37.19,0:00:37.17,Italics,,0000,0000,0000,,I was chasing somebody's back blindly
+Dialogue: 0,0:00:37.19,0:00:45.01,Italics - Top,,0000,0000,0000,,dareka no senaka wo gamushara ni oikaketa
+Dialogue: 0,0:00:45.03,0:00:45.01,Italics,,0000,0000,0000,,Thinking "I want to be stronger"
+Dialogue: 0,0:00:45.03,0:00:47.93,Italics - Top,,0000,0000,0000,,"tsuyoku naritai" tte
+Dialogue: 0,0:00:47.95,0:00:47.93,Italics,,0000,0000,0000,,The word "thank you" has faded into the wind now
+Dialogue: 0,0:00:47.95,0:00:53.35,Italics - Top,,0000,0000,0000,,ima wa kaze ni kieta "arigatou"
+Dialogue: 0,0:00:53.37,0:00:53.35,Italics,,0000,0000,0000,,Am I getting stronger?
+Dialogue: 0,0:00:53.37,0:00:58.49,Italics - Top,,0000,0000,0000,,boku wa tsuyoku nareteiru no kana?
+Dialogue: 0,0:00:58.51,0:00:58.49,Italics,,0000,0000,0000,,I don't know the answer yet
+Dialogue: 0,0:00:58.51,0:01:04.07,Italics - Top,,0000,0000,0000,,kotae wa mada desou ni nai kara sa
+Dialogue: 0,0:01:04.09,0:01:04.07,Italics - Top,,0000,0000,0000,,yappari mada aruiteiku yo
+Dialogue: 0,0:01:04.09,0:01:09.62,Italics,,0000,0000,0000,,That's why I'll keep walking ahead
+Dialogue: 0,0:01:09.64,0:01:09.62,Italics - Top,,0000,0000,0000,,saa yukou
+Dialogue: 0,0:01:09.64,0:01:11.87,Italics,,0000,0000,0000,,So let's go
+Dialogue: 0,0:01:11.89,0:01:11.87,Italics - Top,,0000,0000,0000,,tachidomaru koto naku
+Dialogue: 0,0:01:11.89,0:01:15.21,Italics,,0000,0000,0000,,Without stopping
+Dialogue: 0,0:01:15.23,0:01:15.21,Italics - Top,,0000,0000,0000,,nagareru toki ni makenai youni
+Dialogue: 0,0:01:15.23,0:01:20.47,Italics,,0000,0000,0000,,Without giving up to the flow of time
+Dialogue: 0,0:01:20.49,0:01:20.47,Italics - Top,,0000,0000,0000,,nando mo tachimukai tsuzukeyou
+Dialogue: 0,0:01:20.49,0:01:26.01,Italics,,0000,0000,0000,,I'll keep getting back up
+Dialogue: 0,0:01:26.03,0:01:26.01,Italics - Top,,0000,0000,0000,,taisetsu na mono ushinaitakunai kara
+Dialogue: 0,0:01:26.03,0:01:31.52,Italics,,0000,0000,0000,,Because I don't want to lose something precious
+Dialogue: 0,0:01:31.54,0:01:31.52,Italics - Top,,0000,0000,0000,,boku no naka ni nagareru koe wa
+Dialogue: 0,0:01:31.54,0:01:36.86,Italics,,0000,0000,0000,,The voice inside of me
+Dialogue: 0,0:01:36.88,0:01:36.86,Italics - Top,,0000,0000,0000,,zutto zutto boku wo sasaeteru
+Dialogue: 0,0:01:36.88,0:01:42.15,Italics,,0000,0000,0000,,keeps sustaining me
+Dialogue: 0,0:01:42.17,0:01:42.15,Italics - Top,,0000,0000,0000,,itazura na ame ga jama suru kedo
+Dialogue: 0,0:01:42.17,0:01:47.37,Italics,,0000,0000,0000,,Wicked rain will get in my way
+Dialogue: 0,0:01:47.39,0:01:47.37,Italics - Top,,0000,0000,0000,,nigedasanai kara
+Dialogue: 0,0:01:47.39,0:01:55.39,Italics,,0000,0000,0000,,But I won't walk away
+Dialogue: 0,0:01:55.52,0:01:55.50,Italics - Top,,0000,0000,0000,,saa yukou
+Dialogue: 0,0:01:55.52,0:01:57.79,Italics,,0000,0000,0000,,So let's go
+Dialogue: 0,0:01:57.81,0:01:57.79,Italics - Top,,0000,0000,0000,,Tachidomaru koto naku
+Dialogue: 0,0:01:57.81,0:02:01.09,Italics,,0000,0000,0000,,Without stopping
+Dialogue: 0,0:02:01.11,0:02:01.09,Italics - Top,,0000,0000,0000,,nagareru toki ni makenai youni
+Dialogue: 0,0:02:01.11,0:02:06.26,Italics,,0000,0000,0000,,Without giving up to the flow of time
+Dialogue: 0,0:02:06.28,0:02:06.26,Italics - Top,,0000,0000,0000,,nando mo tachimukai tsuzukeyou
+Dialogue: 0,0:02:06.28,0:02:11.98,Italics,,0000,0000,0000,,I'll keep getting back up
+Dialogue: 0,0:02:12.00,0:02:11.98,Italics - Top,,0000,0000,0000,,taisetsu na mono ushinaitakunai kara
+Dialogue: 0,0:02:12.00,0:02:17.57,Italics,,0000,0000,0000,,Because I don't want to lose something precious
+Dialogue: 0,0:02:17.59,0:02:17.57,Italics - Top,,0000,0000,0000,,shinjita sono saki e to...
+Dialogue: 0,0:02:17.59,0:02:25.59,Italics,,0000,0000,0000,,To the future I believe in...
+Dialogue: 0,0:02:33.88,0:02:36.68,Default,,0000,0000,0000,,The time is the \NGreat Pirate Era.
+Dialogue: 0,0:02:36.70,0:02:41.00,Default,,0000,0000,0000,,Countless pirates fight \Ndesperately for the One Piece,
+Dialogue: 0,0:02:41.02,0:02:45.63,Default,,0000,0000,0000,,the great treasure left behind by \NGold Roger, King of the Pirates.
+Dialogue: 0,0:02:45.65,0:02:50.53,Default,,0000,0000,0000,,Monkey D. Luffy, a boy whose body turned \Nto rubber after he ate the Gum-Gum Fruit,
+Dialogue: 0,0:02:50.55,0:02:53.32,Default,,0000,0000,0000,,also takes to the sea to become \Nthe next King of the Pirates.
+Dialogue: 0,0:02:53.34,0:02:57.37,Default,,0000,0000,0000,,As Luffy and his friends \Novercome numerous adventures,
+Dialogue: 0,0:02:57.39,0:03:03.31,Default,,0000,0000,0000,,the World Government is less and \Nless able to ignore their existence.
+Dialogue: 0,0:03:03.33,0:03:05.82,Default,,0000,0000,0000,,This is exciting!
+Dialogue: 0,0:03:05.84,0:03:08.74,Default,,0000,0000,0000,,What kind of adventure \Nis waiting for us next?!
+Dialogue: 0,0:03:08.76,0:03:12.20,Default,,0000,0000,0000,,The crew, on its way \Nto the New World,
+Dialogue: 0,0:03:12.22,0:03:20.13,Default,,0000,0000,0000,,will speed along the \NGrand Line again today!
+Dialogue: 0,0:03:20.15,0:03:22.53,Default,,0000,0000,0000,,Separated from the rest of the Straw Hats,
+Dialogue: 0,0:03:22.55,0:03:27.76,Default,,0000,0000,0000,,Luffy is headed to the Navy Headquarters in order to rescue his brother, Ace!
+Dialogue: 0,0:03:27.78,0:03:35.78,Default,,0000,0000,0000,,Now, there are only 3 hours left before the public execution of Portgaz D. Ace...
+Dialogue: 0,0:03:41.78,0:03:49.78,Default,,0000,0000,0000,,"Ticking Down to the Time of Battle! The Navy's Strongest Lineup in Position!"
+Dialogue: 0,0:03:57.06,0:04:05.06,Default,,0000,0000,0000,,Stand up.
+Dialogue: 0,0:05:19.86,0:05:27.86,Default,,0000,0000,0000,,Climb.
+Dialogue: 0,0:05:48.17,0:05:52.10,On Top,,0000,0000,0000,,{\fad(700,1)}"South Blue"
+Dialogue: 0,0:05:52.12,0:05:55.78,Default,,0000,0000,0000,,It's in 3 hours now! I wonder if Whitebeard has arrived yet.
+Dialogue: 0,0:05:55.80,0:05:59.28,Default,,0000,0000,0000,,I don't know. Do you think he's really gonna be there?
+Dialogue: 0,0:05:59.30,0:06:03.55,Default,,0000,0000,0000,,He's a big deal but isn't he too old?
+Dialogue: 0,0:06:03.57,0:06:05.37,Default,,0000,0000,0000,,You think so?
+Dialogue: 0,0:06:05.39,0:06:10.99,Default,,0000,0000,0000,,He was around before the Great Pirate Era. He must be senile by now.
+Dialogue: 0,0:06:11.01,0:06:14.54,Default,,0000,0000,0000,,We haven't heard his name in any big news for years.
+Dialogue: 0,0:06:14.56,0:06:17.89,Default,,0000,0000,0000,,How can you guys take this so lightly?
+Dialogue: 0,0:06:17.91,0:06:23.23,Default,,0000,0000,0000,,Because he's unignorable, the Navy HQ has called up its elites and...
+Dialogue: 0,0:06:23.25,0:06:26.12,Default,,0000,0000,0000,,...is expecting him with all their forces.
+Dialogue: 0,0:06:26.14,0:06:31.18,Default,,0000,0000,0000,,I'm almost certain that Whitebeard is going to appear.
+Dialogue: 0,0:06:31.20,0:06:34.20,Default,,0000,0000,0000,,And then what's gonna happen?
+Dialogue: 0,0:06:34.22,0:06:38.12,Default,,0000,0000,0000,,I don't know. How am I supposed to know?
+Dialogue: 0,0:06:38.14,0:06:42.56,On Top,,0000,0000,0000,,{\fad(700,1)}"East Blue"
+Dialogue: 0,0:06:42.58,0:06:46.44,Default,,0000,0000,0000,,He's a pirate of a different era.
+Dialogue: 0,0:06:46.46,0:06:49.29,Default,,0000,0000,0000,,Is it possible for him to beat the Navy HQ?
+Dialogue: 0,0:06:49.31,0:06:54.34,Default,,0000,0000,0000,,It's not possible for any pirates to attack Marineford.
+Dialogue: 0,0:06:54.36,0:06:58.87,Default,,0000,0000,0000,,That's not true. I think it was 20 years ago,
+Dialogue: 0,0:06:58.89,0:07:02.72,Default,,0000,0000,0000,,a pirate called Shiki the Golden Lion invaded Marineford
+Dialogue: 0,0:07:02.74,0:07:07.31,Default,,0000,0000,0000,,and left the Navy HQ half destroyed.
+Dialogue: 0,0:07:07.33,0:07:11.21,Default,,0000,0000,0000,,This time it's going to be worse.
+Dialogue: 0,0:07:11.23,0:07:19.23,Default,,0000,0000,0000,,No matter who wins, a lot of people will die.
+Dialogue: 0,0:07:19.32,0:07:21.42,Default,,0000,0000,0000,,It'd be better if he didn't appear.
+Dialogue: 0,0:07:21.44,0:07:26.08,Default,,0000,0000,0000,,If nothing besides the execution happens, that'd be for the best.
+Dialogue: 0,0:07:26.10,0:07:32.26,On Top,,0000,0000,0000,,{\fad(700,1)}"North Blue"
+Dialogue: 0,0:07:32.28,0:07:35.59,Default,,0000,0000,0000,,Hey, we want drinks, old guy!
+Dialogue: 0,0:07:35.61,0:07:41.65,Default,,0000,0000,0000,,Are you asking me to open the bar on a day like this? We're expecting a big war in any minute!
+Dialogue: 0,0:07:41.67,0:07:45.02,Default,,0000,0000,0000,,Go home! If the world's still here tomorrow, I'll open it!
+Dialogue: 0,0:07:45.04,0:07:50.85,Default,,0000,0000,0000,,Then just sell us some drinks! It feels like we're the ones who're on the scaffold!
+Dialogue: 0,0:07:50.87,0:07:54.89,Default,,0000,0000,0000,,We can't do without drinking!
+Dialogue: 0,0:07:54.91,0:07:56.19,DefaultLow,,0000,0000,0000,,He's not just another old man.
+Dialogue: 0,0:07:56.21,0:07:57.49,On Top,,0000,0000,0000,,{\fad(700,1)}"West Blue"
+Dialogue: 0,0:07:57.51,0:07:59.95,DefaultLow,,0000,0000,0000,,He hasn't lost it at all!
+Dialogue: 0,0:07:59.97,0:08:07.97,Default,,0000,0000,0000,,It was just a year ago, when we saw him sitting right there...
+Dialogue: 0,0:08:12.69,0:08:15.25,Default,,0000,0000,0000,,...we thought we were dead.
+Dialogue: 0,0:08:15.27,0:08:15.91,On Top,,0000,0000,0000,,{\fad(700,1)}"Grand Line"
+Dialogue: 0,0:08:15.93,0:08:20.17,DefaultLow,,0000,0000,0000,,Is Whitebeard that outrageous?
+Dialogue: 0,0:08:20.19,0:08:24.06,Default,,0000,0000,0000,,Even those kids know it. They're singing as they jump rope.
+Dialogue: 0,0:08:24.08,0:08:29.49,Default,,0000,0000,0000,,The pirate Whitebeard is scarier than a devil!
+Dialogue: 0,0:08:29.51,0:08:32.32,Default,,0000,0000,0000,,Oh, God!
+Dialogue: 0,0:08:32.34,0:08:40.34,Default,,0000,0000,0000,,Where is this world headed?
+Dialogue: 0,0:08:45.97,0:08:49.48,Default,,0000,0000,0000,,On the island of Marineford home of the Navy Headquarters,
+Dialogue: 0,0:08:49.50,0:08:57.50,Default,,0000,0000,0000,,lies a huge city mainly populated by families of the Navy.
+Dialogue: 0,0:09:05.29,0:09:13.29,Default,,0000,0000,0000,,An evacuation order has been issued to all residents at this time.
+Dialogue: 0,0:09:14.80,0:09:17.43,Default,,0000,0000,0000,,And at Sabaody Archipelago at the evacuation site,
+Dialogue: 0,0:09:17.45,0:09:25.45,Default,,0000,0000,0000,,residents are watching the proceedings of the execution on monitors.
+Dialogue: 0,0:09:27.10,0:09:30.18,Default,,0000,0000,0000,,Reporters and cameramen from various places are...
+Dialogue: 0,0:09:30.20,0:09:36.35,Default,,0000,0000,0000,,...standing by here to break the news quickly to the world.
+Dialogue: 0,0:09:36.37,0:09:40.18,Default,,0000,0000,0000,,That's really the best of Navy HQ.
+Dialogue: 0,0:09:40.20,0:09:44.27,Default,,0000,0000,0000,,I assume that Whitebeard knows about this.
+Dialogue: 0,0:09:44.29,0:09:48.35,Default,,0000,0000,0000,,But still, will he venture to be there?
+Dialogue: 0,0:09:48.37,0:09:54.32,Default,,0000,0000,0000,,Every look-out ship that the Navy sent has been swiftly sunk
+Dialogue: 0,0:09:54.34,0:09:58.39,Default,,0000,0000,0000,,and there has been no report of a sighting of Whitebeard.
+Dialogue: 0,0:09:58.41,0:10:04.70,Default,,0000,0000,0000,,So the tension at Marineford continues to rise.
+Dialogue: 0,0:10:04.72,0:10:11.75,Default,,0000,0000,0000,,And there is less than 3 hours left until the looming execution.
+Dialogue: 0,0:10:11.77,0:10:19.77,On Top,,0000,0000,0000,,"Navy"
+Dialogue: 0,0:10:26.80,0:10:32.85,Default,,0000,0000,0000,,I have problem with that. Is that really necessary?
+Dialogue: 0,0:10:32.87,0:10:39.35,Default,,0000,0000,0000,,This public execution is not just an execution of a pirate.
+Dialogue: 0,0:10:39.37,0:10:44.49,Default,,0000,0000,0000,,It has great significance for the future of the world.
+Dialogue: 0,0:10:44.51,0:10:50.51,Default,,0000,0000,0000,,That's why it's necessary to...
+Dialogue: 0,0:10:50.53,0:10:58.53,Default,,0000,0000,0000,,You are responsible for this matter since you are one of the parties involved.
+Dialogue: 0,0:11:00.01,0:11:08.01,Default,,0000,0000,0000,,Don't forget that, Garp.
+Dialogue: 0,0:11:16.71,0:11:24.71,On Top,,0000,0000,0000,,"Marineford Navy Headquarters"
+Dialogue: 0,0:11:37.69,0:11:39.38,Default,,0000,0000,0000,,Hurry and get ready!
+Dialogue: 0,0:11:39.40,0:11:47.40,Default,,0000,0000,0000,,Hey you, don't lag behind!
+Dialogue: 0,0:11:49.66,0:11:52.02,Default,,0000,0000,0000,,Don't slacken your pace!
+Dialogue: 0,0:11:52.04,0:11:56.27,Default,,0000,0000,0000,,No matter what happens, it'll last only 3 hours!
+Dialogue: 0,0:11:56.29,0:12:04.22,Default,,0000,0000,0000,,Then it's all finished!
+Dialogue: 0,0:12:04.24,0:12:12.24,Default,,0000,0000,0000,,Elite soldiers are summoned from all over the world--totaling almost one hundred thousand.
+Dialogue: 0,0:12:12.76,0:12:18.61,Default,,0000,0000,0000,,The crescent-shaped bay area and the whole island are surrounded by 50 Navy ships
+Dialogue: 0,0:12:18.63,0:12:23.70,Default,,0000,0000,0000,,and numerous cannons have been set at the bay area.
+Dialogue: 0,0:12:23.72,0:12:30.59,Default,,0000,0000,0000,,And in front of all the marshaled forces that can be seen from sea...
+Dialogue: 0,0:12:30.61,0:12:37.48,Default,,0000,0000,0000,,...stand 5 ruffians who hold the key to the war. Pirates--The Seven Warlords!
+Dialogue: 0,0:12:37.50,0:12:41.52,On Top,,0000,0000,0000,,{\fad(500,1)}"Bartholomew Kuma"
+Dialogue: 0,0:12:41.54,0:12:45.44,On Top,,0000,0000,0000,,{\fad(500,1)}"Gecko Moria"
+Dialogue: 0,0:12:45.46,0:12:49.36,On Top,,0000,0000,0000,,{\fad(500,1)}"Don Quixote Doflamingo"
+Dialogue: 0,0:12:49.38,0:12:53.32,On Top,,0000,0000,0000,,{\fad(500,1)}"Dracule Mihawk"
+Dialogue: 0,0:12:53.34,0:12:59.39,On Top,,0000,0000,0000,,{\fad(500,1)}"Boa Hancock"
+Dialogue: 0,0:12:59.41,0:13:01.70,Default,,0000,0000,0000,,It's...
+Dialogue: 0,0:13:01.72,0:13:04.27,Default,,0000,0000,0000,,...the admirals!
+Dialogue: 0,0:13:04.29,0:13:09.11,Default,,0000,0000,0000,,I don't know why but I find them so intimidating!
+Dialogue: 0,0:13:09.13,0:13:12.86,Default,,0000,0000,0000,,Guarding closely below the scaffold are...
+Dialogue: 0,0:13:12.88,0:13:15.96,Default,,0000,0000,0000,,...the Navy's greatest powers...
+Dialogue: 0,0:13:15.98,0:13:22.90,Default,,0000,0000,0000,,...the three admirals!
+Dialogue: 0,0:13:22.92,0:13:27.36,On Top,,0000,0000,0000,,{\fad(540,1)}"Navy Admiral\NAokiji Kuzan"
+Dialogue: 0,0:13:27.38,0:13:31.78,On Top,,0000,0000,0000,,{\fad(540,1)}"Navy Admiral\NAkainu Sakazuki"
+Dialogue: 0,0:13:31.80,0:13:38.47,On Top,,0000,0000,0000,,{\fad(540,1)}"Navy Admiral\NKizaru Borsalino"
+Dialogue: 0,0:13:38.49,0:13:43.01,Default,,0000,0000,0000,,Every force of justice imaginable is...
+Dialogue: 0,0:13:43.03,0:13:51.03,Default,,0000,0000,0000,,...now waiting for the Whitebeard Pirates to stop them from rescuing Ace!
+Dialogue: 0,0:14:14.01,0:14:17.10,Default,,0000,0000,0000,,Listen, Luffy.
+Dialogue: 0,0:14:17.12,0:14:22.07,Default,,0000,0000,0000,,We have to live without leaving any regrets.
+Dialogue: 0,0:14:22.09,0:14:30.09,Default,,0000,0000,0000,,Uh-huh.
+Dialogue: 0,0:14:46.32,0:14:49.16,Default,,0000,0000,0000,,We gotta go out to sea someday...
+Dialogue: 0,0:14:49.18,0:14:54.05,Default,,0000,0000,0000,,...and live as we like.
+Dialogue: 0,0:14:54.07,0:15:02.07,Default,,0000,0000,0000,,Freer than anyone else.
+Dialogue: 0,0:15:41.15,0:15:42.59,Default,,0000,0000,0000,,I see it!
+Dialogue: 0,0:15:42.61,0:15:45.41,Default,,0000,0000,0000,,Hey! Jimbei!
+Dialogue: 0,0:15:45.43,0:15:50.00,Default,,0000,0000,0000,,I see the Gate of Justice already! That was fast!
+Dialogue: 0,0:15:50.02,0:15:56.01,Default,,0000,0000,0000,,No, it wasn't! If the wind were right, we could have gotten here faster.
+Dialogue: 0,0:15:56.03,0:15:58.12,Default,,0000,0000,0000,,However...
+Dialogue: 0,0:15:58.14,0:16:00.25,Default,,0000,0000,0000,,I warn you.
+Dialogue: 0,0:16:00.27,0:16:05.57,Default,,0000,0000,0000,,As long as we don't open the Gate of Justice, you guys can't get to Marineford
+Dialogue: 0,0:16:05.59,0:16:08.69,Default,,0000,0000,0000,,or even get out of the Tub Current!
+Dialogue: 0,0:16:08.71,0:16:15.26,Default,,0000,0000,0000,,There is no sea for you all to get away to or to live on!
+Dialogue: 0,0:16:15.28,0:16:19.15,Default,,0000,0000,0000,,So now, how can we get through the gate?
+Dialogue: 0,0:16:19.17,0:16:22.45,Default,,0000,0000,0000,,You guys! It's almost time for...
+Dialogue: 0,0:16:22.47,0:16:25.04,Default,,0000,0000,0000,,Huh? What is it?
+Dialogue: 0,0:16:25.06,0:16:29.30,Default,,0000,0000,0000,,Time for Captain Buggy to conquer the world!
+Dialogue: 0,0:16:29.32,0:16:30.92,Default,,0000,0000,0000,,That's right!
+Dialogue: 0,0:16:30.94,0:16:33.88,Default,,0000,0000,0000,,The Navy HQ is nothing!
+Dialogue: 0,0:16:33.90,0:16:37.31,Default,,0000,0000,0000,,Whitebeard is nothing!
+Dialogue: 0,0:16:37.33,0:16:39.47,Default,,0000,0000,0000,,Who is the next King of the Pirates?
+Dialogue: 0,0:16:39.49,0:16:45.69,Default,,0000,0000,0000,,Captain Buggy!
+Dialogue: 0,0:16:45.71,0:16:47.39,Default,,0000,0000,0000,,That's right!
+Dialogue: 0,0:16:47.41,0:16:55.41,Default,,0000,0000,0000,,Buggy! Buggy! Buggy! Buggy! Buggy! Buggy!
+Dialogue: 0,0:16:58.46,0:17:06.46,Default,,0000,0000,0000,,Ace!
+Dialogue: 0,0:17:30.53,0:17:37.68,Default,,0000,0000,0000,,Hey, look! "Fire Fist" Ace has come out!
+Dialogue: 0,0:17:37.70,0:17:39.04,Default,,0000,0000,0000,,This is the man...
+Dialogue: 0,0:17:39.06,0:17:47.06,Default,,0000,0000,0000,,...who may trigger a war that will shake the world!
+Dialogue: 0,0:17:48.26,0:17:56.26,Default,,0000,0000,0000,,And he is the one who holds the fate of the world now!
+Dialogue: 0,0:18:22.15,0:18:24.97,Default,,0000,0000,0000,,Okay, Garp? I'll tell them everything!
+Dialogue: 0,0:18:24.99,0:18:32.99,Default,,0000,0000,0000,,So be it. I'll be downstairs.
+Dialogue: 0,0:18:37.40,0:18:40.79,Default,,0000,0000,0000,,--Step aside for a minute.\N--Yes, sir!
+Dialogue: 0,0:18:40.81,0:18:45.03,Default,,0000,0000,0000,,--Fleet Admiral Sengoku!\N--What's going on?
+Dialogue: 0,0:18:45.05,0:18:53.05,Default,,0000,0000,0000,,--Give me a Transponder Snail.\N--Yes, sir.
+Dialogue: 0,0:18:58.21,0:19:06.21,Default,,0000,0000,0000,,I have something to tell you all.
+Dialogue: 0,0:19:08.36,0:19:10.36,Default,,0000,0000,0000,,Portgaz D. Ace...
+Dialogue: 0,0:19:10.38,0:19:18.38,Default,,0000,0000,0000,,It's about the great significance of his death today.
+Dialogue: 0,0:19:18.76,0:19:23.41,Default,,0000,0000,0000,,It's not your fault.
+Dialogue: 0,0:19:23.43,0:19:27.43,Default,,0000,0000,0000,,Women are very sweet at times like this, Tsuru-chan.
+Dialogue: 0,0:19:27.45,0:19:35.45,Default,,0000,0000,0000,,Ace, tell them the name of your father.
+Dialogue: 0,0:19:35.79,0:19:43.79,Default,,0000,0000,0000,,Father? Why is that important now?
+Dialogue: 0,0:19:44.96,0:19:46.61,Default,,0000,0000,0000,,My father is Whitebeard.
+Dialogue: 0,0:19:46.63,0:19:47.65,Default,,0000,0000,0000,,No!
+Dialogue: 0,0:19:47.67,0:19:52.76,Default,,0000,0000,0000,,Yes, he is! Whitebeard is my only father!
+Dialogue: 0,0:19:52.78,0:19:57.56,Default,,0000,0000,0000,,We looked for you with our eyes wide open at that time.
+Dialogue: 0,0:19:57.58,0:20:01.79,Default,,0000,0000,0000,,Because we heard that there might be a child of that man on some island.
+Dialogue: 0,0:20:01.81,0:20:07.30,Default,,0000,0000,0000,,Based on a small amount of reliable information from Cipher Pol,
+Dialogue: 0,0:20:07.32,0:20:10.39,Default,,0000,0000,0000,,we checked all newborns...
+Dialogue: 0,0:20:10.41,0:20:13.34,Default,,0000,0000,0000,,...and preborn children...
+Dialogue: 0,0:20:13.36,0:20:19.12,Default,,0000,0000,0000,,...and their mothers but we couldn't find you.
+Dialogue: 0,0:20:19.14,0:20:20.99,Default,,0000,0000,0000,,No wonder.
+Dialogue: 0,0:20:21.01,0:20:25.12,Default,,0000,0000,0000,,Your mother risked her life to bear you.
+Dialogue: 0,0:20:25.14,0:20:33.14,Default,,0000,0000,0000,,She used a trick that can be called mother's pride.
+Dialogue: 0,0:20:33.39,0:20:40.00,Default,,0000,0000,0000,,That has misled us... Indeed, the whole world.
+Dialogue: 0,0:20:40.02,0:20:44.96,Default,,0000,0000,0000,,There is an island called Batelira in the South Blue.
+Dialogue: 0,0:20:44.98,0:20:50.44,Default,,0000,0000,0000,,Your mother's name is Portgaz D. Rouge.
+Dialogue: 0,0:20:50.46,0:20:54.72,Default,,0000,0000,0000,,She did something that completely defied natural law...
+Dialogue: 0,0:20:54.74,0:20:56.77,Default,,0000,0000,0000,,...for the love of her child.
+Dialogue: 0,0:20:56.79,0:21:04.55,Default,,0000,0000,0000,,She kept her baby inside her womb for 20 months!
+Dialogue: 0,0:21:04.57,0:21:06.49,Default,,0000,0000,0000,,No way.
+Dialogue: 0,0:21:06.51,0:21:09.00,Default,,0000,0000,0000,,And as soon as she gave birth to you,
+Dialogue: 0,0:21:09.02,0:21:15.79,Default,,0000,0000,0000,,she lost all of her strength and passed away right there.
+Dialogue: 0,0:21:15.81,0:21:19.17,Default,,0000,0000,0000,,A year and 3 months after the father's death,
+Dialogue: 0,0:21:19.19,0:21:27.19,Default,,0000,0000,0000,,the child was born with the blood of the world's most heinous man in his veins.
+Dialogue: 0,0:21:27.74,0:21:32.44,Default,,0000,0000,0000,,That was you!
+Dialogue: 0,0:21:32.46,0:21:40.46,Default,,0000,0000,0000,,You know it, surely?
+Dialogue: 0,0:21:43.06,0:21:46.94,Default,,0000,0000,0000,,They can't blame a child whose not born.
+Dialogue: 0,0:21:46.96,0:21:49.54,Default,,0000,0000,0000,,Garp!
+Dialogue: 0,0:21:49.56,0:21:54.09,Default,,0000,0000,0000,,Look after my child!
+Dialogue: 0,0:21:54.11,0:21:59.66,Default,,0000,0000,0000,,Your father is...
+Dialogue: 0,0:21:59.68,0:22:02.13,Default,,0000,0000,0000,,...the King of the Pirates -
+Dialogue: 0,0:22:02.15,0:22:10.15,Default,,0000,0000,0000,,Gold Roger!
+Dialogue: 0,0:22:26.35,0:22:34.35,Default,,0000,0000,0000,,"Fire Fist" Ace is a son of Gold Roger?!
+Dialogue: 0,0:22:36.25,0:22:38.60,Default,,0000,0000,0000,,This is huge news.
+Dialogue: 0,0:22:38.62,0:22:43.67,Default,,0000,0000,0000,,Call the head office! Let's issue an extra!
+Dialogue: 0,0:22:43.69,0:22:48.51,Default,,0000,0000,0000,,Does it continue?
+Dialogue: 0,0:22:48.53,0:22:54.98,Default,,0000,0000,0000,,Still?
+Dialogue: 0,0:22:55.00,0:23:03.00,Default,,0000,0000,0000,,The bloodline of the King of the Pirates?!
+Dialogue: 0,0:23:11.29,0:23:14.23,Default,,0000,0000,0000,,The secret of Ace's origin has been revealed.
+Dialogue: 0,0:23:14.25,0:23:20.33,Default,,0000,0000,0000,,His father Roger's feelings, and his mother\NRouge's strong resolve lay behind it all.
+Dialogue: 0,0:23:20.35,0:23:25.62,Default,,0000,0000,0000,,At Marineford, Whitebeard's fleet silently approaches.
+Dialogue: 0,0:23:25.64,0:23:27.05,Default,,0000,0000,0000,,On the next episode of One Piece!
+Dialogue: 0,0:23:27.07,0:23:30.93,Default,,0000,0000,0000,,"A Vast Fleet Appears! Here Come the Whitebeard Pirates!"
+Dialogue: 0,0:23:30.95,0:23:38.95,Default,,0000,0000,0000,,I'm gonna be King of the Pirates!!

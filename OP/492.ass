@@ -1,0 +1,368 @@
+﻿[Script Info]
+Title: English (US)
+Original Script: ToeiAnimation  [http://www.crunchyroll.com/user/ToeiAnimation]
+Original Translation: 
+Original Editing: 
+Original Timing: 
+Synch Point: 
+Script Updated By: 
+Update Details: 
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 640
+PlayResY: 360
+Timer: 0.0000
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name,Fontname,Fontsize,PrimaryColour,SecondaryColour,OutlineColour,BackColour,Bold,Italic,Underline,Strikeout,ScaleX,ScaleY,Spacing,Angle,BorderStyle,Outline,Shadow,Alignment,MarginL,MarginR,MarginV,Encoding
+Style: B1,Arial,32,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,2,0070,0070,0030,0
+Style: OS,Arial,18,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,8,0001,0001,0015,0
+Style: Default,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,2,0020,0020,0022,0
+Style: Italics,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,-1,0,0,100,100,0,0,1,2,1,2,0020,0020,0022,0
+Style: Ep Title,Arial,18,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,3,0170,0070,0020,0
+Style: Copy of Ep Title,Arial,18,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,3,0070,0226,0065,0
+Style: On Top,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,8,0020,0020,0022,0
+Style: Copy of OS,Arial,18,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,9,0020,0020,0020,0
+Style: DefaultLow,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,2,0020,0020,0010,0
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:02:32.60,0:02:35.89,Default,Na,0000,0000,0000,,When the Thousand Sunny \Ndrifted into unknown waters,
+Dialogue: 0,0:02:35.91,0:02:39.88,Default,Na,0000,0000,0000,,the crew landed on Hungry-la Island, \Nan island brimming with strange foods,
+Dialogue: 0,0:02:39.90,0:02:43.05,Default,Na,0000,0000,0000,,to restock their exhausted food supplies.
+Dialogue: 0,0:02:43.07,0:02:46.94,Default,Na,0000,0000,0000,,There they met the Gourmet Hunter \NToriko and the chef Komatsu,
+Dialogue: 0,0:02:46.96,0:02:50.22,Default,Na,0000,0000,0000,,and they teamed up to capture \Nthe legendary Hungry-la Bird.
+Dialogue: 0,0:02:50.24,0:02:54.06,Default,Luffy,0000,0000,0000,,Gum-Gum Gatling!
+Dialogue: 0,0:02:54.08,0:02:56.94,Default,Toriko,0000,0000,0000,,Fork!
+Dialogue: 0,0:02:56.96,0:03:00.60,Default,Toriko,0000,0000,0000,,Knife!
+Dialogue: 0,0:03:00.62,0:03:04.40,Default,Toriko,0000,0000,0000,,Thank you for this excellent meal.
+Dialogue: 0,0:03:04.42,0:03:10.58,Default,Na,0000,0000,0000,,And so, the time passed \Non their lively feast...
+Dialogue: 0,0:03:10.60,0:03:12.23,Default,Komatu,0000,0000,0000,,Now this goes in...
+Dialogue: 0,0:03:12.25,0:03:14.29,Default,Nami,0000,0000,0000,,Hey, could I get some more soup?
+Dialogue: 0,0:03:14.31,0:03:17.04,Default,Komatsu,0000,0000,0000,,Just a moment, please.
+Dialogue: 0,0:03:17.06,0:03:18.76,Default,Komatsu,0000,0000,0000,,Here we go...
+Dialogue: 0,0:03:18.78,0:03:20.23,Default,Nami,0000,0000,0000,,What's that?
+Dialogue: 0,0:03:20.25,0:03:22.71,Default,Komatsu,0000,0000,0000,,They're spice seeds.
+Dialogue: 0,0:03:22.73,0:03:30.73,Default,Komatsu,0000,0000,0000,,When I put these in, the spices take \Neffect and change the soup's flavor.
+Dialogue: 0,0:03:34.13,0:03:42.02,Default,Title,0000,0000,0000,,"The Strongest Tag-Team! \NLuffy and Toriko's Hard Struggle!"
+Dialogue: 0,0:03:42.04,0:03:45.34,Default,Luffy,0000,0000,0000,,Whew, I'm stuffed!
+Dialogue: 0,0:03:45.36,0:03:48.56,Default,Toriko,0000,0000,0000,,That Hungry-la Bird was delicious!
+Dialogue: 0,0:03:48.58,0:03:53.03,Default,Sanji,0000,0000,0000,,You're really not going to include this \NHungry-la Bird in your Full Course Meal?
+Dialogue: 0,0:03:53.05,0:03:58.37,Default,Torika,0000,0000,0000,,Yeah, that's the thing...
+Dialogue: 0,0:03:58.39,0:03:59.83,Default,Toriko,0000,0000,0000,,What's wrong?
+Dialogue: 0,0:03:59.85,0:04:05.96,Default,Chopper,0000,0000,0000,,He says Komatsu and Nami are gone!
+Dialogue: 0,0:04:05.98,0:04:09.85,Default,Luffy,0000,0000,0000,,What left these tracks?
+Dialogue: 0,0:04:09.87,0:04:12.55,Default,Chopper,0000,0000,0000,,Something smells good.
+Dialogue: 0,0:04:12.57,0:04:14.66,Default,Toriko,0000,0000,0000,,It's the aroma of fine cocoa.
+Dialogue: 0,0:04:14.68,0:04:17.71,Default,Toriko,0000,0000,0000,,These tracks were definitely \Nleft by Cocoalas.
+Dialogue: 0,0:04:17.73,0:04:18.77,Default,Luffy,0000,0000,0000,,Cocoalas?
+Dialogue: 0,0:04:18.79,0:04:22.44,Default,Toriko,0000,0000,0000,,I've never seen one myself, \Nbut they're Capture Level 3.
+Dialogue: 0,0:04:22.46,0:04:24.32,Default,Toriko,0000,0000,0000,,Their meat doesn't taste good enough to eat,
+Dialogue: 0,0:04:24.34,0:04:29.03,Default,Toriko,0000,0000,0000,,but sweet cocoa beans of the highest \Nquality grow on their backs.
+Dialogue: 0,0:04:29.05,0:04:33.67,Default,Sanji,0000,0000,0000,,Something that fancy took \NNami-san and the chef?
+Dialogue: 0,0:04:33.69,0:04:38.08,Default,Sanji,0000,0000,0000,,No, they probably carried \Nthem back to their nest.
+Dialogue: 0,0:04:38.10,0:04:39.75,Default,Toriko,0000,0000,0000,,Cocoalas are omnivorous.
+Dialogue: 0,0:04:39.77,0:04:42.99,Default,Toriko,0000,0000,0000,,They'll take anything and store it as food.
+Dialogue: 0,0:04:43.01,0:04:46.71,Default,Toriko,0000,0000,0000,,And they make their nests \Nin Multi-fruit Trees.
+Dialogue: 0,0:04:46.73,0:04:48.55,Default,Sanji,0000,0000,0000,,Multi-fruit?
+Dialogue: 0,0:04:48.57,0:04:51.01,Default,Toriko,0000,0000,0000,,A fruit that combines the \Nsweet and savory flavors
+Dialogue: 0,0:04:51.03,0:04:54.80,Default,Toriko,0000,0000,0000,,of wintermelons, watermelons, \Napples, mangos, and other fruits.
+Dialogue: 0,0:04:54.82,0:04:58.87,Default,Toriko,0000,0000,0000,,It's also known as the \NFruit Parlor of the Earth!
+Dialogue: 0,0:04:58.89,0:05:00.56,Default,Toriko,0000,0000,0000,,I'd love to eat one!
+Dialogue: 0,0:05:00.58,0:05:03.21,Default,Chopper,0000,0000,0000,,You're more worried about \Nfood than about your friend?!
+Dialogue: 0,0:05:03.23,0:05:05.84,Default,Luffy,0000,0000,0000,,So where can we find these things?
+Dialogue: 0,0:05:05.86,0:05:07.33,Default,Toriko,0000,0000,0000,,In order to grow the sweetest fruit,
+Dialogue: 0,0:05:07.35,0:05:15.21,Default,Toriko,0000,0000,0000,,Multi-fruit Trees are said to grow \Nwhere the sunlight is most abundant.
+Dialogue: 0,0:05:15.23,0:05:16.92,Default,Toriko,0000,0000,0000,,Found it!
+Dialogue: 0,0:05:16.94,0:05:18.48,Default,Chopper,0000,0000,0000,,So that's it?
+Dialogue: 0,0:05:18.50,0:05:22.08,Default,Toriko,0000,0000,0000,,There's no doubt. That's Multi-fruit!
+Dialogue: 0,0:05:22.10,0:05:25.10,Default,Sanji,0000,0000,0000,,Nami-san! I'm coming!
+Dialogue: 0,0:05:25.12,0:05:28.36,Default,Toriko,0000,0000,0000,,Just you wait, Multi-fruit!
+Dialogue: 0,0:05:28.38,0:05:36.38,Default,Chopper,0000,0000,0000,,I feel so sorry for Komatsu right now...
+Dialogue: 0,0:05:36.91,0:05:41.29,Default,Usopp,0000,0000,0000,,Luffy... What happened to our food?
+Dialogue: 0,0:05:41.31,0:05:43.20,Default,Usopp,0000,0000,0000,,Luffy...
+Dialogue: 0,0:05:43.22,0:05:44.90,Default,Zoro,0000,0000,0000,,Usopp...
+Dialogue: 0,0:05:44.92,0:05:46.79,Default,Zoro,0000,0000,0000,,You've aged a lot.
+Dialogue: 0,0:05:46.81,0:05:51.81,Default,Franky,0000,0000,0000,,At this rate, you're gonna \Nend up all bones, like Brook.
+Dialogue: 0,0:05:51.83,0:05:58.61,Default,Brook,0000,0000,0000,,Nice skull joke...
+Dialogue: 0,0:05:58.63,0:06:06.63,Default,Robin,0000,0000,0000,,Still...
+Dialogue: 0,0:06:08.12,0:06:11.97,Default,Sanji,0000,0000,0000,,What's this vapor?
+Dialogue: 0,0:06:11.99,0:06:13.52,Default,Chopper,0000,0000,0000,,A geyser?
+Dialogue: 0,0:06:13.54,0:06:16.12,Default,Chopper,0000,0000,0000,,Yow!
+Dialogue: 0,0:06:16.14,0:06:17.71,Default,Toriko,0000,0000,0000,,Look out!
+Dialogue: 0,0:06:17.73,0:06:20.75,Default,Toriko,0000,0000,0000,,You don't know where they'll burst up from!
+Dialogue: 0,0:06:20.77,0:06:23.12,Default,Chopper,0000,0000,0000,,That's really hot!
+Dialogue: 0,0:06:23.14,0:06:26.90,Default,Chopper,0000,0000,0000,,But it's sweet! It's chocolate!
+Dialogue: 0,0:06:26.92,0:06:29.89,Default,Luffy,0000,0000,0000,,What?! Really?!
+Dialogue: 0,0:06:29.91,0:06:32.71,Default,Sanji,0000,0000,0000,,Quit making your eyes sparkle and just run!
+Dialogue: 0,0:06:32.73,0:06:35.59,Default,Sanji,0000,0000,0000,,While we're doing this, Nami-san is...
+Dialogue: 0,0:06:35.61,0:06:37.14,Default,Luffy,0000,0000,0000,,What's that?
+Dialogue: 0,0:06:37.16,0:06:41.58,Default,Toriko,0000,0000,0000,,A big one's coming!
+Dialogue: 0,0:06:41.60,0:06:47.46,Default,All,0000,0000,0000,,Hot!
+Dialogue: 0,0:06:47.48,0:06:50.30,Default,Luffy,0000,0000,0000,,Crap! A river!
+Dialogue: 0,0:06:50.32,0:06:51.05,Default,Toriko,0000,0000,0000,,What's wrong?
+Dialogue: 0,0:06:51.07,0:06:54.95,Default,Chopper,0000,0000,0000,,People with Devil Fruit powers can't swim!
+Dialogue: 0,0:06:54.97,0:07:02.97,Default,Toriko,0000,0000,0000,,What?!
+Dialogue: 0,0:07:03.59,0:07:06.22,Default,Luffy,0000,0000,0000,,Huh? This isn't water.
+Dialogue: 0,0:07:06.24,0:07:08.01,Default,Toriko,0000,0000,0000,,Cream?
+Dialogue: 0,0:07:08.03,0:07:11.65,Default,Toriko,0000,0000,0000,,It's a river of whipped cream!
+Dialogue: 0,0:07:11.67,0:07:13.71,Default,Chopper,0000,0000,0000,,Tasty!
+Dialogue: 0,0:07:13.73,0:07:21.73,Default,Toriko,0000,0000,0000,,All right, not much longer now!
+Dialogue: 0,0:07:29.25,0:07:37.01,Default,Toriko,0000,0000,0000,,Once we're through this forest, \Nwe'll be at the Multi-Fruit Tree.
+Dialogue: 0,0:07:37.03,0:07:40.93,Default,Chopper,0000,0000,0000,,What was that?!
+Dialogue: 0,0:07:40.95,0:07:43.64,Default,Toriko,0000,0000,0000,,I knew it. A Caste Leo.
+Dialogue: 0,0:07:43.66,0:07:46.66,Default,Sanji,0000,0000,0000,,Caste Leo?
+Dialogue: 0,0:07:46.68,0:07:49.81,DefaultLow,Text,0000,0000,0000,,Caste Leo (Mammal Beast) Capture Level 4
+Dialogue: 0,0:07:49.83,0:07:51.59,Default,Toriko,0000,0000,0000,,Capture Level 4.
+Dialogue: 0,0:07:51.61,0:07:57.59,Default,,0000,0000,0000,,Their manes are exquisite, \Nfluffy castella cake!
+Dialogue: 0,0:07:57.61,0:08:01.48,Default,Sanji,0000,0000,0000,,Growling in that super deep voice... \NIs this supposed to be a joke?
+Dialogue: 0,0:08:01.50,0:08:03.56,Default,Luffy,0000,0000,0000,,We're going to where Nami and Komatsu are!
+Dialogue: 0,0:08:03.58,0:08:11.24,Default,Luffy,0000,0000,0000,,I won't let anyone get in our \Nway, no matter who it is!
+Dialogue: 0,0:08:11.26,0:08:16.32,Default,Chopper,0000,0000,0000,,Luffy!
+Dialogue: 0,0:08:16.34,0:08:17.55,Default,Luffy,0000,0000,0000,,What is that?
+Dialogue: 0,0:08:17.57,0:08:19.22,Default,Chopper,0000,0000,0000,,Sound shock waves!
+Dialogue: 0,0:08:19.24,0:08:21.97,Default,Toriko,0000,0000,0000,,His castella sponge cake emits sound.
+Dialogue: 0,0:08:21.99,0:08:24.34,Default,Toriko,0000,0000,0000,,It's like a giant speaker.
+Dialogue: 0,0:08:24.36,0:08:26.48,Default,Sanji,0000,0000,0000,,Isn't there any way to beat it?
+Dialogue: 0,0:08:26.50,0:08:30.28,Default,Toriko,0000,0000,0000,,Well, can you draw his \Nattacks straight ahead?
+Dialogue: 0,0:08:30.30,0:08:35.49,Default,Sanji,0000,0000,0000,,Right!
+Dialogue: 0,0:08:35.51,0:08:36.48,Default,Toriko,0000,0000,0000,,Okay, now!
+Dialogue: 0,0:08:36.50,0:08:37.78,Default,Luffy,0000,0000,0000,,Toriko!
+Dialogue: 0,0:08:37.80,0:08:40.45,Default,Toriko,0000,0000,0000,,His sound attack only works \Ndirectly in front of him!
+Dialogue: 0,0:08:40.47,0:08:46.08,Default,Toriko,0000,0000,0000,,We can get him from the sides!
+Dialogue: 0,0:08:46.10,0:08:49.21,Default,Toriko,0000,0000,0000,,Threefold
+Dialogue: 0,0:08:49.23,0:08:55.39,Default,,0000,0000,0000,,Nail Punch!
+Dialogue: 0,0:08:55.41,0:08:57.24,Default,Chopper,0000,0000,0000,,Amazing!
+Dialogue: 0,0:08:57.26,0:08:59.60,Default,Chopper,0000,0000,0000,,What was that?!
+Dialogue: 0,0:08:59.62,0:09:04.06,Default,Toriko,0000,0000,0000,,I drive multiple punches into one \Nspot, like hammering in nails.
+Dialogue: 0,0:09:04.08,0:09:12.08,Default,Toriko,0000,0000,0000,,It's my Nail Punch.
+Dialogue: 0,0:09:12.58,0:09:14.73,Default,Sanji,0000,0000,0000,,There were this many of them?
+Dialogue: 0,0:09:14.75,0:09:16.54,Default,Chopper,0000,0000,0000,,And they're huge.
+Dialogue: 0,0:09:16.56,0:09:18.63,Default,Toriko,0000,0000,0000,,These guys roam in prides.
+Dialogue: 0,0:09:18.65,0:09:24.03,Default,Toriko,0000,0000,0000,,Five Caste Leos and one small Caste Leo...
+Dialogue: 0,0:09:24.05,0:09:25.97,Default,Toriko,0000,0000,0000,,Looks like we're surrounded.
+Dialogue: 0,0:09:25.99,0:09:30.29,Default,Chopper,0000,0000,0000,,What?!
+Dialogue: 0,0:09:30.31,0:09:38.13,Default,Sunny,0000,0000,0000,,Spatula!
+Dialogue: 0,0:09:38.15,0:09:40.92,Default,Sunny,0000,0000,0000,,Such a beautiful way to make an entrance.
+Dialogue: 0,0:09:40.94,0:09:43.37,Default,Toriko,0000,0000,0000,,Sunny!
+Dialogue: 0,0:09:43.39,0:09:47.51,Default,Sunny,0000,0000,0000,,Poison Rifle!
+Dialogue: 0,0:09:47.53,0:09:50.30,Default,Rin,0000,0000,0000,,Endorphin Smoke!
+Dialogue: 0,0:09:50.32,0:09:52.43,Default,Chopper,0000,0000,0000,,What now?!
+Dialogue: 0,0:09:52.45,0:09:56.71,Default,Sanji,0000,0000,0000,,It suddenly got quiet.
+Dialogue: 0,0:09:56.73,0:09:58.65,Default,Coco,0000,0000,0000,,Hey, Toriko.
+Dialogue: 0,0:09:58.67,0:09:59.94,Default,Toriko,0000,0000,0000,,Coco! Rin!
+Dialogue: 0,0:09:59.96,0:10:03.73,Default,Rin,0000,0000,0000,,Toriko! I'm so glad you're safe!
+Dialogue: 0,0:10:03.75,0:10:05.14,Default,Sanji,0000,0000,0000,,An angel has come down!
+Dialogue: 0,0:10:05.16,0:10:07.28,Default,Luffy,0000,0000,0000,,Wow! They're your friends, Toriko?
+Dialogue: 0,0:10:07.30,0:10:08.97,Default,Toriko,0000,0000,0000,,Well, yeah...
+Dialogue: 0,0:10:08.99,0:10:10.83,Default,Toriko,0000,0000,0000,,But what are you doing here?
+Dialogue: 0,0:10:10.85,0:10:14.72,Default,Coco,0000,0000,0000,,We heard that you had set out \Nto capture a Hungry-la Bird,
+Dialogue: 0,0:10:14.74,0:10:16.51,Default,Coco,0000,0000,0000,,so we came to tell you the \Nsecret of Hungry-la Island...
+Dialogue: 0,0:10:16.53,0:10:20.42,Default,Rin,0000,0000,0000,,Anyway! I can't believe you left \Nme behind! You're awful, Toriko!
+Dialogue: 0,0:10:20.44,0:10:23.62,Default,Rin,0000,0000,0000,,It was so hard to find this island!
+Dialogue: 0,0:10:23.64,0:10:25.25,Default,Rin,0000,0000,0000,,I'm so mad!
+Dialogue: 0,0:10:25.27,0:10:28.93,Default,Coco,0000,0000,0000,,By the way...
+Dialogue: 0,0:10:28.95,0:10:30.71,Default,Coco,0000,0000,0000,,Where's Komatsu-kun?
+Dialogue: 0,0:10:30.73,0:10:33.66,Default,Toriko,0000,0000,0000,,Actually, he was taken by Cocoalas.
+Dialogue: 0,0:10:33.68,0:10:34.67,Default,Coco,0000,0000,0000,,What?!
+Dialogue: 0,0:10:34.69,0:10:38.29,Default,Chopper,0000,0000,0000,,Yeah! Our friend is with him, too!
+Dialogue: 0,0:10:38.31,0:10:43.65,Default,Sunny,0000,0000,0000,,That creature is unreal! It talked!
+Dialogue: 0,0:10:43.67,0:10:45.41,Default,Toriko,0000,0000,0000,,They've recovered, huh?
+Dialogue: 0,0:10:45.43,0:10:47.87,Default,Chopper,0000,0000,0000,,We don't have time to deal with these guys!
+Dialogue: 0,0:10:47.89,0:10:49.93,Default,Luffy,0000,0000,0000,,Quick! We've gotta go save Nami!
+Dialogue: 0,0:10:49.95,0:10:52.25,Default,Sanji,0000,0000,0000,,These guys are gonna be a pain, though.
+Dialogue: 0,0:10:52.27,0:10:53.92,Default,Sunny,0000,0000,0000,,Beautiful...
+Dialogue: 0,0:10:53.94,0:10:56.52,Default,Sunny,0000,0000,0000,,A heart that cares for its friends...
+Dialogue: 0,0:10:56.54,0:10:59.71,Default,Sunny,0000,0000,0000,,That is more beautiful than anything.
+Dialogue: 0,0:10:59.73,0:11:02.99,Default,Sunny,0000,0000,0000,,Toriko, leave this to us, \Nand go save Komatsu.
+Dialogue: 0,0:11:03.01,0:11:05.53,Default,Rin,0000,0000,0000,,We'll be fine on our own!
+Dialogue: 0,0:11:05.55,0:11:06.84,Default,Toriko,0000,0000,0000,,You guys...
+Dialogue: 0,0:11:06.86,0:11:08.90,Default,Coco,0000,0000,0000,,All of you, hurry!
+Dialogue: 0,0:11:08.92,0:11:09.98,Default,Luffy,0000,0000,0000,,Thanks!
+Dialogue: 0,0:11:10.00,0:11:11.52,Default,Toriko,0000,0000,0000,,I'm counting on you!
+Dialogue: 0,0:11:11.54,0:11:15.32,Default,Toriko,0000,0000,0000,,I'll get that Multi-fruit, no matter what!
+Dialogue: 0,0:11:15.34,0:11:17.09,Default,Rin,0000,0000,0000,,Multi-fruit?
+Dialogue: 0,0:11:17.11,0:11:19.50,Default,Coco,0000,0000,0000,,What about Komatsu-kun?
+Dialogue: 0,0:11:19.52,0:11:25.10,Default,Coco,0000,0000,0000,,Does it seem like Toriko's goal \Nis different from everyone else's?
+Dialogue: 0,0:11:25.12,0:11:31.02,Default,Sunny,0000,0000,0000,,Well, in any case...
+Dialogue: 0,0:11:31.04,0:11:36.22,Default,Sunny,0000,0000,0000,,We will take you on!
+Dialogue: 0,0:11:36.24,0:11:37.12,Default,Luffy,0000,0000,0000,,What is it, Toriko?
+Dialogue: 0,0:11:37.14,0:11:42.68,Default,Toriko,0000,0000,0000,,Oh, I was just wondering why the Caste \NLeos didn't attack the Cocoalas,
+Dialogue: 0,0:11:42.70,0:11:44.38,Default,Toriko,0000,0000,0000,,since their Capture Level is lower.
+Dialogue: 0,0:11:44.40,0:11:45.30,Default,Sanji,0000,0000,0000,,Huh?
+Dialogue: 0,0:11:45.32,0:11:46.66,Default,Toriko,0000,0000,0000,,To get to the top of the mountain,
+Dialogue: 0,0:11:46.68,0:11:50.81,Default,Toriko,0000,0000,0000,,the Cocoalas must have passed \Nthrough the Caste Leos' area.
+Dialogue: 0,0:11:50.83,0:11:54.15,Default,Toriko,0000,0000,0000,,Carrying Komatsu and your friend \Nwould've slowed the Cocoalas down.
+Dialogue: 0,0:11:54.17,0:11:56.47,Default,Toriko,0000,0000,0000,,They should've been prime \Nprey for the Caste Leos.
+Dialogue: 0,0:11:56.49,0:11:59.15,Default,Toriko,0000,0000,0000,,And they were obviously hungry.
+Dialogue: 0,0:11:59.17,0:12:02.81,Default,Toriko,0000,0000,0000,,There must be some reason why \Nthey didn't eat the Cocoalas.
+Dialogue: 0,0:12:02.83,0:12:08.08,Default,Toriko,0000,0000,0000,,I've got a bad feeling about this.
+Dialogue: 0,0:12:08.10,0:12:13.04,Default,Nami,0000,0000,0000,,Put me down, you monster koalas!
+Dialogue: 0,0:12:13.06,0:12:16.60,Default,Komatsu,0000,0000,0000,,This is...
+Dialogue: 0,0:12:16.62,0:12:19.65,Default,Komatsu,0000,0000,0000,,Multi-fruit!
+Dialogue: 0,0:12:19.67,0:12:23.07,Default,Komatsu,0000,0000,0000,,It's my first time seeing them! I'm so moved!
+Dialogue: 0,0:12:23.09,0:12:23.80,Default,Nami,0000,0000,0000,,Huh?!
+Dialogue: 0,0:12:23.82,0:12:26.06,Default,Komatsu,0000,0000,0000,,I wonder what they taste like...
+Dialogue: 0,0:12:26.08,0:12:29.24,Default,Komatsu,0000,0000,0000,,I wonder how they should be cooked \Nto bring out their flavors...
+Dialogue: 0,0:12:29.26,0:12:30.49,Default,Nami,0000,0000,0000,,Forget about that!
+Dialogue: 0,0:12:30.51,0:12:38.51,Default,,0000,0000,0000,,Think about what's happening \Nto you right now!
+Dialogue: 0,0:12:51.29,0:12:54.05,Default,Sanji,0000,0000,0000,,That's Nami-san's voice!
+Dialogue: 0,0:12:54.07,0:12:55.19,Default,Luffy,0000,0000,0000,,Sanji!
+Dialogue: 0,0:12:55.21,0:13:00.68,Default,Sanji,0000,0000,0000,,Nami-san!
+Dialogue: 0,0:13:00.70,0:13:03.00,Default,Sanji,0000,0000,0000,,Koalas... Huh?
+Dialogue: 0,0:13:03.02,0:13:04.92,Default,Nami,0000,0000,0000,,Luffy! Sanji-kun!
+Dialogue: 0,0:13:04.94,0:13:06.01,Default,Komatsu,0000,0000,0000,,Toriko-san!
+Dialogue: 0,0:13:06.03,0:13:07.81,Default,Luffy,0000,0000,0000,,Nami!
+Dialogue: 0,0:13:07.83,0:13:09.54,Default,Toriko,0000,0000,0000,,That's...
+Dialogue: 0,0:13:09.56,0:13:11.42,Default,Toriko,0000,0000,0000,,A Knock-out Koala!
+Dialogue: 0,0:13:11.44,0:13:15.20,Default,Toriko,0000,0000,0000,,So he's their boss?
+Dialogue: 0,0:13:15.22,0:13:18.18,DefaultLow,Text,0000,0000,0000,,Knock-out Koala (Marsupial Beast) Capture Level 5
+Dialogue: 0,0:13:18.20,0:13:22.89,Default,Toriko,0000,0000,0000,,They say that when Cocoalas reach \Nadulthood, they become Knock-out Koalas,
+Dialogue: 0,0:13:22.91,0:13:28.03,Default,Toriko,0000,0000,0000,,but I've never heard of one getting that big.
+Dialogue: 0,0:13:28.05,0:13:31.76,Default,Toriko,0000,0000,0000,,Now I know why the Caste Leos \Ndidn't attack the Cocoalas.
+Dialogue: 0,0:13:31.78,0:13:39.78,Default,Toriko,0000,0000,0000,,They were afraid of the Cocoalas' \Nboss, the Knock-out Koala!
+Dialogue: 0,0:13:40.32,0:13:46.63,Default,Toriko,0000,0000,0000,,So now he's shown his true colors.
+Dialogue: 0,0:13:46.65,0:13:54.33,Default,Sanji,0000,0000,0000,,Oh, boy... So if we don't beat these \Nguys, we can't save Nami-san anyway?
+Dialogue: 0,0:13:54.35,0:13:56.05,Default,Sanji,0000,0000,0000,,How are they so fast?!
+Dialogue: 0,0:13:56.07,0:14:01.64,Default,Toriko,0000,0000,0000,,So the Capture Level of Cocoalas \Nin battle mode exceeds 3, eh?
+Dialogue: 0,0:14:01.66,0:14:03.10,Default,Luffy,0000,0000,0000,,Hey, Toriko!
+Dialogue: 0,0:14:03.12,0:14:06.84,Default,Chopper,0000,0000,0000,,Luffy! Toriko!
+Dialogue: 0,0:14:06.86,0:14:07.80,Default,Sanji,0000,0000,0000,,Hey!
+Dialogue: 0,0:14:07.82,0:14:10.34,Default,Toriko,0000,0000,0000,,You guys can handle things here!
+Dialogue: 0,0:14:10.36,0:14:12.01,Default,Chopper,0000,0000,0000,,What?!
+Dialogue: 0,0:14:12.03,0:14:12.78,Default,Sanji,0000,0000,0000,,Got it!
+Dialogue: 0,0:14:12.80,0:14:15.11,Default,Sanji,0000,0000,0000,,Luffy, Toriko! Take care of Nami-san!
+Dialogue: 0,0:14:15.13,0:14:15.89,Default,Toriko,0000,0000,0000,,Right!
+Dialogue: 0,0:14:15.91,0:14:17.24,Default,Luffy,0000,0000,0000,,We'll save Nami!
+Dialogue: 0,0:14:17.26,0:14:17.95,Default,Sanji,0000,0000,0000,,What?!
+Dialogue: 0,0:14:17.97,0:14:25.97,Default,Komatsu,0000,0000,0000,,Um, what about me?!
+Dialogue: 0,0:14:26.94,0:14:34.94,Default,Chopper,0000,0000,0000,,I won't let you get in \NLuffy and Toriko's way!
+Dialogue: 0,0:14:36.50,0:14:38.76,Default,Robin,0000,0000,0000,,Something's making a lot of noise.
+Dialogue: 0,0:14:38.78,0:14:41.27,Default,Franky,0000,0000,0000,,There's no helping it.
+Dialogue: 0,0:14:41.29,0:14:44.04,Default,Franky,0000,0000,0000,,Nothing's gonna happen if \Nwe just wait around here.
+Dialogue: 0,0:14:44.06,0:14:46.35,Default,Franky,0000,0000,0000,,Let's take the ship around to \Nthe other side of the island.
+Dialogue: 0,0:14:46.37,0:14:48.65,Default,Usopp,0000,0000,0000,,I'm too hungry to move...
+Dialogue: 0,0:14:48.67,0:14:50.97,Default,Brook,0000,0000,0000,,So this is what they call \N"bones broken for nothing"...
+Dialogue: 0,0:14:50.99,0:14:52.45,Default,Brook,0000,0000,0000,,And I'm nothing but bones...
+Dialogue: 0,0:14:52.47,0:15:00.47,Default,Franky,0000,0000,0000,,Quit your whining! Unfurl the sails!
+Dialogue: 0,0:15:06.22,0:15:07.35,Default,Nami,0000,0000,0000,,Luffy!
+Dialogue: 0,0:15:07.37,0:15:08.54,Default,Komatsu,0000,0000,0000,,Toriko-san!
+Dialogue: 0,0:15:08.56,0:15:10.26,Default,Toriko,0000,0000,0000,,Luffy! You okay?
+Dialogue: 0,0:15:10.28,0:15:11.12,Default,Luffy,0000,0000,0000,,Yeah!
+Dialogue: 0,0:15:11.14,0:15:19.14,Default,Toriko,0000,0000,0000,,Damn that thing... It can't \Nreally only be Level 5!
+Dialogue: 0,0:15:25.97,0:15:27.41,Default,Toriko,0000,0000,0000,,Not bad!
+Dialogue: 0,0:15:27.43,0:15:29.57,Default,Luffy,0000,0000,0000,,Hey, you! Give back Nami!
+Dialogue: 0,0:15:29.59,0:15:32.54,Default,Toriko,0000,0000,0000,,Yeah! Give me the Multi-fruit!
+Dialogue: 0,0:15:32.56,0:15:40.56,Default,Komatsu,0000,0000,0000,,What?! You didn't come to save me?!
+Dialogue: 0,0:15:42.74,0:15:48.10,Default,Toriko,0000,0000,0000,,Luffy!
+Dialogue: 0,0:15:48.12,0:15:56.12,Default,Luffy,0000,0000,0000,,Toriko!
+Dialogue: 0,0:16:00.13,0:16:01.51,Default,Toriko,0000,0000,0000,,It's incredibly strong!
+Dialogue: 0,0:16:01.53,0:16:03.41,Default,Luffy,0000,0000,0000,,Okay, now it's my turn!
+Dialogue: 0,0:16:03.43,0:16:11.40,Default,Luffy,0000,0000,0000,,Gum-Gum—
+Dialogue: 0,0:16:11.42,0:16:16.84,Default,Toriko,0000,0000,0000,,Knife!
+Dialogue: 0,0:16:16.86,0:16:24.86,Default,Luffy,0000,0000,0000,,Using Nami and Komatsu to shield \Nyourself is playing dirty!
+Dialogue: 0,0:16:35.52,0:16:42.58,Default,Luffy,0000,0000,0000,,Toriko!
+Dialogue: 0,0:16:42.60,0:16:44.99,Default,Luffy,0000,0000,0000,,Nami! Komatsu!
+Dialogue: 0,0:16:45.01,0:16:47.64,Default,Toriko,0000,0000,0000,,That's a Multi-fruit Tree for you.
+Dialogue: 0,0:16:47.66,0:16:48.96,Default,Luffy,0000,0000,0000,,Huh?
+Dialogue: 0,0:16:48.98,0:16:53.94,Default,Toriko,0000,0000,0000,,It can support that Knock-out Koala's \Nintense movements without even budging.
+Dialogue: 0,0:16:53.96,0:16:58.57,Default,Toriko,0000,0000,0000,,What's more, the recoil gives \Nits attack power a huge boost!
+Dialogue: 0,0:16:58.59,0:17:00.07,Default,Luffy,0000,0000,0000,,Sounds like a pain.
+Dialogue: 0,0:17:00.09,0:17:01.51,Default,Toriko,0000,0000,0000,,But...
+Dialogue: 0,0:17:01.53,0:17:09.53,Default,Toriko,0000,0000,0000,,Those huge stems must be sending \Ntons of nutrients to the fruit.
+Dialogue: 0,0:17:10.05,0:17:12.60,Default,Toriko,0000,0000,0000,,Multi-fruit...
+Dialogue: 0,0:17:12.62,0:17:14.62,Default,Toriko,0000,0000,0000,,I swear I will eat you!
+Dialogue: 0,0:17:14.64,0:17:19.16,Default,Sanji,0000,0000,0000,,He's still talking about that?!
+Dialogue: 0,0:17:19.18,0:17:22.28,Default,Luffy,0000,0000,0000,,Yeah!
+Dialogue: 0,0:17:22.30,0:17:24.05,Default,Nami,0000,0000,0000,,Luffy! You, too?!
+Dialogue: 0,0:17:24.07,0:17:27.92,Default,Chopper,0000,0000,0000,,What are you thinking?!
+Dialogue: 0,0:17:27.94,0:17:30.10,Default,Luffy,0000,0000,0000,,I give thanks...
+Dialogue: 0,0:17:30.12,0:17:32.55,Default,Toriko,0000,0000,0000,,...for all this world's bounty.
+Dialogue: 0,0:17:32.57,0:17:34.90,Default,Toriko,0000,0000,0000,,Now let's eat!
+Dialogue: 0,0:17:34.92,0:17:42.92,Default,Nami,0000,0000,0000,,H-Hey!
+Dialogue: 0,0:17:53.23,0:17:56.85,Default,Luffy,0000,0000,0000,,Gum-Gum...
+Dialogue: 0,0:17:56.87,0:18:04.87,Default,Toriko,0000,0000,0000,,...Nail Punch!
+Dialogue: 0,0:18:23.93,0:18:26.41,Default,Both,0000,0000,0000,,Thank you for this excellent meal.
+Dialogue: 0,0:18:26.43,0:18:31.97,Default,Toriko,0000,0000,0000,,Now, I'll just help myself \Nto that Multi-fruit...
+Dialogue: 0,0:18:31.99,0:18:33.85,Default,Toriko,0000,0000,0000,,Huh?
+Dialogue: 0,0:18:33.87,0:18:39.54,Default,Luffy,0000,0000,0000,,What's going on? It's waving around.
+Dialogue: 0,0:18:39.56,0:18:43.96,Default,Sanji,0000,0000,0000,,Wh-What's happening?
+Dialogue: 0,0:18:43.98,0:18:46.99,Default,Chopper,0000,0000,0000,,You guys...
+Dialogue: 0,0:18:47.01,0:18:49.07,Default,Sunny,0000,0000,0000,,Hey, this is unreal!
+Dialogue: 0,0:18:49.09,0:18:52.93,Default,Luffy,0000,0000,0000,,Huh?
+Dialogue: 0,0:18:52.95,0:18:55.23,Default,Toriko,0000,0000,0000,,Everyone get down the mountain!
+Dialogue: 0,0:18:55.25,0:19:03.25,Default,All,0000,0000,0000,,What?!
+Dialogue: 0,0:19:18.78,0:19:23.13,Default,Coco,0000,0000,0000,,The island is about to show its true form.
+Dialogue: 0,0:19:23.15,0:19:25.13,Default,Toriko,0000,0000,0000,,Its true form?
+Dialogue: 0,0:19:25.15,0:19:29.99,Default,Coco,0000,0000,0000,,I told you that we came to tell you \Nthe secret of Hungry-la Island, right?
+Dialogue: 0,0:19:30.01,0:19:38.01,Default,Toriko,0000,0000,0000,,Yeah.
+Dialogue: 0,0:19:42.96,0:19:45.55,Default,Franky,0000,0000,0000,,You okay?
+Dialogue: 0,0:19:45.57,0:19:46.99,Default,Usopp,0000,0000,0000,,It's sweet.
+Dialogue: 0,0:19:47.01,0:19:49.41,Default,Chopper,0000,0000,0000,,Yum! This is caramel!
+Dialogue: 0,0:19:49.43,0:19:51.44,Default,Toriko,0000,0000,0000,,What?
+Dialogue: 0,0:19:51.46,0:19:52.93,Default,Toriko,0000,0000,0000,,It's true!
+Dialogue: 0,0:19:52.95,0:19:54.60,Default,Toriko,0000,0000,0000,,What's going on?
+Dialogue: 0,0:19:54.62,0:19:57.76,Default,Coco,0000,0000,0000,,The legend of Hungry-la \NIsland has been recorded
+Dialogue: 0,0:19:57.78,0:20:00.31,Default,,0000,0000,0000,,in many texts since ancient times.
+Dialogue: 0,0:20:00.33,0:20:03.41,Default,Coco,0000,0000,0000,,Our predecessors have transcribed \Nthose texts and handed
+Dialogue: 0,0:20:03.43,0:20:05.96,Default,,0000,0000,0000,,them down throughout history to the present.
+Dialogue: 0,0:20:05.98,0:20:10.37,Default,Toriko,0000,0000,0000,,That's why we relied on the legends \Nin those texts to find this island
+Dialogue: 0,0:20:10.39,0:20:13.73,Default,Toriko,0000,0000,0000,,and capture the phantom \Ningredient, the Hungry-la Bird.
+Dialogue: 0,0:20:13.75,0:20:18.39,Default,Sunny,0000,0000,0000,,But it turns out the phantom ingredient \Nis not the Hungry-la Bird.
+Dialogue: 0,0:20:18.41,0:20:19.37,Default,All,0000,0000,0000,,Huh?
+Dialogue: 0,0:20:19.39,0:20:22.50,Default,Rin,0000,0000,0000,,You know, the characters for \N"bird" and "island" look similar.
+Dialogue: 0,0:20:22.52,0:20:22.82,On Top,Text,0000,0000,0000,,Hungry-la Bird\N Hungry-la Island
+Dialogue: 0,0:20:22.84,0:20:27.65,Default,Rin,0000,0000,0000,,Apparently, whoever transcribed \Nit read the name wrong.
+Dialogue: 0,0:20:27.67,0:20:34.78,Default,Toriko,0000,0000,0000,,Then, the phantom ingredient is...
+Dialogue: 0,0:20:34.80,0:20:39.30,Default,Toriko,0000,0000,0000,,Not the Hungry-la Bird, \Nbut Hungry-la Island?!
+Dialogue: 0,0:20:39.32,0:20:46.84,Default,Toriko,0000,0000,0000,,No wonder the Hungry-la Bird \Nwas such an easy opponent!
+Dialogue: 0,0:20:46.86,0:20:50.37,Default,Toriko,0000,0000,0000,,This island itself is the \Nlegendary ingredient...
+Dialogue: 0,0:20:50.39,0:20:55.67,Default,Toriko,0000,0000,0000,,A natural pudding à la mode!
+Dialogue: 0,0:20:55.69,0:20:58.58,Default,Luffy,0000,0000,0000,,Amazing!
+Dialogue: 0,0:20:58.60,0:21:01.39,Default,Usopp,0000,0000,0000,,What the heck is this?!
+Dialogue: 0,0:21:01.41,0:21:09.41,Default,Robin,0000,0000,0000,,I wonder if Luffy and the others are okay...
+Dialogue: 0,0:21:12.70,0:21:15.13,Default,Both,0000,0000,0000,,Delicious!
+Dialogue: 0,0:21:15.15,0:21:19.74,Default,Toriko,0000,0000,0000,,This luxurious sweetness achieved \Nby condensing a multitude of fruits!
+Dialogue: 0,0:21:19.76,0:21:21.99,Default,Toriko,0000,0000,0000,,So this is the Multi-fruit!
+Dialogue: 0,0:21:22.01,0:21:24.46,Default,Toriko,0000,0000,0000,,It is indeed the Fruit Parlor of the Earth!
+Dialogue: 0,0:21:24.48,0:21:28.02,Default,Luffy,0000,0000,0000,,Hey, Toriko, you think this whole \Nmountain is made of pudding?!
+Dialogue: 0,0:21:28.04,0:21:29.46,Default,Toriko,0000,0000,0000,,You're right! It's delicious!
+Dialogue: 0,0:21:29.48,0:21:32.09,Default,Luffy,0000,0000,0000,,Hey! I was gonna eat that part!
+Dialogue: 0,0:21:32.11,0:21:33.82,Default,Toriko,0000,0000,0000,,What's the problem?! There's plenty!
+Dialogue: 0,0:21:33.84,0:21:36.60,Default,Toriko,0000,0000,0000,,Oh, and apparently the next \Nmountain is all ice cream!
+Dialogue: 0,0:21:36.62,0:21:38.84,Default,Luffy,0000,0000,0000,,What?! You should've said so sooner!
+Dialogue: 0,0:21:38.86,0:21:41.52,Default,Chopper,0000,0000,0000,,Wow! This castella is tasty, too!
+Dialogue: 0,0:21:41.54,0:21:44.48,Default,Sanji,0000,0000,0000,,Isn't that the mane of \None of those Caste Leos?
+Dialogue: 0,0:21:44.50,0:21:47.07,Default,Chopper,0000,0000,0000,,What?!
+Dialogue: 0,0:21:47.09,0:21:52.16,Default,Nami,0000,0000,0000,,So after you ate all that, you're not \Nusing any of it in your Full Course Meal?
+Dialogue: 0,0:21:52.18,0:21:55.12,Default,Toriko,0000,0000,0000,,Well, it's a big world.
+Dialogue: 0,0:21:55.14,0:21:57.87,Default,Toriko,0000,0000,0000,,I'm sure there's still lots \Nmore delicious food out there.
+Dialogue: 0,0:21:57.89,0:22:00.87,Default,Luffy,0000,0000,0000,,You really are a big eater!
+Dialogue: 0,0:22:00.89,0:22:02.85,Default,Sanji,0000,0000,0000,,We're stocked up on food now.
+Dialogue: 0,0:22:02.87,0:22:04.69,Default,,0000,0000,0000,,We can set sail anytime.
+Dialogue: 0,0:22:04.71,0:22:06.72,Default,Luffy,0000,0000,0000,,Okay!
+Dialogue: 0,0:22:06.74,0:22:08.71,Default,Luffy,0000,0000,0000,,Well, we're gonna get going.
+Dialogue: 0,0:22:08.73,0:22:11.51,Default,Toriko,0000,0000,0000,,Right. Let's meet again somewhere.
+Dialogue: 0,0:22:11.53,0:22:16.77,Default,Toriko,0000,0000,0000,,Next time, I'll treat you to \Nmy life's Full Course Meal.
+Dialogue: 0,0:22:16.79,0:22:20.77,Default,Luffy,0000,0000,0000,,Sure! I look forward to it, Toriko!
+Dialogue: 0,0:22:20.79,0:22:22.40,Default,Toriko,0000,0000,0000,,See ya, Luffy!
+Dialogue: 0,0:22:22.42,0:22:23.74,Default,Chopper,0000,0000,0000,,Bye!
+Dialogue: 0,0:22:23.76,0:22:25.86,Default,Luffy,0000,0000,0000,,So long!
+Dialogue: 0,0:22:25.88,0:22:28.98,Default,Sunny,0000,0000,0000,,A cheerful goodbye is a nice thing, but...
+Dialogue: 0,0:22:29.00,0:22:34.96,Default,All,0000,0000,0000,,Who the heck are they?
+Dialogue: 0,0:22:34.98,0:22:38.54,Default,Nami,0000,0000,0000,,Okay, now that we've got food supplies, \Nwe're leaving these waters!
+Dialogue: 0,0:22:38.56,0:22:40.43,Default,?,0000,0000,0000,,That's all pudding!
+Dialogue: 0,0:22:40.45,0:22:43.58,Default,?,0000,0000,0000,,No, no! Pudding is a very \Nvariable good that tastes like
+Dialogue: 0,0:22:43.60,0:22:46.46,Default,,0000,0000,0000,,sea urchin if you put soy sauce on it...
+Dialogue: 0,0:22:46.48,0:22:51.56,Default,?,0000,0000,0000,,If you want sea urchin, get it from the sea!
+Dialogue: 0,0:22:51.58,0:22:55.38,Default,Toriko,0000,0000,0000,,Well, Komatsu, ready to get going, too?
+Dialogue: 0,0:22:55.40,0:23:00.01,Default,Toriko,0000,0000,0000,,On our journey to find new ingredients!
+Dialogue: 0,0:23:00.03,0:23:08.03,Default,Komatsu,0000,0000,0000,,Yes, Toriko-san!
+Dialogue: 0,0:23:11.55,0:23:14.63,Default,Na,0000,0000,0000,,His heart deeply wounded after losing Ace,
+Dialogue: 0,0:23:14.65,0:23:17.57,Default,Na,0000,0000,0000,,Luffy remembers his life ten years ago.
+Dialogue: 0,0:23:17.59,0:23:22.54,Default,Na,0000,0000,0000,,Ace, who wouldn't accept anyone, \Nand Luffy, who followed him everywhere.
+Dialogue: 0,0:23:22.56,0:23:26.83,Default,Na,0000,0000,0000,,The story of the strange bond that \Nled them to become brothers begins...
+Dialogue: 0,0:23:26.85,0:23:28.13,Default,Luffy,0000,0000,0000,,On the next episode of One Piece!
+Dialogue: 0,0:23:28.15,0:23:31.33,Default,Luffy,0000,0000,0000,,"Luffy and Ace! The Story \Nof How the Brothers Met!"
+Dialogue: 0,0:23:31.35,0:23:39.35,Default,Luffy,0000,0000,0000,,I'm gonna be King of the Pirates!!

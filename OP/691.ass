@@ -1,0 +1,329 @@
+﻿[Script Info]
+Title: English (US)
+Original Script: ToeiAnimation  [http://www.crunchyroll.com/user/ToeiAnimation]
+Original Translation: 
+Original Editing: 
+Original Timing: 
+Synch Point: 
+Script Updated By: 
+Update Details: 
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 640
+PlayResY: 360
+Timer: 0.0000
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name,Fontname,Fontsize,PrimaryColour,SecondaryColour,OutlineColour,BackColour,Bold,Italic,Underline,Strikeout,ScaleX,ScaleY,Spacing,Angle,BorderStyle,Outline,Shadow,Alignment,MarginL,MarginR,MarginV,Encoding
+Style: B1,Arial,32,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,2,0070,0070,0030,0
+Style: OS,Arial,18,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,8,0001,0001,0015,0
+Style: Default,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,2,0020,0020,0022,0
+Style: Italics,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,-1,0,0,100,100,0,0,1,2,1,2,0020,0020,0022,0
+Style: Ep Title,Arial,18,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,3,0170,0070,0020,0
+Style: Copy of Ep Title,Arial,18,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,3,0070,0226,0065,0
+Style: On Top,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,8,0020,0020,0022,0
+Style: Copy of OS,Arial,18,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,9,0020,0020,0020,0
+Style: DefaultLow,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,2,0020,0020,0010,0
+Style: sign1,Trebuchet MS,18,&H00040D0C,&H000000FF,&H00D1D9DA,&H00000000,-1,0,0,0,100,100,0,0,1,4,0,7,0050,0010,0050,1
+Style: sign2,Trebuchet MS,18,&H00040D0C,&H000000FF,&H00D1D9DA,&H00000000,-1,0,0,0,100,100,0,0,1,4,0,9,0000,0050,0130,1
+Style: sign3,Trebuchet MS,13,&H00040D0C,&H000000FF,&H00CBB9B2,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,1,0190,0010,0035,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:03.72,0:00:03.70,Default,,0000,0000,0000,,{\i1}Fight, crash in, rise up{\i0}
+Dialogue: 0,0:00:03.72,0:00:06.00,On Top,,0000,0000,0000,,{\i1}Fight butsukatte hamukatte{\i0}
+Dialogue: 0,0:00:06.02,0:00:06.00,Default,,0000,0000,0000,,{\i1}Those are our Hard knock days{\i0}
+Dialogue: 0,0:00:06.02,0:00:09.21,On Top,,0000,0000,0000,,{\i1}sore ga boku tachi no Hard knock days{\i0}
+Dialogue: 0,0:00:09.23,0:00:09.21,Default,,0000,0000,0000,,{\i1}Ordinary days won't quench our thirst{\i0}
+Dialogue: 0,0:00:09.23,0:00:14.05,On Top,,0000,0000,0000,,{\i1}heibon na mainichi ja kawaki iyasenai{\i0}
+Dialogue: 0,0:00:14.07,0:00:14.05,Default,,0000,0000,0000,,{\i1}Here we go, always, don't run away{\i0}
+Dialogue: 0,0:00:14.07,0:00:16.30,On Top,,0000,0000,0000,,{\i1}Here we go itsudatte nigenaide{\i0}
+Dialogue: 0,0:00:16.32,0:00:16.30,Default,,0000,0000,0000,,{\i1}Let's go on living buffeted \Nby the mighty winds{\i0}
+Dialogue: 0,0:00:16.32,0:00:20.38,On Top,,0000,0000,0000,,{\i1}kazeatari tsuyoku ikiteyukou{\i0}
+Dialogue: 0,0:00:20.40,0:00:20.38,Default,,0000,0000,0000,,{\i1}We're still far from our goal{\i0}
+Dialogue: 0,0:00:20.40,0:00:23.10,On Top,,0000,0000,0000,,{\i1}gooru mada tooku{\i0}
+Dialogue: 0,0:00:23.12,0:00:23.10,Default,,0000,0000,0000,,{\i1}We got to carry on Hard knock days{\i0}
+Dialogue: 0,0:00:23.12,0:00:31.12,On Top,,0000,0000,0000,,{\i1}susumubeki Hard knock days{\i0}
+Dialogue: 0,0:00:45.26,0:00:45.24,Default,,0000,0000,0000,,{\i1}Let's do it again, yes, how many times, baby{\i0}
+Dialogue: 0,0:00:45.26,0:00:48.54,On Top,,0000,0000,0000,,{\i1}Let's do it again sou doredake, Baby{\i0}
+Dialogue: 0,0:00:48.56,0:00:48.54,Default,,0000,0000,0000,,{\i1}do I have to get up to \Nmake my dream come true{\i0}
+Dialogue: 0,0:00:48.56,0:00:51.04,On Top,,0000,0000,0000,,{\i1}tachiagareba My dream come true{\i0}
+Dialogue: 0,0:00:51.06,0:00:51.04,Default,,0000,0000,0000,,{\i1}Feels like the strength of my resolve is{\i0}
+Dialogue: 0,0:00:51.06,0:00:53.67,On Top,,0000,0000,0000,,{\i1}towareru kakugo no tsuyosa{\i0}
+Dialogue: 0,0:00:53.69,0:00:53.67,Default,,0000,0000,0000,,{\i1}put to the test everyday{\i0}
+Dialogue: 0,0:00:53.69,0:00:56.13,On Top,,0000,0000,0000,,{\i1}tamesareteru youna Everyday{\i0}
+Dialogue: 0,0:00:56.15,0:00:56.13,Default,,0000,0000,0000,,{\i1}Hey Let's go{\i0}
+Dialogue: 0,0:00:56.15,0:00:57.63,On Top,,0000,0000,0000,,{\i1}Hey Let's go{\i0}
+Dialogue: 0,0:00:57.65,0:00:57.63,Default,,0000,0000,0000,,{\i1}I don't want to settle for \Nsmall success, making excuses{\i0}
+Dialogue: 0,0:00:57.65,0:01:01.38,On Top,,0000,0000,0000,,{\i1}iiwake de chiisaku matomaru ki nakute{\i0}
+Dialogue: 0,0:01:01.40,0:01:01.38,Default,,0000,0000,0000,,{\i1}Hey Let's go{\i0}
+Dialogue: 0,0:01:01.40,0:01:02.89,On Top,,0000,0000,0000,,{\i1}Hey Let's go{\i0}
+Dialogue: 0,0:01:02.91,0:01:02.89,Default,,0000,0000,0000,,{\i1}The world I got out into is wild and lawless{\i0}
+Dialogue: 0,0:01:02.91,0:01:06.60,On Top,,0000,0000,0000,,{\i1}tobidashita sekai wa araburu noo ruuru{\i0}
+Dialogue: 0,0:01:06.62,0:01:06.60,Default,,0000,0000,0000,,{\i1}Whiffing through the air, \Noff-guard, reality countered me{\i0}
+Dialogue: 0,0:01:06.62,0:01:10.89,On Top,,0000,0000,0000,,{\i1}karaburi no sukima ni \Nsematteta genjitsu kauntaa{\i0}
+Dialogue: 0,0:01:10.91,0:01:10.89,Default,,0000,0000,0000,,{\i1}Mercilessly, beat me, hit \Nme, and even if I fall again{\i0}
+Dialogue: 0,0:01:10.91,0:01:16.40,On Top,,0000,0000,0000,,{\i1}yousha naku Beat me Hit me mata taoretemo{\i0}
+Dialogue: 0,0:01:16.42,0:01:16.40,On Top,,0000,0000,0000,,{\i1}Oh{\i0}
+Dialogue: 0,0:01:16.42,0:01:17.15,Default,,0000,0000,0000,,{\i1}Oh{\i0}
+Dialogue: 0,0:01:17.17,0:01:17.15,On Top,,0000,0000,0000,,{\i1}mou ichido tachiagari \Nmae wo mita mono dake ga{\i0}
+Dialogue: 0,0:01:17.17,0:01:21.28,Default,,0000,0000,0000,,{\i1}Only those who get back on \Ntheir feet and look forward{\i0}
+Dialogue: 0,0:01:21.30,0:01:21.28,On Top,,0000,0000,0000,,{\i1}saigo ni warau nosa Only winner{\i0}
+Dialogue: 0,0:01:21.30,0:01:24.53,Default,,0000,0000,0000,,{\i1}will have the last laugh, only winner{\i0}
+Dialogue: 0,0:01:24.55,0:01:24.53,On Top,,0000,0000,0000,,{\i1}(We gotta go todoku made Glory road){\i0}
+Dialogue: 0,0:01:24.55,0:01:27.20,Default,,0000,0000,0000,,{\i1}(We gotta go, till we make \Nit there, on the glory road){\i0}
+Dialogue: 0,0:01:27.22,0:01:27.20,On Top,,0000,0000,0000,,{\i1}Fight butsukatte hamukatte{\i0}
+Dialogue: 0,0:01:27.22,0:01:29.41,Default,,0000,0000,0000,,{\i1}Fight, crash in, rise up{\i0}
+Dialogue: 0,0:01:29.43,0:01:29.41,On Top,,0000,0000,0000,,{\i1}sore ga boku tachi no Hard knock days{\i0}
+Dialogue: 0,0:01:29.43,0:01:32.62,Default,,0000,0000,0000,,{\i1}Those are our Hard knock days{\i0}
+Dialogue: 0,0:01:32.64,0:01:32.62,On Top,,0000,0000,0000,,{\i1}heibon na mainichi ja kawaki iyasenai{\i0}
+Dialogue: 0,0:01:32.64,0:01:37.38,Default,,0000,0000,0000,,{\i1}Ordinary days won't quench our thirst{\i0}
+Dialogue: 0,0:01:37.40,0:01:37.38,Default,,0000,0000,0000,,{\i1}Here we go, always, don't run away{\i0}
+Dialogue: 0,0:01:37.40,0:01:39.80,On Top,,0000,0000,0000,,{\i1}Here we go itsudatte nigenaide{\i0}
+Dialogue: 0,0:01:39.82,0:01:39.80,Default,,0000,0000,0000,,{\i1}Let's go on living buffeted \Nby the mighty winds{\i0}
+Dialogue: 0,0:01:39.82,0:01:43.84,On Top,,0000,0000,0000,,{\i1}kazeatari tsuyoku ikiteyukou{\i0}
+Dialogue: 0,0:01:43.86,0:01:43.84,Default,,0000,0000,0000,,{\i1}We're still far from our goal, \Nwe got to carry on the way{\i0}
+Dialogue: 0,0:01:43.86,0:01:48.31,On Top,,0000,0000,0000,,{\i1}gooru mada tooku susumubeki michi{\i0}
+Dialogue: 0,0:01:48.33,0:01:48.31,Default,,0000,0000,0000,,{\i1}Fight, shake it off, act strong{\i0}
+Dialogue: 0,0:01:48.33,0:01:50.10,On Top,,0000,0000,0000,,{\i1}Fight kechirashite tsuyogatte{\i0}
+Dialogue: 0,0:01:50.12,0:01:50.10,Default,,0000,0000,0000,,{\i1}Those are our Hard knock days{\i0}
+Dialogue: 0,0:01:50.12,0:01:53.35,On Top,,0000,0000,0000,,{\i1}sore ga boku tachi no Hard knock days{\i0}
+Dialogue: 0,0:01:53.37,0:01:53.35,Default,,0000,0000,0000,,{\i1}A safe bet? There's no such thing{\i0}
+Dialogue: 0,0:01:53.37,0:01:58.36,On Top,,0000,0000,0000,,{\i1}bunan na sentaku? sonnano aru wake nai{\i0}
+Dialogue: 0,0:01:58.38,0:01:58.36,Default,,0000,0000,0000,,{\i1}Here we go, always, be the best{\i0}
+Dialogue: 0,0:01:58.38,0:02:00.69,On Top,,0000,0000,0000,,{\i1}Here we go itsudatte saikou de{\i0}
+Dialogue: 0,0:02:00.71,0:02:00.69,Default,,0000,0000,0000,,{\i1}and keep going without \Nthinking of the consequences{\i0}
+Dialogue: 0,0:02:00.71,0:02:04.74,On Top,,0000,0000,0000,,{\i1}atosaki nante kangaezu ni yukou{\i0}
+Dialogue: 0,0:02:04.76,0:02:04.74,Default,,0000,0000,0000,,{\i1}Put all our wishes together{\i0}
+Dialogue: 0,0:02:04.76,0:02:07.37,On Top,,0000,0000,0000,,{\i1}negai wo tabanete{\i0}
+Dialogue: 0,0:02:07.39,0:02:07.37,Default,,0000,0000,0000,,{\i1}We got to carry on Hard knock days{\i0}
+Dialogue: 0,0:02:07.39,0:02:15.39,On Top,,0000,0000,0000,,{\i1}susumubeki Hard knock days{\i0}
+Dialogue: 0,0:02:16.48,0:02:16.46,Default,,0000,0000,0000,,{\i1}Beyond the light, make my day{\i0}
+Dialogue: 0,0:02:16.48,0:02:24.48,On Top,,0000,0000,0000,,{\i1}hikari no saki Make my day{\i0}
+Dialogue: 0,0:02:35.21,0:02:38.73,Default,,0000,0000,0000,,{\i1}All the pirates who are \Nafter the One Piece...{\i0}
+Dialogue: 0,0:02:38.75,0:02:45.91,Default,,0000,0000,0000,,{\i1}...head for the New World,\Nthe second half of the Grand Line.{\i0}
+Dialogue: 0,0:02:45.93,0:02:49.35,Default,,0000,0000,0000,,{\i1}However, no one has ever fully explored it
+Dialogue: 0,0:02:49.37,0:02:53.48,Default,,0000,0000,0000,,\Nexcept for Gold Roger, King of the Pirates.{\i0}
+Dialogue: 0,0:02:53.50,0:03:00.34,Default,,0000,0000,0000,,{\i1}The New World has ruined\Nmany pirates' dreams and ambitions.{\i0}
+Dialogue: 0,0:03:00.36,0:03:02.32,Default,,0000,0000,0000,,{\i1}Now, Monkey D. Luffy,
+Dialogue: 0,0:03:02.34,0:03:06.67,Default,,0000,0000,0000,,a boy whose body turned\Nto rubber after he ate the Gum-Gum Fruit,{\i0}
+Dialogue: 0,0:03:06.69,0:03:09.19,Default,,0000,0000,0000,,{\i1}and his friends venture into that sea.{\i0}
+Dialogue: 0,0:03:09.21,0:03:16.11,Default,,0000,0000,0000,,I'm gonna become the King of the Pirates!
+Dialogue: 0,0:03:16.13,0:03:19.40,Default,,0000,0000,0000,,{\i1}To take down one of the Four Emperors -\Nthe rulers of the New World,{\i0}
+Dialogue: 0,0:03:19.42,0:03:22.52,Default,,0000,0000,0000,,{\i1}Luffy and the others formed a pirate alliance
+Dialogue: 0,0:03:22.54,0:03:25.17,Default,,0000,0000,0000,,with Trafalgar Law and \Nhave come to Dressrosa.{\i0}
+Dialogue: 0,0:03:25.19,0:03:28.27,Default,,0000,0000,0000,,{\i1}But caught up in the current \Nking Doflamingo's agenda,
+Dialogue: 0,0:03:28.29,0:03:31.55,Default,,0000,0000,0000,,they were trapped in the Birdcage \Nalong with the entire island.{\i0}
+Dialogue: 0,0:03:31.57,0:03:35.31,Default,,0000,0000,0000,,{\i1}On top of that, he put prices \Non the heads of Luffy and
+Dialogue: 0,0:03:35.33,0:03:37.83,Default,,0000,0000,0000,,11 others, and now they're being \Nhunted by all the citizens.{\i0}
+Dialogue: 0,0:03:37.85,0:03:41.86,Default,,0000,0000,0000,,{\i1}And with the Straw Hats\Nfighting the Don Quixote Family fiercely,{\i0}
+Dialogue: 0,0:03:41.88,0:03:47.68,Default,,0000,0000,0000,,{\i1}Doflamingo stood in\NLuffy and Law's way to the Royal Palace!{\i0}
+Dialogue: 0,0:03:47.70,0:03:50.71,Default,,0000,0000,0000,,Isn't there any...
+Dialogue: 0,0:03:50.73,0:03:52.62,Default,,0000,0000,0000,,...hope left for me?
+Dialogue: 0,0:03:52.64,0:03:57.37,Default,,0000,0000,0000,,You always wanted to become a pirate.
+Dialogue: 0,0:03:57.39,0:04:00.33,Default,,0000,0000,0000,,But not me.
+Dialogue: 0,0:04:00.35,0:04:05.17,Default,,0000,0000,0000,,Anything was fine with me.
+Dialogue: 0,0:04:05.19,0:04:08.19,Default,,0000,0000,0000,,As long as I could...
+Dialogue: 0,0:04:08.21,0:04:12.25,Default,,0000,0000,0000,,...destroy this world!
+Dialogue: 0,0:04:12.27,0:04:13.28,Default,,0000,0000,0000,,{\i1}Is that...{\i0}
+Dialogue: 0,0:04:13.30,0:04:21.30,Default,,0000,0000,0000,,Roger that!\NPink Bees, the next message!
+Dialogue: 0,0:04:22.06,0:04:24.02,Default,,0000,0000,0000,,FIGHT!!!
+Dialogue: 0,0:04:24.04,0:04:27.61,Default,,0000,0000,0000,,I guess you need another beating\Nto understand things.
+Dialogue: 0,0:04:27.63,0:04:32.80,Default,,0000,0000,0000,,{\i1}I don't know what's going on\Nbut one thing I know is...{\i0}
+Dialogue: 0,0:04:32.82,0:04:35.85,Default,,0000,0000,0000,,Friends don't lie!
+Dialogue: 0,0:04:35.87,0:04:39.32,Default,,0000,0000,0000,,--Shut up!\N--Sanshita!
+Dialogue: 0,0:04:39.34,0:04:41.79,Default,,0000,0000,0000,,Go ahead, Straw Hat!
+Dialogue: 0,0:04:41.81,0:04:45.27,Default,,0000,0000,0000,,Leave this mess here to us and go!
+Dialogue: 0,0:04:45.29,0:04:48.31,Default,,0000,0000,0000,,Make sure to take him there,\NCavendish!
+Dialogue: 0,0:04:48.33,0:04:51.24,Default,,0000,0000,0000,,Hey hey,\NI'm not public transportation!
+Dialogue: 0,0:04:51.26,0:04:59.26,Default,,0000,0000,0000,,We gotta win this war!
+Dialogue: 0,0:05:03.02,0:05:11.02,Default,,0000,0000,0000,,{\i1}"The Second Samurai!\NEvening Shower Kanjuro Appears!"{\i0}
+Dialogue: 0,0:05:20.25,0:05:24.11,Default,,0000,0000,0000,,Don't let Straw Hat and the others\Nproceed to the third level!
+Dialogue: 0,0:05:24.13,0:05:32.13,Default,,0000,0000,0000,,Bring them down at any cost-{\i1}in{\i0}!\NYou guys!
+Dialogue: 0,0:05:37.32,0:05:45.32,Default,,0000,0000,0000,,We won't let you go any farther from here!
+Dialogue: 0,0:05:52.33,0:05:55.53,Default,,0000,0000,0000,,--Don't bother us!\N--Go away!
+Dialogue: 0,0:05:55.55,0:06:03.55,Default,,0000,0000,0000,,{\i1}You{\i0} go away!
+Dialogue: 0,0:06:08.11,0:06:16.11,Default,,0000,0000,0000,,Destruction Cannon!
+Dialogue: 0,0:06:17.69,0:06:21.24,Default,,0000,0000,0000,,Damn! Those meatheads were\Ndisorganized before
+Dialogue: 0,0:06:21.26,0:06:29.26,Default,,0000,0000,0000,,but now they've teamed up!
+Dialogue: 0,0:06:37.60,0:06:41.35,Default,,0000,0000,0000,,I don't like it but I have no choice\Nbut to count on you guys now!
+Dialogue: 0,0:06:41.37,0:06:42.93,Default,,0000,0000,0000,,Cavendish!
+Dialogue: 0,0:06:42.95,0:06:48.56,Default,,0000,0000,0000,,Take Straw Hat to the Royal Palace\Nat any cost!
+Dialogue: 0,0:06:48.58,0:06:56.58,Default,,0000,0000,0000,,They're saying whatever they want!
+Dialogue: 0,0:06:56.84,0:07:01.94,Default,,0000,0000,0000,,Let's go, Farul!
+Dialogue: 0,0:07:01.96,0:07:09.96,Default,,0000,0000,0000,,I won't let you get away!
+Dialogue: 0,0:07:12.99,0:07:18.53,Default,,0000,0000,0000,,Destruction Cannon!
+Dialogue: 0,0:07:18.55,0:07:26.55,Default,,0000,0000,0000,,Your back was un"g"uarded!\NThere's the "G"!
+Dialogue: 0,0:07:31.25,0:07:39.25,Default,,0000,0000,0000,,Prepare to be shattered into pieces!\NMine Pop.
+Dialogue: 0,0:07:39.89,0:07:42.55,Default,,0000,0000,0000,,--He did it!\N--That serves them right!
+Dialogue: 0,0:07:42.57,0:07:45.54,Default,,0000,0000,0000,,You idiots, just go after Straw \NHat and the others already!
+Dialogue: 0,0:07:45.56,0:07:48.02,Default,,0000,0000,0000,,Y-Yes, sir!
+Dialogue: 0,0:07:48.04,0:07:51.67,Default,,0000,0000,0000,,Armsmorphosis!
+Dialogue: 0,0:07:51.69,0:07:58.28,Default,,0000,0000,0000,,Revolver Girl!
+Dialogue: 0,0:07:58.30,0:08:03.32,Default,,0000,0000,0000,,I thought you guys didn't believe in\Nteaming up with others!
+Dialogue: 0,0:08:03.34,0:08:08.21,Default,,0000,0000,0000,,Garp's grandson is worth\Nbending our beliefs!
+Dialogue: 0,0:08:08.23,0:08:10.61,Default,,0000,0000,0000,,Here I go!
+Dialogue: 0,0:08:10.63,0:08:18.61,Default,,0000,0000,0000,,Head-Arms!
+Dialogue: 0,0:08:18.63,0:08:26.63,Default,,0000,0000,0000,,Hm? She got away?!
+Dialogue: 0,0:08:32.89,0:08:40.55,Default,,0000,0000,0000,,Entertain me, K-I-N-G!
+Dialogue: 0,0:08:40.57,0:08:48.57,Default,,0000,0000,0000,,Pistol High-Heel!
+Dialogue: 0,0:09:03.94,0:09:11.94,Default,,0000,0000,0000,,I guess a king's life is very valuable!
+Dialogue: 0,0:09:21.03,0:09:24.28,Default,,0000,0000,0000,,I couldn't get him...
+Dialogue: 0,0:09:24.30,0:09:25.64,Default,,0000,0000,0000,,Thank you!
+Dialogue: 0,0:09:25.66,0:09:33.25,Default,,0000,0000,0000,,Humph!\NI just wanted to kill that bastard!
+Dialogue: 0,0:09:33.27,0:09:38.63,Default,,0000,0000,0000,,Ten-Ton Vise!
+Dialogue: 0,0:09:38.65,0:09:41.78,Default,,0000,0000,0000,,Hajrudin!
+Dialogue: 0,0:09:41.80,0:09:45.28,Default,,0000,0000,0000,,Don't lower your guard-{\i1}in{\i0}! Dellinger!
+Dialogue: 0,0:09:45.30,0:09:51.81,Default,,0000,0000,0000,,I was just playing with him.\NI can kill him anytime.
+Dialogue: 0,0:09:51.83,0:09:56.52,Default,,0000,0000,0000,,Way to go!
+Dialogue: 0,0:09:56.54,0:09:59.91,Default,,0000,0000,0000,,As my allies, they're all reliable warriors.
+Dialogue: 0,0:09:59.93,0:10:07.64,Default,,0000,0000,0000,,--This doesn't mean I became your ally!\N--Don't push your luck, Dagama!
+Dialogue: 0,0:10:07.66,0:10:11.14,Default,,0000,0000,0000,,Keep them away from the Royal Palace!
+Dialogue: 0,0:10:11.16,0:10:19.16,Default,,0000,0000,0000,,Bring down Straw Hat!
+Dialogue: 0,0:10:23.01,0:10:25.71,Default,,0000,0000,0000,,Secure the way for Straw Hat!
+Dialogue: 0,0:10:25.73,0:10:27.90,Default,,0000,0000,0000,,Yeah!
+Dialogue: 0,0:10:27.92,0:10:32.01,Default,,0000,0000,0000,,This battle... Now is the crucial point!
+Dialogue: 0,0:10:32.03,0:10:34.51,Default,,0000,0000,0000,,Looks like that guy is taking command.
+Dialogue: 0,0:10:34.53,0:10:42.53,Default,,0000,0000,0000,,He's annoying!
+Dialogue: 0,0:10:48.11,0:10:51.35,Default,,0000,0000,0000,,{\i1}Daruma!{\i0}
+Dialogue: 0,0:10:51.37,0:10:57.09,Default,,0000,0000,0000,,What the... Hey, let go off me!\NYou jerk!
+Dialogue: 0,0:10:57.11,0:11:05.11,Default,,0000,0000,0000,,Get to the top! Straw Hat!
+Dialogue: 0,0:11:10.65,0:11:18.65,Default,,0000,0000,0000,,--Shoot, shoot!\N--Keep them off at any price!
+Dialogue: 0,0:11:21.86,0:11:29.86,Default,,0000,0000,0000,,Blade of Beauty! Saint-Exupéry!
+Dialogue: 0,0:11:30.78,0:11:38.78,Default,,0000,0000,0000,,Gum-Gum Jet Gatling!
+Dialogue: 0,0:11:51.14,0:11:53.09,On Top,,0000,0000,0000,,THE EXECUTIVE TOWER
+Dialogue: 0,0:11:53.11,0:11:54.91,On Top,,0000,0000,0000,,THE JUNKYARD
+Dialogue: 0,0:11:54.93,0:12:02.93,DefaultLow,,0000,0000,0000,,KIN'EMON
+Dialogue: 0,0:12:07.17,0:12:08.80,Default,,0000,0000,0000,,So creepy.
+Dialogue: 0,0:12:08.82,0:12:12.72,Default,,0000,0000,0000,,Is there a beast or something?
+Dialogue: 0,0:12:12.74,0:12:20.74,Default,,0000,0000,0000,,It's coming from around here.
+Dialogue: 0,0:12:24.15,0:12:30.32,Default,,0000,0000,0000,,I said I can't eat anymore...
+Dialogue: 0,0:12:30.34,0:12:37.62,Default,,0000,0000,0000,,Could it be...?
+Dialogue: 0,0:12:37.64,0:12:45.64,Default,,0000,0000,0000,,What?!
+Dialogue: 0,0:13:00.04,0:13:02.71,Default,,0000,0000,0000,,Is it morning already?
+Dialogue: 0,0:13:02.73,0:13:04.59,Default,,0000,0000,0000,,How's that possible?
+Dialogue: 0,0:13:04.61,0:13:12.61,Default,,0000,0000,0000,,Somebody was in the wall?!
+Dialogue: 0,0:13:23.96,0:13:26.09,Default,,0000,0000,0000,,K... K...
+Dialogue: 0,0:13:26.11,0:13:28.17,Default,,0000,0000,0000,,Ka...
+Dialogue: 0,0:13:28.19,0:13:36.19,Default,,0000,0000,0000,,Kan...!
+Dialogue: 0,0:13:48.55,0:13:52.86,Default,,0000,0000,0000,,I missed you so much!\NI'm glad that you're okay!
+Dialogue: 0,0:13:52.88,0:13:58.60,Default,,0000,0000,0000,,Kanjuro!
+Dialogue: 0,0:13:58.62,0:14:00.91,Default,,0000,0000,0000,,Oh, Kin'emon!
+Dialogue: 0,0:14:00.93,0:14:03.71,Default,,0000,0000,0000,,This is great!
+Dialogue: 0,0:14:03.73,0:14:05.17,Default,,0000,0000,0000,,Really!
+Dialogue: 0,0:14:05.19,0:14:10.73,Default,,0000,0000,0000,,I'm sorry.\NI think I made you search for me a bit.
+Dialogue: 0,0:14:10.75,0:14:14.32,Default,,0000,0000,0000,,Some strange things happened\None after another
+Dialogue: 0,0:14:14.34,0:14:14.72,DefaultLow,,0000,0000,0000,,so I was planning to hide \Nmyself in the wall for a while
+Dialogue: 0,0:14:14.74,0:14:18.15,On Top,,0000,0000,0000,,A SAMURAI FROM THE WANO KINGDOM\NEVENING SHOWER KANJURO
+Dialogue: 0,0:14:18.17,0:14:21.35,DefaultLow,,0000,0000,0000,,but I fell asleep before I knew it.
+Dialogue: 0,0:14:21.37,0:14:27.64,Default,,0000,0000,0000,,Anyway, Kin'emon,\NI can't believe you came back!
+Dialogue: 0,0:14:27.66,0:14:32.67,Default,,0000,0000,0000,,What are you saying...
+Dialogue: 0,0:14:32.69,0:14:36.22,Default,,0000,0000,0000,,Oh no! Momonosuke!
+Dialogue: 0,0:14:36.24,0:14:42.86,Default,,0000,0000,0000,,Go after Momonosuke! Don't worry about me!
+Dialogue: 0,0:14:42.88,0:14:47.67,Default,,0000,0000,0000,,Sorry to keep you waiting for so long!
+Dialogue: 0,0:14:47.69,0:14:55.69,Default,,0000,0000,0000,,I trusted you so I didn't mind even a bit.\NDon't be so stiff and formal, friend.
+Dialogue: 0,0:14:56.18,0:15:04.18,Default,,0000,0000,0000,,With my sorcery,\NI didn't have a problem getting food.
+Dialogue: 0,0:15:06.20,0:15:10.66,Default,,0000,0000,0000,,Oh well, I'm not hungry at all but...
+Dialogue: 0,0:15:10.68,0:15:12.08,Default,,0000,0000,0000,,Want some lettuce?
+Dialogue: 0,0:15:12.10,0:15:13.69,Default,,0000,0000,0000,,No, I don't.\N
+Dialogue: 0,0:15:13.71,0:15:18.80,Default,,0000,0000,0000,,Your food never agrees with my stomach.
+Dialogue: 0,0:15:18.82,0:15:23.77,Default,,0000,0000,0000,,Well, as long as\Nyou and Momonosuke are okay...
+Dialogue: 0,0:15:23.79,0:15:26.29,Default,,0000,0000,0000,,Yes, we are, thanks to you!
+Dialogue: 0,0:15:26.31,0:15:30.26,Default,,0000,0000,0000,,Good. I hope I can see Momonosuke soon.
+Dialogue: 0,0:15:30.28,0:15:34.92,Default,,0000,0000,0000,,Yeah, Momonosuke is looking\Nforward to seeing you, too!
+Dialogue: 0,0:15:34.94,0:15:38.31,Default,,0000,0000,0000,,So many things happened since I last saw you
+Dialogue: 0,0:15:38.33,0:15:40.85,Default,,0000,0000,0000,,\Nbut I can't put it all in a nutshell!
+Dialogue: 0,0:15:40.87,0:15:44.50,Default,,0000,0000,0000,,We have a lot to talk about! \NI'll tell you later!
+Dialogue: 0,0:15:44.52,0:15:48.33,Default,,0000,0000,0000,,Okay, got it! Let's get out of here!
+Dialogue: 0,0:15:48.35,0:15:51.20,Default,,0000,0000,0000,,{\i1}Get out?\NIs there a way to get out of here?{\i0}
+Dialogue: 0,0:15:51.22,0:15:59.22,Default,,0000,0000,0000,,{\i1}How is he gonna do that?{\i0}
+Dialogue: 0,0:16:04.82,0:16:06.06,Default,,0000,0000,0000,,Is he...?
+Dialogue: 0,0:16:06.08,0:16:14.08,Default,,0000,0000,0000,,Drawing something?
+Dialogue: 0,0:16:18.91,0:16:26.91,Default,,0000,0000,0000,,Come on out!
+Dialogue: 0,0:16:30.40,0:16:35.99,Default,,0000,0000,0000,,Spring Sparrow!
+Dialogue: 0,0:16:36.01,0:16:40.59,Default,,0000,0000,0000,,--What?!\N--No way!
+Dialogue: 0,0:16:40.61,0:16:48.61,Default,,0000,0000,0000,,--His drawing started moving!\N--Is he a Devil Fruit eater?
+Dialogue: 0,0:16:53.04,0:16:56.59,Default,,0000,0000,0000,,That picture of a bird came to life!
+Dialogue: 0,0:16:56.61,0:16:59.72,Default,,0000,0000,0000,,{\i1}But the drawing is terrible...{\i0}
+Dialogue: 0,0:16:59.74,0:17:02.78,Default,,0000,0000,0000,,{\i1}Although his ability is amazing, \Nbecause of his drawing skills,
+Dialogue: 0,0:17:02.80,0:17:09.81,Default,,0000,0000,0000,,that sparrow doesn't seem \Nto be too good at flying...{\i0}
+Dialogue: 0,0:17:09.83,0:17:17.83,Default,,0000,0000,0000,,--Now, Kin'emon, let's go!\N--Uh-huh.
+Dialogue: 0,0:17:21.18,0:17:24.22,Default,,0000,0000,0000,,We can fly straight up to the ceiling\Nwith this Spring Sparrow!
+Dialogue: 0,0:17:24.24,0:17:27.30,Default,,0000,0000,0000,,Wait a sec!
+Dialogue: 0,0:17:27.32,0:17:30.21,Default,,0000,0000,0000,,We're former King Riku \Narmy soldiers and citizens
+Dialogue: 0,0:17:30.23,0:17:32.72,Default,,0000,0000,0000,,\Nthat had been living as Toys all this time.
+Dialogue: 0,0:17:32.74,0:17:38.51,Default,,0000,0000,0000,,We don't know what's going on\Nbut is King Riku alright?!
+Dialogue: 0,0:17:38.53,0:17:41.36,Default,,0000,0000,0000,,Our families are in the town!
+Dialogue: 0,0:17:41.38,0:17:44.35,Default,,0000,0000,0000,,Take us out with you! I beg you!
+Dialogue: 0,0:17:44.37,0:17:46.57,Default,,0000,0000,0000,,Kanjuro!
+Dialogue: 0,0:17:46.59,0:17:51.30,Default,,0000,0000,0000,,Don't say another word! It's unnecessary!
+Dialogue: 0,0:17:51.32,0:17:54.38,Default,,0000,0000,0000,,--Awesome!\N--Thank you, {\i1}samurai{\i0}!
+Dialogue: 0,0:17:54.40,0:17:57.22,Default,,0000,0000,0000,,We can get out from here finally!
+Dialogue: 0,0:17:57.24,0:17:59.00,Default,,0000,0000,0000,,Take turns climbing out!\N
+Dialogue: 0,0:17:59.02,0:18:01.96,Default,,0000,0000,0000,,Since it's a pictorial \Nladder, it breaks easily!
+Dialogue: 0,0:18:01.98,0:18:04.42,Default,,0000,0000,0000,,The lines aren't straight \Nso it's hard to climb!
+Dialogue: 0,0:18:04.44,0:18:10.31,Default,,0000,0000,0000,,Stop complaining!\NYou've got a lot of nerve!
+Dialogue: 0,0:18:10.33,0:18:10.33,Default,,0000,0000,0000,,THE COLOSSEUM ARMY
+Dialogue: 0,0:18:10.35,0:18:18.21,On Top,,0000,0000,0000,,THE ROYAL PALACE
+Dialogue: 0,0:18:18.23,0:18:21.79,Default,,0000,0000,0000,,Stop Straw Hat and the others!
+Dialogue: 0,0:18:21.81,0:18:27.81,Default,,0000,0000,0000,,Why don't you aim at us?!
+Dialogue: 0,0:18:27.83,0:18:34.44,Default,,0000,0000,0000,,Guillotine High-Heel!
+Dialogue: 0,0:18:34.46,0:18:40.28,Default,,0000,0000,0000,,There! I aimed at you!
+Dialogue: 0,0:18:40.30,0:18:42.95,Default,,0000,0000,0000,,Oh, the Longleg got beat!
+Dialogue: 0,0:18:42.97,0:18:45.51,Default,,0000,0000,0000,,Don't look away, Straw Hat!
+Dialogue: 0,0:18:45.53,0:18:49.99,Default,,0000,0000,0000,,We must get to the Palace where \NDoflamingo is, at any cost!
+Dialogue: 0,0:18:50.01,0:18:55.74,Default,,0000,0000,0000,,I knew it when I heard Doflamingo's speech!
+Dialogue: 0,0:18:55.76,0:18:58.94,Default,,0000,0000,0000,,{\i1}It's a game to kill me.{\i0}
+Dialogue: 0,0:18:58.96,0:19:04.18,Default,,0000,0000,0000,,Kill or get killed.
+Dialogue: 0,0:19:04.20,0:19:08.28,Default,,0000,0000,0000,,Everyone in this country will become hunters!
+Dialogue: 0,0:19:08.30,0:19:11.87,Default,,0000,0000,0000,,The only way for you to survive is...
+Dialogue: 0,0:19:11.89,0:19:18.22,Default,,0000,0000,0000,,...to kill somebody!
+Dialogue: 0,0:19:18.24,0:19:26.24,Default,,0000,0000,0000,,This game called the Birdcage is all fake!
+Dialogue: 0,0:19:33.47,0:19:38.10,Default,,0000,0000,0000,,As soon as the weapon trafficking\Nand the secret with the toys were revealed,
+Dialogue: 0,0:19:38.12,0:19:43.39,Default,,0000,0000,0000,,all the people currently in this country \Nwere sentenced to extermination, I think.
+Dialogue: 0,0:19:43.41,0:19:47.43,Default,,0000,0000,0000,,Doflamingo won't let any \Ninformation out of the country.
+Dialogue: 0,0:19:47.45,0:19:51.47,Default,,0000,0000,0000,,That's why he enclosed the island\Nin the Birdcage.
+Dialogue: 0,0:19:51.49,0:19:54.76,Default,,0000,0000,0000,,Which means Dressrosa is...
+Dialogue: 0,0:19:54.78,0:20:01.52,Default,,0000,0000,0000,,...is a solitary island,\Ncut off from the rest of the world!
+Dialogue: 0,0:20:01.54,0:20:05.86,Default,,0000,0000,0000,,Believing in miracles and\Nwaiting for the end of the game...
+Dialogue: 0,0:20:05.88,0:20:11.46,Default,,0000,0000,0000,,...will get us all killed!
+Dialogue: 0,0:20:11.48,0:20:14.77,Default,,0000,0000,0000,,The only way to get out \Nof this island alive is
+Dialogue: 0,0:20:14.79,0:20:18.33,Default,,0000,0000,0000,,\Nto move forward and kill Doflamingo.
+Dialogue: 0,0:20:18.35,0:20:21.70,Default,,0000,0000,0000,,There are a variety of troubles\Nin this country...
+Dialogue: 0,0:20:21.72,0:20:24.42,Default,,0000,0000,0000,,So many unexpected things \Nare happening around him
+Dialogue: 0,0:20:24.44,0:20:32.44,Default,,0000,0000,0000,,\Nbut it seems like Doflamingo is enjoying it.
+Dialogue: 0,0:20:33.58,0:20:39.10,Default,,0000,0000,0000,,I don't know anyone\Nwho's more cunning than Doflamingo.
+Dialogue: 0,0:20:39.12,0:20:44.30,Default,,0000,0000,0000,,Doflamingo is a notch above \Nall the others on all fronts
+Dialogue: 0,0:20:44.32,0:20:47.24,Default,,0000,0000,0000,,but he made just one mistake:
+Dialogue: 0,0:20:47.26,0:20:50.82,Default,,0000,0000,0000,,He brought in all those \Nodd, tough warriors from
+Dialogue: 0,0:20:50.84,0:20:54.41,Default,,0000,0000,0000,,all over the world for the \Nevent at the Colosseum.
+Dialogue: 0,0:20:54.43,0:20:59.36,Default,,0000,0000,0000,,We're not gonna be defeated!
+Dialogue: 0,0:20:59.38,0:21:01.50,Default,,0000,0000,0000,,Because, after all,
+Dialogue: 0,0:21:01.52,0:21:04.90,Default,,0000,0000,0000,,I will take down Doflamingo!
+Dialogue: 0,0:21:04.92,0:21:09.13,Default,,0000,0000,0000,,What are you talking about?!\NI said I'm gonna kick Mingo's ass!
+Dialogue: 0,0:21:09.15,0:21:12.46,Default,,0000,0000,0000,,I said it would be me, Straw Hat-{\i1}ya{\i0}!
+Dialogue: 0,0:21:12.48,0:21:15.01,Default,,0000,0000,0000,,I'm very impressed, but I'm gonna do it!
+Dialogue: 0,0:21:15.03,0:21:19.24,Default,,0000,0000,0000,,Soldier! You said you wanna kill\None of the Executives!
+Dialogue: 0,0:21:19.26,0:21:27.26,Default,,0000,0000,0000,,That's a personal thing!\NTaking back King Riku's country is my inevitable duty!
+Dialogue: 0,0:21:27.90,0:21:32.37,Default,,0000,0000,0000,,I have to put an end to the tragedy\Nthat started 10 years ago!
+Dialogue: 0,0:21:32.39,0:21:35.52,Default,,0000,0000,0000,,If you talk about time,\NI have a grudge from 13 years ago!
+Dialogue: 0,0:21:35.54,0:21:37.79,Default,,0000,0000,0000,,Then, mine's from 30 years ago!
+Dialogue: 0,0:21:37.81,0:21:43.82,Default,,0000,0000,0000,,Don't lie! There's no way \Nthat you're older than me!
+Dialogue: 0,0:21:43.84,0:21:46.72,Default,,0000,0000,0000,,--You guys, get off!\N--You get off!
+Dialogue: 0,0:21:46.74,0:21:49.84,Default,,0000,0000,0000,,--It's my horse!\N--You told me to get on!
+Dialogue: 0,0:21:49.86,0:21:57.86,Default,,0000,0000,0000,,The road's ending!
+Dialogue: 0,0:21:57.93,0:21:59.96,Default,,0000,0000,0000,,Almost there! The third level!
+Dialogue: 0,0:21:59.98,0:22:03.58,Default,,0000,0000,0000,,All right!\NGo straight to the fourth level like this!
+Dialogue: 0,0:22:03.60,0:22:11.60,Default,,0000,0000,0000,,Horse!
+Dialogue: 0,0:22:17.93,0:22:25.93,Default,,0000,0000,0000,,What's the matter, Farul?
+Dialogue: 0,0:22:51.94,0:22:59.94,Default,,0000,0000,0000,,What are those giant dolls?!
+Dialogue: 0,0:23:10.70,0:23:13.90,Default,,0000,0000,0000,,{\i1}The group of dolls stands in\NLuffy and the others' way!{\i0}
+Dialogue: 0,0:23:13.92,0:23:16.16,Default,,0000,0000,0000,,{\i1}Meanwhile, Pica who's been fighting Zoro,{\i0}
+Dialogue: 0,0:23:16.18,0:23:18.28,Default,,0000,0000,0000,,{\i1}throws a punch with his gigantic \Nfist aimed at Robin and the
+Dialogue: 0,0:23:18.30,0:23:20.44,Default,,0000,0000,0000,,others who're heading for the Royal Palace!{\i0}
+Dialogue: 0,0:23:20.46,0:23:22.74,Default,,0000,0000,0000,,{\i1}When it seems like his attack is unavoidable,
+Dialogue: 0,0:23:22.76,0:23:25.96,Default,,0000,0000,0000,,Zoro's never-before-seen \Nsword attack strikes Pica!{\i0}
+Dialogue: 0,0:23:25.98,0:23:27.29,Default,,0000,0000,0000,,On the next episode of One Piece!
+Dialogue: 0,0:23:27.31,0:23:30.59,Default,,0000,0000,0000,,\N"A Hard-Fought Battle Against Pica! Zoro's Deadly Attack!"
+Dialogue: 0,0:23:30.61,0:23:38.61,Default,,0000,0000,0000,,I'm gonna be the King of the Pirates!

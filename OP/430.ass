@@ -1,0 +1,361 @@
+﻿[Script Info]
+Title: English (US)
+Original Script: ToeiAnimation  [http://www.crunchyroll.com/user/ToeiAnimation]
+Original Translation: 
+Original Editing: 
+Original Timing: 
+Synch Point: 
+Script Updated By: 
+Update Details: 
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 640
+PlayResY: 360
+Timer: 0.0000
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name,Fontname,Fontsize,PrimaryColour,SecondaryColour,OutlineColour,BackColour,Bold,Italic,Underline,Strikeout,ScaleX,ScaleY,Spacing,Angle,BorderStyle,Outline,Shadow,Alignment,MarginL,MarginR,MarginV,Encoding
+Style: Default,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,2,0020,0020,0022,0
+Style: B1,Arial,32,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,2,0070,0070,0030,0
+Style: OS,Arial,18,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,8,0001,0001,0015,0
+Style: Italics,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,-1,0,0,100,100,0,0,1,2,1,2,0020,0020,0022,0
+Style: Ep Title,Arial,18,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,3,0170,0070,0020,0
+Style: Copy of Ep Title,Arial,18,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,3,0070,0226,0065,0
+Style: On Top,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,8,0020,0020,0022,0
+Style: Copy of OS,Arial,18,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,9,0020,0020,0020,0
+Style: DefaultLow,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,2,0020,0020,0010,0
+Style: On Top - Left,Arial,18,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,8,0001,0310,0015,0
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:02.35,0:00:06.74,Italics,,0000,0000,0000,,Travel across the oceans of the world
+Dialogue: 0,0:00:06.76,0:00:08.85,Italics,,0000,0000,0000,,Bellow a battle cry
+Dialogue: 0,0:00:08.87,0:00:16.87,Italics,,0000,0000,0000,,Once your heart feels refreshed,\Nlet the signal to set sail ring out
+Dialogue: 0,0:00:23.24,0:00:26.54,Italics,,0000,0000,0000,,We've left the established course
+Dialogue: 0,0:00:26.56,0:00:29.96,Italics,,0000,0000,0000,,Right now, we're rowing straight toward
+Dialogue: 0,0:00:29.98,0:00:35.50,Italics,,0000,0000,0000,,The borderline between the sky and the ocean
+Dialogue: 0,0:00:35.52,0:00:41.72,Italics,,0000,0000,0000,,In the dark depths of the ocean,\Nadventure holds its breath
+Dialogue: 0,0:00:41.74,0:00:48.73,Italics,,0000,0000,0000,,Don't you have a good time just imagining it?
+Dialogue: 0,0:00:48.75,0:00:53.23,Italics,,0000,0000,0000,,Travel across the oceans of the world
+Dialogue: 0,0:00:53.25,0:00:55.31,Italics,,0000,0000,0000,,Bellow a battle cry
+Dialogue: 0,0:00:55.33,0:01:03.33,Italics,,0000,0000,0000,,Once your heart feels refreshed,\Nlet the signal to set sail ring out
+Dialogue: 0,0:01:09.58,0:01:13.01,Italics,,0000,0000,0000,,"That feeling" I get when embarking
+Dialogue: 0,0:01:13.03,0:01:16.21,Italics,,0000,0000,0000,,Is something I hope to remember always
+Dialogue: 0,0:01:16.23,0:01:21.76,Italics,,0000,0000,0000,,If I can, I won't be afraid of anything
+Dialogue: 0,0:01:21.78,0:01:27.97,Italics,,0000,0000,0000,,With our pulses racing, \Nlet's go on a trip now
+Dialogue: 0,0:01:27.99,0:01:35.02,Italics,,0000,0000,0000,,Shy hearts engrave the rhythm of adventure
+Dialogue: 0,0:01:35.04,0:01:39.15,Italics,,0000,0000,0000,,Snatch up the treasure here and there
+Dialogue: 0,0:01:39.17,0:01:41.77,Italics,,0000,0000,0000,,While laughing out loud
+Dialogue: 0,0:01:41.79,0:01:46.13,Italics,,0000,0000,0000,,As we dash by like a noisy party
+Dialogue: 0,0:01:46.15,0:01:48.83,Italics,,0000,0000,0000,,Make some waves...
+Dialogue: 0,0:01:48.85,0:01:50.50,Italics,,0000,0000,0000,,Life is "Adventurous"
+Dialogue: 0,0:01:50.52,0:01:52.21,Italics,,0000,0000,0000,,Be aware it's "Dangerous"
+Dialogue: 0,0:01:52.23,0:01:53.87,Italics,,0000,0000,0000,,Who's gonna be "One of us"
+Dialogue: 0,0:01:53.89,0:01:55.50,Italics,,0000,0000,0000,,And a trip goes on because
+Dialogue: 0,0:01:55.52,0:01:57.04,Italics,,0000,0000,0000,,We da pirate of the "Mass"
+Dialogue: 0,0:01:57.06,0:01:58.96,Italics,,0000,0000,0000,,To the West, To the East
+Dialogue: 0,0:01:58.98,0:02:00.57,Italics,,0000,0000,0000,,Gotta find my way, Sail away
+Dialogue: 0,0:02:00.59,0:02:01.74,Italics,,0000,0000,0000,,All the way to "One piece"!!
+Dialogue: 0,0:02:01.76,0:02:06.00,Italics,,0000,0000,0000,,Stuff a dream into your empty chest
+Dialogue: 0,0:02:06.02,0:02:08.18,Italics,,0000,0000,0000,,And spread your wings
+Dialogue: 0,0:02:08.20,0:02:12.56,Italics,,0000,0000,0000,,If the wind blowing through\Nthem dyes your heart
+Dialogue: 0,0:02:12.58,0:02:14.98,Italics,,0000,0000,0000,,Let's press forward
+Dialogue: 0,0:02:15.00,0:02:19.09,Italics,,0000,0000,0000,,Snatch up the treasure here and there
+Dialogue: 0,0:02:19.11,0:02:21.47,Italics,,0000,0000,0000,,While laughing out loud
+Dialogue: 0,0:02:21.49,0:02:25.88,Italics,,0000,0000,0000,,As we dash by like a noisy party
+Dialogue: 0,0:02:25.90,0:02:33.85,Italics,,0000,0000,0000,,Make some waves...
+Dialogue: 0,0:02:33.87,0:02:36.82,Default,,0000,0000,0000,,The time is the \NGreat Pirate Era.
+Dialogue: 0,0:02:36.84,0:02:40.50,Default,,0000,0000,0000,,Countless pirates fight \Ndesperately for the One Piece,
+Dialogue: 0,0:02:40.52,0:02:45.65,Default,,0000,0000,0000,,the great treasure left behind by \NGold Roger, King of the Pirates.
+Dialogue: 0,0:02:45.67,0:02:49.85,Default,,0000,0000,0000,,Monkey D. Luffy, a boy whose body turned \Nto rubber after he ate the Gum-Gum Fruit,
+Dialogue: 0,0:02:49.87,0:02:53.52,Default,,0000,0000,0000,,also takes to the sea to become \Nthe next King of the Pirates.
+Dialogue: 0,0:02:53.54,0:02:57.37,Default,,0000,0000,0000,,As Luffy and his friends \Novercome numerous adventures,
+Dialogue: 0,0:02:57.39,0:03:03.22,Default,,0000,0000,0000,,the World Government is less and \Nless able to ignore their existence.
+Dialogue: 0,0:03:03.24,0:03:05.83,Default,,0000,0000,0000,,This is exciting!
+Dialogue: 0,0:03:05.85,0:03:09.20,Default,,0000,0000,0000,,What kind of adventure \Nis waiting for us next?!
+Dialogue: 0,0:03:09.22,0:03:12.20,Default,,0000,0000,0000,,The crew, on its way \Nto the New World,
+Dialogue: 0,0:03:12.22,0:03:20.22,Default,,0000,0000,0000,,will speed along the \NGrand Line again today!
+Dialogue: 0,0:03:21.10,0:03:23.18,Default,,0000,0000,0000,,After being separated from his friends,
+Dialogue: 0,0:03:23.20,0:03:26.01,Default,,0000,0000,0000,,Luffy comes to rescue his brother Ace \Nwho has been captured by the Navy
+Dialogue: 0,0:03:26.03,0:03:33.79,Default,,0000,0000,0000,,by sneaking into Impel Down - the \Ngreatest prison in the world!
+Dialogue: 0,0:03:33.81,0:03:41.19,Default,,0000,0000,0000,,Luffy is now at level 2 - Wild \NBeast Hell with Buggy the Clown.
+Dialogue: 0,0:03:41.21,0:03:46.99,Default,,0000,0000,0000,,It is a wild beast of hell!
+Dialogue: 0,0:03:47.01,0:03:47.70,Default,,0000,0000,0000,,Damn it!
+Dialogue: 0,0:03:47.72,0:03:49.41,Default,,0000,0000,0000,,Gum-Gum...
+Dialogue: 0,0:03:49.43,0:03:54.37,Default,,0000,0000,0000,,...Giant Pistol!
+Dialogue: 0,0:03:54.39,0:03:57.98,Default,,0000,0000,0000,,What?! Someone's broken in to Impel Down?!
+Dialogue: 0,0:03:58.00,0:04:05.15,Default,,0000,0000,0000,,That's impossible! No one has ever \Nbroken in all the prison's history!
+Dialogue: 0,0:04:05.17,0:04:06.46,Default,,0000,0000,0000,,Did they notice our plan?!
+Dialogue: 0,0:04:06.48,0:04:09.29,Default,,0000,0000,0000,,Transfer the video!
+Dialogue: 0,0:04:09.31,0:04:10.76,Default,,0000,0000,0000,,Warden!
+Dialogue: 0,0:04:10.78,0:04:15.27,Default,,0000,0000,0000,,Can I see the prisoner now?
+Dialogue: 0,0:04:15.29,0:04:17.72,Default,,0000,0000,0000,,Okay, let's go! I'm ready to go!
+Dialogue: 0,0:04:17.74,0:04:21.44,Default,,0000,0000,0000,,W-Warden! Don't you realize \Nhow serious this is?!
+Dialogue: 0,0:04:21.46,0:04:27.07,Default,,0000,0000,0000,,If you're having trouble on \Nthis floor, I can help you.
+Dialogue: 0,0:04:27.09,0:04:29.73,Default,,0000,0000,0000,,Who is that guy?
+Dialogue: 0,0:04:29.75,0:04:32.49,Default,,0000,0000,0000,,Long time no see, Straw Hat Luffy!
+Dialogue: 0,0:04:32.51,0:04:35.87,Default,,0000,0000,0000,,You helped me out without noticing.
+Dialogue: 0,0:04:35.89,0:04:38.66,Default,,0000,0000,0000,,I always pay back my debts.
+Dialogue: 0,0:04:38.68,0:04:42.21,Default,,0000,0000,0000,,Who are you?
+Dialogue: 0,0:04:42.23,0:04:45.42,Default,,0000,0000,0000,,Oh, that's 3! That means...
+Dialogue: 0,0:04:45.44,0:04:48.37,Default,,0000,0000,0000,,You were on the island with \Nthe Giants! You are San!
+Dialogue: 0,0:04:48.39,0:04:56.39,Default,,0000,0000,0000,,No, I'm Mr.Three!
+Dialogue: 0,0:04:58.57,0:05:04.85,Default,,0000,0000,0000,,"A Warlord in Prison! Jimbei \Nthe First Son of the Sea!"
+Dialogue: 0,0:05:04.87,0:05:08.95,Default,,0000,0000,0000,,To be honest, when I was assigned \Nto this floor I thought I was dead,
+Dialogue: 0,0:05:08.97,0:05:11.40,Default,,0000,0000,0000,,but it's surprisingly peaceful.
+Dialogue: 0,0:05:11.42,0:05:13.93,Default,,0000,0000,0000,,It couldn't be any other way.
+Dialogue: 0,0:05:13.95,0:05:16.83,Default,,0000,0000,0000,,What kind of floor did you think it would be?
+Dialogue: 0,0:05:16.85,0:05:20.63,Default,,0000,0000,0000,,This lowest floor holds the \Nworst villains with more
+Dialogue: 0,0:05:20.65,0:05:23.05,Default,,0000,0000,0000,,than a 100 million berry price...
+Dialogue: 0,0:05:23.07,0:05:25.70,Default,,0000,0000,0000,,...or other infamous menaces.
+Dialogue: 0,0:05:25.72,0:05:28.51,Default,,0000,0000,0000,,That's why the security here is so tight
+Dialogue: 0,0:05:28.53,0:05:32.39,Default,,0000,0000,0000,,and that's why it's called Eternal \NHell -the worst floor for
+Dialogue: 0,0:05:32.41,0:05:36.82,Default,,0000,0000,0000,,prisoners to be held on.
+Dialogue: 0,0:05:36.84,0:05:41.86,Default,,0000,0000,0000,,Well, the only chance for them \Nto get out from the deep sea...
+Dialogue: 0,0:05:41.88,0:05:45.44,Default,,0000,0000,0000,,and get sunshine is when \Nthey go to their execution.
+Dialogue: 0,0:05:45.46,0:05:48.56,Default,,0000,0000,0000,,Death is maybe easier...
+Dialogue: 0,0:05:48.58,0:05:52.53,Default,,0000,0000,0000,,...than spending the rest \Nof your life in this hell.
+Dialogue: 0,0:05:52.55,0:05:56.14,Default,,0000,0000,0000,,Maybe!
+Dialogue: 0,0:05:56.16,0:06:00.75,Default,,0000,0000,0000,,Hey! The Warden and Vice Warden \Nare on their way with Boa Hancock.
+Dialogue: 0,0:06:00.77,0:06:07.46,Default,,0000,0000,0000,,I wonder why the pirate empress \Nwants to see "Fire Fist" Ace.
+Dialogue: 0,0:06:07.48,0:06:10.79,Default,,0000,0000,0000,,Yeah, he is the most dangerous \Nprisoner in Impel Down,
+Dialogue: 0,0:06:10.81,0:06:14.26,Default,,0000,0000,0000,,I mean, maybe in the whole world now.
+Dialogue: 0,0:06:14.28,0:06:17.61,Default,,0000,0000,0000,,I don't want any trouble.
+Dialogue: 0,0:06:17.63,0:06:22.28,Default,,0000,0000,0000,,Speaking of dangerous men, that \Nguy who is a Warlord like Hancock
+Dialogue: 0,0:06:22.30,0:06:30.30,Default,,0000,0000,0000,,who rebelled against Navy Headquarters \Nis also pretty dangerous.
+Dialogue: 0,0:06:37.83,0:06:42.31,Default,,0000,0000,0000,,I am...
+Dialogue: 0,0:06:42.33,0:06:50.33,Default,,0000,0000,0000,,...not going to run!
+Dialogue: 0,0:06:52.27,0:06:55.91,Default,,0000,0000,0000,,I can't even move to scratch an itch.
+Dialogue: 0,0:06:55.93,0:06:59.08,Default,,0000,0000,0000,,They beat you up, huh?
+Dialogue: 0,0:06:59.10,0:07:02.07,Default,,0000,0000,0000,,Captain.
+Dialogue: 0,0:07:02.09,0:07:05.86,Default,,0000,0000,0000,,It doesn't hurt me, Ace-san.
+Dialogue: 0,0:07:05.88,0:07:08.31,DefaultLow,,0000,0000,0000,,What hurts me is...
+Dialogue: 0,0:07:08.33,0:07:10.54,DefaultLow,,0000,0000,0000,,....the fact that I can't take a stand...
+Dialogue: 0,0:07:10.56,0:07:12.28,DefaultLow,,0000,0000,0000,,...for my beliefs about humanity and justice!
+Dialogue: 0,0:07:12.30,0:07:16.62,On Top - Left,,0000,0000,0000,,{\fad(450,1)}"First Son of the Sea" Jimbei\NA Warlord of the Sea\N(A Whale Shark Fish-man Formerly\NWith a Bounty of 250 Million Berries)
+Dialogue: 0,0:07:16.64,0:07:17.66,Default,,0000,0000,0000,,Jimbei.
+Dialogue: 0,0:07:17.68,0:07:21.85,Default,,0000,0000,0000,,I can't die without doing something about it!
+Dialogue: 0,0:07:21.87,0:07:28.33,Default,,0000,0000,0000,,I don't give a damn about the title of \NWarlord of the Sea! I don't want it!
+Dialogue: 0,0:07:28.35,0:07:32.96,Default,,0000,0000,0000,,If it means I can stop this war...
+Dialogue: 0,0:07:32.98,0:07:37.58,Default,,0000,0000,0000,,I'd be happy to sacrifice my life!
+Dialogue: 0,0:07:37.60,0:07:39.71,Default,,0000,0000,0000,,No wonder we can't reach them!
+Dialogue: 0,0:07:39.73,0:07:43.43,Default,,0000,0000,0000,,The jailors' room on level \N2 was crushed by a Basilisk!
+Dialogue: 0,0:07:43.45,0:07:47.64,Default,,0000,0000,0000,,A Basilisk was beaten?!\NWhere are those two?!
+Dialogue: 0,0:07:47.66,0:07:55.66,Default,,0000,0000,0000,,What's happening on level 2 now?!
+Dialogue: 0,0:08:00.10,0:08:01.87,Default,,0000,0000,0000,,I see them!
+Dialogue: 0,0:08:01.89,0:08:04.17,Default,,0000,0000,0000,,--Really?--But...
+Dialogue: 0,0:08:04.19,0:08:06.25,Default,,0000,0000,0000,,...there's three now.
+Dialogue: 0,0:08:06.27,0:08:07.62,Default,,0000,0000,0000,,What?!
+Dialogue: 0,0:08:07.64,0:08:15.64,On Top,,0000,0000,0000,,{\fad(500,500)}"Level 2\NFloor of Wild Beasts from Hell"
+Dialogue: 0,0:08:24.24,0:08:29.31,Default,,0000,0000,0000,,It seems like all the wild beasts \Non this floor are after us now!
+Dialogue: 0,0:08:29.33,0:08:33.17,Default,,0000,0000,0000,,We can't just run forever!
+Dialogue: 0,0:08:33.19,0:08:37.58,Default,,0000,0000,0000,,You're right! As soon as we stop \Nrunning, we're gonna become dinner!
+Dialogue: 0,0:08:37.60,0:08:39.20,Default,,0000,0000,0000,,And while we're busy running,
+Dialogue: 0,0:08:39.22,0:08:42.82,Default,,0000,0000,0000,,jailors from other floors are on \Ntheir way here to catch us, too.
+Dialogue: 0,0:08:42.84,0:08:48.47,Default,,0000,0000,0000,,I'm tired already...
+Dialogue: 0,0:08:48.49,0:08:51.12,Default,,0000,0000,0000,,I don't have time for this!
+Dialogue: 0,0:08:51.14,0:08:52.43,Default,,0000,0000,0000,,Gum-Gum...
+Dialogue: 0,0:08:52.45,0:08:53.35,Default,,0000,0000,0000,,Chop-Chop...
+Dialogue: 0,0:08:53.37,0:08:54.29,Default,,0000,0000,0000,,Candle...
+Dialogue: 0,0:08:54.31,0:09:02.31,Default,,0000,0000,0000,,--...Pistol!\N--...Cannon!\N--...Lock!
+Dialogue: 0,0:09:02.36,0:09:05.74,Default,,0000,0000,0000,,Augh! That big centipede just exploded!
+Dialogue: 0,0:09:05.76,0:09:10.51,Default,,0000,0000,0000,,It was just made of a bunch of Puzzle \NScorpions! They are extremely poisonous!
+Dialogue: 0,0:09:10.53,0:09:18.53,Default,,0000,0000,0000,,They're multiplying!
+Dialogue: 0,0:09:47.25,0:09:49.03,Default,,0000,0000,0000,,I told you!
+Dialogue: 0,0:09:49.05,0:09:56.51,Default,,0000,0000,0000,,They sure were fooled by my footsteps trick!
+Dialogue: 0,0:09:56.53,0:10:00.19,Default,,0000,0000,0000,,They found us, stupid!
+Dialogue: 0,0:10:00.21,0:10:01.68,Default,,0000,0000,0000,,Damn it!
+Dialogue: 0,0:10:01.70,0:10:05.98,Default,,0000,0000,0000,,By the way, I heard that the boss of \Nbeasts on level 2 looks like a lion.
+Dialogue: 0,0:10:06.00,0:10:06.91,Default,,0000,0000,0000,,Is this them?
+Dialogue: 0,0:10:06.93,0:10:11.79,Default,,0000,0000,0000,,No! These are man-eating lions with \Nhuman-like faces called Manticores!
+Dialogue: 0,0:10:11.81,0:10:11.79,On Top,,0000,0000,0000,,"Prison Guard on Level 2\NMANTICORE"
+Dialogue: 0,0:10:11.81,0:10:15.12,DefaultLow,,0000,0000,0000,,Once they catch us, they'll \Neat us to the bone!
+Dialogue: 0,0:10:15.14,0:10:16.84,Default,,0000,0000,0000,,To the bone!
+Dialogue: 0,0:10:16.86,0:10:18.30,Default,,0000,0000,0000,,--Key!--What?
+Dialogue: 0,0:10:18.32,0:10:20.31,Default,,0000,0000,0000,,Give me the key!
+Dialogue: 0,0:10:20.33,0:10:21.42,Default,,0000,0000,0000,,Don't pay attention!
+Dialogue: 0,0:10:21.44,0:10:25.13,Default,,0000,0000,0000,,Since they look like humans \Nthey do impressions of people!
+Dialogue: 0,0:10:25.15,0:10:29.32,Default,,0000,0000,0000,,--Help me!--It's too painful!
+Dialogue: 0,0:10:29.34,0:10:33.91,Default,,0000,0000,0000,,They just learn what prisoners say! \NThey don't even know the meaning!
+Dialogue: 0,0:10:33.93,0:10:35.60,Default,,0000,0000,0000,,I-It's creepy!
+Dialogue: 0,0:10:35.62,0:10:38.81,Default,,0000,0000,0000,,--Loincloth! Loincloth!--Strawberry-print \Npanties!
+Dialogue: 0,0:10:38.83,0:10:41.32,Default,,0000,0000,0000,,Who taught them those dumb words?!
+Dialogue: 0,0:10:41.34,0:10:43.32,Default,,0000,0000,0000,,Beef Steak!
+Dialogue: 0,0:10:43.34,0:10:46.03,Default,,0000,0000,0000,,--What?!--Don't react to it!
+Dialogue: 0,0:10:46.05,0:10:48.07,Default,,0000,0000,0000,,Hey you!
+Dialogue: 0,0:10:48.09,0:10:51.28,Default,,0000,0000,0000,,You said that you're gonna help us, right?
+Dialogue: 0,0:10:51.30,0:10:57.56,Default,,0000,0000,0000,,Of course! Let's join forces \Nto break out of this prison!
+Dialogue: 0,0:10:57.58,0:11:01.00,Default,,0000,0000,0000,,Where can we get down to level 3?!
+Dialogue: 0,0:11:01.02,0:11:04.01,Default,,0000,0000,0000,,Huh? Don't you wanna break out?!
+Dialogue: 0,0:11:04.03,0:11:07.22,Default,,0000,0000,0000,,I thought that you wanna go up to level 1!
+Dialogue: 0,0:11:07.24,0:11:10.42,Default,,0000,0000,0000,,Straw Hat came here to \Nrescue his brother Ace!
+Dialogue: 0,0:11:10.44,0:11:15.15,Default,,0000,0000,0000,,Brother?! "Fire Fist" Ace \Nis Straw Hat's brother?!
+Dialogue: 0,0:11:15.17,0:11:18.56,Default,,0000,0000,0000,,And you came here to rescue him?!
+Dialogue: 0,0:11:18.58,0:11:19.81,Default,,0000,0000,0000,,I've no time!
+Dialogue: 0,0:11:19.83,0:11:25.15,Default,,0000,0000,0000,,If Ace is being held here, I'm \Nsure that they put him in level 5!
+Dialogue: 0,0:11:25.17,0:11:26.45,Default,,0000,0000,0000,,And he wants to go there?!
+Dialogue: 0,0:11:26.47,0:11:31.14,Default,,0000,0000,0000,,No way! That's crazy! I'm not going!
+Dialogue: 0,0:11:31.16,0:11:35.83,Default,,0000,0000,0000,,Wait! Tell me where the stairs \Nto go down are, at least!
+Dialogue: 0,0:11:35.85,0:11:39.63,Default,,0000,0000,0000,,The stairs to go down? Oh yeah!
+Dialogue: 0,0:11:39.65,0:11:42.62,Default,,0000,0000,0000,,The stairs are connected \Nbetween level 1 to 3.
+Dialogue: 0,0:11:42.64,0:11:48.67,Default,,0000,0000,0000,,Why don't I use Straw Hat as a bait--to \Nthe beast guarding the stairs!
+Dialogue: 0,0:11:48.69,0:11:51.61,Default,,0000,0000,0000,,And then, I can just take off!
+Dialogue: 0,0:11:51.63,0:11:57.96,Default,,0000,0000,0000,,All right, Straw Hat! Let's go together!
+Dialogue: 0,0:11:57.98,0:12:00.45,Default,,0000,0000,0000,,Count on me, Straw Hat!
+Dialogue: 0,0:12:00.47,0:12:08.47,Default,,0000,0000,0000,,Follow me...
+Dialogue: 0,0:12:12.72,0:12:16.25,Default,,0000,0000,0000,,Oh no. There's something \Nhere. And what the...
+Dialogue: 0,0:12:16.27,0:12:20.70,Default,,0000,0000,0000,,Ow, ow, ow, ow...
+Dialogue: 0,0:12:20.72,0:12:23.42,DefaultLow,,0000,0000,0000,,It's a guardian of the \Nstairs called the Sphinx!
+Dialogue: 0,0:12:23.44,0:12:27.47,On Top,,0000,0000,0000,,{\fad(500,1)}"Prison Guard on Level 2\NSPHINX\N(A Lion with a Human-like Face and Feathers)"
+Dialogue: 0,0:12:27.49,0:12:35.49,Default,,0000,0000,0000,,Is it a lion?! Or a grandpa?
+Dialogue: 0,0:12:37.12,0:12:38.02,Default,,0000,0000,0000,,--Omelet rice!--Steak!
+Dialogue: 0,0:12:38.04,0:12:46.04,Default,,0000,0000,0000,,--Underpants!--Strawberry-print panties!
+Dialogue: 0,0:12:50.94,0:12:52.16,Default,,0000,0000,0000,,Thin noodle.
+Dialogue: 0,0:12:52.18,0:12:56.33,Default,,0000,0000,0000,,T-Thin noodle?!
+Dialogue: 0,0:12:56.35,0:13:01.13,Default,,0000,0000,0000,,Chinese Noodle!
+Dialogue: 0,0:13:01.15,0:13:03.49,Default,,0000,0000,0000,,Vegetable noodle!
+Dialogue: 0,0:13:03.51,0:13:06.59,Default,,0000,0000,0000,,They taught him mainly names of noodles?!
+Dialogue: 0,0:13:06.61,0:13:09.25,Default,,0000,0000,0000,,BBQ pork noodle!
+Dialogue: 0,0:13:09.27,0:13:13.49,Default,,0000,0000,0000,,Spicy Szechuan noodle!
+Dialogue: 0,0:13:13.51,0:13:15.85,Default,,0000,0000,0000,,Cool dude!
+Dialogue: 0,0:13:15.87,0:13:19.14,Default,,0000,0000,0000,,--Who, me?!--Who, me?!
+Dialogue: 0,0:13:19.16,0:13:22.83,Default,,0000,0000,0000,,He's very tough!
+Dialogue: 0,0:13:22.85,0:13:24.99,Default,,0000,0000,0000,,T-That's gotta be...
+Dialogue: 0,0:13:25.01,0:13:28.18,Default,,0000,0000,0000,,The Sphinx is going nuts somewhere!
+Dialogue: 0,0:13:28.20,0:13:32.20,Default,,0000,0000,0000,,I knew it! We'll be stuck here forever!
+Dialogue: 0,0:13:32.22,0:13:34.32,Default,,0000,0000,0000,,Ground pork noodle!
+Dialogue: 0,0:13:34.34,0:13:36.58,Default,,0000,0000,0000,,Hot-pot noodle!
+Dialogue: 0,0:13:36.60,0:13:40.41,Default,,0000,0000,0000,,Canton noodle!
+Dialogue: 0,0:13:40.43,0:13:46.03,Default,,0000,0000,0000,,I wanna eat Sanji's food! I \Nhaven't had it for long time!
+Dialogue: 0,0:13:46.05,0:13:50.54,Default,,0000,0000,0000,,Wonton noodle!
+Dialogue: 0,0:13:50.56,0:13:54.37,Default,,0000,0000,0000,,Wonton noodle!
+Dialogue: 0,0:13:54.39,0:13:57.68,Default,,0000,0000,0000,,Damn! He's pretty strong!
+Dialogue: 0,0:13:57.70,0:14:02.31,Default,,0000,0000,0000,,You know, I don't wanna go \Ndown to the lower levels!
+Dialogue: 0,0:14:02.33,0:14:05.08,Default,,0000,0000,0000,,I'm totally with you!
+Dialogue: 0,0:14:05.10,0:14:09.77,Default,,0000,0000,0000,,All right! Now, let's form \Nan alliance to breakout!
+Dialogue: 0,0:14:09.79,0:14:13.54,Default,,0000,0000,0000,,I'm so glad that you are a real escapee!
+Dialogue: 0,0:14:13.56,0:14:17.58,Default,,0000,0000,0000,,Alright, let's execute the \N"Straw Hat for dinner" plan!
+Dialogue: 0,0:14:17.60,0:14:25.60,Default,,0000,0000,0000,,Oh yeah!
+Dialogue: 0,0:14:34.49,0:14:36.86,Default,,0000,0000,0000,,Miso flavored noodle!
+Dialogue: 0,0:14:36.88,0:14:38.93,Default,,0000,0000,0000,,Salt flavored noodle!
+Dialogue: 0,0:14:38.95,0:14:43.40,Default,,0000,0000,0000,,Soy sauce flavored noodle!
+Dialogue: 0,0:14:43.42,0:14:45.81,Default,,0000,0000,0000,,Hey, what're you guys doing?
+Dialogue: 0,0:14:45.83,0:14:47.86,Default,,0000,0000,0000,,Oops!
+Dialogue: 0,0:14:47.88,0:14:54.94,Default,,0000,0000,0000,,H-Here he comes, Straw Hat!
+Dialogue: 0,0:14:54.96,0:14:56.74,Default,,0000,0000,0000,,Gum-Gum...
+Dialogue: 0,0:14:56.76,0:15:04.76,Default,,0000,0000,0000,,...Bazooka!
+Dialogue: 0,0:15:05.35,0:15:08.78,Default,,0000,0000,0000,,Why did you want to make him angry?!
+Dialogue: 0,0:15:08.80,0:15:12.05,Default,,0000,0000,0000,,Oh no!
+Dialogue: 0,0:15:12.07,0:15:19.63,Default,,0000,0000,0000,,It's not fair! I wanna go \Nup higher like you two!
+Dialogue: 0,0:15:19.65,0:15:27.65,Default,,0000,0000,0000,,Cold noodle!
+Dialogue: 0,0:15:37.74,0:15:40.40,Default,,0000,0000,0000,,I got you, naive animal!
+Dialogue: 0,0:15:40.42,0:15:44.95,Default,,0000,0000,0000,,That's just a wax figure that \NI made with my Wax-Wax power!
+Dialogue: 0,0:15:44.97,0:15:46.50,Default,,0000,0000,0000,,Hot thin noodle.
+Dialogue: 0,0:15:46.52,0:15:50.83,Default,,0000,0000,0000,,It's better with Miss Goldenweek's coloring,
+Dialogue: 0,0:15:50.85,0:15:58.85,Default,,0000,0000,0000,,but it's enough to fool an animal like you!
+Dialogue: 0,0:16:01.73,0:16:06.12,Default,,0000,0000,0000,,Here we go!
+Dialogue: 0,0:16:06.14,0:16:13.35,Default,,0000,0000,0000,,Can you tell which is the real me?
+Dialogue: 0,0:16:13.37,0:16:13.98,Default,,0000,0000,0000,,Noodle!
+Dialogue: 0,0:16:14.00,0:16:15.86,Default,,0000,0000,0000,,You missed it!
+Dialogue: 0,0:16:15.88,0:16:16.44,Default,,0000,0000,0000,,Noodle!
+Dialogue: 0,0:16:16.46,0:16:18.32,Default,,0000,0000,0000,,You missed it!
+Dialogue: 0,0:16:18.34,0:16:19.05,Default,,0000,0000,0000,,Noodle!
+Dialogue: 0,0:16:19.07,0:16:21.80,Default,,0000,0000,0000,,You missed it!
+Dialogue: 0,0:16:21.82,0:16:24.41,Default,,0000,0000,0000,,Wow, that's fun! It's like Whack-A-Mole!
+Dialogue: 0,0:16:24.43,0:16:25.85,Default,,0000,0000,0000,,--Noodle!--Missed it!
+Dialogue: 0,0:16:25.87,0:16:27.24,Default,,0000,0000,0000,,--Noodle!--Missed it!
+Dialogue: 0,0:16:27.26,0:16:28.57,Default,,0000,0000,0000,,--Noodle!--Missed it!
+Dialogue: 0,0:16:28.59,0:16:29.54,Default,,0000,0000,0000,,That's him!
+Dialogue: 0,0:16:29.56,0:16:31.38,Default,,0000,0000,0000,,--Noodle!--Missed it!
+Dialogue: 0,0:16:31.40,0:16:33.46,Default,,0000,0000,0000,,Oh, it's not! This one?!
+Dialogue: 0,0:16:33.48,0:16:34.68,Default,,0000,0000,0000,,--Noodle!--Missed it!
+Dialogue: 0,0:16:34.70,0:16:36.05,Default,,0000,0000,0000,,--Noodle!--Missed it!
+Dialogue: 0,0:16:36.07,0:16:39.68,Default,,0000,0000,0000,,--Noodle! Noodle! Noodle! \NNoodle! Noodle!--Go get him!
+Dialogue: 0,0:16:39.70,0:16:42.53,Default,,0000,0000,0000,,He's playing with Sphinx!
+Dialogue: 0,0:16:42.55,0:16:46.52,Default,,0000,0000,0000,,How simple-minded are you, Straw Hat?!
+Dialogue: 0,0:16:46.54,0:16:50.73,Default,,0000,0000,0000,,Noodle! Noodle! Noodle! \NNoodle! Noodle! Noodle!
+Dialogue: 0,0:16:50.75,0:16:51.53,Default,,0000,0000,0000,,Noodle!
+Dialogue: 0,0:16:51.55,0:16:54.78,Default,,0000,0000,0000,,You're starting to enjoy this!
+Dialogue: 0,0:16:54.80,0:17:00.40,Default,,0000,0000,0000,,They're having more fun than I \Nexpected. I gotta make a break now!
+Dialogue: 0,0:17:00.42,0:17:03.80,Default,,0000,0000,0000,,Hey, what are these unusual tremors?!
+Dialogue: 0,0:17:03.82,0:17:07.76,Default,,0000,0000,0000,,They must be making Sphinx mad!
+Dialogue: 0,0:17:07.78,0:17:12.37,Default,,0000,0000,0000,,Noodle! Noodle! Noodle!
+Dialogue: 0,0:17:12.39,0:17:19.63,Default,,0000,0000,0000,,Noodle!
+Dialogue: 0,0:17:19.65,0:17:20.76,Default,,0000,0000,0000,,What?! What happened?!
+Dialogue: 0,0:17:20.78,0:17:24.64,Default,,0000,0000,0000,,Is it safe to be on this floor?!
+Dialogue: 0,0:17:24.66,0:17:27.78,Default,,0000,0000,0000,,Level 3 to monitoring room!
+Dialogue: 0,0:17:27.80,0:17:32.16,Default,,0000,0000,0000,,We're hearing big noises from upstairs!
+Dialogue: 0,0:17:32.18,0:17:35.91,Default,,0000,0000,0000,,Mr. 3! This is our chance!
+Dialogue: 0,0:17:35.93,0:17:37.82,Default,,0000,0000,0000,,The plan is a success!
+Dialogue: 0,0:17:37.84,0:17:41.35,Default,,0000,0000,0000,,This wasn't our plan! But let's just run!
+Dialogue: 0,0:17:41.37,0:17:44.11,Default,,0000,0000,0000,,Oh?! That must be the door to the stairs!
+Dialogue: 0,0:17:44.13,0:17:46.82,Default,,0000,0000,0000,,I'll make a key out of wax!
+Dialogue: 0,0:17:46.84,0:17:51.53,Default,,0000,0000,0000,,This is the monitoring room!\NWe can't get in touch with level 2 yet!
+Dialogue: 0,0:17:51.55,0:17:56.09,Default,,0000,0000,0000,,So we don't know what's going on!
+Dialogue: 0,0:17:56.11,0:18:00.05,Default,,0000,0000,0000,,Noodle!
+Dialogue: 0,0:18:00.07,0:18:05.93,Default,,0000,0000,0000,,Oh no! You stupid beast! You \Nbattered down the floor!
+Dialogue: 0,0:18:05.95,0:18:13.95,Default,,0000,0000,0000,,This is level 3! Augh! The ceiling is \Ncrumbling and the beast is about to...
+Dialogue: 0,0:18:18.84,0:18:22.03,Default,,0000,0000,0000,,This is not good!
+Dialogue: 0,0:18:22.05,0:18:26.24,Default,,0000,0000,0000,,No no! This is the way to level 3!
+Dialogue: 0,0:18:26.26,0:18:34.26,Default,,0000,0000,0000,,Sorry, noodles!
+Dialogue: 0,0:18:42.36,0:18:47.82,Default,,0000,0000,0000,,I'm known by the government \Nas a pirate who hates pirates
+Dialogue: 0,0:18:47.84,0:18:50.56,Default,,0000,0000,0000,,except for you people.
+Dialogue: 0,0:18:50.58,0:18:53.36,Default,,0000,0000,0000,,You hates pirates?
+Dialogue: 0,0:18:53.38,0:18:56.27,Default,,0000,0000,0000,,Must be surprising for you, Ace-san.
+Dialogue: 0,0:18:56.29,0:19:00.21,Default,,0000,0000,0000,,I visited Whitebeard's ship frequently
+Dialogue: 0,0:19:00.23,0:19:05.27,Default,,0000,0000,0000,,but because of my status, I always \Ntraveled under the sea to get there.
+Dialogue: 0,0:19:05.29,0:19:08.49,Default,,0000,0000,0000,,Because I like you people.
+Dialogue: 0,0:19:08.51,0:19:11.09,Default,,0000,0000,0000,,Ho-hum.
+Dialogue: 0,0:19:11.11,0:19:15.98,Default,,0000,0000,0000,,I remember that you almost killed me once.
+Dialogue: 0,0:19:16.00,0:19:19.59,Default,,0000,0000,0000,,I can say the same for you.
+Dialogue: 0,0:19:19.61,0:19:23.94,Default,,0000,0000,0000,,I just wanted to do something for him.
+Dialogue: 0,0:19:23.96,0:19:31.39,Default,,0000,0000,0000,,Fish-Man Island is peaceful now and it's \Nall because of the old man Whitebeard.
+Dialogue: 0,0:19:31.41,0:19:37.83,Default,,0000,0000,0000,,When pirates go along the Grand Line, \Nthey always pass Fish-Man Island.
+Dialogue: 0,0:19:37.85,0:19:43.60,Default,,0000,0000,0000,,Right after the dawn of Great Pirate \NEra, Fish-Man Island was in trouble.
+Dialogue: 0,0:19:43.62,0:19:48.48,Default,,0000,0000,0000,,Countless human pirates and Navy \Nwho were chasing after them...
+Dialogue: 0,0:19:48.50,0:19:51.42,Default,,0000,0000,0000,,...were wreaking havoc.
+Dialogue: 0,0:19:51.44,0:19:56.71,Default,,0000,0000,0000,,A large number of Fish-men and mermaids \Nwere kidnapped and sold as slaves.
+Dialogue: 0,0:19:56.73,0:20:01.21,Default,,0000,0000,0000,,And just when everyone gave \Nthemselves up to despair,
+Dialogue: 0,0:20:01.23,0:20:06.42,Default,,0000,0000,0000,,Whitebeard came.
+Dialogue: 0,0:20:06.44,0:20:10.80,Default,,0000,0000,0000,,"I declare that this island \Nis my territory now!"
+Dialogue: 0,0:20:10.82,0:20:18.27,Default,,0000,0000,0000,,With just those few words, no one \Nbothers Fish-Man Island anymore.
+Dialogue: 0,0:20:18.29,0:20:21.44,Default,,0000,0000,0000,,What power!
+Dialogue: 0,0:20:21.46,0:20:24.96,Default,,0000,0000,0000,,How could I ever forget that day?
+Dialogue: 0,0:20:24.98,0:20:30.32,Default,,0000,0000,0000,,And he's protecting other islands \Nwith his name in the same way, too.
+Dialogue: 0,0:20:30.34,0:20:34.99,Default,,0000,0000,0000,,It's not right to knock somebody down \Njust because he's the head pirate!
+Dialogue: 0,0:20:35.01,0:20:39.52,Default,,0000,0000,0000,,If he ever got killed, what \Nwill happen to the sea?!
+Dialogue: 0,0:20:39.54,0:20:44.09,Default,,0000,0000,0000,,It's clear to everyone that that \Ntime of confusion would come again!
+Dialogue: 0,0:20:44.11,0:20:49.52,Default,,0000,0000,0000,,The government must know it, too!
+Dialogue: 0,0:20:49.54,0:20:53.61,Default,,0000,0000,0000,,I wanted to stop the war even if it kills me.
+Dialogue: 0,0:20:53.63,0:21:00.45,Default,,0000,0000,0000,,I wanted to rescue you, Ace-san.
+Dialogue: 0,0:21:00.47,0:21:03.99,Default,,0000,0000,0000,,Jimbei, that's enough.
+Dialogue: 0,0:21:04.01,0:21:06.98,Default,,0000,0000,0000,,It's too painful.
+Dialogue: 0,0:21:07.00,0:21:10.00,Default,,0000,0000,0000,,I haven't given up hope yet.
+Dialogue: 0,0:21:10.02,0:21:18.02,Default,,0000,0000,0000,,I believe that a miracle will \Nhappen and a chance will come.
+Dialogue: 0,0:21:18.91,0:21:26.91,Default,,0000,0000,0000,,It looks like there's a lot of fun \Ngoing on in the outside world!
+Dialogue: 0,0:21:27.92,0:21:32.96,Default,,0000,0000,0000,,It's a now-or-never chance \Nto defeat Whitebeard.
+Dialogue: 0,0:21:32.98,0:21:36.71,Default,,0000,0000,0000,,I can't help getting excited.
+Dialogue: 0,0:21:36.73,0:21:39.65,Default,,0000,0000,0000,,You bastard!
+Dialogue: 0,0:21:39.67,0:21:44.51,Default,,0000,0000,0000,,You think that you can fell my old man?!
+Dialogue: 0,0:21:44.53,0:21:49.23,Default,,0000,0000,0000,,It's not just me.
+Dialogue: 0,0:21:49.25,0:21:52.00,Default,,0000,0000,0000,,Kill Whitebeard!
+Dialogue: 0,0:21:52.02,0:21:54.91,Default,,0000,0000,0000,,That guy's gonna die? Yee-ha!
+Dialogue: 0,0:21:54.93,0:21:57.16,Default,,0000,0000,0000,,That'll be great!
+Dialogue: 0,0:21:57.18,0:22:01.08,Default,,0000,0000,0000,,Get me out to the sea!\NI'm the one who will kill him!
+Dialogue: 0,0:22:01.10,0:22:09.10,Default,,0000,0000,0000,,Let me have a chance, too! I'm \Ngonna put an end to his era!
+Dialogue: 0,0:22:20.20,0:22:23.78,Default,,0000,0000,0000,,Shut up, you assholes!
+Dialogue: 0,0:22:23.80,0:22:28.08,Default,,0000,0000,0000,,Jimbei, "Fire Fist," just so you know,
+Dialogue: 0,0:22:28.10,0:22:30.50,Default,,0000,0000,0000,,there are dozens and dozens \Nof silver medalists
+Dialogue: 0,0:22:30.52,0:22:34.05,Default,,0000,0000,0000,,in the world who in the end didn't win...
+Dialogue: 0,0:22:34.07,0:22:42.07,Default,,0000,0000,0000,,...against Whitebeard and Roger \Nall holding back their tears.
+Dialogue: 0,0:22:46.81,0:22:53.53,Default,,0000,0000,0000,,Straw Hat! You're the worst \Ntroublemaker in the world!
+Dialogue: 0,0:22:53.55,0:23:01.55,Default,,0000,0000,0000,,Sorry, noodles!
+Dialogue: 0,0:23:06.25,0:23:07.72,Default,,0000,0000,0000,,Level 3!
+Dialogue: 0,0:23:07.74,0:23:11.28,Default,,0000,0000,0000,,This is Starvation Hell, where \Nprisoners are given no food or water
+Dialogue: 0,0:23:11.30,0:23:14.79,Default,,0000,0000,0000,,and are tormented by extreme heat.
+Dialogue: 0,0:23:14.81,0:23:17.27,Default,,0000,0000,0000,,As Luffy and the others roam \Nthis desert-like floor,
+Dialogue: 0,0:23:17.29,0:23:20.20,Default,,0000,0000,0000,,they fall into a trap set by a chief guard.
+Dialogue: 0,0:23:20.22,0:23:21.78,Default,,0000,0000,0000,,On the next episode of One Piece!
+Dialogue: 0,0:23:21.80,0:23:25.84,Default,,0000,0000,0000,,"Chief Guard Saldeath's Trap!\NLevel 3 - Starvation Hell!"
+Dialogue: 0,0:23:25.86,0:23:33.86,Default,,0000,0000,0000,,I'm gonna be King of the Pirates!!

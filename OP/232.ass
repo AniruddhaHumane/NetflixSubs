@@ -1,0 +1,390 @@
+﻿[Script Info]
+Title: English (US)
+Original Script: ToeiAnimation  [http://www.crunchyroll.com/user/ToeiAnimation]
+Original Translation: 
+Original Editing: 
+Original Timing: 
+Synch Point: 
+Script Updated By: 
+Update Details: 
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 640
+PlayResY: 360
+Timer: 0.0000
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name,Fontname,Fontsize,PrimaryColour,SecondaryColour,OutlineColour,BackColour,Bold,Italic,Underline,Strikeout,ScaleX,ScaleY,Spacing,Angle,BorderStyle,Outline,Shadow,Alignment,MarginL,MarginR,MarginV,Encoding
+Style: Default,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,2,0020,0020,0022,0
+Style: B1,Arial,32,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,2,0070,0070,0030,0
+Style: OS,Arial,18,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,8,0001,0001,0015,0
+Style: Italics,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,-1,0,0,100,100,0,0,1,2,1,2,0020,0020,0022,0
+Style: Ep Title,Arial,18,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,3,0170,0070,0020,0
+Style: Copy of Ep Title,Arial,18,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,3,0070,0226,0065,0
+Style: On Top,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,8,0020,0020,0022,0
+Style: Copy of OS,Arial,18,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,9,0020,0020,0020,0
+Style: DefaultLow,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,2,0020,0020,0010,0
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:04.78,0:00:09.23,Italics,,0000,0000,0000,,It's all right! Now let's move forward
+Dialogue: 0,0:00:09.25,0:00:12.86,Italics,,0000,0000,0000,,with the sun always in our hearts
+Dialogue: 0,0:00:12.88,0:00:16.03,Italics,,0000,0000,0000,,As power passes through our clasped hands
+Dialogue: 0,0:00:16.05,0:00:24.05,Italics,,0000,0000,0000,,let's grab hold of our wishes
+Dialogue: 0,0:00:26.85,0:00:34.71,Italics,,0000,0000,0000,,Working together, let's ride the giant waves
+Dialogue: 0,0:00:34.73,0:00:41.93,Italics,,0000,0000,0000,,Let's hurry toward the excitement--\Nthere's the starting signal
+Dialogue: 0,0:00:41.95,0:00:48.89,Italics,,0000,0000,0000,,Now's the time to set sail-- let's raise anchor
+Dialogue: 0,0:00:48.91,0:00:56.02,Italics,,0000,0000,0000,,Cut through the rainbow-colored wind\Nand head for a sea of adventure
+Dialogue: 0,0:00:56.04,0:00:59.49,Italics,,0000,0000,0000,,It'll be a journey fraught with injury
+Dialogue: 0,0:00:59.51,0:01:03.41,Italics,,0000,0000,0000,,but what you cherish most will be right there
+Dialogue: 0,0:01:03.43,0:01:07.41,Italics,,0000,0000,0000,,And if you get into a jam
+Dialogue: 0,0:01:07.43,0:01:10.41,Italics,,0000,0000,0000,,I'll always be there to protect you
+Dialogue: 0,0:01:10.43,0:01:14.58,Italics,,0000,0000,0000,,It's all right! Now let's move forward
+Dialogue: 0,0:01:14.60,0:01:18.13,Italics,,0000,0000,0000,,with the sun always in our hearts
+Dialogue: 0,0:01:18.15,0:01:21.13,Italics,,0000,0000,0000,,If a storm hits, let's put\Nour arms around each other
+Dialogue: 0,0:01:21.15,0:01:25.64,Italics,,0000,0000,0000,,and gaze at the light beyond
+Dialogue: 0,0:01:25.66,0:01:29.35,Italics,,0000,0000,0000,,If we gather up the pieces of our dreams
+Dialogue: 0,0:01:29.37,0:01:32.64,Italics,,0000,0000,0000,,they'll make a map leading to tomorrow
+Dialogue: 0,0:01:32.66,0:01:35.65,Italics,,0000,0000,0000,,So let's grab hold of our wishes
+Dialogue: 0,0:01:35.67,0:01:41.40,Italics,,0000,0000,0000,,under the same flag-- together, we're one
+Dialogue: 0,0:01:41.42,0:01:49.42,Italics,,0000,0000,0000,,One Piece
+Dialogue: 0,0:01:53.18,0:01:55.13,Default,,0000,0000,0000,,What's the matter, Usopp?
+Dialogue: 0,0:01:55.15,0:01:57.25,Default,,0000,0000,0000,,The money... The money is gone!
+Dialogue: 0,0:01:57.27,0:01:58.17,Default,,0000,0000,0000,,Whaaat?!
+Dialogue: 0,0:01:58.19,0:02:05.26,Default,,0000,0000,0000,,Ahh! Over there!
+Dialogue: 0,0:02:05.28,0:02:07.80,Default,,0000,0000,0000,,Thanks for the money!
+Dialogue: 0,0:02:07.82,0:02:10.81,Default,,0000,0000,0000,,Hold it!
+Dialogue: 0,0:02:10.83,0:02:11.93,Default,,0000,0000,0000,,We did it!
+Dialogue: 0,0:02:11.95,0:02:13.85,Default,,0000,0000,0000,,Hold it!
+Dialogue: 0,0:02:13.87,0:02:16.10,Default,,0000,0000,0000,,The Franky Family...
+Dialogue: 0,0:02:16.12,0:02:18.82,Default,,0000,0000,0000,,Those bags... They're ours...!
+Dialogue: 0,0:02:18.84,0:02:19.98,Default,,0000,0000,0000,,Money! Money!
+Dialogue: 0,0:02:20.00,0:02:28.00,B1,,0000,0000,0000,,{\fad(2000,2000)}"Galley-La Company! A Grand Sight, Dock #1!"
+Dialogue: 0,0:02:29.14,0:02:32.54,Default,,0000,0000,0000,,Hold it, Paulie!
+Dialogue: 0,0:02:32.56,0:02:34.33,Default,,0000,0000,0000,,Today, I'm not\Ngonna let you get away!
+Dialogue: 0,0:02:34.35,0:02:37.63,Default,,0000,0000,0000,,I'm saying, wait a bit longer!
+Dialogue: 0,0:02:37.65,0:02:38.75,Default,,0000,0000,0000,,Who's that?
+Dialogue: 0,0:02:38.77,0:02:40.17,Default,,0000,0000,0000,,That's Paulie.
+Dialogue: 0,0:02:40.19,0:02:43.05,Default,,0000,0000,0000,,He's being chased by debt collectors again.
+Dialogue: 0,0:02:43.07,0:02:47.80,Default,,0000,0000,0000,,--Give us our 200 million Berries back!\N--Sorry, mister! Thanks for giving us the money!
+Dialogue: 0,0:02:47.82,0:02:50.39,Default,,0000,0000,0000,,--Hey!\N--Goodbye!
+Dialogue: 0,0:02:50.41,0:02:52.64,Default,,0000,0000,0000,,Did you give them the money?!
+Dialogue: 0,0:02:52.66,0:02:55.60,Default,,0000,0000,0000,,Why would I do that?! They stole it!
+Dialogue: 0,0:02:55.62,0:02:56.56,Default,,0000,0000,0000,,What?!
+Dialogue: 0,0:02:56.58,0:02:58.19,Default,,0000,0000,0000,,Pay back the money!
+Dialogue: 0,0:02:58.21,0:03:01.48,Default,,0000,0000,0000,,Like I said, I don't have money today.
+Dialogue: 0,0:03:01.50,0:03:04.74,Default,,0000,0000,0000,,That's not gonna cut it!
+Dialogue: 0,0:03:04.76,0:03:07.28,Default,,0000,0000,0000,,They're really persistent!
+Dialogue: 0,0:03:07.30,0:03:11.58,Default,,0000,0000,0000,,Hm? This is perfect! I see Yagara bulls!
+Dialogue: 0,0:03:11.60,0:03:16.62,Default,,0000,0000,0000,,Rope... Action!
+Dialogue: 0,0:03:16.64,0:03:20.04,Default,,0000,0000,0000,,--Ahhh!\N--He's one of the shipwrights at Galley-La!
+Dialogue: 0,0:03:20.06,0:03:23.34,Default,,0000,0000,0000,,Sorry, but I'd like to borrow\None of your Yagaras for a bit!
+Dialogue: 0,0:03:23.36,0:03:31.36,Default,,0000,0000,0000,,Round Turn!
+Dialogue: 0,0:03:49.97,0:03:52.70,Default,,0000,0000,0000,,Dammit! He got away again!
+Dialogue: 0,0:03:52.72,0:03:55.16,Default,,0000,0000,0000,,Well then, everyone, take care!
+Dialogue: 0,0:03:55.18,0:03:58.67,Default,,0000,0000,0000,,Let's run together again!
+Dialogue: 0,0:03:58.69,0:04:00.63,Default,,0000,0000,0000,,Dammit!
+Dialogue: 0,0:04:00.65,0:04:08.65,Default,,0000,0000,0000,,Seriously... you came at just the right time!
+Dialogue: 0,0:04:09.70,0:04:13.01,Default,,0000,0000,0000,,What a relief! He's one of\Nyour shipwrights, right?
+Dialogue: 0,0:04:13.03,0:04:14.76,Default,,0000,0000,0000,,That's right.
+Dialogue: 0,0:04:14.78,0:04:17.18,Default,,0000,0000,0000,,Hey! Thanks!
+Dialogue: 0,0:04:17.20,0:04:19.31,Default,,0000,0000,0000,,That money belongs to us!
+Dialogue: 0,0:04:19.33,0:04:20.98,Default,,0000,0000,0000,,What? Money?
+Dialogue: 0,0:04:21.00,0:04:24.98,Default,,0000,0000,0000,,Oh, this...
+Dialogue: 0,0:04:25.00,0:04:30.45,Default,,0000,0000,0000,,Hello...! Hm? Hey!
+Dialogue: 0,0:04:30.47,0:04:32.41,Default,,0000,0000,0000,,Come back here!
+Dialogue: 0,0:04:32.43,0:04:37.62,Default,,0000,0000,0000,,That son of a bitch!\NI'm gonna catch him--! Huh?
+Dialogue: 0,0:04:37.64,0:04:39.29,Default,,0000,0000,0000,,I'll go.
+Dialogue: 0,0:04:39.31,0:04:47.31,Default,,0000,0000,0000,,What? A... A pigeon?
+Dialogue: 0,0:04:49.24,0:04:51.47,Default,,0000,0000,0000,,This must be a guy's room.
+Dialogue: 0,0:04:51.49,0:04:55.14,Default,,0000,0000,0000,,At first glance, it looks tidy, but...
+Dialogue: 0,0:04:55.16,0:05:03.16,Default,,0000,0000,0000,,The floorboards have to be replaced, too.
+Dialogue: 0,0:05:09.17,0:05:11.32,Default,,0000,0000,0000,,Hey, what're you doing?
+Dialogue: 0,0:05:11.34,0:05:12.32,Default,,0000,0000,0000,,Hm?
+Dialogue: 0,0:05:12.34,0:05:19.87,Default,,0000,0000,0000,,Don't worry. I'll put it back once\NI check beneath the floorboards.
+Dialogue: 0,0:05:19.89,0:05:22.29,Default,,0000,0000,0000,,--Oh, my...\N--Hm?
+Dialogue: 0,0:05:22.31,0:05:25.75,Default,,0000,0000,0000,,Ow, ow, ow, ow, ow! Hey, hey, let me go!
+Dialogue: 0,0:05:25.77,0:05:27.75,Default,,0000,0000,0000,,What the hell are you doing?!
+Dialogue: 0,0:05:27.77,0:05:31.72,Default,,0000,0000,0000,,I won't run! I'm saying I got it, aren't I?!
+Dialogue: 0,0:05:31.74,0:05:34.68,Default,,0000,0000,0000,,Let go of my ear!
+Dialogue: 0,0:05:34.70,0:05:37.81,Default,,0000,0000,0000,,Here I was lucky enough to\Nfind a lot of money and now...!
+Dialogue: 0,0:05:37.83,0:05:39.60,Default,,0000,0000,0000,,You'll regret this, Lucci!
+Dialogue: 0,0:05:39.62,0:05:44.10,Default,,0000,0000,0000,,Don't pay back your debts with\Nsomeone else's money, you fool!
+Dialogue: 0,0:05:44.12,0:05:46.40,Default,,0000,0000,0000,,I found this money!
+Dialogue: 0,0:05:46.42,0:05:48.90,Default,,0000,0000,0000,,You're still saying that?! Coo coo!
+Dialogue: 0,0:05:48.92,0:05:52.65,Default,,0000,0000,0000,,It just happened to be on\Nthe Yagara that I borrowed!
+Dialogue: 0,0:05:52.67,0:05:55.03,Default,,0000,0000,0000,,They're back.
+Dialogue: 0,0:05:55.05,0:05:57.99,Default,,0000,0000,0000,,Well, I'm happy for you, Usopp!
+Dialogue: 0,0:05:58.01,0:06:02.37,Default,,0000,0000,0000,,You talk like it was someone else's problem!\NIt's our 200 million Berries!
+Dialogue: 0,0:06:02.39,0:06:07.00,Default,,0000,0000,0000,,That's right! Why the hell weren't\Nyou the first one to go get it back?!
+Dialogue: 0,0:06:07.02,0:06:09.55,Default,,0000,0000,0000,,But that pigeon said he'd go.
+Dialogue: 0,0:06:09.57,0:06:12.47,Default,,0000,0000,0000,,Well... I'm sorry.
+Dialogue: 0,0:06:12.49,0:06:15.18,Default,,0000,0000,0000,,Please let us take care of our idiot coworker,
+Dialogue: 0,0:06:15.20,0:06:18.72,Default,,0000,0000,0000,,as if you guys were to capture him,\Nit would create bitter feelings.
+Dialogue: 0,0:06:18.74,0:06:23.18,Default,,0000,0000,0000,,Well, please excuse him. Consider it good that\Nthe money wasn't stolen by the Franky Family.
+Dialogue: 0,0:06:23.20,0:06:25.10,Default,,0000,0000,0000,,Hmm... That's true, but...
+Dialogue: 0,0:06:25.12,0:06:28.86,Default,,0000,0000,0000,,Yeah, that's true, that's true.
+Dialogue: 0,0:06:28.88,0:06:34.28,Default,,0000,0000,0000,,Say... who were those\Nweird-looking guys earlier?
+Dialogue: 0,0:06:34.30,0:06:37.57,Default,,0000,0000,0000,,The Franky Family is a group\Nof ship demolition workers.
+Dialogue: 0,0:06:37.59,0:06:42.04,Default,,0000,0000,0000,,Demolition workers? They didn't look\Nlike such decent craftsmen, though.
+Dialogue: 0,0:06:42.06,0:06:46.37,Default,,0000,0000,0000,,Right. They're also bounty hunters on the side.
+Dialogue: 0,0:06:46.39,0:06:50.80,Default,,0000,0000,0000,,Every time they find pirates coming\Nthrough this city, they cause quarrels.
+Dialogue: 0,0:06:50.82,0:06:52.51,Default,,0000,0000,0000,,They're a public nuisance.
+Dialogue: 0,0:06:52.53,0:06:55.51,Default,,0000,0000,0000,,If they crush the pirates who come to our town,
+Dialogue: 0,0:06:55.53,0:06:58.18,Default,,0000,0000,0000,,they can take their ship, too, right?
+Dialogue: 0,0:06:58.20,0:07:02.27,Default,,0000,0000,0000,,They demolish the ship\Nand sell the useable lumber.
+Dialogue: 0,0:07:02.29,0:07:04.52,Default,,0000,0000,0000,,That's how their business works.
+Dialogue: 0,0:07:04.54,0:07:08.73,Default,,0000,0000,0000,,How bad-natured...! Are they trying to\Ncompletely wipe the pirate groups out?
+Dialogue: 0,0:07:08.75,0:07:11.69,Default,,0000,0000,0000,,Well, if you become their victims,\Nnot even your bones will remain.
+Dialogue: 0,0:07:11.71,0:07:15.11,Default,,0000,0000,0000,,But they didn't look that strong.
+Dialogue: 0,0:07:15.13,0:07:17.53,Default,,0000,0000,0000,,They're just underlings.
+Dialogue: 0,0:07:17.55,0:07:25.00,Default,,0000,0000,0000,,Whatever you do, don't underestimate the\Nfamily's boss, Franky, who's behind them.
+Dialogue: 0,0:07:25.02,0:07:28.79,Default,,0000,0000,0000,,Dammit! We were a little too late!
+Dialogue: 0,0:07:28.81,0:07:30.96,Default,,0000,0000,0000,,Hey! Are you okay?!
+Dialogue: 0,0:07:30.98,0:07:33.21,Default,,0000,0000,0000,,Yeah... That was close.
+Dialogue: 0,0:07:33.23,0:07:36.13,Default,,0000,0000,0000,,Hey! Where are the Straw Hats?!
+Dialogue: 0,0:07:36.15,0:07:44.15,Default,,0000,0000,0000,,Th-They're probably still at Dock #1.
+Dialogue: 0,0:07:45.58,0:07:48.14,Default,,0000,0000,0000,,We brought him over, Iceberg-san.
+Dialogue: 0,0:07:48.16,0:07:50.27,Default,,0000,0000,0000,,You're doing it again! You're hurting my ear!
+Dialogue: 0,0:07:50.29,0:07:52.32,Default,,0000,0000,0000,,Thanks, Lucci.
+Dialogue: 0,0:07:52.34,0:07:55.53,Default,,0000,0000,0000,,We're sorry that that idiot caused you trouble.
+Dialogue: 0,0:07:55.55,0:07:57.11,Default,,0000,0000,0000,,Ahh! He spoke again!
+Dialogue: 0,0:07:57.13,0:07:58.53,Default,,0000,0000,0000,,Coo coo!
+Dialogue: 0,0:07:58.55,0:07:59.66,Default,,0000,0000,0000,,Ow!
+Dialogue: 0,0:07:59.68,0:08:03.99,Default,,0000,0000,0000,,Now, apologize to them, Paulie!
+Dialogue: 0,0:08:04.01,0:08:06.70,Default,,0000,0000,0000,,That pigeon is doing all the talking!
+Dialogue: 0,0:08:06.72,0:08:09.29,Default,,0000,0000,0000,,It's as if he's speaking for that man with a hat.
+Dialogue: 0,0:08:09.31,0:08:12.29,Default,,0000,0000,0000,,In any case, I'm glad we got the money back.
+Dialogue: 0,0:08:12.31,0:08:15.17,Default,,0000,0000,0000,,Hey, you're the owner of the money?
+Dialogue: 0,0:08:15.19,0:08:16.46,Default,,0000,0000,0000,,I picked it up for you.
+Dialogue: 0,0:08:16.48,0:08:18.26,Default,,0000,0000,0000,,Oh, thanks!
+Dialogue: 0,0:08:18.28,0:08:22.80,Default,,0000,0000,0000,,If you wanna thank me, then give me 10%.
+Dialogue: 0,0:08:22.82,0:08:26.22,Default,,0000,0000,0000,,Sorry, mister.
+Dialogue: 0,0:08:26.24,0:08:29.48,Default,,0000,0000,0000,,This guy racked up a gambling debt,
+Dialogue: 0,0:08:29.50,0:08:32.19,Default,,0000,0000,0000,,so he's greedy and has no manners.
+Dialogue: 0,0:08:32.21,0:08:34.73,Default,,0000,0000,0000,,So, why the heck are you talking?!
+Dialogue: 0,0:08:34.75,0:08:38.86,Default,,0000,0000,0000,,You bastard! You're really\Nrunning your mouth, Lucci!
+Dialogue: 0,0:08:38.88,0:08:40.32,Default,,0000,0000,0000,,I won't take it anymore!
+Dialogue: 0,0:08:40.34,0:08:42.62,Default,,0000,0000,0000,,Rope Action!
+Dialogue: 0,0:08:42.64,0:08:45.41,Default,,0000,0000,0000,,Coo coo!
+Dialogue: 0,0:08:45.43,0:08:51.54,Default,,0000,0000,0000,,Bowline Knot!
+Dialogue: 0,0:08:51.56,0:08:56.17,Default,,0000,0000,0000,,Punishment...
+Dialogue: 0,0:08:56.19,0:08:57.46,Default,,0000,0000,0000,,Ahh...
+Dialogue: 0,0:08:57.48,0:09:02.01,Default,,0000,0000,0000,,Wait! Oh, no! He's serious!
+Dialogue: 0,0:09:02.03,0:09:10.03,Default,,0000,0000,0000,,...Pole-and-Line Fishing!
+Dialogue: 0,0:09:23.09,0:09:28.70,Default,,0000,0000,0000,,...Pole-and-Line Fishing!
+Dialogue: 0,0:09:28.72,0:09:31.37,Default,,0000,0000,0000,,I-Is he okay?
+Dialogue: 0,0:09:31.39,0:09:36.00,Default,,0000,0000,0000,,Well... it's nothing new.
+Dialogue: 0,0:09:36.02,0:09:39.26,Default,,0000,0000,0000,,Whoa! L-L-Look at that!
+Dialogue: 0,0:09:39.28,0:09:45.60,Default,,0000,0000,0000,,He's parried that impact with just one arm!
+Dialogue: 0,0:09:45.62,0:09:48.39,Default,,0000,0000,0000,,His fingers are sinking into the ground.
+Dialogue: 0,0:09:48.41,0:09:52.39,Default,,0000,0000,0000,,Wh-What the heck kind of fingers does he have?
+Dialogue: 0,0:09:52.41,0:09:57.69,Default,,0000,0000,0000,,What's with the shipwrights working here?
+Dialogue: 0,0:09:57.71,0:09:59.53,Default,,0000,0000,0000,,Hey! You, with the goggles!
+Dialogue: 0,0:09:59.55,0:10:01.94,Default,,0000,0000,0000,,Hm?
+Dialogue: 0,0:10:01.96,0:10:03.99,Default,,0000,0000,0000,,Hey, think about it carefully.
+Dialogue: 0,0:10:04.01,0:10:12.01,Default,,0000,0000,0000,,The one who mocked or\Nprovoked you was that pigeon!
+Dialogue: 0,0:10:14.56,0:10:20.13,Default,,0000,0000,0000,,That's fine! The one who hit me was Lucci!
+Dialogue: 0,0:10:20.15,0:10:24.59,Default,,0000,0000,0000,,The pigeon can't hit you himself,\Nso he had that guy hit you!
+Dialogue: 0,0:10:24.61,0:10:26.84,Default,,0000,0000,0000,,Hey, pigeon!
+Dialogue: 0,0:10:26.86,0:10:30.51,Default,,0000,0000,0000,,If you wanna fight, fight yourself!
+Dialogue: 0,0:10:30.53,0:10:37.06,Default,,0000,0000,0000,,Say something!
+Dialogue: 0,0:10:37.08,0:10:38.15,Default,,0000,0000,0000,,Coo coo!
+Dialogue: 0,0:10:38.17,0:10:41.36,Default,,0000,0000,0000,,Oh? You wanna fight? Bring it on, you bastard!
+Dialogue: 0,0:10:41.38,0:10:43.28,Default,,0000,0000,0000,,Stop it, Paulie.
+Dialogue: 0,0:10:43.30,0:10:47.62,Default,,0000,0000,0000,,Coo coo. Well, sorry for the fuss.
+Dialogue: 0,0:10:47.64,0:10:50.70,Default,,0000,0000,0000,,I'm Rob L... No, I mean, Hattori the pigeon.
+Dialogue: 0,0:10:50.72,0:10:55.62,Default,,0000,0000,0000,,And this is Rob Lucci. He works here.\NNice to meet you. Coo coo!
+Dialogue: 0,0:10:55.64,0:11:00.00,Default,,0000,0000,0000,,Oh? He almost introduced\Nhimself as if he were human!
+Dialogue: 0,0:11:00.02,0:11:03.51,Default,,0000,0000,0000,,A-ha! Yeah, I got it!\NThat's ventriloquism, isn't it?!
+Dialogue: 0,0:11:03.53,0:11:06.84,Default,,0000,0000,0000,,Whoa! Seriously?! Then it\Nwas you who was complaining!
+Dialogue: 0,0:11:06.86,0:11:09.93,Default,,0000,0000,0000,,You're really, really good! I didn't notice!
+Dialogue: 0,0:11:09.95,0:11:14.35,Default,,0000,0000,0000,,Stop it. It's no big deal. Coo coo.
+Dialogue: 0,0:11:14.37,0:11:20.19,Default,,0000,0000,0000,,He's a weirdo who can't talk to people properly.
+Dialogue: 0,0:11:20.21,0:11:22.86,Default,,0000,0000,0000,,Wait a sec! What's with that woman?!
+Dialogue: 0,0:11:22.88,0:11:24.86,Default,,0000,0000,0000,,Wh-What?
+Dialogue: 0,0:11:24.88,0:11:27.41,Default,,0000,0000,0000,,You're shameless!
+Dialogue: 0,0:11:27.43,0:11:28.82,Default,,0000,0000,0000,,Huh?
+Dialogue: 0,0:11:28.84,0:11:33.58,Default,,0000,0000,0000,,You're showing your legs too much!
+Dialogue: 0,0:11:33.60,0:11:38.04,Default,,0000,0000,0000,,This is a workplace for men!\NLook how you're dressed!
+Dialogue: 0,0:11:38.06,0:11:46.06,Default,,0000,0000,0000,,Now, Paulie, calm down.
+Dialogue: 0,0:11:46.15,0:11:48.34,Default,,0000,0000,0000,,You, too, Kalifa!
+Dialogue: 0,0:11:48.36,0:11:51.80,Default,,0000,0000,0000,,You haven't learned your lesson and are\Nwearing such outrageous clothes again!
+Dialogue: 0,0:11:51.82,0:11:55.22,Default,,0000,0000,0000,,How many times do I have to tell you?!\NWear pants! Long pants!
+Dialogue: 0,0:11:55.24,0:11:58.23,Default,,0000,0000,0000,,--What the heck...?\N--Long pants...?
+Dialogue: 0,0:11:58.25,0:12:00.35,Default,,0000,0000,0000,,He's a weirdo, too!
+Dialogue: 0,0:12:00.37,0:12:08.37,Default,,0000,0000,0000,,Well, that's it. Let's open the\Ndoor and go inside already.
+Dialogue: 0,0:12:15.10,0:12:21.42,Default,,0000,0000,0000,,At any rate, what a huge door!\NAnd this requires manual operation?
+Dialogue: 0,0:12:21.44,0:12:26.46,Default,,0000,0000,0000,,Can those two weirdos open it by themselves?
+Dialogue: 0,0:12:26.48,0:12:28.76,Default,,0000,0000,0000,,Whoa! It's moving!
+Dialogue: 0,0:12:28.78,0:12:31.84,Default,,0000,0000,0000,,Well... each dock has only\Nfive shipwright foremen.
+Dialogue: 0,0:12:31.86,0:12:36.97,Default,,0000,0000,0000,,They may not look like it, but their\Nskills made them foremen at Dock #1.
+Dialogue: 0,0:12:36.99,0:12:39.39,Default,,0000,0000,0000,,Kaku, who we talked about earlier,\Nis one of them, too.
+Dialogue: 0,0:12:39.41,0:12:42.69,Default,,0000,0000,0000,,This is a world where craftsmen's\Nskills are all that matters.
+Dialogue: 0,0:12:42.71,0:12:45.07,Default,,0000,0000,0000,,Even if their personalities are weird,\Ndon't worry about it.
+Dialogue: 0,0:12:45.09,0:12:46.19,Default,,0000,0000,0000,,Yeah, they're weird.
+Dialogue: 0,0:12:46.21,0:12:48.44,Default,,0000,0000,0000,,Ah, the door's started opening.
+Dialogue: 0,0:12:48.46,0:12:53.32,Default,,0000,0000,0000,,Don't let the money leave your hands.\NI don't think we have thieves inside, but...
+Dialogue: 0,0:12:53.34,0:12:57.66,Default,,0000,0000,0000,,Well, it was also my fault earlier,\Nand it caused you trouble, too.
+Dialogue: 0,0:12:57.68,0:12:59.00,Default,,0000,0000,0000,,--Hey, Luffy!\N--Huh?
+Dialogue: 0,0:12:59.02,0:13:02.00,Default,,0000,0000,0000,,Make sure you guard me good!
+Dialogue: 0,0:13:02.02,0:13:03.96,Default,,0000,0000,0000,,Okay, got it. Leave it to me!
+Dialogue: 0,0:13:03.98,0:13:05.80,Default,,0000,0000,0000,,--I'm worried.\N--Leave it to me!
+Dialogue: 0,0:13:05.82,0:13:10.13,Default,,0000,0000,0000,,This Dock #1 comprises the main\Nforce of the Galley-La Company,
+Dialogue: 0,0:13:10.15,0:13:12.30,Default,,0000,0000,0000,,and it undertakes the most difficult work.
+Dialogue: 0,0:13:12.32,0:13:14.80,Default,,0000,0000,0000,,Here, come inside.
+Dialogue: 0,0:13:14.82,0:13:18.14,Default,,0000,0000,0000,,Wow!
+Dialogue: 0,0:13:18.16,0:13:26.16,Default,,0000,0000,0000,,Whoooa!
+Dialogue: 0,0:13:28.75,0:13:33.82,Default,,0000,0000,0000,,Whoooa! Huge!
+Dialogue: 0,0:13:33.84,0:13:37.41,Default,,0000,0000,0000,,A shipyard has a tremendous\Nimpact when seen up close!
+Dialogue: 0,0:13:37.43,0:13:39.66,Default,,0000,0000,0000,,--Yeah!\N--True!
+Dialogue: 0,0:13:39.68,0:13:44.04,Default,,0000,0000,0000,,Oh? They're building a\Nhuge galleon! Whose is that?
+Dialogue: 0,0:13:44.06,0:13:46.09,Default,,0000,0000,0000,,It's full of craftsmen.
+Dialogue: 0,0:13:46.11,0:13:50.59,Default,,0000,0000,0000,,Now, this way.
+Dialogue: 0,0:13:50.61,0:13:53.38,Default,,0000,0000,0000,,Oh, it's Iceberg-san!
+Dialogue: 0,0:13:53.40,0:13:56.55,Default,,0000,0000,0000,,Hey! Boss is here!
+Dialogue: 0,0:13:56.57,0:13:58.68,Default,,0000,0000,0000,,Good morning, Iceberg-san!
+Dialogue: 0,0:13:58.70,0:14:00.02,Default,,0000,0000,0000,,Good morning!
+Dialogue: 0,0:14:00.04,0:14:03.64,Default,,0000,0000,0000,,Boss! Could you take a look at\Nhow the outer panels turned out?
+Dialogue: 0,0:14:03.66,0:14:05.60,Default,,0000,0000,0000,,Sure! I'll come by later!
+Dialogue: 0,0:14:05.62,0:14:08.27,Default,,0000,0000,0000,,Good day, Iceberg-san!
+Dialogue: 0,0:14:08.29,0:14:10.57,Default,,0000,0000,0000,,Well... Hello, are things going well?
+Dialogue: 0,0:14:10.59,0:14:13.20,Default,,0000,0000,0000,,Yes, sir! They're going pretty well!
+Dialogue: 0,0:14:13.22,0:14:17.07,Default,,0000,0000,0000,,Whoa! Ice pops is quite popular.
+Dialogue: 0,0:14:17.09,0:14:20.66,Default,,0000,0000,0000,,Of course he is. In this city,\Nskills are all that matters.
+Dialogue: 0,0:14:20.68,0:14:25.25,Default,,0000,0000,0000,,On this island, shipbuilding was\Nwell-developed from the start,
+Dialogue: 0,0:14:25.27,0:14:28.71,Default,,0000,0000,0000,,and seven shipbuilding companies\Nwere competing with each other.
+Dialogue: 0,0:14:28.73,0:14:33.76,Default,,0000,0000,0000,,Meanwhile, he attracted craftsmen\Nwith his genius shipbuilding skills.
+Dialogue: 0,0:14:33.78,0:14:36.97,Default,,0000,0000,0000,,Then he put those seven companies together
+Dialogue: 0,0:14:36.99,0:14:40.97,Default,,0000,0000,0000,,to form a company five years ago.\NAnd that's this Galley-La Company.
+Dialogue: 0,0:14:40.99,0:14:43.98,Default,,0000,0000,0000,,His passion and skills in\Nshipbuilding have never changed,
+Dialogue: 0,0:14:44.00,0:14:47.77,Default,,0000,0000,0000,,and the craftsmen won't forget\Ntheir respect towards him.
+Dialogue: 0,0:14:47.79,0:14:50.40,Default,,0000,0000,0000,,And, because the craftsmen\Nare proud of their skills,
+Dialogue: 0,0:14:50.42,0:14:54.74,Default,,0000,0000,0000,,they never give in to pirates or authority.
+Dialogue: 0,0:14:54.76,0:14:57.57,Default,,0000,0000,0000,,This is that kind of place.
+Dialogue: 0,0:14:57.59,0:14:58.20,Default,,0000,0000,0000,,Hm?
+Dialogue: 0,0:14:58.22,0:15:01.87,Default,,0000,0000,0000,,Hey, pops. I heard that\Nyou're a topnotch shipwright.
+Dialogue: 0,0:15:01.89,0:15:03.50,Default,,0000,0000,0000,,Do you wanna be a pirate with me?
+Dialogue: 0,0:15:03.52,0:15:05.62,Default,,0000,0000,0000,,What the hell are you saying,\Nyou son of a bitch?!
+Dialogue: 0,0:15:05.64,0:15:06.87,Default,,0000,0000,0000,,H-How insolent!
+Dialogue: 0,0:15:06.89,0:15:09.25,Default,,0000,0000,0000,,Now, now... He's always like that.
+Dialogue: 0,0:15:09.27,0:15:10.34,Default,,0000,0000,0000,,Sorry about that.
+Dialogue: 0,0:15:10.36,0:15:14.47,Default,,0000,0000,0000,,Well... you guys don't even\Nhave a single shipwright?
+Dialogue: 0,0:15:14.49,0:15:18.34,Default,,0000,0000,0000,,That's right. We came to this island\Nin order to have our ship repaired
+Dialogue: 0,0:15:18.36,0:15:20.55,Default,,0000,0000,0000,,and to find a new crew member.
+Dialogue: 0,0:15:20.57,0:15:22.93,Default,,0000,0000,0000,,It's true that we have tons of shipwrights,
+Dialogue: 0,0:15:22.95,0:15:25.85,Default,,0000,0000,0000,,but I wonder if anyone would\Nwant to go on board a pirate ship.
+Dialogue: 0,0:15:25.87,0:15:29.56,Default,,0000,0000,0000,,If you find someone who wants to\Ngo with you, you can headhunt him.
+Dialogue: 0,0:15:29.58,0:15:34.53,Default,,0000,0000,0000,,Really?! You're generous!\NCan't I ask you to join us, pops?
+Dialogue: 0,0:15:34.55,0:15:37.61,Default,,0000,0000,0000,,Well... I can't. I'm the mayor.
+Dialogue: 0,0:15:37.63,0:15:41.03,Default,,0000,0000,0000,,Who cares?!
+Dialogue: 0,0:15:41.05,0:15:45.96,Default,,0000,0000,0000,,By the way, is the woman named\NNico Robin really on board your ship?
+Dialogue: 0,0:15:45.98,0:15:52.13,Default,,0000,0000,0000,,Yeah, she is. She's really smart.
+Dialogue: 0,0:15:52.15,0:15:55.71,Default,,0000,0000,0000,,What? Is something matter with Robin?
+Dialogue: 0,0:15:55.73,0:15:56.80,Default,,0000,0000,0000,,No...
+Dialogue: 0,0:15:56.82,0:15:59.84,Default,,0000,0000,0000,,Hey, pops, is it okay to go\Ncloser and see that ship?
+Dialogue: 0,0:15:59.86,0:16:02.72,Default,,0000,0000,0000,,Sure, that's fine.
+Dialogue: 0,0:16:02.74,0:16:10.74,Default,,0000,0000,0000,,Thanks!
+Dialogue: 0,0:16:11.71,0:16:14.98,Default,,0000,0000,0000,,In any case, it's really amazing!
+Dialogue: 0,0:16:15.00,0:16:19.41,Default,,0000,0000,0000,,Keep that steady! Don't rush! Go slowly!
+Dialogue: 0,0:16:19.43,0:16:23.12,Default,,0000,0000,0000,,If we could install a cannon like that,\Nthe Merry would also be... Hm?
+Dialogue: 0,0:16:23.14,0:16:26.00,Default,,0000,0000,0000,,Whoa! A demi-culverin!
+Dialogue: 0,0:16:26.02,0:16:31.33,Default,,0000,0000,0000,,How cool! It's so long...! And shining!
+Dialogue: 0,0:16:31.35,0:16:34.34,Default,,0000,0000,0000,,I wanna fire something like that, one time!
+Dialogue: 0,0:16:34.36,0:16:36.51,Default,,0000,0000,0000,,This is a good chance.
+Dialogue: 0,0:16:36.53,0:16:40.63,Default,,0000,0000,0000,,It looks like it's made of copper.\NThat must be expensive!
+Dialogue: 0,0:16:40.65,0:16:43.01,Default,,0000,0000,0000,,I wonder if they'd let me try firing it.
+Dialogue: 0,0:16:43.03,0:16:47.35,Default,,0000,0000,0000,,Oh, wait. We've now got 300 million Berries.
+Dialogue: 0,0:16:47.37,0:16:55.37,Default,,0000,0000,0000,,We should be able to buy\None or more cannons like that!
+Dialogue: 0,0:16:57.30,0:16:59.95,Default,,0000,0000,0000,,Hm?
+Dialogue: 0,0:16:59.97,0:17:03.49,Default,,0000,0000,0000,,Wasn't there someone there?
+Dialogue: 0,0:17:03.51,0:17:08.50,Default,,0000,0000,0000,,Where did Robin go?
+Dialogue: 0,0:17:08.52,0:17:15.88,Default,,0000,0000,0000,,It's this way.
+Dialogue: 0,0:17:15.90,0:17:21.13,Default,,0000,0000,0000,,Hm? This smell is...
+Dialogue: 0,0:17:21.15,0:17:24.55,Default,,0000,0000,0000,,I knew it!
+Dialogue: 0,0:17:24.57,0:17:29.77,Default,,0000,0000,0000,,Hmm... At any rate, who the heck was that\Nmasked man who was with Robin-chan?
+Dialogue: 0,0:17:29.79,0:17:31.89,Default,,0000,0000,0000,,Was that Chopper after all?
+Dialogue: 0,0:17:31.91,0:17:33.48,Default,,0000,0000,0000,,Sanji!
+Dialogue: 0,0:17:33.50,0:17:35.73,Default,,0000,0000,0000,,Hm?
+Dialogue: 0,0:17:35.75,0:17:43.75,Default,,0000,0000,0000,,Chopper?
+Dialogue: 0,0:17:48.31,0:17:50.91,Default,,0000,0000,0000,,Hm? Kaku...
+Dialogue: 0,0:17:50.93,0:17:53.17,Default,,0000,0000,0000,,--Where have you been?\N--An assessment.
+Dialogue: 0,0:17:53.19,0:17:56.04,Default,,0000,0000,0000,,Ah! You're the guy from earlier!\NSo you checked our ship?
+Dialogue: 0,0:17:56.06,0:17:58.34,Default,,0000,0000,0000,,Yeah, I did.
+Dialogue: 0,0:17:58.36,0:18:01.30,Default,,0000,0000,0000,,So you were here, Iceberg-san.
+Dialogue: 0,0:18:01.32,0:18:04.38,Default,,0000,0000,0000,,I know the situation. How was it?
+Dialogue: 0,0:18:04.40,0:18:06.97,Default,,0000,0000,0000,,Well...
+Dialogue: 0,0:18:06.99,0:18:11.98,Default,,0000,0000,0000,,Luffy! Come down now!
+Dialogue: 0,0:18:12.00,0:18:20.00,Default,,0000,0000,0000,,Okay! I'll be right down!
+Dialogue: 0,0:18:28.30,0:18:30.41,Default,,0000,0000,0000,,What?! Is that true?!
+Dialogue: 0,0:18:30.43,0:18:34.16,Default,,0000,0000,0000,,If you're lying, you'll pay for it!
+Dialogue: 0,0:18:34.18,0:18:42.18,Default,,0000,0000,0000,,I never lie on the job.
+Dialogue: 0,0:18:51.37,0:18:54.81,Default,,0000,0000,0000,,Hm? Where's Usopp?
+Dialogue: 0,0:18:54.83,0:19:00.65,Default,,0000,0000,0000,,He was wandering about over\Nthere up until just a moment ago.
+Dialogue: 0,0:19:00.67,0:19:07.20,Default,,0000,0000,0000,,Hey, you guys! Don't these bags belong to you?
+Dialogue: 0,0:19:07.22,0:19:10.62,Default,,0000,0000,0000,,Ahh! They're the bags Usopp was carrying!
+Dialogue: 0,0:19:10.64,0:19:11.45,Default,,0000,0000,0000,,Yeah, they're ours.
+Dialogue: 0,0:19:11.47,0:19:13.58,Default,,0000,0000,0000,,Thanks!
+Dialogue: 0,0:19:13.60,0:19:18.83,Default,,0000,0000,0000,,Geez... Where did Usopp go...\Nleaving our precious money alone?!
+Dialogue: 0,0:19:18.85,0:19:23.71,Default,,0000,0000,0000,,--Money?\N--Yeah. Those bags hold 200 million Berries.
+Dialogue: 0,0:19:23.73,0:19:25.88,Default,,0000,0000,0000,,200 million Berries?
+Dialogue: 0,0:19:25.90,0:19:27.72,Default,,0000,0000,0000,,No way. See ya!
+Dialogue: 0,0:19:27.74,0:19:32.39,Default,,0000,0000,0000,,There's no way...
+Dialogue: 0,0:19:32.41,0:19:35.23,Default,,0000,0000,0000,,So how much does it look like it'll cost?
+Dialogue: 0,0:19:35.25,0:19:41.11,Default,,0000,0000,0000,,We can pay as much as you like!\NWe've got tons of money!
+Dialogue: 0,0:19:41.13,0:19:47.61,Default,,0000,0000,0000,,If possible, I'd like her to be stronger,\Nhave more cannons, and be faster!
+Dialogue: 0,0:19:47.63,0:19:51.74,Default,,0000,0000,0000,,Can you also add pretty\Ndecorations on the outer panels?
+Dialogue: 0,0:19:51.76,0:19:54.70,Default,,0000,0000,0000,,Can you renovate inside as well?
+Dialogue: 0,0:19:54.72,0:19:56.58,Default,,0000,0000,0000,,Also, I want a bronze statue!
+Dialogue: 0,0:19:56.60,0:20:00.46,Default,,0000,0000,0000,,I want it to be as huge as possible!
+Dialogue: 0,0:20:00.48,0:20:02.88,Default,,0000,0000,0000,,Well, hold on a sec...
+Dialogue: 0,0:20:02.90,0:20:09.01,Default,,0000,0000,0000,,You've been having some\Ntremendous journeys, haven't you?
+Dialogue: 0,0:20:09.03,0:20:11.72,Default,,0000,0000,0000,,Oh, yeah! We flew in the sky, and fell as well.
+Dialogue: 0,0:20:11.74,0:20:14.01,Default,,0000,0000,0000,,We climbed a mountain and got skewered.
+Dialogue: 0,0:20:14.03,0:20:15.93,Default,,0000,0000,0000,,We've gone through quite a bit!
+Dialogue: 0,0:20:15.95,0:20:21.06,Default,,0000,0000,0000,,So we'd like to have her fixed good!
+Dialogue: 0,0:20:21.08,0:20:22.77,Default,,0000,0000,0000,,I'm not lying, you know.
+Dialogue: 0,0:20:22.79,0:20:24.23,Default,,0000,0000,0000,,I believe it.
+Dialogue: 0,0:20:24.25,0:20:26.69,Default,,0000,0000,0000,,Hm?
+Dialogue: 0,0:20:26.71,0:20:30.32,Default,,0000,0000,0000,,Her scars from battle are too deep.
+Dialogue: 0,0:20:30.34,0:20:33.66,Default,,0000,0000,0000,,Do you mean it'll take\Nquite a long time to fix her?
+Dialogue: 0,0:20:33.68,0:20:35.45,Default,,0000,0000,0000,,No...
+Dialogue: 0,0:20:35.47,0:20:40.37,Default,,0000,0000,0000,,Frankly speaking, your ship...
+Dialogue: 0,0:20:40.39,0:20:48.39,Default,,0000,0000,0000,,...can no longer be fixed, even with our skills.
+Dialogue: 0,0:20:58.12,0:21:00.64,Default,,0000,0000,0000,,Is her keel damaged or something?
+Dialogue: 0,0:21:00.66,0:21:03.98,Default,,0000,0000,0000,,Yeah, it's taken a lot of damage.
+Dialogue: 0,0:21:04.00,0:21:06.23,Default,,0000,0000,0000,,Oh, no...
+Dialogue: 0,0:21:06.25,0:21:09.78,Default,,0000,0000,0000,,But we've been traveling\Njust fine up until today!
+Dialogue: 0,0:21:09.80,0:21:14.24,Default,,0000,0000,0000,,Let's suppose that we did\Nwhat we could anyway.
+Dialogue: 0,0:21:14.26,0:21:20.66,Default,,0000,0000,0000,,The probability of her\Nreaching the next island is...
+Dialogue: 0,0:21:20.68,0:21:28.68,Default,,0000,0000,0000,,...zero.
+Dialogue: 0,0:21:33.49,0:21:38.18,Default,,0000,0000,0000,,Merry... Can you really not...
+Dialogue: 0,0:21:38.20,0:21:46.20,Default,,0000,0000,0000,,...sail anymore?
+Dialogue: 0,0:22:06.65,0:22:09.05,Italics,,0000,0000,0000,,A piece of a dream that we started grasping
+Dialogue: 0,0:22:09.07,0:22:12.59,Italics,,0000,0000,0000,,Chasing after something constant
+Dialogue: 0,0:22:12.61,0:22:18.18,Italics,,0000,0000,0000,,We send our aspirations sailing into the sky
+Dialogue: 0,0:22:18.20,0:22:20.47,Italics,,0000,0000,0000,,Even when we're exhausted
+Dialogue: 0,0:22:20.49,0:22:23.64,Italics,,0000,0000,0000,,We have a compass that can\Nsearch for something constant
+Dialogue: 0,0:22:23.66,0:22:29.07,Italics,,0000,0000,0000,,Say, do you think we can keep it forever?
+Dialogue: 0,0:22:29.09,0:22:31.99,Italics,,0000,0000,0000,,At the end of the dream\Nthat we will reach someday
+Dialogue: 0,0:22:32.01,0:22:34.95,Italics,,0000,0000,0000,,We want to be adults as we\Nare now as much as possible
+Dialogue: 0,0:22:34.97,0:22:37.74,Italics,,0000,0000,0000,,We pray to this endless sky that we look up at
+Dialogue: 0,0:22:37.76,0:22:40.83,Italics,,0000,0000,0000,,Eternally... Eternally...
+Dialogue: 0,0:22:40.85,0:22:43.62,Italics,,0000,0000,0000,,Wild fantasies from our childhood
+Dialogue: 0,0:22:43.64,0:22:46.46,Italics,,0000,0000,0000,,We trace unforgettable memories
+Dialogue: 0,0:22:46.48,0:22:52.13,Italics,,0000,0000,0000,,And try to keep the embers\Nburning that still consume us
+Dialogue: 0,0:22:52.15,0:22:54.97,Italics,,0000,0000,0000,,To this familiar sunny sky
+Dialogue: 0,0:22:54.99,0:22:57.76,Italics,,0000,0000,0000,,Together we entrust our feelings
+Dialogue: 0,0:22:57.78,0:23:00.35,Italics,,0000,0000,0000,,We go beyond the changing time
+Dialogue: 0,0:23:00.37,0:23:08.37,Italics,,0000,0000,0000,,Eternally... Eternally...
+Dialogue: 0,0:23:11.25,0:23:14.11,Default,,0000,0000,0000,,Hey, Merry... Can you really not sail anymore?
+Dialogue: 0,0:23:14.13,0:23:15.95,Default,,0000,0000,0000,,Just give up. The damage is too serious.
+Dialogue: 0,0:23:15.97,0:23:19.07,Default,,0000,0000,0000,,--Oh, no...\N--All your ship can do is wait for her end.
+Dialogue: 0,0:23:19.09,0:23:22.20,Default,,0000,0000,0000,,--That can't be true...\N--I can't believe that! We have this much money!
+Dialogue: 0,0:23:22.22,0:23:23.58,Default,,0000,0000,0000,,The 200 million Berries are gone!
+Dialogue: 0,0:23:23.60,0:23:24.87,Default,,0000,0000,0000,,Hey, Usopp is gone, too!
+Dialogue: 0,0:23:24.89,0:23:26.58,Default,,0000,0000,0000,,What? Don't tell me...
+Dialogue: 0,0:23:26.60,0:23:27.54,Default,,0000,0000,0000,,On the next episode of One Piece!
+Dialogue: 0,0:23:27.56,0:23:31.29,Default,,0000,0000,0000,,"Pirate Abduction Incident and a Pirate\NShip That Can Only Await Her End"
+Dialogue: 0,0:23:31.31,0:23:39.31,Default,,0000,0000,0000,,I'm gonna be King of the Pirates!!

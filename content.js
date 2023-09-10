@@ -1,9 +1,34 @@
 let ass = null
+
+function fetchWithRetry(url, retries = 3) {
+    return new Promise((resolve, reject) => {
+        fetch(url)
+            .then(res => {
+                if (!res.ok) {
+                    throw new Error('File not found');
+                }
+                return res.text();
+            })
+            .then(text => {
+                resolve(text);
+            })
+            .catch(error => {
+                if (retries === 1) {
+                    reject('Failed after ' + retries +' retries: ' + error);
+                    return;
+                }
+                // Retry with one less attempt left
+                fetchWithRetry(url, retries - 1)
+                    .then(resolve)
+                    .catch(reject);
+            });
+    });
+}
+
 function createAss(episodeId) {
     const subtitleUrl = `http://localhost:19191/${episodeId}.ass`;
     chrome.storage.local.set({ episodeId: episodeId });
-    fetch(subtitleUrl)
-        .then(res => res.text())
+    fetchWithRetry(subtitleUrl)
         .then((text) => {
             
             const loadingTimer = setInterval(() => {
@@ -32,10 +57,10 @@ function createAss(episodeId) {
                 }
             }, 500);
 
+        }).catch(error => {
+            return
         });
 }
-
-//
 
 function loadsubs(episodeID){
     if(!isNaN(episodeID)){

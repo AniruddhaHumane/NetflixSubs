@@ -1,0 +1,279 @@
+﻿[Script Info]
+Title: English (US)
+Original Script: ToeiAnimation  [http://www.crunchyroll.com/user/ToeiAnimation]
+Original Translation: 
+Original Editing: 
+Original Timing: 
+Synch Point: 
+Script Updated By: 
+Update Details: 
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 640
+PlayResY: 360
+Timer: 0.0000
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name,Fontname,Fontsize,PrimaryColour,SecondaryColour,OutlineColour,BackColour,Bold,Italic,Underline,Strikeout,ScaleX,ScaleY,Spacing,Angle,BorderStyle,Outline,Shadow,Alignment,MarginL,MarginR,MarginV,Encoding
+Style: Default,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,2,0020,0020,0022,0
+Style: B1,Arial,32,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,2,0070,0070,0030,0
+Style: OS,Arial,18,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,8,0001,0001,0015,0
+Style: Italics,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,-1,0,0,100,100,0,0,1,2,1,2,0020,0020,0022,0
+Style: Ep Title,Arial,18,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,3,0170,0070,0020,0
+Style: Copy of Ep Title,Arial,18,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,3,0070,0226,0065,0
+Style: On Top,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,8,0020,0020,0022,0
+Style: Copy of OS,Arial,18,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,9,0020,0020,0020,0
+Style: DefaultLow,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,2,0020,0020,0010,0
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:04.78,0:00:09.23,Italics,,0000,0000,0000,,It's all right! Now let's move forward
+Dialogue: 0,0:00:09.25,0:00:12.86,Italics,,0000,0000,0000,,with the sun always in our hearts
+Dialogue: 0,0:00:12.88,0:00:16.03,Italics,,0000,0000,0000,,As power passes through our clasped hands
+Dialogue: 0,0:00:16.05,0:00:24.05,Italics,,0000,0000,0000,,let's grab hold of our wishes
+Dialogue: 0,0:00:26.85,0:00:34.71,Italics,,0000,0000,0000,,Working together, let's ride the giant waves
+Dialogue: 0,0:00:34.73,0:00:41.93,Italics,,0000,0000,0000,,Let's hurry toward the excitement--\Nthere's the starting signal
+Dialogue: 0,0:00:41.95,0:00:48.89,Italics,,0000,0000,0000,,Now's the time to set sail-- let's raise anchor
+Dialogue: 0,0:00:48.91,0:00:56.02,Italics,,0000,0000,0000,,Cut through the rainbow-colored wind\Nand head for a sea of adventure
+Dialogue: 0,0:00:56.04,0:00:59.49,Italics,,0000,0000,0000,,It'll be a journey fraught with injury
+Dialogue: 0,0:00:59.51,0:01:03.41,Italics,,0000,0000,0000,,but what you cherish most will be right there
+Dialogue: 0,0:01:03.43,0:01:07.41,Italics,,0000,0000,0000,,And if you get into a jam
+Dialogue: 0,0:01:07.43,0:01:10.41,Italics,,0000,0000,0000,,I'll always be there to protect you
+Dialogue: 0,0:01:10.43,0:01:14.58,Italics,,0000,0000,0000,,It's all right! Now let's move forward
+Dialogue: 0,0:01:14.60,0:01:18.13,Italics,,0000,0000,0000,,with the sun always in our hearts
+Dialogue: 0,0:01:18.15,0:01:21.13,Italics,,0000,0000,0000,,If a storm hits, let's put\Nour arms around each other
+Dialogue: 0,0:01:21.15,0:01:25.64,Italics,,0000,0000,0000,,and gaze at the light beyond
+Dialogue: 0,0:01:25.66,0:01:29.35,Italics,,0000,0000,0000,,If we gather up the pieces of our dreams
+Dialogue: 0,0:01:29.37,0:01:32.64,Italics,,0000,0000,0000,,they'll make a map leading to tomorrow
+Dialogue: 0,0:01:32.66,0:01:35.65,Italics,,0000,0000,0000,,So let's grab hold of our wishes
+Dialogue: 0,0:01:35.67,0:01:41.40,Italics,,0000,0000,0000,,under the same flag-- together, we're one
+Dialogue: 0,0:01:41.42,0:01:49.42,Italics,,0000,0000,0000,,One Piece
+Dialogue: 0,0:01:51.68,0:01:55.67,Default,,0000,0000,0000,,I'll never give up on this ship!
+Dialogue: 0,0:01:55.69,0:01:57.54,Default,,0000,0000,0000,,Are you guys stupid or what?!
+Dialogue: 0,0:01:57.56,0:02:01.76,Default,,0000,0000,0000,,You probably got fooled by the shipwrights'\Nconvincing argument, didn't you?!
+Dialogue: 0,0:02:01.78,0:02:06.01,Default,,0000,0000,0000,,The Luffy I know would've believed\Nin the strength of the Merry first
+Dialogue: 0,0:02:06.03,0:02:09.56,Default,,0000,0000,0000,,rather than buying those guys' sales talk!
+Dialogue: 0,0:02:09.58,0:02:11.14,Default,,0000,0000,0000,,Such a clear-cut answer that sounds
+Dialogue: 0,0:02:11.16,0:02:13.48,Default,,0000,0000,0000,,like one made by an old man\Nwho understands everything...
+Dialogue: 0,0:02:13.50,0:02:16.56,Default,,0000,0000,0000,,How can you make a decision like that,\Nsuddenly acting all captain-like?!
+Dialogue: 0,0:02:16.58,0:02:19.19,Default,,0000,0000,0000,,I misjudged you, Luffy!
+Dialogue: 0,0:02:19.21,0:02:21.61,Default,,0000,0000,0000,,Wait a sec, Usopp! Luffy, too, first--
+Dialogue: 0,0:02:21.63,0:02:25.11,Default,,0000,0000,0000,,Stay out of this, Nami!\NThis is something I decided!
+Dialogue: 0,0:02:25.13,0:02:27.91,Default,,0000,0000,0000,,I won't change my opinion.\NNo matter what you say now,
+Dialogue: 0,0:02:27.93,0:02:30.95,Default,,0000,0000,0000,,we're gonna get a new ship!\NWe'll say goodbye to the Merry here!
+Dialogue: 0,0:02:30.97,0:02:35.92,Default,,0000,0000,0000,,Listen, Luffy! It's not like everyone\Ncan live looking ahead like you do!
+Dialogue: 0,0:02:35.94,0:02:40.13,Default,,0000,0000,0000,,I can't just leave our wounded friend\Nhere and move on to the seas ahead!
+Dialogue: 0,0:02:40.15,0:02:43.59,Default,,0000,0000,0000,,Don't be ridiculous! Even if she's a friend,\Nships and humans are different!
+Dialogue: 0,0:02:43.61,0:02:47.09,Default,,0000,0000,0000,,They're the same! Merry has\Nthe strength to live left in her!
+Dialogue: 0,0:02:47.11,0:02:51.18,Default,,0000,0000,0000,,--Considering how you are, aren't you\Nexcited thinking about the new ship\N--Hey, that's enough, you guys!
+Dialogue: 0,0:02:51.20,0:02:53.81,Default,,0000,0000,0000,,--while pretending to be concerned about Merry?!\N--You can't have a conversation\Nif you're worked up like that!
+Dialogue: 0,0:02:53.83,0:02:55.10,Default,,0000,0000,0000,,Enough, already!
+Dialogue: 0,0:02:55.12,0:02:56.23,Default,,0000,0000,0000,,Luffy!
+Dialogue: 0,0:02:56.25,0:02:58.48,Default,,0000,0000,0000,,Don't think that you're the only\None who feels pain over this!
+Dialogue: 0,0:02:58.50,0:03:00.02,Default,,0000,0000,0000,,Everyone feels the same way!
+Dialogue: 0,0:03:00.04,0:03:02.69,Default,,0000,0000,0000,,If so, there's no way you'd\Ndecide to get a new ship!
+Dialogue: 0,0:03:02.71,0:03:10.71,Default,,0000,0000,0000,,Fine! If you dislike what I decide\Nthat much, then get off this--
+Dialogue: 0,0:03:11.26,0:03:18.67,Default,,0000,0000,0000,,Sanji...!
+Dialogue: 0,0:03:18.69,0:03:23.42,Default,,0000,0000,0000,,You idiot... What were you about to say?!
+Dialogue: 0,0:03:23.44,0:03:31.44,Default,,0000,0000,0000,,Cool down! Be careful about what you say!
+Dialogue: 0,0:03:33.16,0:03:36.35,Default,,0000,0000,0000,,Sorry. I just...
+Dialogue: 0,0:03:36.37,0:03:40.98,Default,,0000,0000,0000,,That's okay, Luffy. That's how\Nyou really feel, isn't it?
+Dialogue: 0,0:03:41.00,0:03:44.44,Default,,0000,0000,0000,,What'd you say?!
+Dialogue: 0,0:03:44.46,0:03:50.11,Default,,0000,0000,0000,,Go ahead and cut off useless friends\None after another and move on.
+Dialogue: 0,0:03:50.13,0:03:53.95,Default,,0000,0000,0000,,If you're gonna abandon the Merry...
+Dialogue: 0,0:03:53.97,0:03:57.71,Default,,0000,0000,0000,,...why don't you do that to me, too?!
+Dialogue: 0,0:03:57.73,0:04:00.88,Default,,0000,0000,0000,,You don't need weak friends, right?
+Dialogue: 0,0:04:00.90,0:04:06.17,Default,,0000,0000,0000,,Luffy... you're the man\Nwho'll be king of the pirates.
+Dialogue: 0,0:04:06.19,0:04:10.97,Default,,0000,0000,0000,,But I don't have to go that high up.
+Dialogue: 0,0:04:10.99,0:04:14.97,Default,,0000,0000,0000,,Hey, where're you going, Usopp?!
+Dialogue: 0,0:04:14.99,0:04:18.85,Default,,0000,0000,0000,,Where I'm going is my own business.
+Dialogue: 0,0:04:18.87,0:04:21.15,Default,,0000,0000,0000,,I'm...
+Dialogue: 0,0:04:21.17,0:04:23.73,Default,,0000,0000,0000,,...leaving the gang.
+Dialogue: 0,0:04:23.75,0:04:26.44,Default,,0000,0000,0000,,Usopp!
+Dialogue: 0,0:04:26.46,0:04:29.40,Default,,0000,0000,0000,,Wait! It shouldn't be like this!
+Dialogue: 0,0:04:29.42,0:04:36.62,Default,,0000,0000,0000,,Hey! Turn around!
+Dialogue: 0,0:04:36.64,0:04:41.83,Default,,0000,0000,0000,,Luffy! I can't go along with you anymore.
+Dialogue: 0,0:04:41.85,0:04:44.59,Default,,0000,0000,0000,,Sorry to cause you trouble until the end.
+Dialogue: 0,0:04:44.61,0:04:50.76,Default,,0000,0000,0000,,It's true that the ship\Nbelongs to you, the captain.
+Dialogue: 0,0:04:50.78,0:04:54.35,Default,,0000,0000,0000,,So fight me...
+Dialogue: 0,0:04:54.37,0:04:57.47,Default,,0000,0000,0000,,Monkey D. Luffy!
+Dialogue: 0,0:04:57.49,0:05:05.49,Default,,0000,0000,0000,,Fight a duel with me!
+Dialogue: 0,0:05:06.96,0:05:13.07,Default,,0000,0000,0000,,At 10 o'clock tonight, I'll come back here.
+Dialogue: 0,0:05:13.09,0:05:15.95,Default,,0000,0000,0000,,Then, we'll fight a duel over the Merry!
+Dialogue: 0,0:05:15.97,0:05:18.79,Default,,0000,0000,0000,,I'll defeat you and take the Merry.
+Dialogue: 0,0:05:18.81,0:05:20.29,Default,,0000,0000,0000,,That's...
+Dialogue: 0,0:05:20.31,0:05:28.31,Default,,0000,0000,0000,,...the end of the bond\Nbetween you guys and me.
+Dialogue: 0,0:05:28.52,0:05:36.52,B1,,0000,0000,0000,,{\fad(2000,2000)}"Luffy vs. Usopp! Collision of Two Men's Pride"
+Dialogue: 0,0:05:39.70,0:05:44.52,Default,,0000,0000,0000,,I am Usopp, leader of the great\Npirates who reign over this village!
+Dialogue: 0,0:05:44.54,0:05:52.54,Default,,0000,0000,0000,,People praise me-- and then praise\Nme more-- as "Captain Usopp"!
+Dialogue: 0,0:05:53.59,0:05:55.28,Default,,0000,0000,0000,,You're neat!
+Dialogue: 0,0:05:55.30,0:06:02.75,Default,,0000,0000,0000,,Hey, you! Don't insult me!
+Dialogue: 0,0:06:02.77,0:06:05.33,Default,,0000,0000,0000,,I'm a very proud man!
+Dialogue: 0,0:06:05.35,0:06:11.42,Default,,0000,0000,0000,,Because of my great pride,\Npeople call me "Proud Usopp"!
+Dialogue: 0,0:06:11.44,0:06:15.18,Default,,0000,0000,0000,,You guys take care, too!\NLet's meet again sometime!
+Dialogue: 0,0:06:15.20,0:06:20.47,Default,,0000,0000,0000,,--How come?\N--Huh? How come? Man, you're antisocial...
+Dialogue: 0,0:06:20.49,0:06:23.94,Default,,0000,0000,0000,,I'm gonna be a pirate too, so we'll\Nmeet on the high seas eventually!
+Dialogue: 0,0:06:23.96,0:06:26.35,Default,,0000,0000,0000,,What're you talkin' about? Get on already.
+Dialogue: 0,0:06:26.37,0:06:27.81,Default,,0000,0000,0000,,Eh?
+Dialogue: 0,0:06:27.83,0:06:32.78,Default,,0000,0000,0000,,We're friends now, aren't we?
+Dialogue: 0,0:06:32.80,0:06:36.32,Default,,0000,0000,0000,,I... I get to be captain, right?!
+Dialogue: 0,0:06:36.34,0:06:44.34,Default,,0000,0000,0000,,Don't be dumb! I'm the captain!
+Dialogue: 0,0:06:52.07,0:06:54.63,Default,,0000,0000,0000,,So you didn't get cold feet, huh?
+Dialogue: 0,0:06:54.65,0:06:57.30,Default,,0000,0000,0000,,You'd better be sure you're not going\Nto regret this, no matter what happens.
+Dialogue: 0,0:06:57.32,0:06:59.76,Default,,0000,0000,0000,,This is the duel you wanted.
+Dialogue: 0,0:06:59.78,0:07:03.27,Default,,0000,0000,0000,,Of course. You'd better fight seriously.
+Dialogue: 0,0:07:03.29,0:07:05.64,Default,,0000,0000,0000,,I'll turn the tables on you.
+Dialogue: 0,0:07:05.66,0:07:11.73,Default,,0000,0000,0000,,I've already figured out how to defeat you.
+Dialogue: 0,0:07:11.75,0:07:15.28,Default,,0000,0000,0000,,Can't we stop them?\NUsopp is wounded quite badly!
+Dialogue: 0,0:07:15.30,0:07:23.30,Default,,0000,0000,0000,,If you can't bear to watch this, go inside.
+Dialogue: 0,0:07:27.81,0:07:31.63,Default,,0000,0000,0000,,Don't lump me in with your past\Nenemies who didn't know your skills.
+Dialogue: 0,0:07:31.65,0:07:36.05,Default,,0000,0000,0000,,Luffy... We've known each other for a long time.
+Dialogue: 0,0:07:36.07,0:07:40.89,Default,,0000,0000,0000,,I know about your powers very well.
+Dialogue: 0,0:07:40.91,0:07:43.35,Default,,0000,0000,0000,,Don't be surprised when you hear this, Luffy.
+Dialogue: 0,0:07:43.37,0:07:47.10,Default,,0000,0000,0000,,I have 8,000 men under me!
+Dialogue: 0,0:07:47.12,0:07:50.98,Default,,0000,0000,0000,,If you don't wanna die, surrender now!
+Dialogue: 0,0:07:51.00,0:07:53.69,Default,,0000,0000,0000,,What?! 8,000?! That many?!
+Dialogue: 0,0:07:53.71,0:07:55.36,Default,,0000,0000,0000,,You go inside.
+Dialogue: 0,0:07:55.38,0:07:58.40,Default,,0000,0000,0000,,You don't have any subordinates.\NI know that much!
+Dialogue: 0,0:07:58.42,0:08:00.99,Default,,0000,0000,0000,,Usopp Spell!
+Dialogue: 0,0:08:01.01,0:08:05.70,Default,,0000,0000,0000,,You've got razors stuck between all your teeth!
+Dialogue: 0,0:08:05.72,0:08:07.79,Default,,0000,0000,0000,,It hurts just to imagine that!
+Dialogue: 0,0:08:07.81,0:08:09.37,Default,,0000,0000,0000,,Go inside.
+Dialogue: 0,0:08:09.39,0:08:13.84,Default,,0000,0000,0000,,You've got cactus spines inside your fingernails!
+Dialogue: 0,0:08:13.86,0:08:21.86,Default,,0000,0000,0000,,Gum-Gum... Pistol!
+Dialogue: 0,0:08:22.78,0:08:25.56,Default,,0000,0000,0000,,Usopp!
+Dialogue: 0,0:08:25.58,0:08:29.64,Default,,0000,0000,0000,,See?! His body is already...
+Dialogue: 0,0:08:29.66,0:08:33.02,Default,,0000,0000,0000,,Special Attack... Ketchup Star!
+Dialogue: 0,0:08:33.04,0:08:37.61,Default,,0000,0000,0000,,What? Are you sympathizing with\Nyour enemy? What confidence...!
+Dialogue: 0,0:08:37.63,0:08:44.41,Default,,0000,0000,0000,,Flash Dial!
+Dialogue: 0,0:08:44.43,0:08:48.75,Default,,0000,0000,0000,,Special Attack! Egg Star!
+Dialogue: 0,0:08:48.77,0:08:53.50,Default,,0000,0000,0000,,Star! Star! Star!
+Dialogue: 0,0:08:53.52,0:08:55.55,Default,,0000,0000,0000,,It stinks! They're rotten!
+Dialogue: 0,0:08:55.57,0:08:59.13,Default,,0000,0000,0000,,Dammit! You jerk! Be serious!
+Dialogue: 0,0:08:59.15,0:09:01.84,Default,,0000,0000,0000,,Is this silly? I'm very serious, Luffy!
+Dialogue: 0,0:09:01.86,0:09:05.64,Default,,0000,0000,0000,,--What?\N--This is my way of fighting!
+Dialogue: 0,0:09:05.66,0:09:12.19,Default,,0000,0000,0000,,Hey, if you open your mouth\Nthat big, you'll have a burn!
+Dialogue: 0,0:09:12.21,0:09:14.61,Default,,0000,0000,0000,,Special Attack! Tabasco Star!
+Dialogue: 0,0:09:14.63,0:09:17.57,Default,,0000,0000,0000,,It's hooot!!
+Dialogue: 0,0:09:17.59,0:09:20.53,Default,,0000,0000,0000,,Watch out when you wriggle!
+Dialogue: 0,0:09:20.55,0:09:25.70,Default,,0000,0000,0000,,Beneath your feet, it's already Caltrop Hell!
+Dialogue: 0,0:09:25.72,0:09:28.12,Default,,0000,0000,0000,,Ouch!
+Dialogue: 0,0:09:28.14,0:09:30.50,Default,,0000,0000,0000,,Usopp is in control of the fight!
+Dialogue: 0,0:09:30.52,0:09:32.46,Default,,0000,0000,0000,,Listen, Luffy!
+Dialogue: 0,0:09:32.48,0:09:35.84,Default,,0000,0000,0000,,I'll defeat you without fail and take the Merry...
+Dialogue: 0,0:09:35.86,0:09:43.86,Default,,0000,0000,0000,,...no matter what it takes!
+Dialogue: 0,0:09:44.36,0:09:47.01,Default,,0000,0000,0000,,Usopp...
+Dialogue: 0,0:09:47.03,0:09:50.06,Default,,0000,0000,0000,,Special Attack! Pepper Star!
+Dialogue: 0,0:09:50.08,0:09:58.08,Default,,0000,0000,0000,,Owwww!
+Dialogue: 0,0:09:59.63,0:10:07.63,Default,,0000,0000,0000,,I told you. I won't use attacks\Nthat won't work on you.
+Dialogue: 0,0:10:10.56,0:10:15.79,Default,,0000,0000,0000,,Dammit. It stinks... My mouth is burning...
+Dialogue: 0,0:10:15.81,0:10:17.29,Default,,0000,0000,0000,,And it hurts!
+Dialogue: 0,0:10:17.31,0:10:19.46,Default,,0000,0000,0000,,I won't give you even the\Nslightest chance to attack!
+Dialogue: 0,0:10:19.48,0:10:27.48,Default,,0000,0000,0000,,Special Attack! Shuriken Shooting Stars!
+Dialogue: 0,0:11:05.65,0:11:09.51,Default,,0000,0000,0000,,Smoke?
+Dialogue: 0,0:11:09.53,0:11:13.35,Default,,0000,0000,0000,,I'm using a Breath Dial.
+Dialogue: 0,0:11:13.37,0:11:20.23,Default,,0000,0000,0000,,You didn't notice the smell\Nbecause of the eggs, did you?
+Dialogue: 0,0:11:20.25,0:11:25.57,Default,,0000,0000,0000,,The smell of the gas that's\Nfilling the area around you...!
+Dialogue: 0,0:11:25.59,0:11:26.57,Default,,0000,0000,0000,,Gas?
+Dialogue: 0,0:11:26.59,0:11:28.57,Default,,0000,0000,0000,,Don't tell me...!
+Dialogue: 0,0:11:28.59,0:11:30.95,Default,,0000,0000,0000,,Sorry! Take this!
+Dialogue: 0,0:11:30.97,0:11:38.97,Default,,0000,0000,0000,,Flame Star!
+Dialogue: 0,0:11:45.11,0:11:53.11,Default,,0000,0000,0000,,What an explosion!
+Dialogue: 0,0:11:53.62,0:12:01.62,Default,,0000,0000,0000,,Luffy! Usopp!
+Dialogue: 0,0:12:06.84,0:12:11.70,Default,,0000,0000,0000,,I am Usopp, leader of the great\Npirates who reign over this village!
+Dialogue: 0,0:12:11.72,0:12:19.72,Default,,0000,0000,0000,,People praise me-- and then praise\Nme more-- as "Captain Usopp"!
+Dialogue: 0,0:12:26.90,0:12:29.09,Default,,0000,0000,0000,,You're neat!
+Dialogue: 0,0:12:29.11,0:12:31.68,Default,,0000,0000,0000,,Hey, you! Don't insult me!
+Dialogue: 0,0:12:31.70,0:12:32.68,Default,,0000,0000,0000,,How come?
+Dialogue: 0,0:12:32.70,0:12:39.27,Default,,0000,0000,0000,,We're friends now, aren't we?
+Dialogue: 0,0:12:39.29,0:12:41.90,Default,,0000,0000,0000,,I see an island!
+Dialogue: 0,0:12:41.92,0:12:45.23,Default,,0000,0000,0000,,Whoa! Incredible! What kind of island is that?!
+Dialogue: 0,0:12:45.25,0:12:47.69,Default,,0000,0000,0000,,All right! Go!
+Dialogue: 0,0:12:47.71,0:12:50.61,Default,,0000,0000,0000,,Merry! Full speed ahead!
+Dialogue: 0,0:12:50.63,0:12:58.63,Default,,0000,0000,0000,,Full speed ahead!
+Dialogue: 0,0:13:50.65,0:13:52.22,Default,,0000,0000,0000,,I can't stand this.
+Dialogue: 0,0:13:52.24,0:14:00.24,Default,,0000,0000,0000,,Luffy! Usopp!
+Dialogue: 0,0:14:15.26,0:14:23.12,Default,,0000,0000,0000,,I know... that an attack like\Nthat wouldn't take you out.
+Dialogue: 0,0:14:23.14,0:14:25.92,Default,,0000,0000,0000,,I know, Luffy...
+Dialogue: 0,0:14:25.94,0:14:30.80,Default,,0000,0000,0000,,...that you fight every battle\Nwith all your strength.
+Dialogue: 0,0:14:30.82,0:14:37.93,Default,,0000,0000,0000,,I know every detail of your skills!
+Dialogue: 0,0:14:37.95,0:14:39.26,Default,,0000,0000,0000,,Special Attack...!
+Dialogue: 0,0:14:39.28,0:14:42.98,Default,,0000,0000,0000,,Gum-Gum... Gatling!
+Dialogue: 0,0:14:43.00,0:14:51.00,Default,,0000,0000,0000,,...Bursting Cactus Star!
+Dialogue: 0,0:14:51.50,0:14:55.78,Default,,0000,0000,0000,,Ouch!
+Dialogue: 0,0:14:55.80,0:15:03.80,Default,,0000,0000,0000,,Triple Exploding Stars!
+Dialogue: 0,0:15:12.11,0:15:20.11,Default,,0000,0000,0000,,Gum-Gum... Pistol!
+Dialogue: 0,0:15:27.50,0:15:35.50,Default,,0000,0000,0000,,Gum-Gum... Bazooka!
+Dialogue: 0,0:15:37.72,0:15:40.03,Default,,0000,0000,0000,,I have a dial here.
+Dialogue: 0,0:15:40.05,0:15:45.00,Default,,0000,0000,0000,,I got... your impact!
+Dialogue: 0,0:15:45.02,0:15:52.29,Default,,0000,0000,0000,,Impact!
+Dialogue: 0,0:15:52.31,0:16:00.31,Default,,0000,0000,0000,,An Impact Dial!
+Dialogue: 0,0:16:01.57,0:16:09.57,Default,,0000,0000,0000,,How'd you like that?! Dammit!
+Dialogue: 0,0:16:33.31,0:16:41.31,Default,,0000,0000,0000,,I am Usopp, leader of the great\Npirates who reign over this village!
+Dialogue: 0,0:16:44.83,0:16:47.18,Default,,0000,0000,0000,,To our new ship and crewmate!
+Dialogue: 0,0:16:47.20,0:16:52.48,Default,,0000,0000,0000,,Cheers!
+Dialogue: 0,0:16:52.50,0:16:53.69,Default,,0000,0000,0000,,I guess that's more like it.
+Dialogue: 0,0:16:53.71,0:16:56.36,Default,,0000,0000,0000,,It's good! Let's draw it on the sail, too!
+Dialogue: 0,0:16:56.38,0:16:57.82,Default,,0000,0000,0000,,Alright! All done!
+Dialogue: 0,0:16:57.84,0:17:03.16,Default,,0000,0000,0000,,Now the Going Merry pirate ship is all set!
+Dialogue: 0,0:17:03.18,0:17:07.12,Default,,0000,0000,0000,,Gum-Gum...
+Dialogue: 0,0:17:07.14,0:17:15.14,Default,,0000,0000,0000,,...Bullet!
+Dialogue: 0,0:17:19.28,0:17:27.28,Default,,0000,0000,0000,,Usopp!
+Dialogue: 0,0:17:49.06,0:17:57.06,Default,,0000,0000,0000,,Game over.
+Dialogue: 0,0:18:05.07,0:18:08.72,Default,,0000,0000,0000,,You fool...!
+Dialogue: 0,0:18:08.74,0:18:16.74,Default,,0000,0000,0000,,There's no way that you\Ncould defeat me, is there?!
+Dialogue: 0,0:18:40.27,0:18:48.27,Default,,0000,0000,0000,,I can't stand this...
+Dialogue: 0,0:18:52.29,0:18:58.86,Default,,0000,0000,0000,,Do what you want with the Merry.
+Dialogue: 0,0:18:58.88,0:19:05.74,Default,,0000,0000,0000,,We'll get a new ship and\Nmove on to the seas ahead!
+Dialogue: 0,0:19:05.76,0:19:07.91,Default,,0000,0000,0000,,Hey! Let me sit there, too, Luffy!
+Dialogue: 0,0:19:07.93,0:19:10.70,Default,,0000,0000,0000,,No! This is my special seat!
+Dialogue: 0,0:19:10.72,0:19:12.70,Default,,0000,0000,0000,,Oh? What's that?!
+Dialogue: 0,0:19:12.72,0:19:14.20,Default,,0000,0000,0000,,What're you making, Usopp?
+Dialogue: 0,0:19:14.22,0:19:22.22,Default,,0000,0000,0000,,Whoa! Hey, you guys!\NNo shoes in Usopp Factory!
+Dialogue: 0,0:19:28.24,0:19:31.89,Default,,0000,0000,0000,,Someday, I will go to Elbaf!
+Dialogue: 0,0:19:31.91,0:19:34.52,Default,,0000,0000,0000,,To the village of warriors!
+Dialogue: 0,0:19:34.54,0:19:39.02,Default,,0000,0000,0000,,All right, Usopp! Let's go there for sure!
+Dialogue: 0,0:19:39.04,0:19:47.04,Default,,0000,0000,0000,,Let's get this party goin'! It's the\Nnight festival before gold-hunting!
+Dialogue: 0,0:19:53.93,0:19:56.83,Default,,0000,0000,0000,,Well then, bye, Usopp...
+Dialogue: 0,0:19:56.85,0:20:04.38,Default,,0000,0000,0000,,It's been fun.
+Dialogue: 0,0:20:04.40,0:20:07.59,Default,,0000,0000,0000,,Hey, don't go, Chopper!
+Dialogue: 0,0:20:07.61,0:20:11.39,Default,,0000,0000,0000,,Why not?! He was already\Nwounded so badly to start with,
+Dialogue: 0,0:20:11.41,0:20:13.72,Default,,0000,0000,0000,,and now he got beat up worse!
+Dialogue: 0,0:20:13.74,0:20:16.10,Default,,0000,0000,0000,,This isn't a quarrel or a game.
+Dialogue: 0,0:20:16.12,0:20:24.12,Default,,0000,0000,0000,,So what?! I'm a doctor!\NLet me at least treat him!
+Dialogue: 0,0:20:25.21,0:20:28.95,Default,,0000,0000,0000,,He lost the duel. On top of that, he gets pitied.
+Dialogue: 0,0:20:28.97,0:20:33.66,Default,,0000,0000,0000,,Imagine just how miserable\Nthat must make him feel!
+Dialogue: 0,0:20:33.68,0:20:39.67,Default,,0000,0000,0000,,Imagine how much suffering careless\Nkindness can cause the loser!
+Dialogue: 0,0:20:39.69,0:20:47.69,Default,,0000,0000,0000,,He fought a duel knowing full well\Nthis was how it might turn out!
+Dialogue: 0,0:20:56.62,0:20:59.81,Default,,0000,0000,0000,,This is really tough...
+Dialogue: 0,0:20:59.83,0:21:03.06,Default,,0000,0000,0000,,That's what it means to be a captain, isn't it?
+Dialogue: 0,0:21:03.08,0:21:07.40,Default,,0000,0000,0000,,Don't lose yourself.
+Dialogue: 0,0:21:07.42,0:21:15.42,Default,,0000,0000,0000,,If you waver, who can we trust?
+Dialogue: 0,0:21:24.65,0:21:32.65,Default,,0000,0000,0000,,Let's vacate the ship.
+Dialogue: 0,0:21:37.12,0:21:45.12,Default,,0000,0000,0000,,We can't come back... to this ship, so...
+Dialogue: 0,0:22:06.65,0:22:09.05,Italics,,0000,0000,0000,,A piece of a dream that we started grasping
+Dialogue: 0,0:22:09.07,0:22:12.59,Italics,,0000,0000,0000,,Chasing after something constant
+Dialogue: 0,0:22:12.61,0:22:18.18,Italics,,0000,0000,0000,,We send our aspirations sailing into the sky
+Dialogue: 0,0:22:18.20,0:22:20.47,Italics,,0000,0000,0000,,Even when we're exhausted
+Dialogue: 0,0:22:20.49,0:22:23.64,Italics,,0000,0000,0000,,We have a compass that can\Nsearch for something constant
+Dialogue: 0,0:22:23.66,0:22:29.07,Italics,,0000,0000,0000,,Say, do you think we can keep it forever?
+Dialogue: 0,0:22:29.09,0:22:31.99,Italics,,0000,0000,0000,,At the end of the dream\Nthat we will reach someday
+Dialogue: 0,0:22:32.01,0:22:34.95,Italics,,0000,0000,0000,,We want to be adults as we\Nare now as much as possible
+Dialogue: 0,0:22:34.97,0:22:37.74,Italics,,0000,0000,0000,,We pray to this endless sky that we look up at
+Dialogue: 0,0:22:37.76,0:22:40.83,Italics,,0000,0000,0000,,Eternally... Eternally...
+Dialogue: 0,0:22:40.85,0:22:43.62,Italics,,0000,0000,0000,,Wild fantasies from our childhood
+Dialogue: 0,0:22:43.64,0:22:46.46,Italics,,0000,0000,0000,,We trace unforgettable memories
+Dialogue: 0,0:22:46.48,0:22:52.13,Italics,,0000,0000,0000,,And try to keep the embers\Nburning that still consume us
+Dialogue: 0,0:22:52.15,0:22:54.97,Italics,,0000,0000,0000,,To this familiar sunny sky
+Dialogue: 0,0:22:54.99,0:22:57.76,Italics,,0000,0000,0000,,Together we entrust our feelings
+Dialogue: 0,0:22:57.78,0:23:00.35,Italics,,0000,0000,0000,,We go beyond the changing time
+Dialogue: 0,0:23:00.37,0:23:08.37,Italics,,0000,0000,0000,,Eternally... Eternally...
+Dialogue: 0,0:23:11.17,0:23:14.99,Default,,0000,0000,0000,,Luffy, there's trouble! The whole\Ntown is talking about this!
+Dialogue: 0,0:23:15.01,0:23:18.74,Default,,0000,0000,0000,,--What's the matter?\N--They say that Iceberg-san was\Nshot at home and is unconscious.
+Dialogue: 0,0:23:18.76,0:23:20.70,Default,,0000,0000,0000,,Ice pops is?! I'll go check.
+Dialogue: 0,0:23:20.72,0:23:24.45,Default,,0000,0000,0000,,--I'll go, too.\N--Then, Chopper and I'll go look for Robin-chan.
+Dialogue: 0,0:23:24.47,0:23:26.50,Default,,0000,0000,0000,,I kinda have a bad feeling.
+Dialogue: 0,0:23:26.52,0:23:27.58,Default,,0000,0000,0000,,On the next episode of One Piece!
+Dialogue: 0,0:23:27.60,0:23:31.09,Default,,0000,0000,0000,,"Severe Shock Hits the City\Nof Water! Iceberg Targeted!"
+Dialogue: 0,0:23:31.11,0:23:39.11,Default,,0000,0000,0000,,I'm gonna be King of the Pirates!!

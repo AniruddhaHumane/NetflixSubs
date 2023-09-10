@@ -1,0 +1,320 @@
+﻿[Script Info]
+Title: English (US)
+Original Script: ToeiAnimation  [http://www.crunchyroll.com/user/ToeiAnimation]
+Original Translation: 
+Original Editing: 
+Original Timing: 
+Synch Point: 
+Script Updated By: 
+Update Details: 
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 640
+PlayResY: 360
+Timer: 0.0000
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name,Fontname,Fontsize,PrimaryColour,SecondaryColour,OutlineColour,BackColour,Bold,Italic,Underline,Strikeout,ScaleX,ScaleY,Spacing,Angle,BorderStyle,Outline,Shadow,Alignment,MarginL,MarginR,MarginV,Encoding
+Style: Default,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,2,0020,0020,0022,0
+Style: B1,Arial,32,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,2,0070,0070,0030,0
+Style: OS,Arial,18,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,8,0001,0001,0015,0
+Style: Italics,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,-1,0,0,100,100,0,0,1,2,1,2,0020,0020,0022,0
+Style: Ep Title,Arial,18,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,3,0170,0070,0020,0
+Style: Copy of Ep Title,Arial,18,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,3,0070,0226,0065,0
+Style: On Top,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,8,0020,0020,0022,0
+Style: Copy of OS,Arial,18,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,9,0020,0020,0020,0
+Style: DefaultLow,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,2,0020,0020,0010,0
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:26.45,0:00:26.43,On Top,,0000,0000,0000,,ame agari no sora wo aogu tabi
+Dialogue: 0,0:00:26.45,0:00:31.50,DefaultLow,,0000,0000,0000,,Every time I look up to \Nthe sky after the rain
+Dialogue: 0,0:00:31.52,0:00:31.50,On Top,,0000,0000,0000,,nakimushi datta koro no boku wo omou
+Dialogue: 0,0:00:31.52,0:00:37.17,DefaultLow,,0000,0000,0000,,I think back to when I was a crybaby
+Dialogue: 0,0:00:37.19,0:00:37.17,On Top,,0000,0000,0000,,dareka no senaka wo gamushara ni oikaketa
+Dialogue: 0,0:00:37.19,0:00:45.01,DefaultLow,,0000,0000,0000,,I was chasing somebody's back blindly
+Dialogue: 0,0:00:45.03,0:00:45.01,On Top,,0000,0000,0000,,"tsuyoku naritai" tte
+Dialogue: 0,0:00:45.03,0:00:47.77,DefaultLow,,0000,0000,0000,,Thinking "I want to be stronger"
+Dialogue: 0,0:00:47.79,0:00:47.77,On Top,,0000,0000,0000,,ima wa kaze ni kieta "arigatou"
+Dialogue: 0,0:00:47.79,0:00:53.27,DefaultLow,,0000,0000,0000,,The word "thank you" has \Nfaded into the wind now
+Dialogue: 0,0:00:53.29,0:00:53.27,On Top,,0000,0000,0000,,boku wa tsuyoku nareteiru no kana?
+Dialogue: 0,0:00:53.29,0:00:58.49,DefaultLow,,0000,0000,0000,,Am I getting stronger?
+Dialogue: 0,0:00:58.51,0:00:58.49,On Top,,0000,0000,0000,,kotae wa mada desou ni nai kara sa
+Dialogue: 0,0:00:58.51,0:01:04.07,DefaultLow,,0000,0000,0000,,I don't know the answer yet
+Dialogue: 0,0:01:04.09,0:01:04.07,On Top,,0000,0000,0000,,yappari mada aruiteiku yo
+Dialogue: 0,0:01:04.09,0:01:09.62,DefaultLow,,0000,0000,0000,,That's why I'll keep walking ahead
+Dialogue: 0,0:01:09.64,0:01:09.62,On Top,,0000,0000,0000,,saa yukou
+Dialogue: 0,0:01:09.64,0:01:11.87,DefaultLow,,0000,0000,0000,,So let's go
+Dialogue: 0,0:01:11.89,0:01:11.87,On Top,,0000,0000,0000,,tachidomaru koto naku
+Dialogue: 0,0:01:11.89,0:01:15.21,DefaultLow,,0000,0000,0000,,Without stopping
+Dialogue: 0,0:01:15.23,0:01:15.21,On Top,,0000,0000,0000,,nagareru toki ni makenai youni
+Dialogue: 0,0:01:15.23,0:01:20.47,DefaultLow,,0000,0000,0000,,Without giving up to the flow of time
+Dialogue: 0,0:01:20.49,0:01:20.47,On Top,,0000,0000,0000,,nando mo tachimukai tsuzukeyou
+Dialogue: 0,0:01:20.49,0:01:26.03,DefaultLow,,0000,0000,0000,,I'll keep getting back up
+Dialogue: 0,0:01:26.05,0:01:26.03,On Top,,0000,0000,0000,,taisetsu na mono ushinaitakunai kara
+Dialogue: 0,0:01:26.05,0:01:31.52,DefaultLow,,0000,0000,0000,,Because I don't want to \Nlose something precious
+Dialogue: 0,0:01:31.54,0:01:31.52,On Top,,0000,0000,0000,,boku no naka ni nagareru koe wa
+Dialogue: 0,0:01:31.54,0:01:36.86,DefaultLow,,0000,0000,0000,,The voice inside of me
+Dialogue: 0,0:01:36.88,0:01:36.86,On Top,,0000,0000,0000,,zutto zutto boku wo sasaeteru
+Dialogue: 0,0:01:36.88,0:01:42.15,DefaultLow,,0000,0000,0000,,keeps sustaining me
+Dialogue: 0,0:01:42.17,0:01:42.15,On Top,,0000,0000,0000,,itazura na ame ga jama suru kedo
+Dialogue: 0,0:01:42.17,0:01:47.37,DefaultLow,,0000,0000,0000,,Wicked rain will get in my way
+Dialogue: 0,0:01:47.39,0:01:47.37,On Top,,0000,0000,0000,,nigedasanai kara
+Dialogue: 0,0:01:47.39,0:01:55.39,DefaultLow,,0000,0000,0000,,But I won't walk away
+Dialogue: 0,0:01:55.52,0:01:55.50,On Top,,0000,0000,0000,,saa yukou
+Dialogue: 0,0:01:55.52,0:01:57.79,DefaultLow,,0000,0000,0000,,So let's go
+Dialogue: 0,0:01:57.81,0:01:57.79,On Top,,0000,0000,0000,,Tachidomaru koto naku
+Dialogue: 0,0:01:57.81,0:02:01.09,DefaultLow,,0000,0000,0000,,Without stopping
+Dialogue: 0,0:02:01.11,0:02:01.09,On Top,,0000,0000,0000,,nagareru toki ni makenai youni
+Dialogue: 0,0:02:01.11,0:02:06.26,DefaultLow,,0000,0000,0000,,Without giving up to the flow of time
+Dialogue: 0,0:02:06.28,0:02:06.26,On Top,,0000,0000,0000,,nando mo tachimukai tsuzukeyou
+Dialogue: 0,0:02:06.28,0:02:11.98,DefaultLow,,0000,0000,0000,,I'll keep getting back up
+Dialogue: 0,0:02:12.00,0:02:11.98,On Top,,0000,0000,0000,,taisetsu na mono ushinaitakunai kara
+Dialogue: 0,0:02:12.00,0:02:17.44,DefaultLow,,0000,0000,0000,,Because I don't want to \Nlose something precious
+Dialogue: 0,0:02:17.46,0:02:17.44,On Top,,0000,0000,0000,,shinjita sono saki e to...
+Dialogue: 0,0:02:17.46,0:02:25.46,DefaultLow,,0000,0000,0000,,To the future I believe in...
+Dialogue: 0,0:02:33.85,0:02:36.92,Default,,0000,0000,0000,,The time is the Great Pirate Era.
+Dialogue: 0,0:02:36.94,0:02:42.11,Default,,0000,0000,0000,,Countless pirates fight \Ndesperately for the One Piece,
+Dialogue: 0,0:02:42.13,0:02:45.86,Default,,0000,0000,0000,,the great treasure left behind by \NGold Roger, King of the Pirates.
+Dialogue: 0,0:02:45.88,0:02:50.66,Default,,0000,0000,0000,,Monkey D. Luffy, a boy whose body turned \Nto rubber after he ate the Gum-Gum Fruit,
+Dialogue: 0,0:02:50.68,0:02:53.45,Default,,0000,0000,0000,,also takes to the sea to become \Nthe next King of the Pirates.
+Dialogue: 0,0:02:53.47,0:02:57.48,Default,,0000,0000,0000,,As Luffy and his friends \Novercome numerous adventures,
+Dialogue: 0,0:02:57.50,0:03:03.44,Default,,0000,0000,0000,,the World Government is less and \Nless able to ignore their existence.
+Dialogue: 0,0:03:03.46,0:03:05.86,Default,,0000,0000,0000,,This is exciting!
+Dialogue: 0,0:03:05.88,0:03:09.16,Default,,0000,0000,0000,,What kind of adventure \Nis waiting for us next?!
+Dialogue: 0,0:03:09.18,0:03:12.29,Default,,0000,0000,0000,,The crew, on its way to the New World,
+Dialogue: 0,0:03:12.31,0:03:19.88,Default,,0000,0000,0000,,will speed along the Grand Line again today!
+Dialogue: 0,0:03:19.90,0:03:22.13,Default,,0000,0000,0000,,Separated from the rest of the Straw Hats,
+Dialogue: 0,0:03:22.15,0:03:26.93,Default,,0000,0000,0000,,Luffy made it to Marineford to rescue \Nhis brother, Ace who will be executed!
+Dialogue: 0,0:03:26.95,0:03:30.85,Default,,0000,0000,0000,,Inside the bay, Luffy and the Whitebeards \Nare trying to get to the scaffold
+Dialogue: 0,0:03:30.87,0:03:38.87,Default,,0000,0000,0000,,but the Navy stands in their \Nway. The battle is heating up!
+Dialogue: 0,0:03:44.42,0:03:46.74,Default,,0000,0000,0000,,Why did any of them come?!
+Dialogue: 0,0:03:46.76,0:03:51.78,Default,,0000,0000,0000,,I deserve this! They don't have \Nto risk their lives for me!
+Dialogue: 0,0:03:51.80,0:03:54.47,Default,,0000,0000,0000,,Don't do this!
+Dialogue: 0,0:03:54.49,0:03:58.08,Default,,0000,0000,0000,,Everyone! Why are you doing \Nthis for a guy like me?!
+Dialogue: 0,0:03:58.10,0:04:03.84,Default,,0000,0000,0000,,I'm your brother!
+Dialogue: 0,0:04:03.86,0:04:06.80,Default,,0000,0000,0000,,Kuma! Kuma, that's enough!
+Dialogue: 0,0:04:06.82,0:04:11.34,Default,,0000,0000,0000,,It's me! Did you forget my face?!
+Dialogue: 0,0:04:11.36,0:04:16.52,Default,,0000,0000,0000,,If you don't stop, I'm gonna fight \Nback although I'm a gentle person!
+Dialogue: 0,0:04:16.54,0:04:20.77,Default,,0000,0000,0000,,I don't know how you know him \Nbut you may as well give up!
+Dialogue: 0,0:04:20.79,0:04:23.15,Default,,0000,0000,0000,,It's no use talking to him, Emporio Ivankov,
+Dialogue: 0,0:04:23.17,0:04:26.23,Default,,0000,0000,0000,,\Ncommander of the Revolutionaries army!
+Dialogue: 0,0:04:26.25,0:04:29.99,Default,,0000,0000,0000,,You...! What do you mean?! \NWhat's wrong with him?!
+Dialogue: 0,0:04:30.01,0:04:34.99,Default,,0000,0000,0000,,You're a friend of \NBartholomew Kuma I suppose.
+Dialogue: 0,0:04:35.01,0:04:40.62,Default,,0000,0000,0000,,He was once called Tyrant \NKuma and now he is...
+Dialogue: 0,0:04:40.64,0:04:43.63,Default,,0000,0000,0000,,...dead.
+Dialogue: 0,0:04:43.65,0:04:47.80,Default,,0000,0000,0000,,Your power is not enough to beat me!
+Dialogue: 0,0:04:47.82,0:04:50.97,Default,,0000,0000,0000,,Damn! Get your jutte off of me!
+Dialogue: 0,0:04:50.99,0:04:54.06,Default,,0000,0000,0000,,You! Leave him alone!
+Dialogue: 0,0:04:54.08,0:04:56.72,Default,,0000,0000,0000,,She got me although my body is smoke!
+Dialogue: 0,0:04:56.74,0:05:01.31,Default,,0000,0000,0000,,Th-That's...! The pirate \Nempress saved Straw Hat!
+Dialogue: 0,0:05:01.33,0:05:04.47,Default,,0000,0000,0000,,Hancock! What are you doing?!
+Dialogue: 0,0:05:04.49,0:05:06.27,Default,,0000,0000,0000,,Are you gonna resign from The Warlords, too?!
+Dialogue: 0,0:05:06.29,0:05:10.65,Default,,0000,0000,0000,,Shut up! I'm deafened by my own anger!
+Dialogue: 0,0:05:10.67,0:05:16.37,Default,,0000,0000,0000,,How could you hit and pin down my beloved?!
+Dialogue: 0,0:05:16.39,0:05:22.83,Default,,0000,0000,0000,,I won't let you survive! I have \Nnever felt this much anger before!
+Dialogue: 0,0:05:22.85,0:05:27.21,Default,,0000,0000,0000,,I'm gonna cut you up and feed you to beasts!
+Dialogue: 0,0:05:27.23,0:05:34.17,Default,,0000,0000,0000,,That's the Haki of Kuja!
+Dialogue: 0,0:05:34.19,0:05:42.19,Default,,0000,0000,0000,,"Kuma's Transformation! \NIvan-san's Blow of Anger!"
+Dialogue: 0,0:05:44.37,0:05:46.27,Default,,0000,0000,0000,,Wh-What's going on here?
+Dialogue: 0,0:05:46.29,0:05:54.29,Default,,0000,0000,0000,,Why did the pirate empress save Straw Hat?
+Dialogue: 0,0:06:14.20,0:06:20.47,Default,,0000,0000,0000,,No, she didn't save him! She's \Ngonna turn Straw Hat to stone!
+Dialogue: 0,0:06:20.49,0:06:28.49,Default,,0000,0000,0000,,I always believed that \Nyou'd make it here alive.
+Dialogue: 0,0:06:30.75,0:06:33.53,Default,,0000,0000,0000,,Take this.
+Dialogue: 0,0:06:33.55,0:06:36.20,Default,,0000,0000,0000,,It's your brother's handcuff key.
+Dialogue: 0,0:06:36.22,0:06:37.03,Default,,0000,0000,0000,,What?!
+Dialogue: 0,0:06:37.05,0:06:40.03,Default,,0000,0000,0000,,That's how diabolical the empress is!
+Dialogue: 0,0:06:40.05,0:06:42.54,Default,,0000,0000,0000,,Straw Hat can't move now!
+Dialogue: 0,0:06:42.56,0:06:45.67,Default,,0000,0000,0000,,Has he turned into stone?
+Dialogue: 0,0:06:45.69,0:06:47.67,Default,,0000,0000,0000,,Hancock!
+Dialogue: 0,0:06:47.69,0:06:54.84,Default,,0000,0000,0000,,You just said my name again!
+Dialogue: 0,0:06:54.86,0:07:00.93,Default,,0000,0000,0000,,Luffy's hands... Luffy's hands touched mine!
+Dialogue: 0,0:07:00.95,0:07:01.93,Default,,0000,0000,0000,,Hancock!
+Dialogue: 0,0:07:01.95,0:07:03.77,Default,,0000,0000,0000,,Yeah!
+Dialogue: 0,0:07:03.79,0:07:11.79,Default,,0000,0000,0000,,You're so...! You're so...!
+Dialogue: 0,0:07:17.19,0:07:19.95,Default,,0000,0000,0000,,Thank you! I mean it!
+Dialogue: 0,0:07:19.97,0:07:24.75,Default,,0000,0000,0000,,N-No... No problem...! Never \Nmind me, you've got to...
+Dialogue: 0,0:07:24.77,0:07:26.96,Default,,0000,0000,0000,,You've got to keep going, Luffy!
+Dialogue: 0,0:07:26.98,0:07:29.17,Default,,0000,0000,0000,,You're right!
+Dialogue: 0,0:07:29.19,0:07:37.19,Default,,0000,0000,0000,,Thanks!
+Dialogue: 0,0:07:38.53,0:07:41.60,Default,,0000,0000,0000,,No way! He beat the pirate empress?!
+Dialogue: 0,0:07:41.62,0:07:49.62,Default,,0000,0000,0000,,He must've fought back and thrown \Nhis weight high into her!
+Dialogue: 0,0:07:56.65,0:07:58.91,Default,,0000,0000,0000,,See? She looks so tortured!
+Dialogue: 0,0:07:58.93,0:08:06.93,Default,,0000,0000,0000,,He beat The Warlord so easily! \NHow strong, Straw Hat Luffy!
+Dialogue: 0,0:08:08.31,0:08:11.71,Default,,0000,0000,0000,,Like that! Like that!
+Dialogue: 0,0:08:11.73,0:08:16.41,Default,,0000,0000,0000,,Like that!
+Dialogue: 0,0:08:16.43,0:08:23.18,Default,,0000,0000,0000,,I wasn't expect him to hold \Nme so tight like that!
+Dialogue: 0,0:08:23.20,0:08:30.52,Default,,0000,0000,0000,,I can still feel Luffy's body \Nin my arms and on my chest!
+Dialogue: 0,0:08:30.54,0:08:32.52,Default,,0000,0000,0000,,Is this...
+Dialogue: 0,0:08:32.54,0:08:34.90,Default,,0000,0000,0000,,Is this...
+Dialogue: 0,0:08:34.92,0:08:39.24,Default,,0000,0000,0000,,Is this what they call...
+Dialogue: 0,0:08:39.26,0:08:46.83,Default,,0000,0000,0000,,...marriage?!
+Dialogue: 0,0:08:46.85,0:08:49.29,Default,,0000,0000,0000,,Snake Princess-sama!
+Dialogue: 0,0:08:49.31,0:08:57.31,Default,,0000,0000,0000,,Congratulation, Big Sis!
+Dialogue: 0,0:08:58.23,0:09:00.05,Default,,0000,0000,0000,,Snake Princess-sama!
+Dialogue: 0,0:09:00.07,0:09:08.07,Default,,0000,0000,0000,,So beautiful!
+Dialogue: 0,0:09:14.04,0:09:22.04,Default,,0000,0000,0000,,Best wishes to you!
+Dialogue: 0,0:09:28.85,0:09:36.85,Default,,0000,0000,0000,,Luffy!
+Dialogue: 0,0:09:58.00,0:10:03.78,Default,,0000,0000,0000,,Hancock. You look very beautiful.
+Dialogue: 0,0:10:03.80,0:10:08.16,Default,,0000,0000,0000,,H-A-P-P-Y!
+Dialogue: 0,0:10:08.18,0:10:10.45,Default,,0000,0000,0000,,I'll make you happy for \Nthe rest of your life.
+Dialogue: 0,0:10:10.47,0:10:12.83,Default,,0000,0000,0000,,Honey.
+Dialogue: 0,0:10:12.85,0:10:17.34,Default,,0000,0000,0000,,Yes!
+Dialogue: 0,0:10:17.36,0:10:19.46,Default,,0000,0000,0000,,Honey...
+Dialogue: 0,0:10:19.48,0:10:21.71,Default,,0000,0000,0000,,Honey...
+Dialogue: 0,0:10:21.73,0:10:23.73,Default,,0000,0000,0000,,Honey...
+Dialogue: 0,0:10:23.75,0:10:25.59,Default,,0000,0000,0000,,Honey...
+Dialogue: 0,0:10:25.61,0:10:28.55,Default,,0000,0000,0000,,Honey!
+Dialogue: 0,0:10:28.57,0:10:32.73,Default,,0000,0000,0000,,Luffy! I see it! I can see it!
+Dialogue: 0,0:10:32.75,0:10:35.31,Default,,0000,0000,0000,,A string that links us together!
+Dialogue: 0,0:10:35.33,0:10:39.76,Default,,0000,0000,0000,,A string that no one can ever cut!
+Dialogue: 0,0:10:39.78,0:10:45.70,Default,,0000,0000,0000,,It's a thick red string \Nof fate like a big snake!
+Dialogue: 0,0:10:45.72,0:10:46.77,Default,,0000,0000,0000,,Luffy!
+Dialogue: 0,0:10:46.79,0:10:52.75,Default,,0000,0000,0000,,I won't let you get away, Straw Hat!
+Dialogue: 0,0:10:52.77,0:11:00.77,Default,,0000,0000,0000,,Perfume Femur!
+Dialogue: 0,0:11:09.89,0:11:11.80,Default,,0000,0000,0000,,You outrageous fool, stand back! \N
+Dialogue: 0,0:11:11.82,0:11:13.81,Default,,0000,0000,0000,,I won't let you pass through here!
+Dialogue: 0,0:11:13.83,0:11:17.02,Default,,0000,0000,0000,,Look! She's really looking down on him!
+Dialogue: 0,0:11:17.04,0:11:20.26,Default,,0000,0000,0000,,Looking down too much makes her leaning back!
+Dialogue: 0,0:11:20.28,0:11:22.07,Default,,0000,0000,0000,,Do you know what's
+Dialogue: 0,0:11:22.09,0:11:25.40,Default,,0000,0000,0000,,gonna happen to you \Nafter messing with the Navy?!
+Dialogue: 0,0:11:25.42,0:11:30.43,Default,,0000,0000,0000,,I can do whatever I want!
+Dialogue: 0,0:11:30.45,0:11:38.45,Default,,0000,0000,0000,,Because I'm beautiful!
+Dialogue: 0,0:11:40.23,0:11:47.26,Default,,0000,0000,0000,,This is great. She helped me out again.
+Dialogue: 0,0:11:47.28,0:11:50.68,Default,,0000,0000,0000,,Wait for me, Ace!
+Dialogue: 0,0:11:50.70,0:11:53.73,Default,,0000,0000,0000,,What did you say?! Kuma is dead?!
+Dialogue: 0,0:11:53.75,0:11:56.56,Default,,0000,0000,0000,,Then, who is this right here?!
+Dialogue: 0,0:11:56.58,0:12:04.58,Default,,0000,0000,0000,,He's alive! Stop talking nonsense!
+Dialogue: 0,0:12:07.15,0:12:12.12,Default,,0000,0000,0000,,Ivan-chan! Ah?!
+Dialogue: 0,0:12:12.14,0:12:20.14,Default,,0000,0000,0000,,That's the bear guy!
+Dialogue: 0,0:12:21.08,0:12:24.98,Default,,0000,0000,0000,,Be careful, Ivan-chan! If \Nyou get blown away by him...
+Dialogue: 0,0:12:25.00,0:12:33.00,Default,,0000,0000,0000,,I'm okay. Now, Kuma, move out of my way!
+Dialogue: 0,0:12:35.74,0:12:38.56,Default,,0000,0000,0000,,Ivan-chan, do you know him?
+Dialogue: 0,0:12:38.58,0:12:44.90,Default,,0000,0000,0000,,Yeah, sort of. But he's acting strange.
+Dialogue: 0,0:12:44.92,0:12:49.30,Default,,0000,0000,0000,,Seems like you both have memories of Kuma.
+Dialogue: 0,0:12:49.32,0:12:54.33,Default,,0000,0000,0000,,But the Kuma that you both knew \Nand this one are not the same!
+Dialogue: 0,0:12:54.35,0:12:57.33,Default,,0000,0000,0000,,N-Not the same? What is he talking about?
+Dialogue: 0,0:12:57.35,0:12:59.50,Default,,0000,0000,0000,,That can't be true!
+Dialogue: 0,0:12:59.52,0:13:04.34,Default,,0000,0000,0000,,I'm absolutely sure that he's \Nthe Paw-Paw Fruit eater--Kuma!
+Dialogue: 0,0:13:04.36,0:13:10.26,Default,,0000,0000,0000,,Say something, Kuma!
+Dialogue: 0,0:13:10.28,0:13:14.97,Default,,0000,0000,0000,,He's pissing me off! Although \Nhe has always been quiet.
+Dialogue: 0,0:13:14.99,0:13:20.43,Default,,0000,0000,0000,,I told you that it's no use talking to him.
+Dialogue: 0,0:13:20.45,0:13:24.02,Default,,0000,0000,0000,,It was just days ago...
+Dialogue: 0,0:13:24.04,0:13:29.24,Default,,0000,0000,0000,,The Government scientist--Dr. Vegapunk \Nmodified him for the last time
+Dialogue: 0,0:13:29.26,0:13:34.58,Default,,0000,0000,0000,,and he turned into a complete \Nhuman weapon at last!
+Dialogue: 0,0:13:34.60,0:13:38.87,Default,,0000,0000,0000,,To be precise, he's the \Nformer Bartholomew Kuma!
+Dialogue: 0,0:13:38.89,0:13:43.29,Default,,0000,0000,0000,,Modified? Weapon? What \Nare you talking about?!
+Dialogue: 0,0:13:43.31,0:13:48.80,Default,,0000,0000,0000,,In fact, he volunteered to be a guinea pig \Nfor a study to build a human weapon...
+Dialogue: 0,0:13:48.82,0:13:52.61,Default,,0000,0000,0000,,...run by the Government.
+Dialogue: 0,0:13:52.63,0:13:56.05,Default,,0000,0000,0000,,First, his hands. Second, his legs.
+Dialogue: 0,0:13:56.07,0:14:04.07,Default,,0000,0000,0000,,While his mind worked, they \Nmodified his body piece by piece.
+Dialogue: 0,0:14:04.96,0:14:09.44,Default,,0000,0000,0000,,Stop lying! Kuma hates the Government!
+Dialogue: 0,0:14:09.46,0:14:12.57,Default,,0000,0000,0000,,He wouldn't sacrifice his life for them.
+Dialogue: 0,0:14:12.59,0:14:15.82,Default,,0000,0000,0000,,I know that he wouldn't do that!
+Dialogue: 0,0:14:15.84,0:14:17.53,Default,,0000,0000,0000,,Stop yelling.
+Dialogue: 0,0:14:17.55,0:14:22.83,Default,,0000,0000,0000,,I don't know what kind of deal \Nhe had with the Government.
+Dialogue: 0,0:14:22.85,0:14:26.17,Default,,0000,0000,0000,,Only a few days ago,
+Dialogue: 0,0:14:26.19,0:14:32.54,Default,,0000,0000,0000,,he still had his personality.
+Dialogue: 0,0:14:32.56,0:14:35.36,Default,,0000,0000,0000,,But now, he doesn't even remember
+Dialogue: 0,0:14:35.38,0:14:39.47,Default,,0000,0000,0000,,that he was born human so \Nhe is no better than dead.
+Dialogue: 0,0:14:39.49,0:14:44.86,Default,,0000,0000,0000,,He is a monster who fights \Nas the Government tells him.
+Dialogue: 0,0:14:44.88,0:14:48.20,Default,,0000,0000,0000,,He is Pacifista PX-0!
+Dialogue: 0,0:14:48.22,0:14:56.22,Default,,0000,0000,0000,,So you better forget about the past!
+Dialogue: 0,0:15:41.47,0:15:49.47,Default,,0000,0000,0000,,Kuma! What's happened to you \Nover these past several years?!
+Dialogue: 0,0:15:52.23,0:15:54.96,Default,,0000,0000,0000,,Now I remember him saying...
+Dialogue: 0,0:15:54.98,0:15:59.34,Default,,0000,0000,0000,,We will never meet again.
+Dialogue: 0,0:15:59.36,0:16:01.40,Default,,0000,0000,0000,,Farewell...
+Dialogue: 0,0:16:01.42,0:16:03.43,Default,,0000,0000,0000,,...At that time.
+Dialogue: 0,0:16:03.45,0:16:07.73,Default,,0000,0000,0000,,What's wrong, Kuma?! It's me! Ivankov!
+Dialogue: 0,0:16:07.75,0:16:15.75,Default,,0000,0000,0000,,Wh-Where'd he go?!
+Dialogue: 0,0:16:18.01,0:16:22.41,Default,,0000,0000,0000,,Watch out, you guys! Heads up!
+Dialogue: 0,0:16:22.43,0:16:30.43,Default,,0000,0000,0000,,Pad Cannon.
+Dialogue: 0,0:16:37.07,0:16:41.89,Default,,0000,0000,0000,,Kuma, you bastard!
+Dialogue: 0,0:16:41.91,0:16:43.51,Default,,0000,0000,0000,,Face...
+Dialogue: 0,0:16:43.53,0:16:51.53,Default,,0000,0000,0000,,...Spectrum!
+Dialogue: 0,0:17:05.51,0:17:10.46,Default,,0000,0000,0000,,I'm watching you!
+Dialogue: 0,0:17:10.48,0:17:18.48,Default,,0000,0000,0000,,Galaxy Wink!
+Dialogue: 0,0:17:33.75,0:17:41.75,Default,,0000,0000,0000,,Heehaw!
+Dialogue: 0,0:17:43.59,0:17:49.54,Default,,0000,0000,0000,,How could you attack  my sweet candy boys?!
+Dialogue: 0,0:17:49.56,0:17:52.54,Default,,0000,0000,0000,,I'm not gonna go easy on you anymore!
+Dialogue: 0,0:17:52.56,0:17:54.17,Default,,0000,0000,0000,,Here!
+Dialogue: 0,0:17:54.19,0:18:02.19,Default,,0000,0000,0000,,Kick!
+Dialogue: 0,0:18:02.99,0:18:05.66,Default,,0000,0000,0000,,That's how strong he is!
+Dialogue: 0,0:18:05.68,0:18:08.64,Default,,0000,0000,0000,,Among all people that I've met...
+Dialogue: 0,0:18:08.66,0:18:10.10,Default,,0000,0000,0000,,My face!
+Dialogue: 0,0:18:10.12,0:18:11.56,Default,,0000,0000,0000,,My face!
+Dialogue: 0,0:18:11.58,0:18:13.50,Default,,0000,0000,0000,,My face!
+Dialogue: 0,0:18:13.52,0:18:18.77,Default,,0000,0000,0000,,No one has ever forgotten \Nmy face in my entire life!
+Dialogue: 0,0:18:18.79,0:18:21.53,Default,,0000,0000,0000,,Oh, uh, hmmm.
+Dialogue: 0,0:18:21.55,0:18:23.66,Default,,0000,0000,0000,,But...
+Dialogue: 0,0:18:23.68,0:18:26.94,Default,,0000,0000,0000,,...even if you've lost your memory,
+Dialogue: 0,0:18:26.96,0:18:30.20,Default,,0000,0000,0000,,if you can't remember how scary I am,
+Dialogue: 0,0:18:30.22,0:18:33.75,Default,,0000,0000,0000,,I'm gonna beat it into your body!
+Dialogue: 0,0:18:33.77,0:18:37.58,Default,,0000,0000,0000,,Be ready for it!
+Dialogue: 0,0:18:37.60,0:18:40.11,Default,,0000,0000,0000,,He's recovered, so quick!
+Dialogue: 0,0:18:40.13,0:18:41.84,Default,,0000,0000,0000,,I'll take it from here!
+Dialogue: 0,0:18:41.86,0:18:46.05,Default,,0000,0000,0000,,You guys, go ahead and back Straw boy up!
+Dialogue: 0,0:18:46.07,0:18:48.26,Default,,0000,0000,0000,,Roger!
+Dialogue: 0,0:18:48.28,0:18:50.90,Default,,0000,0000,0000,,Okay, let's go, Straw Hat!
+Dialogue: 0,0:18:50.92,0:18:52.89,Default,,0000,0000,0000,,Thanks, Ivan-chan!
+Dialogue: 0,0:18:52.91,0:19:00.91,Default,,0000,0000,0000,,Get to the scaffold!
+Dialogue: 0,0:19:03.86,0:19:07.20,Default,,0000,0000,0000,,They suddenly disappeared in ice!
+Dialogue: 0,0:19:07.22,0:19:12.70,Default,,0000,0000,0000,,It doesn't seem like Admiral \NAokiji used Ice Age again...
+Dialogue: 0,0:19:12.72,0:19:15.37,Default,,0000,0000,0000,,Where did they...?
+Dialogue: 0,0:19:15.39,0:19:18.04,Default,,0000,0000,0000,,This ice is not cold!
+Dialogue: 0,0:19:18.06,0:19:19.22,Default,,0000,0000,0000,,What's wrong?
+Dialogue: 0,0:19:19.24,0:19:20.88,Default,,0000,0000,0000,,Alright, guys.
+Dialogue: 0,0:19:20.90,0:19:23.34,Default,,0000,0000,0000,,Listen carefully.
+Dialogue: 0,0:19:23.36,0:19:26.59,Default,,0000,0000,0000,,Blah-blah-blah... Buggy is great.
+Dialogue: 0,0:19:26.61,0:19:29.68,Default,,0000,0000,0000,,Dah-dah-dah... Buggy is genius.
+Dialogue: 0,0:19:29.70,0:19:32.47,Default,,0000,0000,0000,,Right? That's how we want it.
+Dialogue: 0,0:19:32.49,0:19:33.85,Default,,0000,0000,0000,,That's nice!
+Dialogue: 0,0:19:33.87,0:19:39.86,Default,,0000,0000,0000,,And we want the world to be shaken \Nby the arrival of the new hero.
+Dialogue: 0,0:19:39.88,0:19:43.32,Default,,0000,0000,0000,,That's a perfect plan!
+Dialogue: 0,0:19:43.34,0:19:44.94,Default,,0000,0000,0000,,Y-You sure?
+Dialogue: 0,0:19:44.96,0:19:52.78,Default,,0000,0000,0000,,Let's go, guys!
+Dialogue: 0,0:19:52.80,0:19:55.50,Default,,0000,0000,0000,,How annoying, Straw Hat!
+Dialogue: 0,0:19:55.52,0:19:59.75,Default,,0000,0000,0000,,Don't fall behind! The plan is called \N"Take Captain Buggy to Fame!"
+Dialogue: 0,0:19:59.77,0:20:03.26,Default,,0000,0000,0000,,Now is the time to proceed it!
+Dialogue: 0,0:20:03.28,0:20:06.84,Default,,0000,0000,0000,,When we succeed, the whole \Nworld will be stunned!
+Dialogue: 0,0:20:06.86,0:20:14.38,Default,,0000,0000,0000,,All of you, do as we planned \Nand watch what you're doing!
+Dialogue: 0,0:20:14.40,0:20:22.40,Default,,0000,0000,0000,,Are you sure about that plan?
+Dialogue: 0,0:20:23.79,0:20:25.53,Default,,0000,0000,0000,,Crocodile!
+Dialogue: 0,0:20:25.55,0:20:31.20,Default,,0000,0000,0000,,There're too many!
+Dialogue: 0,0:20:31.22,0:20:35.04,Default,,0000,0000,0000,,I'm too far away from him.
+Dialogue: 0,0:20:35.06,0:20:36.79,Default,,0000,0000,0000,,I won't let you get near Pops!
+Dialogue: 0,0:20:36.81,0:20:39.92,Default,,0000,0000,0000,,Don't stand in my...
+Dialogue: 0,0:20:39.94,0:20:43.92,Default,,0000,0000,0000,,...way!
+Dialogue: 0,0:20:43.94,0:20:48.84,Default,,0000,0000,0000,,What a pain in the ass. \NHe's still messing around.
+Dialogue: 0,0:20:48.86,0:20:56.86,Default,,0000,0000,0000,,Brilliant Punk!
+Dialogue: 0,0:21:03.83,0:21:08.33,Default,,0000,0000,0000,,He's giant but so fast! How can I avoid him?
+Dialogue: 0,0:21:08.35,0:21:16.35,Default,,0000,0000,0000,,The 3rd division commander--Diamond Jozu!
+Dialogue: 0,0:21:23.16,0:21:28.30,Default,,0000,0000,0000,,How did you get out of the prison, gator guy?
+Dialogue: 0,0:21:28.32,0:21:32.26,Default,,0000,0000,0000,,Did you like the Pool of Blood?
+Dialogue: 0,0:21:32.28,0:21:36.49,Default,,0000,0000,0000,,Doflamingo, mind your own business.
+Dialogue: 0,0:21:36.51,0:21:38.31,Default,,0000,0000,0000,,Or I'm gonna kill you!
+Dialogue: 0,0:21:38.33,0:21:41.17,Default,,0000,0000,0000,,You have a dirty mouth. He-he.
+Dialogue: 0,0:21:41.19,0:21:47.05,Default,,0000,0000,0000,,Hey, why don't you team up with me?
+Dialogue: 0,0:21:47.07,0:21:48.13,Default,,0000,0000,0000,,Stop here!
+Dialogue: 0,0:21:48.15,0:21:49.69,Default,,0000,0000,0000,,Don't get in his way!
+Dialogue: 0,0:21:49.71,0:21:52.07,Default,,0000,0000,0000,,Keep going, Straw Hat!
+Dialogue: 0,0:21:52.09,0:22:00.09,Default,,0000,0000,0000,,Thanks!
+Dialogue: 0,0:22:01.68,0:22:09.68,Default,,0000,0000,0000,,Ace!
+Dialogue: 0,0:22:15.78,0:22:20.33,Default,,0000,0000,0000,,I'm sorry, "Red-Haired."
+Dialogue: 0,0:22:20.35,0:22:28.35,Default,,0000,0000,0000,,I will not hold back my power.
+Dialogue: 0,0:22:29.88,0:22:35.41,Default,,0000,0000,0000,,That's...
+Dialogue: 0,0:22:35.43,0:22:42.92,Default,,0000,0000,0000,,..."Hawk-Eye!"
+Dialogue: 0,0:22:42.94,0:22:45.61,Default,,0000,0000,0000,,Now, I wonder if fate...
+Dialogue: 0,0:22:45.63,0:22:50.88,Default,,0000,0000,0000,,...will end the life of the child \Nof the next generation here.
+Dialogue: 0,0:22:50.90,0:22:58.90,Default,,0000,0000,0000,,Or, if it will save him \Nfrom this Black Sword!
+Dialogue: 0,0:23:11.46,0:23:12.71,Default,,0000,0000,0000,,Dracule Mihawk,
+Dialogue: 0,0:23:12.73,0:23:15.86,Default,,0000,0000,0000,,one of the Seven Warlords of \Nthe Sea, stands before Luffy.
+Dialogue: 0,0:23:15.88,0:23:18.53,Default,,0000,0000,0000,,A single slash by the \Nworld's strongest swordsman
+Dialogue: 0,0:23:18.55,0:23:21.62,Default,,0000,0000,0000,,easily splits a massive wall of ice in two.
+Dialogue: 0,0:23:21.64,0:23:23.58,Default,,0000,0000,0000,,How will Luffy fight back
+Dialogue: 0,0:23:23.60,0:23:25.71,Default,,0000,0000,0000,,against such immense strength?
+Dialogue: 0,0:23:25.73,0:23:27.04,Default,,0000,0000,0000,,On the next episode of One Piece!
+Dialogue: 0,0:23:27.06,0:23:28.50,Default,,0000,0000,0000,,"The Great Swordsman Mihawk!
+Dialogue: 0,0:23:28.52,0:23:30.91,Default,,0000,0000,0000,,Luffy Comes Under the Attack \Nof the Black Sword!"
+Dialogue: 0,0:23:30.93,0:23:38.93,Default,,0000,0000,0000,,I'm gonna be King of the Pirates!!

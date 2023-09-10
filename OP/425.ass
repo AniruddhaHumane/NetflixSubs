@@ -1,0 +1,369 @@
+﻿[Script Info]
+Title: English (US)
+Original Script: ToeiAnimation  [http://www.crunchyroll.com/user/ToeiAnimation]
+Original Translation: 
+Original Editing: 
+Original Timing: 
+Synch Point: 
+Script Updated By: 
+Update Details: 
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 640
+PlayResY: 360
+Timer: 0.0000
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name,Fontname,Fontsize,PrimaryColour,SecondaryColour,OutlineColour,BackColour,Bold,Italic,Underline,Strikeout,ScaleX,ScaleY,Spacing,Angle,BorderStyle,Outline,Shadow,Alignment,MarginL,MarginR,MarginV,Encoding
+Style: Default,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,2,0020,0020,0022,0
+Style: B1,Arial,32,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,2,0070,0070,0030,0
+Style: OS,Arial,18,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,8,0001,0001,0015,0
+Style: Italics,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,-1,0,0,100,100,0,0,1,2,1,2,0020,0020,0022,0
+Style: Ep Title,Arial,18,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,3,0170,0070,0020,0
+Style: Copy of Ep Title,Arial,18,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,3,0070,0226,0065,0
+Style: On Top,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,8,0020,0020,0022,0
+Style: Copy of OS,Arial,18,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,9,0020,0020,0020,0
+Style: DefaultLow,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,2,0020,0020,0010,0
+Style: On Top - Left,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,8,0020,0340,0022,0
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:02.35,0:00:06.74,Italics,,0000,0000,0000,,Travel across the oceans of the world
+Dialogue: 0,0:00:06.76,0:00:08.85,Italics,,0000,0000,0000,,Bellow a battle cry
+Dialogue: 0,0:00:08.87,0:00:16.87,Italics,,0000,0000,0000,,Once your heart feels refreshed,\Nlet the signal to set sail ring out
+Dialogue: 0,0:00:23.24,0:00:26.54,Italics,,0000,0000,0000,,We've left the established course
+Dialogue: 0,0:00:26.56,0:00:29.96,Italics,,0000,0000,0000,,Right now, we're rowing straight toward
+Dialogue: 0,0:00:29.98,0:00:35.50,Italics,,0000,0000,0000,,The borderline between the sky and the ocean
+Dialogue: 0,0:00:35.52,0:00:41.72,Italics,,0000,0000,0000,,In the dark depths of the ocean,\Nadventure holds its breath
+Dialogue: 0,0:00:41.74,0:00:48.73,Italics,,0000,0000,0000,,Don't you have a good time just imagining it?
+Dialogue: 0,0:00:48.75,0:00:53.23,Italics,,0000,0000,0000,,Travel across the oceans of the world
+Dialogue: 0,0:00:53.25,0:00:55.31,Italics,,0000,0000,0000,,Bellow a battle cry
+Dialogue: 0,0:00:55.33,0:01:03.33,Italics,,0000,0000,0000,,Once your heart feels refreshed,\Nlet the signal to set sail ring out
+Dialogue: 0,0:01:09.58,0:01:13.01,Italics,,0000,0000,0000,,"That feeling" I get when embarking
+Dialogue: 0,0:01:13.03,0:01:16.21,Italics,,0000,0000,0000,,Is something I hope to remember always
+Dialogue: 0,0:01:16.23,0:01:21.76,Italics,,0000,0000,0000,,If I can, I won't be afraid of anything
+Dialogue: 0,0:01:21.78,0:01:27.97,Italics,,0000,0000,0000,,With our pulses racing, \Nlet's go on a trip now
+Dialogue: 0,0:01:27.99,0:01:35.02,Italics,,0000,0000,0000,,Shy hearts engrave the rhythm of adventure
+Dialogue: 0,0:01:35.04,0:01:39.15,Italics,,0000,0000,0000,,Snatch up the treasure here and there
+Dialogue: 0,0:01:39.17,0:01:41.77,Italics,,0000,0000,0000,,While laughing out loud
+Dialogue: 0,0:01:41.79,0:01:46.13,Italics,,0000,0000,0000,,As we dash by like a noisy party
+Dialogue: 0,0:01:46.15,0:01:48.83,Italics,,0000,0000,0000,,Make some waves...
+Dialogue: 0,0:01:48.85,0:01:50.50,Italics,,0000,0000,0000,,Life is "Adventurous"
+Dialogue: 0,0:01:50.52,0:01:52.21,Italics,,0000,0000,0000,,Be aware it's "Dangerous"
+Dialogue: 0,0:01:52.23,0:01:53.87,Italics,,0000,0000,0000,,Who's gonna be "One of us"
+Dialogue: 0,0:01:53.89,0:01:55.50,Italics,,0000,0000,0000,,And a trip goes on because
+Dialogue: 0,0:01:55.52,0:01:57.04,Italics,,0000,0000,0000,,We da pirate of the "Mass"
+Dialogue: 0,0:01:57.06,0:01:58.96,Italics,,0000,0000,0000,,To the West, To the East
+Dialogue: 0,0:01:58.98,0:02:00.57,Italics,,0000,0000,0000,,Gotta find my way, Sail away
+Dialogue: 0,0:02:00.59,0:02:01.74,Italics,,0000,0000,0000,,All the way to "One piece"!!
+Dialogue: 0,0:02:01.76,0:02:06.00,Italics,,0000,0000,0000,,Stuff a dream into your empty chest
+Dialogue: 0,0:02:06.02,0:02:08.18,Italics,,0000,0000,0000,,And spread your wings
+Dialogue: 0,0:02:08.20,0:02:12.56,Italics,,0000,0000,0000,,If the wind blowing through\Nthem dyes your heart
+Dialogue: 0,0:02:12.58,0:02:14.98,Italics,,0000,0000,0000,,Let's press forward
+Dialogue: 0,0:02:15.00,0:02:19.09,Italics,,0000,0000,0000,,Snatch up the treasure here and there
+Dialogue: 0,0:02:19.11,0:02:21.47,Italics,,0000,0000,0000,,While laughing out loud
+Dialogue: 0,0:02:21.49,0:02:25.88,Italics,,0000,0000,0000,,As we dash by like a noisy party
+Dialogue: 0,0:02:25.90,0:02:33.85,Italics,,0000,0000,0000,,Make some waves...
+Dialogue: 0,0:02:33.87,0:02:36.82,Default,,0000,0000,0000,,The time is the \NGreat Pirate Era.
+Dialogue: 0,0:02:36.84,0:02:40.50,Default,,0000,0000,0000,,Countless pirates fight \Ndesperately for the One Piece,
+Dialogue: 0,0:02:40.52,0:02:45.65,Default,,0000,0000,0000,,the great treasure left behind by \NGold Roger, King of the Pirates.
+Dialogue: 0,0:02:45.67,0:02:49.85,Default,,0000,0000,0000,,Monkey D. Luffy, a boy whose body turned \Nto rubber after he ate the Gum-Gum Fruit,
+Dialogue: 0,0:02:49.87,0:02:53.52,Default,,0000,0000,0000,,also takes to the sea to become \Nthe next King of the Pirates.
+Dialogue: 0,0:02:53.54,0:02:57.37,Default,,0000,0000,0000,,As Luffy and his friends \Novercome numerous adventures,
+Dialogue: 0,0:02:57.39,0:03:03.22,Default,,0000,0000,0000,,the World Government is less and \Nless able to ignore their existence.
+Dialogue: 0,0:03:03.24,0:03:05.83,Default,,0000,0000,0000,,This is exciting!
+Dialogue: 0,0:03:05.85,0:03:09.20,Default,,0000,0000,0000,,What kind of adventure \Nis waiting for us next?!
+Dialogue: 0,0:03:09.22,0:03:12.20,Default,,0000,0000,0000,,The crew, on its way \Nto the New World,
+Dialogue: 0,0:03:12.22,0:03:20.22,Default,,0000,0000,0000,,will speed along the \NGrand Line again today!
+Dialogue: 0,0:03:20.73,0:03:22.65,Default,,0000,0000,0000,,After being separated \Nfrom his friends,
+Dialogue: 0,0:03:22.67,0:03:27.11,Default,,0000,0000,0000,,Luffy comes to the rescue his brother \NAce who has been captured by the Navy
+Dialogue: 0,0:03:27.13,0:03:29.76,Default,,0000,0000,0000,,by sneaking into Impel Down - \Nthe greatest prison in the world!
+Dialogue: 0,0:03:29.78,0:03:34.56,Default,,0000,0000,0000,,Now, he is racing to level 5 with \Na help of Buggy the Clown.
+Dialogue: 0,0:03:34.58,0:03:39.06,Default,,0000,0000,0000,,Now I'm free! I finally got the treasure \Nmark that I always dreamed of!
+Dialogue: 0,0:03:39.08,0:03:47.08,Default,,0000,0000,0000,,Down to level 3 or level 4 - it doesn't \Nmatter either way you're a goner!
+Dialogue: 0,0:03:47.64,0:03:54.75,Default,,0000,0000,0000,,Stupid Blugori! You can't chop \Nme because I ate Chop-Chop fruit!
+Dialogue: 0,0:03:54.77,0:04:02.77,Default,,0000,0000,0000,,"The Strongest Man in the Prison! \NPoison Man Magellan Appears!"
+Dialogue: 0,0:04:09.28,0:04:17.28,Default,,0000,0000,0000,,I just finished breaking out of my \Ncell! I don't wanna fall to another hell!
+Dialogue: 0,0:04:18.15,0:04:26.15,Default,,0000,0000,0000,,Ow, ow, ow...
+Dialogue: 0,0:04:33.68,0:04:36.16,Default,,0000,0000,0000,,This is pretty creepy!
+Dialogue: 0,0:04:36.18,0:04:39.58,Default,,0000,0000,0000,,But, at least now I have this which means
+Dialogue: 0,0:04:39.60,0:04:42.80,Default,,0000,0000,0000,,I'm seconds away from finding \NCaptain John's treasure!
+Dialogue: 0,0:04:42.82,0:04:45.09,Default,,0000,0000,0000,,All I have to do is \Nfind my way out of...
+Dialogue: 0,0:04:45.11,0:04:47.60,Default,,0000,0000,0000,,Okay, let's go! \NTell me the way!
+Dialogue: 0,0:04:47.62,0:04:55.62,Default,,0000,0000,0000,,W-W-Wait a second!
+Dialogue: 0,0:05:13.11,0:05:21.11,Default,,0000,0000,0000,,It's a dead end!
+Dialogue: 0,0:05:26.15,0:05:30.89,Default,,0000,0000,0000,,So this is level 2...
+Dialogue: 0,0:05:30.91,0:05:32.42,Default,,0000,0000,0000,,Yes!
+Dialogue: 0,0:05:32.44,0:05:37.24,Default,,0000,0000,0000,,It's worse than the Crimson Hell of \Nlevel 1! It's called Wild Beast Hell!
+Dialogue: 0,0:05:37.26,0:05:41.08,Default,,0000,0000,0000,,You bastard! You had \Nme running like an idiot!
+Dialogue: 0,0:05:41.10,0:05:45.35,Default,,0000,0000,0000,,This floor has all the wild \Nbeasts of hell everywhere!
+Dialogue: 0,0:05:45.37,0:05:46.86,Default,,0000,0000,0000,,Wild beasts of hell?
+Dialogue: 0,0:05:46.88,0:05:50.38,Default,,0000,0000,0000,,Damn it! Well, until I get \Na chance to run away,
+Dialogue: 0,0:05:50.40,0:05:53.25,Default,,0000,0000,0000,,I'll take full advantage \Nof Straw Hat!
+Dialogue: 0,0:05:53.27,0:05:54.32,Default,,0000,0000,0000,,Is that one of them?
+Dialogue: 0,0:05:54.34,0:06:02.34,Default,,0000,0000,0000,,They found us already!
+Dialogue: 0,0:06:13.24,0:06:15.06,Default,,0000,0000,0000,,It looks like a hippo to me.
+Dialogue: 0,0:06:15.08,0:06:16.76,Default,,0000,0000,0000,,Um, yeah.
+Dialogue: 0,0:06:16.78,0:06:20.90,Default,,0000,0000,0000,,It's smaller than a regular hippo. Is \Nthat what you'd call a "wild beast"?
+Dialogue: 0,0:06:20.92,0:06:24.27,Default,,0000,0000,0000,,It's odd! I heard \Nthat level 2 has...
+Dialogue: 0,0:06:24.29,0:06:30.61,Default,,0000,0000,0000,,Augh! What's \Nthis thing?! Run!
+Dialogue: 0,0:06:30.63,0:06:33.77,Default,,0000,0000,0000,,Wow! He's pretty \Nfast for a hippo!
+Dialogue: 0,0:06:33.79,0:06:41.02,Default,,0000,0000,0000,,Stop admiring it! \NTurn left here!
+Dialogue: 0,0:06:41.04,0:06:42.41,Default,,0000,0000,0000,,He crashed into the wall!
+Dialogue: 0,0:06:42.43,0:06:50.43,Default,,0000,0000,0000,,He runs pretty fast but can \Nonly run in a straight line!
+Dialogue: 0,0:06:50.57,0:06:53.65,Default,,0000,0000,0000,,So you really don't mind \Nthat your body got eaten?!
+Dialogue: 0,0:06:53.67,0:07:01.67,Default,,0000,0000,0000,,You'll see! I'm the Chop-Chop \Nman - Buggy-sama!
+Dialogue: 0,0:07:09.67,0:07:13.14,Default,,0000,0000,0000,,How did you manage that?
+Dialogue: 0,0:07:13.16,0:07:19.21,Default,,0000,0000,0000,,Even if my body parts are chopped \Nto pieces, I can move them as I want!
+Dialogue: 0,0:07:19.23,0:07:27.23,Default,,0000,0000,0000,,That will learn ya! \NYou little hippo!
+Dialogue: 0,0:07:30.31,0:07:38.31,Default,,0000,0000,0000,,Who is that guy with Buggy?
+Dialogue: 0,0:07:42.01,0:07:50.01,Default,,0000,0000,0000,,Isn't there any way I can \Njust get out of here?!
+Dialogue: 0,0:07:50.64,0:07:51.93,Default,,0000,0000,0000,,What's wrong?
+Dialogue: 0,0:07:51.95,0:07:53.44,Default,,0000,0000,0000,,I think I saw something!
+Dialogue: 0,0:07:53.46,0:07:57.90,Default,,0000,0000,0000,,A bat, maybe?
+Dialogue: 0,0:07:57.92,0:08:01.58,Default,,0000,0000,0000,,Chop-Chop Quick Escape!
+Dialogue: 0,0:08:01.60,0:08:03.58,Default,,0000,0000,0000,,It's a monster mantis!
+Dialogue: 0,0:08:03.60,0:08:09.75,Default,,0000,0000,0000,,Yeah, it's too big \Nfor a mantis...
+Dialogue: 0,0:08:09.77,0:08:11.70,Default,,0000,0000,0000,,He cuts like a pro!
+Dialogue: 0,0:08:11.72,0:08:13.77,Default,,0000,0000,0000,,How can you be \Nso impressed?!
+Dialogue: 0,0:08:13.79,0:08:19.18,Default,,0000,0000,0000,,If I get chopped up much \Nmore, it'll be a big problem!
+Dialogue: 0,0:08:19.20,0:08:21.74,Default,,0000,0000,0000,,You're an amazing fighter!
+Dialogue: 0,0:08:21.76,0:08:29.76,Default,,0000,0000,0000,,How can you be so relaxed?
+Dialogue: 0,0:08:38.84,0:08:41.57,Default,,0000,0000,0000,,--Do you think he's stuck?\N--Yeah.
+Dialogue: 0,0:08:41.59,0:08:42.72,Default,,0000,0000,0000,,What should we do?
+Dialogue: 0,0:08:42.74,0:08:44.66,Default,,0000,0000,0000,,Well, maybe we should...
+Dialogue: 0,0:08:44.68,0:08:45.70,Default,,0000,0000,0000,,Wanna just go?
+Dialogue: 0,0:08:45.72,0:08:49.66,Default,,0000,0000,0000,,Yeah, let's just go.
+Dialogue: 0,0:08:49.68,0:08:53.22,Default,,0000,0000,0000,,Are these really \Nwild beasts of hell?
+Dialogue: 0,0:08:53.24,0:08:55.73,Default,,0000,0000,0000,,They're not that big deal.
+Dialogue: 0,0:08:55.75,0:08:58.19,Default,,0000,0000,0000,,Yeah, they're not \Nas bad as I heard.
+Dialogue: 0,0:08:58.21,0:09:01.63,Default,,0000,0000,0000,,Level 1 was way more \Nterrifying than this.
+Dialogue: 0,0:09:01.65,0:09:09.65,Default,,0000,0000,0000,,Well, if you think about it, wild beasts \Nof hell can only really exist in...
+Dialogue: 0,0:09:12.04,0:09:14.81,Default,,0000,0000,0000,,What was that?
+Dialogue: 0,0:09:14.83,0:09:20.36,Default,,0000,0000,0000,,What's the matter?
+Dialogue: 0,0:09:20.38,0:09:24.95,Default,,0000,0000,0000,,It is a wild beast of hell!
+Dialogue: 0,0:09:24.97,0:09:28.54,Default,,0000,0000,0000,,Oh! This guy...
+Dialogue: 0,0:09:28.56,0:09:34.51,Default,,0000,0000,0000,,Damn it! What I heard was true!\NWe're gonna get eaten this time for sure!
+Dialogue: 0,0:09:34.53,0:09:37.19,Default,,0000,0000,0000,,I didn't wanna come to level 2!\N
+Dialogue: 0,0:09:37.21,0:09:40.34,Default,,0000,0000,0000,,I was about to make my escape without you!
+Dialogue: 0,0:09:40.36,0:09:43.47,Default,,0000,0000,0000,,What? Did you say something?! \NWhat's this creature?!
+Dialogue: 0,0:09:43.49,0:09:47.10,Default,,0000,0000,0000,,I think it's the most \Nrare kind of mutant!
+Dialogue: 0,0:09:47.12,0:09:50.39,Default,,0000,0000,0000,,A snake born from a\Nchicken's egg - a Basilisk!
+Dialogue: 0,0:09:50.41,0:09:53.35,On Top,,0000,0000,0000,,"Prison Guard\NBASILISK"
+Dialogue: 0,0:09:53.37,0:09:55.53,Default,,0000,0000,0000,,These things come \Nfrom chickens?!
+Dialogue: 0,0:09:55.55,0:09:58.42,Default,,0000,0000,0000,,Are you kidding?\NThat's why they call it a monster!
+Dialogue: 0,0:09:58.44,0:10:00.94,Default,,0000,0000,0000,,If it's allowed to roam \Nfree, it'd eat everybody!
+Dialogue: 0,0:10:00.96,0:10:08.96,Default,,0000,0000,0000,,So they leave it here as a guard!
+Dialogue: 0,0:10:17.93,0:10:19.20,Default,,0000,0000,0000,,What're you doing?!
+Dialogue: 0,0:10:19.22,0:10:22.78,Default,,0000,0000,0000,,I don't have time for this! Alright, you!
+Dialogue: 0,0:10:22.80,0:10:26.41,Default,,0000,0000,0000,,You're gonna get \Nyour ass kicked!
+Dialogue: 0,0:10:26.43,0:10:29.42,Default,,0000,0000,0000,,But that's not so bad! I'll \Njust make my escape!
+Dialogue: 0,0:10:29.44,0:10:32.74,Default,,0000,0000,0000,,I'll leave the rest up to you!\NBye, Straw Hat!
+Dialogue: 0,0:10:32.76,0:10:37.88,Default,,0000,0000,0000,,Third Gear!
+Dialogue: 0,0:10:37.90,0:10:39.41,Default,,0000,0000,0000,,Jailers on level 2!
+Dialogue: 0,0:10:39.43,0:10:42.90,Default,,0000,0000,0000,,We identified the guy that \NBuggy the Clown is with!
+Dialogue: 0,0:10:42.92,0:10:44.53,Default,,0000,0000,0000,,It's Straw Hat Luffy!
+Dialogue: 0,0:10:44.55,0:10:48.39,Default,,0000,0000,0000,,--That Straw Hat?! \N--He's in Impel Down?!
+Dialogue: 0,0:10:48.41,0:10:52.29,Default,,0000,0000,0000,,Capture them right away!\NDead or alive!
+Dialogue: 0,0:10:52.31,0:10:53.70,Default,,0000,0000,0000,,Let's go!
+Dialogue: 0,0:10:53.72,0:10:55.72,Default,,0000,0000,0000,,Gum-Gum...
+Dialogue: 0,0:10:55.74,0:11:00.17,Default,,0000,0000,0000,,...Giant Pistol!
+Dialogue: 0,0:11:00.19,0:11:04.17,Default,,0000,0000,0000,,What's this? \NWhat happened?!
+Dialogue: 0,0:11:04.19,0:11:12.19,Default,,0000,0000,0000,,What's going on on level 2?!
+Dialogue: 0,0:11:14.92,0:11:16.27,Default,,0000,0000,0000,,It's hot!
+Dialogue: 0,0:11:16.29,0:11:20.08,Default,,0000,0000,0000,,Yes, as Vice Warden \Ntold you before,
+Dialogue: 0,0:11:20.10,0:11:23.17,Default,,0000,0000,0000,,the Warden's office is on level \N4 - the Burning Heat Floor.
+Dialogue: 0,0:11:23.19,0:11:27.08,Default,,0000,0000,0000,,The whole floor except for his \Noffice is a burning inferno.
+Dialogue: 0,0:11:27.10,0:11:32.34,Default,,0000,0000,0000,,Okay, we are here.
+Dialogue: 0,0:11:32.36,0:11:34.42,Default,,0000,0000,0000,,Where's the Warden?
+Dialogue: 0,0:11:34.44,0:11:39.43,Default,,0000,0000,0000,,Warden Magellan has terrible digestive \Nproblems so he stays in a bathroom...
+Dialogue: 0,0:11:39.45,0:11:41.63,Default,,0000,0000,0000,,...for about 10 \Nhours every day.
+Dialogue: 0,0:11:41.65,0:11:44.08,Default,,0000,0000,0000,,On top of that, he needs 8 hours of sleep
+Dialogue: 0,0:11:44.10,0:11:45.96,Default,,0000,0000,0000,,\Nand then there're mealtimes and breaks
+Dialogue: 0,0:11:45.98,0:11:48.24,Default,,0000,0000,0000,,so he usually works for \Nabout 4 hours a day.
+Dialogue: 0,0:11:48.26,0:11:50.85,Default,,0000,0000,0000,,Is it enough for a warden?
+Dialogue: 0,0:11:50.87,0:11:53.72,Default,,0000,0000,0000,,When the need arises, \Nhe is the right man. Oh!
+Dialogue: 0,0:11:53.74,0:11:56.52,Default,,0000,0000,0000,,Sorry to keep you \Nwaiting. He is coming out.
+Dialogue: 0,0:11:56.54,0:12:01.23,Default,,0000,0000,0000,,I forgot to mention but Warden ate \NVenom-Venom Fruit so he is a poison man.
+Dialogue: 0,0:12:01.25,0:12:02.58,Default,,0000,0000,0000,,A poison man?
+Dialogue: 0,0:12:02.60,0:12:10.60,Default,,0000,0000,0000,,Please be careful.
+Dialogue: 0,0:12:17.28,0:12:25.28,Default,,0000,0000,0000,,--Thank you for your trouble!\N--Thank you for your trouble, Warden!
+Dialogue: 0,0:12:25.51,0:12:28.25,Default,,0000,0000,0000,,As always, it was \Na tough battle!
+Dialogue: 0,0:12:28.27,0:12:31.51,DefaultLow,,0000,0000,0000,,You must be a guest. I'm \Nthe warden, Magellan.
+Dialogue: 0,0:12:31.53,0:12:34.68,On Top,,0000,0000,0000,,"The Warden of Impel Down\NMagellan\N(Venom-Venom Fruit Eater - Poison Man)"
+Dialogue: 0,0:12:34.70,0:12:38.04,Default,,0000,0000,0000,,It's too bright!\NWhy is it so bright in here?
+Dialogue: 0,0:12:38.06,0:12:40.54,Default,,0000,0000,0000,,I'd prefer to stay closed up in a dark room!\N
+Dialogue: 0,0:12:40.56,0:12:42.83,Default,,0000,0000,0000,,If possible, I want to keep \Nmy heart closed in, too!
+Dialogue: 0,0:12:42.85,0:12:44.69,Default,,0000,0000,0000,,Stop being \Nridiculous! Warden,
+Dialogue: 0,0:12:44.71,0:12:49.57,Default,,0000,0000,0000,,Vice Admiral Momonga and \NBoa Hancock-dono are here!
+Dialogue: 0,0:12:49.59,0:12:52.29,Default,,0000,0000,0000,,We're a bit pressed for \Ntime, Warden Magellan!
+Dialogue: 0,0:12:52.31,0:12:56.45,Default,,0000,0000,0000,,I'm sorry! You see, I've got a \Npretty bad case of the runs.
+Dialogue: 0,0:12:56.47,0:12:59.97,Default,,0000,0000,0000,,The poison soup that I had for \Nbreakfast seems to disagree with me..
+Dialogue: 0,0:12:59.99,0:13:02.11,Default,,0000,0000,0000,,What do you \Nexpect? It's poison!
+Dialogue: 0,0:13:02.13,0:13:05.31,Default,,0000,0000,0000,,I'm a poison man \Nso I love poisons!
+Dialogue: 0,0:13:05.33,0:13:09.04,Default,,0000,0000,0000,,There is a saying - \N"Poison quells poison."
+Dialogue: 0,0:13:09.06,0:13:11.68,Default,,0000,0000,0000,,It's just an expression.\NThat's why you have diarrhea.
+Dialogue: 0,0:13:11.70,0:13:14.82,Default,,0000,0000,0000,,You have a venomous \Ntongue, Hannyabal!
+Dialogue: 0,0:13:14.84,0:13:17.39,Default,,0000,0000,0000,,Hurry up and retire so \NI can become warden...
+Dialogue: 0,0:13:17.41,0:13:21.39,Default,,0000,0000,0000,,Oh, silly me! I meant, hurry up \Nand show them "Fire Fist"...
+Dialogue: 0,0:13:21.41,0:13:24.53,Default,,0000,0000,0000,,That's terrible \Nmistake you made!
+Dialogue: 0,0:13:24.55,0:13:30.43,Default,,0000,0000,0000,,What a heartless \Ncolleague I have!
+Dialogue: 0,0:13:30.45,0:13:31.86,Default,,0000,0000,0000,,Put this on!
+Dialogue: 0,0:13:31.88,0:13:36.50,Default,,0000,0000,0000,,H-Hey! Be careful \Nwhen you exhale!
+Dialogue: 0,0:13:36.52,0:13:41.05,Default,,0000,0000,0000,,Your breath is poison gas!
+Dialogue: 0,0:13:41.07,0:13:43.51,Default,,0000,0000,0000,,Right! That's so funny!
+Dialogue: 0,0:13:43.53,0:13:45.97,Default,,0000,0000,0000,,That serves you right, \Nstupid vice warden!
+Dialogue: 0,0:13:45.99,0:13:50.62,Default,,0000,0000,0000,,He spews venom!
+Dialogue: 0,0:13:50.64,0:13:55.19,Default,,0000,0000,0000,,Hey you! What did you just \Nbreathe in my face?! That's rude!
+Dialogue: 0,0:13:55.21,0:13:59.14,Default,,0000,0000,0000,,Wow! What a beautiful \Nwoman! I'm in love!
+Dialogue: 0,0:13:59.16,0:14:00.49,Default,,0000,0000,0000,,Oh, he's so lucky...
+Dialogue: 0,0:14:00.51,0:14:03.29,Default,,0000,0000,0000,,Vice Warden, that's \NWarden's seat.
+Dialogue: 0,0:14:03.31,0:14:05.06,Default,,0000,0000,0000,,It'll become mine in time.
+Dialogue: 0,0:14:05.08,0:14:07.60,Default,,0000,0000,0000,,We're in a hurry!
+Dialogue: 0,0:14:07.62,0:14:09.82,Default,,0000,0000,0000,,This is the Warden's office.
+Dialogue: 0,0:14:09.84,0:14:12.90,Default,,0000,0000,0000,,What are you doing \Nanswering my phone?
+Dialogue: 0,0:14:12.92,0:14:15.85,Default,,0000,0000,0000,,No! Can't take it! Damn!
+Dialogue: 0,0:14:15.87,0:14:18.90,Default,,0000,0000,0000,,I wanted to be a warden...
+Dialogue: 0,0:14:18.92,0:14:21.08,Default,,0000,0000,0000,,Get an antidote \Nfor Vice Warden!
+Dialogue: 0,0:14:21.10,0:14:22.74,Default,,0000,0000,0000,,Aye!
+Dialogue: 0,0:14:22.76,0:14:26.36,Default,,0000,0000,0000,,What?! Someone's \Nbroken in to Impel Down?!
+Dialogue: 0,0:14:26.38,0:14:33.48,Default,,0000,0000,0000,,That's impossible! In this prison's entire \Nhistory, no one has ever broken in!
+Dialogue: 0,0:14:33.50,0:14:37.03,Default,,0000,0000,0000,,This is a grave error! And \Nyou're responsible, Warden!
+Dialogue: 0,0:14:37.05,0:14:38.30,Default,,0000,0000,0000,,Did they notice our plan?!
+Dialogue: 0,0:14:38.32,0:14:41.11,Default,,0000,0000,0000,,Transfer the video!
+Dialogue: 0,0:14:41.13,0:14:42.64,Default,,0000,0000,0000,,Warden!
+Dialogue: 0,0:14:42.66,0:14:47.15,Default,,0000,0000,0000,,Can I see the prisoner now?
+Dialogue: 0,0:14:47.17,0:14:49.65,Default,,0000,0000,0000,,Okay, let's go! \NI'm ready to go!
+Dialogue: 0,0:14:49.67,0:14:57.67,Default,,0000,0000,0000,,W-Warden! Don't you \Nrealize how serious this is?!
+Dialogue: 0,0:15:08.52,0:15:12.67,Default,,0000,0000,0000,,What's going on?! \NThey haven't replied?!
+Dialogue: 0,0:15:12.69,0:15:16.37,Default,,0000,0000,0000,,It's odd! We've lost contact \Nwith Warden Magellan!
+Dialogue: 0,0:15:16.39,0:15:21.29,Default,,0000,0000,0000,,Hurry and report to the jailers' room on \Neach floor and to Navy Headquarters.
+Dialogue: 0,0:15:21.31,0:15:24.39,Default,,0000,0000,0000,,I don't know why he's \Nhere and what he's up to
+Dialogue: 0,0:15:24.41,0:15:29.61,Default,,0000,0000,0000,,but the guy running around with Buggy \Non level 2 that we saw just now is
+Dialogue: 0,0:15:29.63,0:15:31.36,Default,,0000,0000,0000,,the pirate, Straw Hat Luffy!
+Dialogue: 0,0:15:31.38,0:15:34.87,Default,,0000,0000,0000,,We can't reach the \Njailers' room on level 2!
+Dialogue: 0,0:15:34.89,0:15:35.98,Default,,0000,0000,0000,,What?!
+Dialogue: 0,0:15:36.00,0:15:40.11,Default,,0000,0000,0000,,Damn! It's everywhere! \NWhat's going on?!
+Dialogue: 0,0:15:40.13,0:15:43.41,Default,,0000,0000,0000,,Just keep trying \Nuntil they reply!
+Dialogue: 0,0:15:43.43,0:15:44.63,Default,,0000,0000,0000,,Yes, sir!
+Dialogue: 0,0:15:44.65,0:15:47.12,Default,,0000,0000,0000,,Jailers' room on level \N2! What's wrong?!
+Dialogue: 0,0:15:47.14,0:15:53.88,Default,,0000,0000,0000,,Come in, jailers' room!
+Dialogue: 0,0:15:53.90,0:15:54.71,Default,,0000,0000,0000,,Yes!
+Dialogue: 0,0:15:54.73,0:15:57.17,Default,,0000,0000,0000,,His fist became huge!
+Dialogue: 0,0:15:57.19,0:15:59.05,Default,,0000,0000,0000,,Gum-Gum...
+Dialogue: 0,0:15:59.07,0:16:03.39,Default,,0000,0000,0000,,...Giant Pistol!
+Dialogue: 0,0:16:03.41,0:16:05.63,Default,,0000,0000,0000,,And why are you \Nso small now?!
+Dialogue: 0,0:16:05.65,0:16:08.47,Default,,0000,0000,0000,,'Cause it's Third Gear.
+Dialogue: 0,0:16:08.49,0:16:11.06,Default,,0000,0000,0000,,I hardly beat it!
+Dialogue: 0,0:16:11.08,0:16:14.00,Default,,0000,0000,0000,,Okay, I'm reverted!
+Dialogue: 0,0:16:14.02,0:16:15.57,Default,,0000,0000,0000,,Let's go now!
+Dialogue: 0,0:16:15.59,0:16:18.90,Default,,0000,0000,0000,,The God of salvation \Nhas descended to hell!
+Dialogue: 0,0:16:18.92,0:16:23.05,Default,,0000,0000,0000,,Amazing! He \Ndefeated the monster!
+Dialogue: 0,0:16:23.07,0:16:25.08,Default,,0000,0000,0000,,He beat the Basilisk!
+Dialogue: 0,0:16:25.10,0:16:28.46,Default,,0000,0000,0000,,You did it! You \Nguys are awesome!
+Dialogue: 0,0:16:28.48,0:16:30.97,Default,,0000,0000,0000,,They have destroyed \Nthe jailers' room, too.
+Dialogue: 0,0:16:30.99,0:16:35.67,Default,,0000,0000,0000,,It's unbelievable! They \Nmust be sent from heaven!
+Dialogue: 0,0:16:35.69,0:16:38.55,Default,,0000,0000,0000,,I don't know who you \Nare but thank you!
+Dialogue: 0,0:16:38.57,0:16:42.83,Default,,0000,0000,0000,,Can you get us keys, too? \NFor the doors and cuffs!
+Dialogue: 0,0:16:42.85,0:16:46.20,Default,,0000,0000,0000,,Hey, they're right \Nthere on the ground!
+Dialogue: 0,0:16:46.22,0:16:48.30,Default,,0000,0000,0000,,He is...
+Dialogue: 0,0:16:48.32,0:16:49.94,Default,,0000,0000,0000,,Let's keep going!
+Dialogue: 0,0:16:49.96,0:16:51.91,Default,,0000,0000,0000,,Don't rush!
+Dialogue: 0,0:16:51.93,0:16:54.46,Default,,0000,0000,0000,,I don't have time!
+Dialogue: 0,0:16:54.48,0:16:58.07,Default,,0000,0000,0000,,...Straw Hat Luffy! \NWhy is he here?!
+Dialogue: 0,0:16:58.09,0:17:03.24,Default,,0000,0000,0000,,Well, he's not in a cell - looks \Nlike he's on his way out!
+Dialogue: 0,0:17:03.26,0:17:08.52,Default,,0000,0000,0000,,I've gotta take this \Nchance, it's now or never!
+Dialogue: 0,0:17:08.54,0:17:14.67,Default,,0000,0000,0000,,Heaven hasn't \Nforgotten me yet!
+Dialogue: 0,0:17:14.69,0:17:19.17,Default,,0000,0000,0000,,Hey, you guys! Is this \Nwhat you're looking for?
+Dialogue: 0,0:17:19.19,0:17:22.55,Default,,0000,0000,0000,,--Of course, we want it!\N--Give it to me now!
+Dialogue: 0,0:17:22.57,0:17:27.27,Default,,0000,0000,0000,,What? Is that how you ask \Nsomebody for a favor?
+Dialogue: 0,0:17:27.29,0:17:29.73,Default,,0000,0000,0000,,We're sorry! We're \Nbegging you!
+Dialogue: 0,0:17:29.75,0:17:32.69,Default,,0000,0000,0000,,There's no excuse! \NPlease, sir!
+Dialogue: 0,0:17:32.71,0:17:37.01,Default,,0000,0000,0000,,What? What d'you \Nsay? I can't hear you!
+Dialogue: 0,0:17:37.03,0:17:38.91,Default,,0000,0000,0000,,What're you doing?
+Dialogue: 0,0:17:38.93,0:17:40.65,Default,,0000,0000,0000,,Please, sir!
+Dialogue: 0,0:17:40.67,0:17:43.30,Default,,0000,0000,0000,,Alright! I'm giving you this!
+Dialogue: 0,0:17:43.32,0:17:51.32,Default,,0000,0000,0000,,It's a favor of Captain \NBuggy-sama! Accept it gratefully!
+Dialogue: 0,0:17:52.48,0:17:54.79,Default,,0000,0000,0000,,Yeah! We're free!
+Dialogue: 0,0:17:54.81,0:18:02.81,Default,,0000,0000,0000,,We're out of the cells!
+Dialogue: 0,0:18:04.83,0:18:06.90,Default,,0000,0000,0000,,Thank me, you idiots!
+Dialogue: 0,0:18:06.92,0:18:09.89,Default,,0000,0000,0000,,Tell me who has set you free!
+Dialogue: 0,0:18:09.91,0:18:13.27,Default,,0000,0000,0000,,Captain Buggy!\NWe're indebted to you forever!
+Dialogue: 0,0:18:13.29,0:18:17.76,Default,,0000,0000,0000,,Captain Buggy is our savior!
+Dialogue: 0,0:18:17.78,0:18:20.92,Default,,0000,0000,0000,,Yes, I am! Don't you \Never forget my name!
+Dialogue: 0,0:18:20.94,0:18:24.79,Default,,0000,0000,0000,,Now, unlock all the cells!
+Dialogue: 0,0:18:24.81,0:18:32.62,Default,,0000,0000,0000,,I fell down here by chance, but if I start \Nchaos, it'll give me a chance to get out!
+Dialogue: 0,0:18:32.64,0:18:36.57,Default,,0000,0000,0000,,--Alright, are you happy now? Now, it's my turn!\N--Let me go! Let me go! You fool!
+Dialogue: 0,0:18:36.59,0:18:39.12,Default,,0000,0000,0000,,--Lead me now! \N--Hey! Straw Hat!
+Dialogue: 0,0:18:39.14,0:18:41.83,Default,,0000,0000,0000,,Is there any hole \Nlike the last time?
+Dialogue: 0,0:18:41.85,0:18:44.61,Default,,0000,0000,0000,,I don't know the \Nway to level 3!
+Dialogue: 0,0:18:44.63,0:18:49.93,Default,,0000,0000,0000,,How can I remember all floors \Nof this maze-like prison?
+Dialogue: 0,0:18:49.95,0:18:52.25,Default,,0000,0000,0000,,Thank you, Captain Buggy!
+Dialogue: 0,0:18:52.27,0:19:00.27,Default,,0000,0000,0000,,I can smell freedom...
+Dialogue: 0,0:19:05.77,0:19:08.07,Default,,0000,0000,0000,,Ugh! Stop, Straw Hat!
+Dialogue: 0,0:19:08.09,0:19:12.08,Default,,0000,0000,0000,,Why should I?! You said \Nthat you'd lead me to level 4!
+Dialogue: 0,0:19:12.10,0:19:16.74,Default,,0000,0000,0000,,I lied, I lied! I wanted the \Ntreasure so I lied to you!
+Dialogue: 0,0:19:16.76,0:19:21.90,Default,,0000,0000,0000,,Those prisoners are gonna run \Nrampant on this floor and...
+Dialogue: 0,0:19:21.92,0:19:26.01,Default,,0000,0000,0000,,You lied to me?!
+Dialogue: 0,0:19:26.03,0:19:34.03,Default,,0000,0000,0000,,What's that?
+Dialogue: 0,0:19:39.25,0:19:45.21,Default,,0000,0000,0000,,What're you doing?! It's your \Nchance to break out in chaos!
+Dialogue: 0,0:19:45.23,0:19:47.34,Default,,0000,0000,0000,,We just had a dose of reality!
+Dialogue: 0,0:19:47.36,0:19:50.74,Default,,0000,0000,0000,,There's no way to escape if the \Nboss of this floor is still here!
+Dialogue: 0,0:19:50.76,0:19:55.12,Default,,0000,0000,0000,,Yeah, it's safer to be in a cell.
+Dialogue: 0,0:19:55.14,0:19:58.92,Default,,0000,0000,0000,,O-Okay, Straw Hat! I'll \Nguide you to level 3!
+Dialogue: 0,0:19:58.94,0:20:02.50,Default,,0000,0000,0000,,You just said that you don't \Nknow the way, Big Nose!
+Dialogue: 0,0:20:02.52,0:20:05.11,Default,,0000,0000,0000,,What did you just call me?!
+Dialogue: 0,0:20:05.13,0:20:10.56,Default,,0000,0000,0000,,If you're having trouble on \Nthis floor, I can help you.
+Dialogue: 0,0:20:10.58,0:20:13.24,Default,,0000,0000,0000,,Who is that guy?
+Dialogue: 0,0:20:13.26,0:20:15.98,Default,,0000,0000,0000,,Long time no see, \NStraw Hat Luffy!
+Dialogue: 0,0:20:16.00,0:20:19.29,Default,,0000,0000,0000,,You helped me out \Nwithout noticing.
+Dialogue: 0,0:20:19.31,0:20:22.15,Default,,0000,0000,0000,,I always pay back my debts.
+Dialogue: 0,0:20:22.17,0:20:25.69,Default,,0000,0000,0000,,Who are you?
+Dialogue: 0,0:20:25.71,0:20:27.61,Default,,0000,0000,0000,,Oh, that's 3! That means...
+Dialogue: 0,0:20:27.63,0:20:30.03,Default,,0000,0000,0000,,Yow! Look at that weird hair!
+Dialogue: 0,0:20:30.05,0:20:31.49,Default,,0000,0000,0000,,Shut up!
+Dialogue: 0,0:20:31.51,0:20:33.33,Default,,0000,0000,0000,,And it's on fire!
+Dialogue: 0,0:20:33.35,0:20:36.95,Default,,0000,0000,0000,,Take that! Candle Lock!
+Dialogue: 0,0:20:36.97,0:20:39.30,Default,,0000,0000,0000,,Oh, this is perfect!
+Dialogue: 0,0:20:39.32,0:20:41.85,Default,,0000,0000,0000,,Gum-Gum...
+Dialogue: 0,0:20:41.87,0:20:48.92,Default,,0000,0000,0000,,...Mallet!
+Dialogue: 0,0:20:48.94,0:20:53.68,Default,,0000,0000,0000,,Now, can you tell \Nwhich is the real me?
+Dialogue: 0,0:20:53.70,0:20:58.89,Default,,0000,0000,0000,,You're just a powerful fool who acts \Nonly on instinct. You can't catch me!
+Dialogue: 0,0:20:58.91,0:21:04.19,Default,,0000,0000,0000,,I am Mr. 3! I always get \Nthe job done perfectly!
+Dialogue: 0,0:21:04.21,0:21:06.07,Default,,0000,0000,0000,,Gum-Gum...
+Dialogue: 0,0:21:06.09,0:21:09.37,Default,,0000,0000,0000,,...Stamp!
+Dialogue: 0,0:21:09.39,0:21:16.67,Default,,0000,0000,0000,,How did you know \Nwhere I was...?
+Dialogue: 0,0:21:16.69,0:21:17.74,Default,,0000,0000,0000,,Instinct.
+Dialogue: 0,0:21:17.76,0:21:21.90,Default,,0000,0000,0000,,You were on the island with \Nthe Giants! You are San!
+Dialogue: 0,0:21:21.92,0:21:26.67,Default,,0000,0000,0000,,No, I'm Mr. Three!
+Dialogue: 0,0:21:26.69,0:21:32.62,On Top - Left,,0000,0000,0000,,"Prisoner Number D-0464\NFormer Baroque Works Agent\NMr. 3"
+Dialogue: 0,0:21:32.64,0:21:36.68,Default,,0000,0000,0000,,Fleet Admiral Sengoku! We just got an \Nemergency report from Impel Down!
+Dialogue: 0,0:21:36.70,0:21:40.74,Default,,0000,0000,0000,,Hmmm? What happened? Don't \Ntell me it's about Whitebeard.
+Dialogue: 0,0:21:40.76,0:21:43.69,Default,,0000,0000,0000,,No, Straw Hat Luffy \Nhas infiltrated.
+Dialogue: 0,0:21:43.71,0:21:47.33,Default,,0000,0000,0000,,What?! Straw Hat? \NWhat's going on?
+Dialogue: 0,0:21:47.35,0:21:50.89,Default,,0000,0000,0000,,I thought that Bartholomew \NKuma took care of him.
+Dialogue: 0,0:21:50.91,0:21:54.20,Default,,0000,0000,0000,,Yes, that's what we heard.
+Dialogue: 0,0:21:54.22,0:21:58.18,Default,,0000,0000,0000,,But why would a pirate \Nsneak into Impel Down?
+Dialogue: 0,0:21:58.20,0:22:01.21,Default,,0000,0000,0000,,What is he up to?
+Dialogue: 0,0:22:01.23,0:22:02.79,Default,,0000,0000,0000,,Fleet Admiral Sengoku!
+Dialogue: 0,0:22:02.81,0:22:07.96,Default,,0000,0000,0000,,I don't know what he wants but this \Ntime, it's the end of the road for him.
+Dialogue: 0,0:22:07.98,0:22:15.98,Default,,0000,0000,0000,,Because the place \Nhe finds himself...
+Dialogue: 0,0:22:16.16,0:22:19.41,Default,,0000,0000,0000,,...is a prison that has held hundreds \Nof thousands of prisoners in the past
+Dialogue: 0,0:22:19.43,0:22:24.09,Default,,0000,0000,0000,,without allowing even a \Nsingle breakout or escape.
+Dialogue: 0,0:22:24.11,0:22:29.27,Default,,0000,0000,0000,,It's a truly iron-tight, great \Nprison - Impel Down!
+Dialogue: 0,0:22:29.29,0:22:33.80,Default,,0000,0000,0000,,Of course, it's their blunder to \Nlet him enter in the first place
+Dialogue: 0,0:22:33.82,0:22:38.76,Default,,0000,0000,0000,,but there is absolutely no way that \Nthe kid will walk out of there alive!
+Dialogue: 0,0:22:38.78,0:22:40.37,Default,,0000,0000,0000,,Oh no! There was one guy...
+Dialogue: 0,0:22:40.39,0:22:43.81,Default,,0000,0000,0000,,There was?
+Dialogue: 0,0:22:43.83,0:22:50.12,Default,,0000,0000,0000,,Twenty years ago, he became the first and \Nonly escapee in the history of Impel Down.
+Dialogue: 0,0:22:50.14,0:22:53.87,Default,,0000,0000,0000,,He's a pirate named \NShiki the Golden Lion.
+Dialogue: 0,0:22:53.89,0:23:01.89,Default,,0000,0000,0000,,Shiki the Golden Lion?
+Dialogue: 0,0:23:06.23,0:23:07.69,Default,,0000,0000,0000,,Twenty years ago, one man
+Dialogue: 0,0:23:07.71,0:23:11.17,Default,,0000,0000,0000,,became the first and only escapee \Nin the history of Impel Down.
+Dialogue: 0,0:23:11.19,0:23:14.17,Default,,0000,0000,0000,,His name was Shiki the Golden Lion.
+Dialogue: 0,0:23:14.19,0:23:18.87,Default,,0000,0000,0000,,In the present, the Straw Hats encounter \Na giant beetle while sailing the seas
+Dialogue: 0,0:23:18.89,0:23:21.37,Default,,0000,0000,0000,,and find themselves caught \Nup in Shiki's ambitions.
+Dialogue: 0,0:23:21.39,0:23:22.83,Default,,0000,0000,0000,,On the next episode of One Piece!
+Dialogue: 0,0:23:22.85,0:23:25.91,Default,,0000,0000,0000,,"A Special Presentation Related to the Movie!\NA Gold Lion's Ambition on the Move!"
+Dialogue: 0,0:23:25.93,0:23:33.93,Default,,0000,0000,0000,,I'm gonna be King of the Pirates!!
