@@ -1,5 +1,6 @@
 import http.server
 import socketserver
+import os
 
 class CORSHTTPRequestHandler(http.server.SimpleHTTPRequestHandler):
 
@@ -19,5 +20,9 @@ class CORSHTTPRequestHandler(http.server.SimpleHTTPRequestHandler):
 
 Handler = CORSHTTPRequestHandler
 with socketserver.TCPServer(("", 19191), Handler) as httpd:
+    # change working directory
+    with open('C:\\Users\\anihu\\Downloads\\test.txt', 'w') as f:
+        f.write('The script ran.')
+    os.chdir('C:\\Users\\anihu\\Downloads\\OP')
     print("Server running on port 19191")
     httpd.serve_forever()
